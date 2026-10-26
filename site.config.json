@@ -1,0 +1,96 @@
+{
+  "siteUrl": "https://YOUR-DOMAIN.com",
+  "siteName": "Musk Systems",
+  "schedule": {
+    "hourUtc": 22,
+    "minuteUtc": 47,
+    "label": "DAILY 07:47 KST",
+    "staleAfterHours": 26
+  },
+  "maxItems": 150,
+  "keepDays": 60,
+  "homepageCards": 30,
+  "minNewItemsForHealthy": 3,
+  "googleQueries": [
+    "Elon Musk",
+    "SpaceX Starship",
+    "SpaceX Falcon launch",
+    "Starlink",
+    "Tesla Robotaxi OR Cybercab OR FSD",
+    "Tesla Optimus",
+    "xAI Grok",
+    "Neuralink",
+    "The Boring Company"
+  ],
+  "feeds": [
+    {
+      "name": "SpaceNews",
+      "url": "https://spacenews.com/feed/"
+    },
+    {
+      "name": "Space.com",
+      "url": "https://www.space.com/feeds/all"
+    },
+    {
+      "name": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/feed/"
+    },
+    {
+      "name": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/feed/"
+    },
+    {
+      "name": "Electrek",
+      "url": "https://electrek.co/guides/tesla/feed/"
+    },
+    {
+      "name": "Teslarati",
+      "url": "https://www.teslarati.com/feed/"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/tag/elon-musk/feed/"
+    },
+    {
+      "name": "CNBC Technology",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910"
+    }
+  ],
+  "sourceTiers": {
+    "tier1": [
+      "Reuters",
+      "Associated Press",
+      "AP News",
+      "Bloomberg",
+      "CNBC",
+      "The Wall Street Journal",
+      "Financial Times",
+      "The New York Times",
+      "BBC",
+      "Space.com",
+      "SpaceNews",
+      "NASASpaceflight",
+      "Spaceflight Now",
+      "TechCrunch",
+      "The Verge",
+      "Ars Technica",
+      "NASA"
+    ],
+    "tier2": [
+      "Electrek",
+      "Teslarati",
+      "Fortune",
+      "Business Insider",
+      "Al Jazeera",
+      "CNN",
+      "Forbes",
+      "Engadget",
+      "Wired",
+      "Axios",
+      "Yahoo Finance",
+      "MarketWatch",
+      "Barron's"
+    ]
+  },
+  "contactEmail": "ads@YOUR-DOMAIN.com"
+}

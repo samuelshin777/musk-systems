@@ -1,0 +1,29 @@
+# Search engines and AI search / answer engines are welcome.
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: Yeti
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Applebot
+Allow: /
+
+Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
+# Plain-text summaries for AI assistants: https://YOUR-DOMAIN.com/llms.txt and https://YOUR-DOMAIN.com/llms-full.txt

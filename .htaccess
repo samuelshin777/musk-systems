@@ -1,0 +1,5 @@
+# Apache settings for Musk Systems (ignored by IIS)
+DirectoryIndex index.html
+AddType image/webp .webp
+AddType application/json .json
+AddDefaultCharset utf-8

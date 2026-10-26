@@ -1,0 +1,93 @@
+# Musk Systems — daily edition
+# Runs once a day at 07:47 KST (22:47 UTC). Same time every day.
+#   1) engine     node scripts/update.mjs            (always — collects, ranks, rebuilds the site)
+#   2) /goal      Claude Code runs the /goal command  (optional — only if the ANTHROPIC_API_KEY secret exists:
+#                 fills gaps with web search, writes the editor's briefing, refreshes project statuses)
+#   3) publish    commit + deploy (GitHub Pages by default, or FTP)
+#   4) alert      opens a GitHub issue if the edition failed
+name: Daily Musk news update
+on:
+  schedule:
+    - cron: "47 22 * * *"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  issues: write
+concurrency: { group: daily-update, cancel-in-progress: false }
+jobs:
+  edition:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      SITE_URL: ${{ vars.SITE_URL }}
+      INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+      HAS_CLAUDE: ${{ secrets.ANTHROPIC_API_KEY != '' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+
+      - name: 1 · Collect and rebuild (news engine v2)
+        id: engine
+        continue-on-error: true
+        run: node scripts/update.mjs
+
+      - name: 2 · /goal — AI editor pass (optional)
+        if: env.HAS_CLAUDE == 'true'
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          npx -y @anthropic-ai/claude-code -p "/goal" \
+            --allowedTools "Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,Bash(node scripts/update.mjs*),Bash(node -e*)" \
+            --max-turns 40
+
+      - name: Verify edition
+        id: verify
+        run: |
+          node -e "
+            const s=require('./data/status.json'), n=require('./data/news.json');
+            const ageH=(Date.now()-new Date(s.lastRun))/36e5;
+            console.log('status',JSON.stringify(s));
+            if(!n.items||!n.items.length) throw new Error('news.json is empty');
+            if(ageH>2) throw new Error('status.json was not refreshed this run');
+          "
+          grep -q "NEWS FEED UPDATED $(date -u +%F)" index.html
+
+      - name: 3 · Commit
+        run: |
+          git config user.name "musk-systems-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Daily edition $(date -u +%F)"
+          git push
+
+      # Option A — GitHub Pages (Settings → Pages → Source: GitHub Actions)
+      - uses: actions/upload-pages-artifact@v3
+        if: ${{ vars.DEPLOY_TARGET != 'ftp' }}
+        with: { path: . }
+      - uses: actions/deploy-pages@v4
+        if: ${{ vars.DEPLOY_TARGET != 'ftp' }}
+      # Option B — your own host over FTP (variable DEPLOY_TARGET=ftp + FTP_* secrets)
+      - uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        if: ${{ vars.DEPLOY_TARGET == 'ftp' }}
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          server-dir: ${{ vars.FTP_DIR || '/public_html/' }}
+          exclude: |
+            **/.git*
+            **/.git*/**
+            .github/**
+            .claude/**
+            scripts/**
+
+      - name: 4 · Alert on problems
+        if: failure() || steps.engine.outcome == 'failure'
+        env: { GH_TOKEN: "${{ github.token }}" }
+        run: |
+          gh issue create --title "Daily edition problem $(date -u +%F)" \
+            --body "The daily Musk Systems edition did not complete cleanly. Run log: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}. The site keeps showing the previous edition, and visitors' browsers switch to live mode after 26 hours." || true
