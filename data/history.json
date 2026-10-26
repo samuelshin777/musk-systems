@@ -1,8 +1,13 @@
 {
   "days": {
     "2026-10-25": {
-      "total": 1,
-      "ai": 1
+      "total": 32,
+      "connectivity": 9,
+      "mobility": 7,
+      "business": 2,
+      "ai": 6,
+      "robotics": 3,
+      "space": 5
     },
     "2026-10-24": {
       "total": 1,
@@ -41,8 +46,13 @@
       "space": 1
     },
     "2026-10-26": {
-      "total": 1,
-      "ai": 1
+      "total": 118,
+      "business": 19,
+      "connectivity": 33,
+      "ai": 25,
+      "space": 19,
+      "mobility": 19,
+      "robotics": 3
     }
   }
 }

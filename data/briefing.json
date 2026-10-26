@@ -1,13 +1,14 @@
 {
   "date": "2026-10-26",
-  "windowLabel": "LAST 7 DAYS",
-  "total": 8,
+  "windowLabel": "LAST 24H",
+  "total": 150,
   "counts": {
-    "ai": 2,
-    "connectivity": 1,
-    "space": 2,
-    "mobility": 1,
-    "business": 2
+    "business": 21,
+    "connectivity": 42,
+    "ai": 31,
+    "space": 24,
+    "mobility": 26,
+    "robotics": 6
   },
   "topStory": {
     "id": "mqua8c",
@@ -19,56 +20,129 @@
       "Bloomberg",
       "CoinDesk",
       "Mint",
-      "Moneycontrol"
+      "Moneycontrol",
+      "The Next Web",
+      "Quartz",
+      "CNBC Technology"
     ],
     "date": "2026-10-26T00:37:00.000Z",
-    "firstSeen": "2026-10-26T12:10:00.000Z",
+    "firstSeen": "2026-10-26T12:05:54.338Z",
     "image": "",
     "snippet": "Musk said the mostly callable debt will pay for GPUs due in the first half of 2027; Bloomberg reported pricing talks were still ongoing.",
     "category": "ai",
-    "score": 21.28
+    "score": 23.27
   },
   "topList": [
     {
-      "id": "x3baqg",
-      "title": "Grok publishes the first seven minutes of its AI-generated 'Odyssey' series",
-      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
-      "source": "TechCrunch",
+      "id": "12fhsoz",
+      "title": "Ukraine disputes Musk’s claim Starlink was used for offensive drone strikes",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTWI4VHl2WHBzYlVJVHdQZmJIeVc0UHVWR1JxMXdPb0cwNlNrLVczdW9yU3V6MFAzOFJwZU9YVGZCVE9EY1p1RkdoVUtoeFNEZjFVcldOSTZOLUpqYTFTMXdtazQ0akl3a2RjMXhrUW1fVVF4TElBeE1LaWdSemJrd1BuZjZEaXo2QlgxVFVuMDVYLW9MbUxaNy1xaUhzZDNJb1ljZWdncDdJZjM2WXc5Ng?oc=5",
+      "source": "WJAC",
       "sources": [
-        "TechCrunch",
-        "Startup Fortune"
+        "WJAC",
+        "KOKH",
+        "WPBN",
+        "WTOV",
+        "www.fox23.com",
+        "KABB"
       ],
-      "date": "2026-10-25T16:00:00.000Z",
-      "firstSeen": "2026-10-25T16:00:00.000Z",
-      "image": "",
-      "snippet": "",
-      "category": "ai",
-      "score": 14.73
-    },
-    {
-      "id": "130yltp",
-      "title": "Starlink service in Ukraine back to normal after a weeklong disruption",
-      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine",
-      "source": "TechCrunch",
-      "sources": [
-        "TechCrunch",
-        "ABC News"
-      ],
-      "date": "2026-10-24T14:00:00.000Z",
-      "firstSeen": "2026-10-24T14:00:00.000Z",
+      "date": "2026-10-26T00:47:35.000Z",
+      "firstSeen": "2026-10-26T12:05:54.338Z",
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 9.78
+      "score": 20.3
+    },
+    {
+      "id": "ike4u5",
+      "title": "EasyJet to offer Starlink internet onboard some flights from 2027",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc21wdE5SVUlzdjlSMHBrWW9yRTllenFIT1prYm9KVnNnbWp0OTlZamFnNkdOaHVDMy1wS19iUnJubkRaa2c1S2tSanFPLVJyTEpkYVBjcTlrZ255bmtyd2ZaRVdJTEhWMGhTTnlWd2VSSnhxRUlDNHc1VG9CbHQtMTFZOE1Uek1RZmRHQ25qZzQzOG1BeDZMVlFiSHg5d0NKUV9sXw?oc=5",
+      "source": "Reuters",
+      "sources": [
+        "Reuters",
+        "www.marketscreener.com",
+        "The Economic Times"
+      ],
+      "date": "2026-10-26T11:32:02.000Z",
+      "firstSeen": "2026-10-26T12:05:54.338Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 18.84
+    },
+    {
+      "id": "1us2875",
+      "title": "Tesla’s FSD system receives approval in Latvia",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0J2UllSWjFibkludUlEbUFGS1FJQkpWRHZVREc4TEFVWkZrZUxTYTcwRkRwelhTX2REZkM0Smh4Mm5mamhzUXZ5Nk1XeWEtbmY1RnZiS08tZFBpbjFfYkdZeDBReUNxcmpscW1wSGVfbl9MOE5rcmp6c24yWEh4UU80VmU2ZXh0cXFXUHhJZjRaS1U0Y0JBbFVBTU00dUVoUFp1bVhfbkc2Tzg?oc=5",
+      "source": "Investing.com",
+      "sources": [
+        "Investing.com",
+        "StreetInsider",
+        "Investing.com India"
+      ],
+      "date": "2026-10-26T10:54:10.000Z",
+      "firstSeen": "2026-10-26T12:05:54.338Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 17.67
+    },
+    {
+      "id": "1sq4tey",
+      "title": "Elon Musk and SpaceX Just Delivered Incredible News to Nvidia That Could Help the Stock Double in the Next Year",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMFQzZmIyWlE4d3J4OVJyTVFvTmxHOEpYQjJSamZEek1GS1dQQ2huQWJlbTBTUnFNdUlxYkp2WTBiQksxWEpIVDBFd1BtU2RGMjNEZFhBRTFjODVLRTdNYTZlM05zX0F2b3dFZnExT0ZkVXdKWVJhS2VOdmVmQUQ4UHpFM1Y4d2xQeFRmbmVJVlUxN2hJcnFQclZkYXA?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "Yahoo Finance",
+        "The Motley Fool"
+      ],
+      "date": "2026-10-26T07:24:12.000Z",
+      "firstSeen": "2026-10-26T12:05:54.338Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 17.28
+    },
+    {
+      "id": "1p6dd60",
+      "title": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTXppMmROR0hLeEtpY0hYZGhBSVdvS0pTbUZRdHhFNnlzT3RoUFdVTWNBR2FiUFZBU3VlckNIUHRBY2wxME9veS00dTNYYXVLZnVtWVNPNzVpeXFMZnUyT19fU3hob0I1RjJWRkhtZkx6RXF1OFZKRW1GUk84RVhnSnVRX0lDV0VyNzZXeTFycThBNFJL0gGaAUFVX3lxTE9yZjRYZHhNdW5rV0R0ZGlCdUhBbzhtdDNadVpILXdxSDk0NnZKOW1jLTF5U0kxdjRzM2c5bzVVT1NPdnhvUFpDRWExR01yd1EtRXVoWHpkTVRpZnBXSmdHQmlEVzg1SkZCWjRVMW5jYnBkV0ZEUnI4aTZsTVFFU25KSENHQTVTbGt1RnNwdDhHZ3RfVUhnV0dkS1E?oc=5",
+      "source": "CNBC",
+      "sources": [
+        "CNBC",
+        "CNBC Technology"
+      ],
+      "date": "2026-10-26T08:42:51.000Z",
+      "firstSeen": "2026-10-26T12:05:54.338Z",
+      "image": "",
+      "snippet": "Investors are already questioning the debt-fueled expansion of neoclouds and whether the large AI infrastructure build-out will generate long-term returns.",
+      "category": "business",
+      "score": 17.1
+    },
+    {
+      "id": "1ysc2ss",
+      "title": "Tesla-SpaceX merger explained in charts",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaTg3YkwxT1NhVWFxbXJMb2g2bkk2d1c5bVhLXzZXZXdXRnhiTGh5QTVPSEI4eHdLbEVzaTFnc1h6YW94cTNsTVo5Y0ppakhMSHRiT0t5RFRaM25QcUVTNC1NR2ZCeWpHNmk5aXRYUEJ5elNVWW5PcHhKNEJ2bHNLOUE0UHFKVzJOMVFWNVN3U0daMzNYQVZGajdhU0ZRV0xSalZ6eERfMUxqck91UmJOZmdrclU?oc=5",
+      "source": "Reuters",
+      "sources": [
+        "Reuters",
+        "Finshots"
+      ],
+      "date": "2026-10-26T01:33:33.000Z",
+      "firstSeen": "2026-10-26T12:05:54.338Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 16.46
     }
   ],
   "trending": [
-    "SpaceX",
-    "Starship",
     "Tesla",
     "Starlink",
-    "Grok",
-    "NASA"
+    "SpaceX",
+    "Robotics",
+    "FSD",
+    "SatelliteInternet"
   ],
   "spark": [
     {
@@ -121,14 +195,14 @@
     },
     {
       "date": "2026-10-25",
-      "total": 1
+      "total": 32
     },
     {
       "date": "2026-10-26",
-      "total": 1
+      "total": 118
     }
   ],
-  "summary": "8 stories (last 7 days). Most active frontier: xAI & Grok. Top story: Musk says SpaceX has closed $40 billion in debt to buy AI chips.",
+  "summary": "150 stories (last 24h). Most active frontier: Starlink. Top story: Musk says SpaceX has closed $40 billion in debt to buy AI chips.",
   "editor": {
     "date": "2026-10-26",
     "generated": "2026-10-26T12:10:00.000Z",

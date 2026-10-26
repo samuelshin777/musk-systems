@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T12:03:39.545Z",
+  "updated": "2026-10-26T12:05:54.338Z",
   "answers": [
     {
       "q": "What is the latest Elon Musk news today?",
@@ -12,82 +12,94 @@
           "date": "2026-10-26T00:37:00.000Z"
         },
         {
-          "title": "Grok publishes the first seven minutes of its AI-generated 'Odyssey' series",
-          "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
-          "source": "TechCrunch",
-          "date": "2026-10-25T16:00:00.000Z"
+          "title": "Ukraine disputes Musk’s claim Starlink was used for offensive drone strikes",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTWI4VHl2WHBzYlVJVHdQZmJIeVc0UHVWR1JxMXdPb0cwNlNrLVczdW9yU3V6MFAzOFJwZU9YVGZCVE9EY1p1RkdoVUtoeFNEZjFVcldOSTZOLUpqYTFTMXdtazQ0akl3a2RjMXhrUW1fVVF4TElBeE1LaWdSemJrd1BuZjZEaXo2QlgxVFVuMDVYLW9MbUxaNy1xaUhzZDNJb1ljZWdncDdJZjM2WXc5Ng?oc=5",
+          "source": "WJAC",
+          "date": "2026-10-26T00:47:35.000Z"
         },
         {
-          "title": "Starlink service in Ukraine back to normal after a weeklong disruption",
-          "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine",
-          "source": "TechCrunch",
-          "date": "2026-10-24T14:00:00.000Z"
+          "title": "EasyJet to offer Starlink internet onboard some flights from 2027",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc21wdE5SVUlzdjlSMHBrWW9yRTllenFIT1prYm9KVnNnbWp0OTlZamFnNkdOaHVDMy1wS19iUnJubkRaa2c1S2tSanFPLVJyTEpkYVBjcTlrZ255bmtyd2ZaRVdJTEhWMGhTTnlWd2VSSnhxRUlDNHc1VG9CbHQtMTFZOE1Uek1RZmRHQ25qZzQzOG1BeDZMVlFiSHg5d0NKUV9sXw?oc=5",
+          "source": "Reuters",
+          "date": "2026-10-26T11:32:02.000Z"
         }
       ]
     },
     {
       "q": "What is SpaceX working on right now?",
-      "a": "Starship: Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate. Starlink: 10,000+ satellites; V3 satellites now flying on Starship. Latest: Starlink service in Ukraine back to normal after a weeklong disruption (TechCrunch, 24 Oct 2026); SpaceX plans first-ever Starship ship catch on Flight 15 (Technology.org, 23 Oct 2026).",
+      "a": "Starship: Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate. Starlink: 10,000+ satellites; V3 satellites now flying on Starship. Latest: Singapore Airlines to Upgrade KrisWorld Entertainment and Starlink Wi-Fi in 2027 (IndianEagle, 26 Oct 2026); EasyJet to offer Starlink internet onboard some flights from 2027 (Reuters, 26 Oct 2026).",
       "links": [
         {
-          "title": "Starlink service in Ukraine back to normal after a weeklong disruption",
-          "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine",
-          "source": "TechCrunch",
-          "date": "2026-10-24T14:00:00.000Z"
+          "title": "Singapore Airlines to Upgrade KrisWorld Entertainment and Starlink Wi-Fi in 2027",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaXg2dGpSWlNrMUVMZ2VNQm5SNkFiY3FYOWJVSXdkdEcyMmprZmhFLU5sT3hpMi0zLV9IeS1MdXA2UVR6ZTE4NmJqWF9FNk9lZ18xSElGX2dfX0RrdE42UGpXbnNjN01xUmd5X2JGbWNiTUZBRks3M1E0bHN2SzBfZDhtSXRiRVFkZE1uX2NrVjlmUQ?oc=5",
+          "source": "IndianEagle",
+          "date": "2026-10-26T11:41:02.000Z"
         },
         {
-          "title": "SpaceX plans first-ever Starship ship catch on Flight 15",
-          "url": "https://technology.org/2026/10/23/spacex-starship-flight-15-ship-booster-tower-catch-november",
-          "source": "Technology.org",
-          "date": "2026-10-23T12:00:00.000Z"
+          "title": "EasyJet to offer Starlink internet onboard some flights from 2027",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc21wdE5SVUlzdjlSMHBrWW9yRTllenFIT1prYm9KVnNnbWp0OTlZamFnNkdOaHVDMy1wS19iUnJubkRaa2c1S2tSanFPLVJyTEpkYVBjcTlrZ255bmtyd2ZaRVdJTEhWMGhTTnlWd2VSSnhxRUlDNHc1VG9CbHQtMTFZOE1Uek1RZmRHQ25qZzQzOG1BeDZMVlFiSHg5d0NKUV9sXw?oc=5",
+          "source": "Reuters",
+          "date": "2026-10-26T11:32:02.000Z"
         },
         {
-          "title": "NASA shows the Starship lunar lander cabin ahead of 2027 tests",
-          "url": "https://teslanorth.com/2026/10/23/starship-moon-lander-cabin-nasa",
-          "source": "Tesla North",
-          "date": "2026-10-23T10:00:00.000Z"
+          "title": "EasyJet partners with Elon Musk's Starlink for in-flight wifi",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGc5U1ptNzlIZUhtVzRoQndxVmdSVVkxdG5KUkpNbDlGZGI4azlwck1qR0FEbjFESlZ3cU04Rlp4clJVZEl0dkU5LVRBWUsxczVZb1NNNHV1aGJiR1JWQUk3X2NmS3pVQWhFSnFRY19pZWE4YWp5dWtISVFSVXFhbDBPZw?oc=5",
+          "source": "Yahoo News UK",
+          "date": "2026-10-26T11:22:53.000Z"
         }
       ]
     },
     {
       "q": "What is Tesla working on right now?",
-      "a": "Cybercab and Robotaxi: First Cybercab rides reported alongside Q3 2026 results. Optimus: Output targeted toward the end of 2026. Latest: Tesla Q3 2026 results: margins rebound while profit falls (Electrek, 21 Oct 2026).",
+      "a": "Cybercab and Robotaxi: First Cybercab rides reported alongside Q3 2026 results. Optimus: Output targeted toward the end of 2026. Latest: Tesla FSD Approved in Latvia, the 10th EU Country to Back Dutch Ruling (Electric Vehicles, 26 Oct 2026); Turo and Tesla Debut Industry-First Self-Driving Rental Experience (Yahoo! Finance Canada, 26 Oct 2026).",
       "links": [
         {
-          "title": "Tesla Q3 2026 results: margins rebound while profit falls",
-          "url": "https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/",
-          "source": "Electrek",
-          "date": "2026-10-21T21:00:00.000Z"
+          "title": "Tesla FSD Approved in Latvia, the 10th EU Country to Back Dutch Ruling",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMUp3enR5NVNKbktkX0hLQWVybWhLcE5PUHM1d2tTR0ZfQ2V1VUxlR00yNElsWUowTEMtNDNjMkVCa1dDU1pQekdCSDVxYmNlcFZCb05wd3pVR0p3VVExYkpJWW9CRE5FYURaZ2VKOEtFV1V3YThNVUxXX0dNY19XOXFUcy1qem53dDBsYUtGLXBxWXNUcUhKS3dBTGdVWDdLQ29SRzdYODU?oc=5",
+          "source": "Electric Vehicles",
+          "date": "2026-10-26T11:12:27.000Z"
+        },
+        {
+          "title": "Turo and Tesla Debut Industry-First Self-Driving Rental Experience",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ3lGM1J0NHBnMWtVT3ZVMVRLdFBDaS1HV1ctbW1Dc1hEZHdoX2JBWGNnVEdJTlpWTWJZNUlzNTluRkZHMmpVUTRsb2h1MXFnRnFZQUt0eWxWYnJvLVBpXzlMZ3pPOTZISm1RcFRXR2oya0NXeUp1enZLeTNKVXc0cVM2WFMxa0k?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "date": "2026-10-26T11:00:00.000Z"
+        },
+        {
+          "title": "Tesla’s FSD system receives approval in Latvia",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0J2UllSWjFibkludUlEbUFGS1FJQkpWRHZVREc4TEFVWkZrZUxTYTcwRkRwelhTX2REZkM0Smh4Mm5mamhzUXZ5Nk1XeWEtbmY1RnZiS08tZFBpbjFfYkdZeDBReUNxcmpscW1wSGVfbl9MOE5rcmp6c24yWEh4UU80VmU2ZXh0cXFXUHhJZjRaS1U0Y0JBbFVBTU00dUVoUFp1bVhfbkc2Tzg?oc=5",
+          "source": "Investing.com",
+          "date": "2026-10-26T10:54:10.000Z"
         }
       ]
     },
     {
       "q": "What are xAI and Neuralink doing now?",
-      "a": "xAI and Grok: $40B in debt closed for GPUs arriving in 2027; Grok releasing an AI-generated video series. Neuralink: Next-generation implant with more channels unveiled in October. Latest: Musk says SpaceX has closed $40 billion in debt to buy AI chips (CNBC, 26 Oct 2026); Grok publishes the first seven minutes of its AI-generated 'Odyssey' series (TechCrunch, 25 Oct 2026).",
+      "a": "xAI and Grok: $40B in debt closed for GPUs arriving in 2027; Grok releasing an AI-generated video series. Neuralink: Next-generation implant with more channels unveiled in October. Latest: Elon Musk’s AI Odyssey Gets Roasted After First Episode Is Released (www.techtimes.co.uk, 26 Oct 2026); Neocloud stocks fall as Elon Musk warns 200 AI infrastructure companies could collapse amid debt fears | Hindustan Times (Hindustan Times, 26 Oct 2026).",
       "links": [
         {
-          "title": "Musk says SpaceX has closed $40 billion in debt to buy AI chips",
-          "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
-          "source": "CNBC",
-          "date": "2026-10-26T00:37:00.000Z"
+          "title": "Elon Musk’s AI Odyssey Gets Roasted After First Episode Is Released",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PQUF1RWZESEFLRXpYajJVcTVTYXNMRXNjTXJwS0FuNGpGcGVKenB1czVNQjZ5VVVWZGZLNWdSZHBXalZLUi01OEpPMnlfRmdVT1J5T2dYelFlUURtZ3ctTVZRZ09POWdEM2hGbThDSWFiMG1URFhNR3RQQ2U3NU0?oc=5",
+          "source": "www.techtimes.co.uk",
+          "date": "2026-10-26T11:37:14.000Z"
         },
         {
-          "title": "Grok publishes the first seven minutes of its AI-generated 'Odyssey' series",
-          "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
-          "source": "TechCrunch",
-          "date": "2026-10-25T16:00:00.000Z"
+          "title": "Neocloud stocks fall as Elon Musk warns 200 AI infrastructure companies could collapse amid debt fears | Hindustan Times",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPVDNzbEpyazF4SUlJM3Rkd1ZRR1V1eWpZb0pLNDZMRDZoVDVaa3ZrZTFGcDRpbG1VZ3NWekF5QW9acnl0T2pXcGlzcVVkTmxJa0xmalNTQlQ0dnZOVEVhQk5tOE5ZR3Q0XzY5cVBOMk9aTHJDRjVtYVRaeng3VVlpa01tWDhWeE9zN012MW1xUnp6TG93NjlLN3VZRjFoRzY3RXg0Q3JWS01Ed2RmeTVSNUV6elFMZFNyeWlzd2UzSGpmLXZVNk4wSUp5dTBPUUY1S3JFSnQ0MExHeFp5c28xUk5Oa1lGMzNmcXlPR3VYRy1pWnNyREc2UHZSVE12ZzdkQlF30gGIAkFVX3lxTE5CaVdVWFhwaG51bWxENGZVTWU4LVcwY3NwQk4xLUlOZEJTcVNQRjF3TGRZUld3anZaMnlweFhNV1FUYm1WM09EZWZlenRONmY3Y29GZWZ1YlRvZENJQ0NfRE9pTS1QSmNEMHJoT3Vhbm1EYnd6X0k3dFBsTTVMTUE0RGxrejBCOG5yd2tpVndabUx5UzljYXZSQzhNdjktTG5RMGVyanRDdG10ZXpRY1VQLUp2Ym9xT0dmMHVLOHBhQURhbngzbVZQaWE3ZDhTajNqWm1jcnV2YndCUVowenAyTGV6SG1tNlBxMnNmRHZXWUl6YjFHUmc4aUdzVjJvQlZvNERvYmxWSg?oc=5",
+          "source": "Hindustan Times",
+          "date": "2026-10-26T11:27:33.000Z"
         },
         {
-          "title": "Neuralink unveils a next-generation implant with more channels",
-          "url": "https://www.allthings-elon.com/articles/neuralink-n2-implant-more-channels-unveiled-2026-10-16",
-          "source": "All Things Elon",
-          "date": "2026-10-16T12:00:00.000Z"
+          "title": "SpaceX Q3 2026: AI passes Starlink as SpaceX turns a profit",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYeEFDUzBLX0x4R1FZV2ZKaXhIMFY0SlNIM3d5dnB3WHJrR0tRTklYeE1kLU52TVpCcnhNUVU3VTBWSnJvUE5sNnhiSjFHY0xSQkg2cmhwS1BOeHhYTWhBeFdVeWQwVjJFRmRv?oc=5",
+          "source": "SpaceQ",
+          "date": "2026-10-26T11:18:05.000Z"
         }
       ]
     },
     {
       "q": "How often is Musk Systems updated?",
-      "a": "A new edition is built automatically every day at 07:47 KST (22:47 UTC). This edition was built on 26 Oct 2026 from 17 sources and holds 14 stories, each linked to its original publisher.",
+      "a": "A new edition is built automatically every day at 07:47 KST (22:47 UTC). This edition was built on 26 Oct 2026 from 17 sources and holds 150 stories, each linked to its original publisher.",
       "links": []
     },
     {
