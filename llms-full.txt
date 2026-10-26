@@ -1,18 +1,19 @@
 # Musk Systems — full daily edition, 26 Oct 2026
 
-> Unofficial fan tracker of Elon Musk's companies and projects. Rebuilt automatically every day (DAILY 07:47 KST) from 17 news sources. Every headline links to its original publisher. Not affiliated with Elon Musk or his companies. Last update: 2026-10-26T11:44:11.420Z.
+> Unofficial fan tracker of Elon Musk's companies and projects. Rebuilt automatically every day (DAILY 07:47 KST) from 17 news sources. Every headline links to its original publisher. Not affiliated with Elon Musk or his companies. Last update: 2026-10-26T12:03:39.545Z.
 
 Site: https://YOUR-DOMAIN.com/ · Archive: https://YOUR-DOMAIN.com/news/ · RSS: https://YOUR-DOMAIN.com/feed.xml
 
 ## Today's answers
 ### What is the latest Elon Musk news today?
-As of 26 Oct 2026: SpaceX is preparing Starship Flight 15, which is set to attempt the first-ever tower catch of the ship itself. Tesla's Q3 2026 results showed margins rebounding while profit fell, with first Cybercab rides reported. Grok released the first seven minutes of its AI-generated 'Odyssey' series.
+As of 26 Oct 2026: Elon Musk said SpaceX has closed $40 billion in debt to buy AI chips arriving in 2027, though Bloomberg reported pricing talks were still under way. SpaceX and Tesla have each formed special board committees of independent directors to review a possible merger; no terms have been agreed. Musk said Starship Flight 15, which is set to attempt the first tower catch of the ship itself, could fly within about four to six weeks of mid-October.
 Sources:
+- [Musk says SpaceX has closed $40 billion in debt to buy AI chips](https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html) — CNBC, 2026-10-26
 - [Grok publishes the first seven minutes of its AI-generated 'Odyssey' series](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey) — TechCrunch, 2026-10-25
 - [Starlink service in Ukraine back to normal after a weeklong disruption](https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine) — TechCrunch, 2026-10-24
 
 ### What is SpaceX working on right now?
-Starship: Flight 15 set to attempt the first ship catch; FAA reviewing a higher Texas launch rate. Starlink: 10,000+ satellites; V3 satellites now flying on Starship. Latest: Starlink service in Ukraine back to normal after a weeklong disruption (TechCrunch, 24 Oct 2026); SpaceX plans first-ever Starship ship catch on Flight 15 (Technology.org, 23 Oct 2026).
+Starship: Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate. Starlink: 10,000+ satellites; V3 satellites now flying on Starship. Latest: Starlink service in Ukraine back to normal after a weeklong disruption (TechCrunch, 24 Oct 2026); SpaceX plans first-ever Starship ship catch on Flight 15 (Technology.org, 23 Oct 2026).
 Sources:
 - [Starlink service in Ukraine back to normal after a weeklong disruption](https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine) — TechCrunch, 2026-10-24
 - [SpaceX plans first-ever Starship ship catch on Flight 15](https://technology.org/2026/10/23/spacex-starship-flight-15-ship-booster-tower-catch-november) — Technology.org, 2026-10-23
@@ -24,30 +25,31 @@ Sources:
 - [Tesla Q3 2026 results: margins rebound while profit falls](https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/) — Electrek, 2026-10-21
 
 ### What are xAI and Neuralink doing now?
-xAI and Grok: Grok releasing AI-generated video series; AI data centres in space in R&D. Neuralink: Next-generation implant with more channels unveiled in October. Latest: Grok publishes the first seven minutes of its AI-generated 'Odyssey' series (TechCrunch, 25 Oct 2026); Neuralink unveils a next-generation implant with more channels (All Things Elon, 16 Oct 2026).
+xAI and Grok: $40B in debt closed for GPUs arriving in 2027; Grok releasing an AI-generated video series. Neuralink: Next-generation implant with more channels unveiled in October. Latest: Musk says SpaceX has closed $40 billion in debt to buy AI chips (CNBC, 26 Oct 2026); Grok publishes the first seven minutes of its AI-generated 'Odyssey' series (TechCrunch, 25 Oct 2026).
 Sources:
+- [Musk says SpaceX has closed $40 billion in debt to buy AI chips](https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html) — CNBC, 2026-10-26
 - [Grok publishes the first seven minutes of its AI-generated 'Odyssey' series](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey) — TechCrunch, 2026-10-25
 - [Neuralink unveils a next-generation implant with more channels](https://www.allthings-elon.com/articles/neuralink-n2-implant-more-channels-unveiled-2026-10-16) — All Things Elon, 2026-10-16
 
 ### How often is Musk Systems updated?
-A new edition is built automatically every day at 07:47 KST (22:47 UTC). This edition was built on 26 Oct 2026 from 17 sources and holds 12 stories, each linked to its original publisher.
+A new edition is built automatically every day at 07:47 KST (22:47 UTC). This edition was built on 26 Oct 2026 from 17 sources and holds 14 stories, each linked to its original publisher.
 
 ### Is Musk Systems an official Elon Musk website?
 No. Musk Systems is an independent, unofficial fan tracker. It is not affiliated with or endorsed by Elon Musk, SpaceX, Tesla, xAI, X, Neuralink or The Boring Company, and nothing on it is investment advice.
 
 ## Editor's briefing
-- SpaceX is preparing Starship Flight 15, which is set to attempt the first-ever tower catch of the ship itself.
-- Tesla's Q3 2026 results showed margins rebounding while profit fell, with first Cybercab rides reported.
-- Grok released the first seven minutes of its AI-generated 'Odyssey' series.
-- Starlink service in Ukraine is back to normal after a weeklong disruption.
+- Elon Musk said SpaceX has closed $40 billion in debt to buy AI chips arriving in 2027, though Bloomberg reported pricing talks were still under way.
+- SpaceX and Tesla have each formed special board committees of independent directors to review a possible merger; no terms have been agreed.
+- Musk said Starship Flight 15, which is set to attempt the first tower catch of the ship itself, could fly within about four to six weeks of mid-October.
+- Grok released the first seven minutes of its AI-generated 'Odyssey' series, and Starlink service in Ukraine is back to normal after a weeklong disruption.
 
 ## Projects in motion (reviewed 2026-10-26)
-- **Starship** (SpaceX) — stage 2/4, TESTING: Flight 15 set to attempt the first ship catch; FAA reviewing a higher Texas launch rate.
+- **Starship** (SpaceX) — stage 2/4, TESTING: Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate.
 - **Starlink V3** (SpaceX) — stage 4/4, SCALING: 10,000+ satellites; V3 satellites now flying on Starship.
 - **Cybercab & Robotaxi** (Tesla) — stage 3/4, RAMP: First Cybercab rides reported alongside Q3 2026 results.
 - **Optimus** (Tesla) — stage 2/4, PILOT: Output targeted toward the end of 2026.
 - **Telepathy & Blindsight** (Neuralink) — stage 2/4, TRIALS: Next-generation implant with more channels unveiled in October.
-- **Grok & orbital compute** (SpaceX · xAI) — stage 2/4, SHIPPING: Grok releasing AI-generated video series; AI data centres in space in R&D.
+- **Grok & orbital compute** (SpaceX · xAI) — stage 2/4, SHIPPING: $40B in debt closed for GPUs arriving in 2027; Grok releasing an AI-generated video series.
 
 ## Quick facts
 - SpaceX: founded 2002; listed on Nasdaq as SPCX on 12 June 2026.
@@ -59,11 +61,15 @@ No. Musk Systems is an independent, unofficial fan tracker. It is not affiliated
 - The Boring Company: founded 2016.
 
 ## Headlines (newest first)
+- 2026-10-26 · xAI & Grok · [Musk says SpaceX has closed $40 billion in debt to buy AI chips](https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html) — CNBC (+4 outlets)
+  Musk said the mostly callable debt will pay for GPUs due in the first half of 2027; Bloomberg reported pricing talks were still ongoing.
 - 2026-10-25 · xAI & Grok · [Grok publishes the first seven minutes of its AI-generated 'Odyssey' series](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey) — TechCrunch (+1 outlets)
 - 2026-10-24 · Starlink · [Starlink service in Ukraine back to normal after a weeklong disruption](https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine) — TechCrunch (+1 outlets)
 - 2026-10-23 · Space · [SpaceX plans first-ever Starship ship catch on Flight 15](https://technology.org/2026/10/23/spacex-starship-flight-15-ship-booster-tower-catch-november) — Technology.org (+1 outlets)
 - 2026-10-23 · Space · [NASA shows the Starship lunar lander cabin ahead of 2027 tests](https://teslanorth.com/2026/10/23/starship-moon-lander-cabin-nasa) — Tesla North
 - 2026-10-21 · Tesla · [Tesla Q3 2026 results: margins rebound while profit falls](https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/) — Electrek (+3 outlets)
+- 2026-10-20 · Business · [SpaceX and Tesla boards form special committees to review a possible merger](https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger) — TechCrunch (+3 outlets)
+  The committees of independent directors were set up at shareholders' request; Musk says no terms have been agreed and he is not taking part.
 - 2026-10-20 · Business · [SpaceX (SPCX) reports third-quarter 2026 earnings](https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html) — CNBC
 - 2026-10-16 · Neuralink · [Neuralink unveils a next-generation implant with more channels](https://www.allthings-elon.com/articles/neuralink-n2-implant-more-channels-unveiled-2026-10-16) — All Things Elon
 - 2026-10-14 · Starlink · [Iran calls Starlink a 'tool of war' and hints at further internet curbs](https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions) — Al Jazeera

@@ -1,12 +1,53 @@
 {
   "reviewed": "2026-10-26",
-  "stages": ["R&D", "TESTING", "PRODUCTION", "SCALE"],
+  "stages": [
+    "R&D",
+    "TESTING",
+    "PRODUCTION",
+    "SCALE"
+  ],
   "projects": [
-    {"name": "Starship", "org": "SpaceX", "stage": 2, "label": "TESTING", "note": "Flight 15 set to attempt the first ship catch; FAA reviewing a higher Texas launch rate"},
-    {"name": "Starlink V3", "org": "SpaceX", "stage": 4, "label": "SCALING", "note": "10,000+ satellites; V3 satellites now flying on Starship"},
-    {"name": "Cybercab & Robotaxi", "org": "Tesla", "stage": 3, "label": "RAMP", "note": "First Cybercab rides reported alongside Q3 2026 results"},
-    {"name": "Optimus", "org": "Tesla", "stage": 2, "label": "PILOT", "note": "Output targeted toward the end of 2026"},
-    {"name": "Telepathy & Blindsight", "org": "Neuralink", "stage": 2, "label": "TRIALS", "note": "Next-generation implant with more channels unveiled in October"},
-    {"name": "Grok & orbital compute", "org": "SpaceX · xAI", "stage": 2, "label": "SHIPPING", "note": "Grok releasing AI-generated video series; AI data centres in space in R&D"}
+    {
+      "name": "Starship",
+      "org": "SpaceX",
+      "stage": 2,
+      "label": "TESTING",
+      "note": "Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate"
+    },
+    {
+      "name": "Starlink V3",
+      "org": "SpaceX",
+      "stage": 4,
+      "label": "SCALING",
+      "note": "10,000+ satellites; V3 satellites now flying on Starship"
+    },
+    {
+      "name": "Cybercab & Robotaxi",
+      "org": "Tesla",
+      "stage": 3,
+      "label": "RAMP",
+      "note": "First Cybercab rides reported alongside Q3 2026 results"
+    },
+    {
+      "name": "Optimus",
+      "org": "Tesla",
+      "stage": 2,
+      "label": "PILOT",
+      "note": "Output targeted toward the end of 2026"
+    },
+    {
+      "name": "Telepathy & Blindsight",
+      "org": "Neuralink",
+      "stage": 2,
+      "label": "TRIALS",
+      "note": "Next-generation implant with more channels unveiled in October"
+    },
+    {
+      "name": "Grok & orbital compute",
+      "org": "SpaceX · xAI",
+      "stage": 2,
+      "label": "SHIPPING",
+      "note": "$40B in debt closed for GPUs arriving in 2027; Grok releasing an AI-generated video series"
+    }
   ]
 }

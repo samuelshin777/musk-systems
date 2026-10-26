@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-26T11:44:11.420Z",
+  "updated": "2026-10-26T12:03:39.545Z",
   "answers": [
     {
       "q": "What is the latest Elon Musk news today?",
-      "a": "As of 26 Oct 2026: SpaceX is preparing Starship Flight 15, which is set to attempt the first-ever tower catch of the ship itself. Tesla's Q3 2026 results showed margins rebounding while profit fell, with first Cybercab rides reported. Grok released the first seven minutes of its AI-generated 'Odyssey' series.",
+      "a": "As of 26 Oct 2026: Elon Musk said SpaceX has closed $40 billion in debt to buy AI chips arriving in 2027, though Bloomberg reported pricing talks were still under way. SpaceX and Tesla have each formed special board committees of independent directors to review a possible merger; no terms have been agreed. Musk said Starship Flight 15, which is set to attempt the first tower catch of the ship itself, could fly within about four to six weeks of mid-October.",
       "links": [
+        {
+          "title": "Musk says SpaceX has closed $40 billion in debt to buy AI chips",
+          "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+          "source": "CNBC",
+          "date": "2026-10-26T00:37:00.000Z"
+        },
         {
           "title": "Grok publishes the first seven minutes of its AI-generated 'Odyssey' series",
           "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
@@ -21,7 +27,7 @@
     },
     {
       "q": "What is SpaceX working on right now?",
-      "a": "Starship: Flight 15 set to attempt the first ship catch; FAA reviewing a higher Texas launch rate. Starlink: 10,000+ satellites; V3 satellites now flying on Starship. Latest: Starlink service in Ukraine back to normal after a weeklong disruption (TechCrunch, 24 Oct 2026); SpaceX plans first-ever Starship ship catch on Flight 15 (Technology.org, 23 Oct 2026).",
+      "a": "Starship: Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate. Starlink: 10,000+ satellites; V3 satellites now flying on Starship. Latest: Starlink service in Ukraine back to normal after a weeklong disruption (TechCrunch, 24 Oct 2026); SpaceX plans first-ever Starship ship catch on Flight 15 (Technology.org, 23 Oct 2026).",
       "links": [
         {
           "title": "Starlink service in Ukraine back to normal after a weeklong disruption",
@@ -57,8 +63,14 @@
     },
     {
       "q": "What are xAI and Neuralink doing now?",
-      "a": "xAI and Grok: Grok releasing AI-generated video series; AI data centres in space in R&D. Neuralink: Next-generation implant with more channels unveiled in October. Latest: Grok publishes the first seven minutes of its AI-generated 'Odyssey' series (TechCrunch, 25 Oct 2026); Neuralink unveils a next-generation implant with more channels (All Things Elon, 16 Oct 2026).",
+      "a": "xAI and Grok: $40B in debt closed for GPUs arriving in 2027; Grok releasing an AI-generated video series. Neuralink: Next-generation implant with more channels unveiled in October. Latest: Musk says SpaceX has closed $40 billion in debt to buy AI chips (CNBC, 26 Oct 2026); Grok publishes the first seven minutes of its AI-generated 'Odyssey' series (TechCrunch, 25 Oct 2026).",
       "links": [
+        {
+          "title": "Musk says SpaceX has closed $40 billion in debt to buy AI chips",
+          "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+          "source": "CNBC",
+          "date": "2026-10-26T00:37:00.000Z"
+        },
         {
           "title": "Grok publishes the first seven minutes of its AI-generated 'Odyssey' series",
           "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
@@ -75,7 +87,7 @@
     },
     {
       "q": "How often is Musk Systems updated?",
-      "a": "A new edition is built automatically every day at 07:47 KST (22:47 UTC). This edition was built on 26 Oct 2026 from 17 sources and holds 12 stories, each linked to its original publisher.",
+      "a": "A new edition is built automatically every day at 07:47 KST (22:47 UTC). This edition was built on 26 Oct 2026 from 17 sources and holds 14 stories, each linked to its original publisher.",
       "links": []
     },
     {

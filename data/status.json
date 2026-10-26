@@ -1,14 +1,14 @@
 {
   "engine": "v2",
-  "lastRun": "2026-10-26T11:44:11.420Z",
+  "lastRun": "2026-10-26T12:03:39.545Z",
   "mode": "offline-rebuild",
   "ok": true,
   "editionKept": false,
   "sourcesOk": null,
   "sourcesTotal": 17,
   "failed": [],
-  "newItems": 0,
-  "totalItems": 12,
+  "newItems": 2,
+  "totalItems": 14,
   "nextRun": "2026-10-26T22:47:00.000Z",
   "scheduleLabel": "DAILY 07:47 KST",
   "staleAfterHours": 26

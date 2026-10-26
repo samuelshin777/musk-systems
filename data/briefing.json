@@ -1,31 +1,50 @@
 {
   "date": "2026-10-26",
   "windowLabel": "LAST 7 DAYS",
-  "total": 6,
+  "total": 8,
   "counts": {
-    "ai": 1,
+    "ai": 2,
     "connectivity": 1,
     "space": 2,
     "mobility": 1,
-    "business": 1
+    "business": 2
   },
   "topStory": {
-    "id": "x3baqg",
-    "title": "Grok publishes the first seven minutes of its AI-generated 'Odyssey' series",
-    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
-    "source": "TechCrunch",
+    "id": "mqua8c",
+    "title": "Musk says SpaceX has closed $40 billion in debt to buy AI chips",
+    "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+    "source": "CNBC",
     "sources": [
-      "TechCrunch",
-      "Startup Fortune"
+      "CNBC",
+      "Bloomberg",
+      "CoinDesk",
+      "Mint",
+      "Moneycontrol"
     ],
-    "date": "2026-10-25T16:00:00.000Z",
-    "firstSeen": "2026-10-25T16:00:00.000Z",
+    "date": "2026-10-26T00:37:00.000Z",
+    "firstSeen": "2026-10-26T12:10:00.000Z",
     "image": "",
-    "snippet": "",
+    "snippet": "Musk said the mostly callable debt will pay for GPUs due in the first half of 2027; Bloomberg reported pricing talks were still ongoing.",
     "category": "ai",
-    "score": 14.78
+    "score": 21.28
   },
   "topList": [
+    {
+      "id": "x3baqg",
+      "title": "Grok publishes the first seven minutes of its AI-generated 'Odyssey' series",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
+      "source": "TechCrunch",
+      "sources": [
+        "TechCrunch",
+        "Startup Fortune"
+      ],
+      "date": "2026-10-25T16:00:00.000Z",
+      "firstSeen": "2026-10-25T16:00:00.000Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 14.73
+    },
     {
       "id": "130yltp",
       "title": "Starlink service in Ukraine back to normal after a weeklong disruption",
@@ -40,14 +59,14 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 9.81
+      "score": 9.78
     }
   ],
   "trending": [
     "SpaceX",
     "Starship",
-    "Starlink",
     "Tesla",
+    "Starlink",
     "Grok",
     "NASA"
   ],
@@ -82,7 +101,7 @@
     },
     {
       "date": "2026-10-20",
-      "total": 1
+      "total": 2
     },
     {
       "date": "2026-10-21",
@@ -106,19 +125,19 @@
     },
     {
       "date": "2026-10-26",
-      "total": 0
+      "total": 1
     }
   ],
-  "summary": "6 stories (last 7 days). Most active frontier: Space. Top story: Grok publishes the first seven minutes of its AI-generated 'Odyssey' series.",
+  "summary": "8 stories (last 7 days). Most active frontier: xAI & Grok. Top story: Musk says SpaceX has closed $40 billion in debt to buy AI chips.",
   "editor": {
     "date": "2026-10-26",
-    "generated": "2026-10-26T09:55:00.000Z",
+    "generated": "2026-10-26T12:10:00.000Z",
     "by": "/goal daily editor",
     "bullets": [
-      "SpaceX is preparing Starship Flight 15, which is set to attempt the first-ever tower catch of the ship itself.",
-      "Tesla's Q3 2026 results showed margins rebounding while profit fell, with first Cybercab rides reported.",
-      "Grok released the first seven minutes of its AI-generated 'Odyssey' series.",
-      "Starlink service in Ukraine is back to normal after a weeklong disruption."
+      "Elon Musk said SpaceX has closed $40 billion in debt to buy AI chips arriving in 2027, though Bloomberg reported pricing talks were still under way.",
+      "SpaceX and Tesla have each formed special board committees of independent directors to review a possible merger; no terms have been agreed.",
+      "Musk said Starship Flight 15, which is set to attempt the first tower catch of the ship itself, could fly within about four to six weeks of mid-October.",
+      "Grok released the first seven minutes of its AI-generated 'Odyssey' series, and Starlink service in Ukraine is back to normal after a weeklong disruption."
     ]
   }
 }

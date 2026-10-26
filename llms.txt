@@ -1,18 +1,18 @@
 # Musk Systems — Elon Musk achievements, projects and daily news
 
-> Unofficial fan tribute that documents Elon Musk's achievements and tracks his current projects (SpaceX, Starship, Starlink, Tesla, Optimus, Cybercab, xAI/Grok, Neuralink, The Boring Company). A new daily edition is generated automatically (DAILY 07:47 KST). Last update: 2026-10-26T11:44:11.420Z.
+> Unofficial fan tribute that documents Elon Musk's achievements and tracks his current projects (SpaceX, Starship, Starlink, Tesla, Optimus, Cybercab, xAI/Grok, Neuralink, The Boring Company). A new daily edition is generated automatically (DAILY 07:47 KST). Last update: 2026-10-26T12:03:39.545Z.
 
 ## Today's briefing
-6 stories (last 7 days). Most active frontier: Space. Top story: Grok publishes the first seven minutes of its AI-generated 'Odyssey' series.
-- SpaceX is preparing Starship Flight 15, which is set to attempt the first-ever tower catch of the ship itself.
-- Tesla's Q3 2026 results showed margins rebounding while profit fell, with first Cybercab rides reported.
-- Grok released the first seven minutes of its AI-generated 'Odyssey' series.
-- Starlink service in Ukraine is back to normal after a weeklong disruption.
+8 stories (last 7 days). Most active frontier: xAI & Grok. Top story: Musk says SpaceX has closed $40 billion in debt to buy AI chips.
+- Elon Musk said SpaceX has closed $40 billion in debt to buy AI chips arriving in 2027, though Bloomberg reported pricing talks were still under way.
+- SpaceX and Tesla have each formed special board committees of independent directors to review a possible merger; no terms have been agreed.
+- Musk said Starship Flight 15, which is set to attempt the first tower catch of the ship itself, could fly within about four to six weeks of mid-October.
+- Grok released the first seven minutes of its AI-generated 'Odyssey' series, and Starlink service in Ukraine is back to normal after a weeklong disruption.
 
 ## Main pages
 - Home: https://YOUR-DOMAIN.com/
 - Live news feed: https://YOUR-DOMAIN.com/#planet
-- Today's digest: https://YOUR-DOMAIN.com/news/2026-10-25.html
+- Today's digest: https://YOUR-DOMAIN.com/news/2026-10-26.html
 - Daily news archive: https://YOUR-DOMAIN.com/news/
 - Full plain-text edition: https://YOUR-DOMAIN.com/llms-full.txt
 - Today's answers (Q&A): https://YOUR-DOMAIN.com/#answers · https://YOUR-DOMAIN.com/data/answers.json
@@ -20,11 +20,13 @@
 - Machine-readable data: https://YOUR-DOMAIN.com/data/news.json, https://YOUR-DOMAIN.com/data/briefing.json, https://YOUR-DOMAIN.com/data/projects.json, https://YOUR-DOMAIN.com/data/hashtags.json
 
 ## Latest headlines (links go to original publishers)
+- 2026-10-26 [xAI & Grok] Musk says SpaceX has closed $40 billion in debt to buy AI chips — CNBC (+4 outlets): https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html
 - 2026-10-25 [xAI & Grok] Grok publishes the first seven minutes of its AI-generated 'Odyssey' series — TechCrunch (+1 outlets): https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey
 - 2026-10-24 [Starlink] Starlink service in Ukraine back to normal after a weeklong disruption — TechCrunch (+1 outlets): https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine
 - 2026-10-23 [Space] SpaceX plans first-ever Starship ship catch on Flight 15 — Technology.org (+1 outlets): https://technology.org/2026/10/23/spacex-starship-flight-15-ship-booster-tower-catch-november
 - 2026-10-23 [Space] NASA shows the Starship lunar lander cabin ahead of 2027 tests — Tesla North: https://teslanorth.com/2026/10/23/starship-moon-lander-cabin-nasa
 - 2026-10-21 [Tesla] Tesla Q3 2026 results: margins rebound while profit falls — Electrek (+3 outlets): https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/
+- 2026-10-20 [Business] SpaceX and Tesla boards form special committees to review a possible merger — TechCrunch (+3 outlets): https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger
 - 2026-10-20 [Business] SpaceX (SPCX) reports third-quarter 2026 earnings — CNBC: https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html
 - 2026-10-16 [Neuralink] Neuralink unveils a next-generation implant with more channels — All Things Elon: https://www.allthings-elon.com/articles/neuralink-n2-implant-more-channels-unveiled-2026-10-16
 - 2026-10-14 [Starlink] Iran calls Starlink a 'tool of war' and hints at further internet curbs — Al Jazeera: https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions
@@ -34,12 +36,12 @@
 - 2026-06-12 [Business] SpaceX raises $75 billion in the largest IPO ever — IPOScoop (+1 outlets): https://www.iposcoop.com/?p=38639
 
 ## Projects in motion
-- Starship (SpaceX) — TESTING: Flight 15 set to attempt the first ship catch; FAA reviewing a higher Texas launch rate
+- Starship (SpaceX) — TESTING: Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate
 - Starlink V3 (SpaceX) — SCALING: 10,000+ satellites; V3 satellites now flying on Starship
 - Cybercab & Robotaxi (Tesla) — RAMP: First Cybercab rides reported alongside Q3 2026 results
 - Optimus (Tesla) — PILOT: Output targeted toward the end of 2026
 - Telepathy & Blindsight (Neuralink) — TRIALS: Next-generation implant with more channels unveiled in October
-- Grok & orbital compute (SpaceX · xAI) — SHIPPING: Grok releasing AI-generated video series; AI data centres in space in R&D
+- Grok & orbital compute (SpaceX · xAI) — SHIPPING: $40B in debt closed for GPUs arriving in 2027; Grok releasing an AI-generated video series
 
 ## Topics and hashtags (auto-generated from site text and headlines)
 #SpaceX #Starlink #Starship #Tesla #Neuralink #xAI #SatelliteInternet #ElonMusk #SpaceExploration #Grok #SpaceXIPO #TowerCatch #Optimus #SPCX #Nasdaq #Robotics #SpaceXDragon #MuskSystems #FutureTechnology #SystemsThinking #Robotaxi #NASA #FAA #PayPal #Earnings

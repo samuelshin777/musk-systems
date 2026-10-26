@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-26T11:44:11.420Z",
+  "updated": "2026-10-26T12:03:39.545Z",
   "items": [
+    {
+      "id": "mqua8c",
+      "title": "Musk says SpaceX has closed $40 billion in debt to buy AI chips",
+      "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+      "source": "CNBC",
+      "sources": [
+        "CNBC",
+        "Bloomberg",
+        "CoinDesk",
+        "Mint",
+        "Moneycontrol"
+      ],
+      "date": "2026-10-26T00:37:00.000Z",
+      "firstSeen": "2026-10-26T12:10:00.000Z",
+      "image": "",
+      "snippet": "Musk said the mostly callable debt will pay for GPUs due in the first half of 2027; Bloomberg reported pricing talks were still ongoing.",
+      "category": "ai",
+      "score": 21.28
+    },
     {
       "id": "x3baqg",
       "title": "Grok publishes the first seven minutes of its AI-generated 'Odyssey' series",
@@ -15,7 +34,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 14.78
+      "score": 14.73
     },
     {
       "id": "130yltp",
@@ -31,7 +50,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 9.81
+      "score": 9.78
     },
     {
       "id": "j1wqvk",
@@ -47,7 +66,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 10.36
+      "score": 10.35
     },
     {
       "id": "fcvx7i",
@@ -62,7 +81,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 3.29
+      "score": 3.28
     },
     {
       "id": "ytqumj",
@@ -83,6 +102,24 @@
       "score": 11.46
     },
     {
+      "id": "gluprn",
+      "title": "SpaceX and Tesla boards form special committees to review a possible merger",
+      "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger",
+      "source": "TechCrunch",
+      "sources": [
+        "TechCrunch",
+        "The Wall Street Journal",
+        "NBC News",
+        "Bloomberg"
+      ],
+      "date": "2026-10-20T22:57:00.000Z",
+      "firstSeen": "2026-10-26T12:10:00.000Z",
+      "image": "",
+      "snippet": "The committees of independent directors were set up at shareholders' request; Musk says no terms have been agreed and he is not taking part.",
+      "category": "business",
+      "score": 13.25
+    },
+    {
       "id": "soz4w2",
       "title": "SpaceX (SPCX) reports third-quarter 2026 earnings",
       "url": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
@@ -95,7 +132,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 7.24
+      "score": 7.23
     },
     {
       "id": "17en6ux",

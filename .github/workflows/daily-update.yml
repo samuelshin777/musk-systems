@@ -1,14 +1,19 @@
 # Musk Systems — daily edition
-# Runs once a day at 07:47 KST (22:47 UTC). Same time every day.
-#   1) engine     node scripts/update.mjs            (always — collects, ranks, rebuilds the site)
-#   2) /goal      Claude Code runs the /goal command  (optional — only if the ANTHROPIC_API_KEY secret exists:
-#                 fills gaps with web search, writes the editor's briefing, refreshes project statuses)
-#   3) publish    commit + deploy (GitHub Pages by default, or FTP)
-#   4) alert      opens a GitHub issue if the edition failed
+# Runs every day at 07:47 KST (22:47 UTC), right away on every push to main, and on demand (Run workflow).
+#   1) engine     node scripts/update.mjs             always — collects, ranks, rebuilds the site
+#   2) /goal      Claude Code runs the /goal command   only if the ANTHROPIC_API_KEY secret exists
+#   3) verify     the edition must be fresh and ASP/IIS-safe
+#   4) commit     the new edition is saved back to the repository
+#   5) deploy     FTP (DEPLOY_TARGET=ftp + FTP secrets) or GitHub Pages (DEPLOY_TARGET=pages);
+#                 skipped, not failed, until one of them is set up
+#   6) alert      opens a GitHub issue if the edition itself failed
 name: Daily Musk news update
 on:
   schedule:
     - cron: "47 22 * * *"
+  push:
+    branches: [main]
+    paths-ignore: ["**.md", "SETUP.html"]
   workflow_dispatch: {}
 permissions:
   contents: write
@@ -24,12 +29,14 @@ jobs:
       SITE_URL: ${{ vars.SITE_URL }}
       INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
       HAS_CLAUDE: ${{ secrets.ANTHROPIC_API_KEY != '' }}
+      HAS_FTP: ${{ vars.DEPLOY_TARGET == 'ftp' && secrets.FTP_SERVER != '' && secrets.FTP_USERNAME != '' && secrets.FTP_PASSWORD != '' }}
+      HAS_PAGES: ${{ vars.DEPLOY_TARGET == 'pages' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with: { node-version: 20 }
 
-      - name: 1 · Collect and rebuild (news engine v2)
+      - name: 1 · Collect and rebuild (news engine)
         id: engine
         continue-on-error: true
         run: node scripts/update.mjs
@@ -44,7 +51,7 @@ jobs:
             --allowedTools "Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,Bash(node scripts/update.mjs*),Bash(node -e*)" \
             --max-turns 40
 
-      - name: Verify edition
+      - name: 3 · Verify edition
         id: verify
         run: |
           node -e "
@@ -55,37 +62,67 @@ jobs:
             if(ageH>2) throw new Error('status.json was not refreshed this run');
           "
           grep -q "NEWS FEED UPDATED $(date -u +%F)" index.html
+          if grep -q '<%\|%>' index.html; then echo 'ASP delimiter found in index.html'; exit 1; fi
 
-      - name: 3 · Commit
+      - name: 4 · Commit the new edition
         run: |
           git config user.name "musk-systems-bot"
           git config user.email "bot@users.noreply.github.com"
           git add -A
           git diff --cached --quiet || git commit -m "Daily edition $(date -u +%F)"
+          git pull --rebase --autostash origin main || true
           git push
 
-      # Option A — GitHub Pages (Settings → Pages → Source: GitHub Actions)
-      - uses: actions/upload-pages-artifact@v3
-        if: ${{ vars.DEPLOY_TARGET != 'ftp' }}
-        with: { path: . }
-      - uses: actions/deploy-pages@v4
-        if: ${{ vars.DEPLOY_TARGET != 'ftp' }}
-      # Option B — your own host over FTP (variable DEPLOY_TARGET=ftp + FTP_* secrets)
-      - uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-        if: ${{ vars.DEPLOY_TARGET == 'ftp' }}
+      # 5a · FTP — your own web host (IIS or Apache)
+      - name: 5 · Deploy over FTP
+        if: env.HAS_FTP == 'true'
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          server-dir: ${{ vars.FTP_DIR || '/public_html/' }}
+          server-dir: ${{ vars.FTP_DIR || '/' }}
           exclude: |
             **/.git*
             **/.git*/**
             .github/**
             .claude/**
             scripts/**
+            README.md
+            SETUP.html
+            site.config.json
+            render.js
+            script.js
 
-      - name: 4 · Alert on problems
+      # 5b · GitHub Pages (Settings → Pages → Source: GitHub Actions, then DEPLOY_TARGET=pages)
+      - uses: actions/upload-pages-artifact@v3
+        if: env.HAS_PAGES == 'true'
+        with: { path: . }
+      - uses: actions/deploy-pages@v4
+        if: env.HAS_PAGES == 'true'
+
+      - name: 5 · Deploy skipped — setup not finished
+        if: env.HAS_FTP != 'true' && env.HAS_PAGES != 'true'
+        run: |
+          echo "::notice title=Deploy skipped::The edition was built and saved to the repository. Add DEPLOY_TARGET=ftp and the FTP_SERVER / FTP_USERNAME / FTP_PASSWORD secrets (see SETUP.html) to publish it to your web server."
+
+      - name: Run summary
+        if: always()
+        run: |
+          {
+            echo "## Musk Systems — edition $(date -u +%F)"
+            echo ""
+            echo "| Step | Result |"
+            echo "|---|---|"
+            echo "| News engine | ${{ steps.engine.outcome }} |"
+            echo "| /goal editor | $([ "$HAS_CLAUDE" = true ] && echo ran || echo 'not set up (optional)') |"
+            echo "| Verify | ${{ steps.verify.outcome }} |"
+            echo "| Deploy | $([ "$HAS_FTP" = true ] && echo FTP || ([ "$HAS_PAGES" = true ] && echo 'GitHub Pages' || echo 'skipped — finish SETUP.html')) |"
+            echo ""
+            node -e "const s=require('./data/status.json');console.log('Stories: '+s.totalItems+' ('+s.newItems+' new) · sources OK: '+s.sourcesOk+'/'+s.sourcesTotal+' · next run: '+s.nextRun)" || true
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: 6 · Alert on problems
         if: failure() || steps.engine.outcome == 'failure'
         env: { GH_TOKEN: "${{ github.token }}" }
         run: |
