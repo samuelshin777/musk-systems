@@ -1,19 +1,19 @@
-MUSK SYSTEMS — KEYWORD & HASHTAG REPORT (auto-generated 2026-10-26T12:05:54.338Z)
+MUSK SYSTEMS — KEYWORD & HASHTAG REPORT (auto-generated 2026-10-26T12:26:23.182Z)
 ==========================================================================
 
 TOP KEYWORDS (by frequency across visible site text + headlines)
  1. Elon Musk
- 2. Starlink
- 3. SpaceX
+ 2. SpaceX
+ 3. Starlink
  4. Tesla
  5. Satellite Internet
- 6. Grok
+ 6. Starship
  7. xAI
  8. Neuralink
- 9. Starship
-10. Space Exploration
-11. Optimus
-12. Full Self-Driving
+ 9. Grok
+10. Full Self-Driving
+11. Space Exploration
+12. Optimus
 13. SPCX
 14. Nasdaq
 15. Humanoid Robot
@@ -29,21 +29,21 @@ TOP KEYWORDS (by frequency across visible site text + headlines)
 25. Musk Systems
 
 TRENDING TODAY (LAST 24H)
-#Tesla #Starlink #SpaceX #Robotics #FSD #SatelliteInternet
+#Starlink #Tesla #SpaceX #Robotics #FSD #SatelliteInternet
 
 HASHTAGS (score = weighted occurrences)
-#ElonMusk  (61)
-#Starlink  (45)
-#SpaceX  (37)
-#Tesla  (28)
+#ElonMusk  (55)
+#SpaceX  (41)
+#Starlink  (41)
+#Tesla  (32)
 #SatelliteInternet  (13)
-#Grok  (11)
+#Starship  (10)
 #xAI  (10)
 #Neuralink  (9)
-#Starship  (8)
+#Grok  (7)
+#FSD  (7)
 #SpaceExploration  (7)
 #Optimus  (6)
-#FSD  (5)
 #SPCX  (4)
 #Nasdaq  (4)
 #HumanoidRobot  (4)
@@ -60,6 +60,8 @@ HASHTAGS (score = weighted occurrences)
 #FutureTechnology  (3)
 #SystemsThinking  (3)
 #Robotaxi  (2)
+#Artemis  (2)
+#NASA  (2)
 #FAA  (2)
 #PayPal  (2)
 #ReusableRockets  (2)
@@ -70,11 +72,9 @@ HASHTAGS (score = weighted occurrences)
 #FalconHeavy  (1)
 #Starbase  (1)
 #BoringCompany  (1)
-#Zip2  (1)
-#Megapack  (1)
 
 READY-TO-POST SETS (3–8 per post)
-Today:      #ElonMusk #Tesla #Starlink #SpaceX #Robotics #FSD
+Today:      #ElonMusk #Starlink #Tesla #SpaceX #Robotics #FSD
 Space:      #ElonMusk #SpaceX #Starship #Starlink #SpaceExploration #Mars
 Tesla:      #ElonMusk #Tesla #Robotaxi #Cybercab #Optimus #AutonomousDriving
 AI/Neuro:   #ElonMusk #xAI #Grok #ArtificialIntelligence #Neuralink #BrainComputerInterface

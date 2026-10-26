@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-26T12:05:54.338Z",
+  "updated": "2026-10-26T12:26:23.182Z",
   "hashtags": [
     {
       "tag": "#ElonMusk",
-      "score": 61
-    },
-    {
-      "tag": "#Starlink",
-      "score": 45
+      "score": 55
     },
     {
       "tag": "#SpaceX",
-      "score": 37
+      "score": 41
+    },
+    {
+      "tag": "#Starlink",
+      "score": 41
     },
     {
       "tag": "#Tesla",
-      "score": 28
+      "score": 32
     },
     {
       "tag": "#SatelliteInternet",
       "score": 13
     },
     {
-      "tag": "#Grok",
-      "score": 11
+      "tag": "#Starship",
+      "score": 10
     },
     {
       "tag": "#xAI",
@@ -34,8 +34,12 @@
       "score": 9
     },
     {
-      "tag": "#Starship",
-      "score": 8
+      "tag": "#Grok",
+      "score": 7
+    },
+    {
+      "tag": "#FSD",
+      "score": 7
     },
     {
       "tag": "#SpaceExploration",
@@ -44,10 +48,6 @@
     {
       "tag": "#Optimus",
       "score": 6
-    },
-    {
-      "tag": "#FSD",
-      "score": 5
     },
     {
       "tag": "#SPCX",
@@ -114,6 +114,14 @@
       "score": 2
     },
     {
+      "tag": "#Artemis",
+      "score": 2
+    },
+    {
+      "tag": "#NASA",
+      "score": 2
+    },
+    {
       "tag": "#FAA",
       "score": 2
     },
@@ -152,29 +160,21 @@
     {
       "tag": "#BoringCompany",
       "score": 1
-    },
-    {
-      "tag": "#Zip2",
-      "score": 1
-    },
-    {
-      "tag": "#Megapack",
-      "score": 1
     }
   ],
   "keywords": [
     "Elon Musk",
-    "Starlink",
     "SpaceX",
+    "Starlink",
     "Tesla",
     "Satellite Internet",
-    "Grok",
+    "Starship",
     "xAI",
     "Neuralink",
-    "Starship",
+    "Grok",
+    "Full Self-Driving",
     "Space Exploration",
     "Optimus",
-    "Full Self-Driving",
     "SPCX",
     "Nasdaq",
     "Humanoid Robot",

@@ -3,11 +3,11 @@
   "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "business": 21,
-    "connectivity": 42,
+    "business": 23,
     "ai": 31,
-    "space": 24,
-    "mobility": 26,
+    "space": 21,
+    "mobility": 27,
+    "connectivity": 42,
     "robotics": 6
   },
   "topStory": {
@@ -30,9 +30,27 @@
     "image": "",
     "snippet": "Musk said the mostly callable debt will pay for GPUs due in the first half of 2027; Bloomberg reported pricing talks were still ongoing.",
     "category": "ai",
-    "score": 23.27
+    "score": 23.2
   },
   "topList": [
+    {
+      "id": "ike4u5",
+      "title": "EasyJet to offer Starlink internet onboard some flights from 2027",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc21wdE5SVUlzdjlSMHBrWW9yRTllenFIT1prYm9KVnNnbWp0OTlZamFnNkdOaHVDMy1wS19iUnJubkRaa2c1S2tSanFPLVJyTEpkYVBjcTlrZ255bmtyd2ZaRVdJTEhWMGhTTnlWd2VSSnhxRUlDNHc1VG9CbHQtMTFZOE1Uek1RZmRHQ25qZzQzOG1BeDZMVlFiSHg5d0NKUV9sXw?oc=5",
+      "source": "Reuters",
+      "sources": [
+        "Reuters",
+        "www.marketscreener.com",
+        "The Economic Times",
+        "AOL.com"
+      ],
+      "date": "2026-10-26T11:32:02.000Z",
+      "firstSeen": "2026-10-26T12:05:54.338Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 20.75
+    },
     {
       "id": "12fhsoz",
       "title": "Ukraine disputes Musk’s claim Starlink was used for offensive drone strikes",
@@ -44,31 +62,15 @@
         "WPBN",
         "WTOV",
         "www.fox23.com",
-        "KABB"
+        "KABB",
+        "WXLV"
       ],
       "date": "2026-10-26T00:47:35.000Z",
       "firstSeen": "2026-10-26T12:05:54.338Z",
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 20.3
-    },
-    {
-      "id": "ike4u5",
-      "title": "EasyJet to offer Starlink internet onboard some flights from 2027",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc21wdE5SVUlzdjlSMHBrWW9yRTllenFIT1prYm9KVnNnbWp0OTlZamFnNkdOaHVDMy1wS19iUnJubkRaa2c1S2tSanFPLVJyTEpkYVBjcTlrZ255bmtyd2ZaRVdJTEhWMGhTTnlWd2VSSnhxRUlDNHc1VG9CbHQtMTFZOE1Uek1RZmRHQ25qZzQzOG1BeDZMVlFiSHg5d0NKUV9sXw?oc=5",
-      "source": "Reuters",
-      "sources": [
-        "Reuters",
-        "www.marketscreener.com",
-        "The Economic Times"
-      ],
-      "date": "2026-10-26T11:32:02.000Z",
-      "firstSeen": "2026-10-26T12:05:54.338Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 18.84
+      "score": 20.24
     },
     {
       "id": "1us2875",
@@ -85,7 +87,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 17.67
+      "score": 17.58
     },
     {
       "id": "1sq4tey",
@@ -101,7 +103,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 17.28
+      "score": 17.19
     },
     {
       "id": "1p6dd60",
@@ -117,28 +119,28 @@
       "image": "",
       "snippet": "Investors are already questioning the debt-fueled expansion of neoclouds and whether the large AI infrastructure build-out will generate long-term returns.",
       "category": "business",
-      "score": 17.1
+      "score": 17.02
     },
     {
-      "id": "1ysc2ss",
-      "title": "Tesla-SpaceX merger explained in charts",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaTg3YkwxT1NhVWFxbXJMb2g2bkk2d1c5bVhLXzZXZXdXRnhiTGh5QTVPSEI4eHdLbEVzaTFnc1h6YW94cTNsTVo5Y0ppakhMSHRiT0t5RFRaM25QcUVTNC1NR2ZCeWpHNmk5aXRYUEJ5elNVWW5PcHhKNEJ2bHNLOUE0UHFKVzJOMVFWNVN3U0daMzNYQVZGajdhU0ZRV0xSalZ6eERfMUxqck91UmJOZmdrclU?oc=5",
-      "source": "Reuters",
+      "id": "1u8af22",
+      "title": "Elon Musk’s AI Odyssey Gets Roasted After First Episode Is Released",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PQUF1RWZESEFLRXpYajJVcTVTYXNMRXNjTXJwS0FuNGpGcGVKenB1czVNQjZ5VVVWZGZLNWdSZHBXalZLUi01OEpPMnlfRmdVT1J5T2dYelFlUURtZ3ctTVZRZ09POWdEM2hGbThDSWFiMG1URFhNR3RQQ2U3NU0?oc=5",
+      "source": "www.techtimes.co.uk",
       "sources": [
-        "Reuters",
-        "Finshots"
+        "www.techtimes.co.uk",
+        "The Independent"
       ],
-      "date": "2026-10-26T01:33:33.000Z",
+      "date": "2026-10-26T11:37:14.000Z",
       "firstSeen": "2026-10-26T12:05:54.338Z",
       "image": "",
       "snippet": "",
-      "category": "space",
-      "score": 16.46
+      "category": "ai",
+      "score": 16.78
     }
   ],
   "trending": [
-    "Tesla",
     "Starlink",
+    "Tesla",
     "SpaceX",
     "Robotics",
     "FSD",
@@ -199,7 +201,7 @@
     },
     {
       "date": "2026-10-26",
-      "total": 118
+      "total": 130
     }
   ],
   "summary": "150 stories (last 24h). Most active frontier: Starlink. Top story: Musk says SpaceX has closed $40 billion in debt to buy AI chips.",
