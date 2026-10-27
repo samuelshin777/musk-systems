@@ -161,11 +161,8 @@ jobs:
           cp -r index.html styles.css assets data news feed.xml sitemap.xml robots.txt llms.txt llms-full.txt _site/
           touch _site/.nojekyll
           cp index.html _site/404.html
-          host=$(node -e "try{const u=new URL(process.env.SITE_URL);if(!/github\.io$/.test(u.hostname))console.log(u.hostname)}catch(e){}")
-          if [ -n "$host" ]; then echo "$host" > _site/CNAME; echo "Custom domain: $host"; fi
+          # No CNAME: the site stays at samuelshin777.github.io/musk-systems so copies on other hosts (Cafe24) can read its data.
           du -sh _site
-        env:
-          SITE_URL: ${{ vars.SITE_URL }}
       - uses: actions/upload-pages-artifact@v3
         with: { path: _site }
       - name: Publish to GitHub Pages
