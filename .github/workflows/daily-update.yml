@@ -32,8 +32,8 @@ jobs:
       HAS_FTP: ${{ vars.DEPLOY_TARGET == 'ftp' && secrets.FTP_SERVER != '' && secrets.FTP_USERNAME != '' && secrets.FTP_PASSWORD != '' }}
       HAS_PAGES: ${{ vars.DEPLOY_TARGET == 'pages' }}
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with: { node-version: 20 }
 
       - name: 1 · Collect and rebuild (news engine)
@@ -74,12 +74,35 @@ jobs:
           git push
 
       # 5a · FTP — your own web host (IIS or Apache)
-      - name: 5 · Deploy over FTP
+      # IIS servers with "FTP virtual host names" reject a plain username with
+      # "530 User cannot log in, home directory inaccessible"; they expect "hostname|username".
+      # This step tries the username as entered, then the IIS form, and passes the one that works on.
+      - name: 5 · FTP login check
+        id: ftpcheck
         if: env.HAS_FTP == 'true'
+        env:
+          FTP_SERVER: ${{ secrets.FTP_SERVER }}
+          FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+        run: |
+          host="${FTP_SERVER#ftp://}"; host="${host#ftps://}"; host="${host%%/*}"; host="${host%%:*}"
+          echo "host=$host" >> "$GITHUB_OUTPUT"
+          try() { curl -sS --ftp-pasv --connect-timeout 20 --max-time 40 -u "$1:$FTP_PASSWORD" "ftp://$host/" -l -o /dev/null 2>/tmp/ftp.err; }
+          if try "$FTP_USERNAME"; then echo "user=$FTP_USERNAME" >> "$GITHUB_OUTPUT"; echo "FTP login OK (username as entered)"; exit 0; fi
+          first="$(cat /tmp/ftp.err)"; echo "Plain username: $first"
+          case "$FTP_USERNAME" in *"|"*) ;; *)
+            if try "$host|$FTP_USERNAME"; then echo "user=$host|$FTP_USERNAME" >> "$GITHUB_OUTPUT"; echo "::notice title=FTP::Logged in with the IIS form host|username"; exit 0; fi
+            echo "IIS form host|username: $(cat /tmp/ftp.err)";;
+          esac
+          echo "::error title=FTP login refused::$first — Check FTP_SERVER (host only, no ftp://), FTP_USERNAME and FTP_PASSWORD. On IIS, set FTP_USERNAME to 'yourdomain.com|username' exactly as your FTP program uses it. The edition itself was built and saved."
+          exit 1
+
+      - name: 5 · Deploy over FTP
+        if: env.HAS_FTP == 'true' && steps.ftpcheck.outcome == 'success'
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
+          server: ${{ steps.ftpcheck.outputs.host }}
+          username: ${{ steps.ftpcheck.outputs.user }}
           password: ${{ secrets.FTP_PASSWORD }}
           server-dir: ${{ vars.FTP_DIR || '/' }}
           exclude: |
@@ -117,7 +140,7 @@ jobs:
             echo "| News engine | ${{ steps.engine.outcome }} |"
             echo "| /goal editor | $([ "$HAS_CLAUDE" = true ] && echo ran || echo 'not set up (optional)') |"
             echo "| Verify | ${{ steps.verify.outcome }} |"
-            echo "| Deploy | $([ "$HAS_FTP" = true ] && echo FTP || ([ "$HAS_PAGES" = true ] && echo 'GitHub Pages' || echo 'skipped — finish SETUP.html')) |"
+            echo "| Deploy | $([ "$HAS_FTP" = true ] && echo "FTP — login ${{ steps.ftpcheck.outcome }}" || ([ "$HAS_PAGES" = true ] && echo 'GitHub Pages' || echo 'skipped — finish SETUP.html')) |"
             echo ""
             node -e "const s=require('./data/status.json');console.log('Stories: '+s.totalItems+' ('+s.newItems+' new) · sources OK: '+s.sourcesOk+'/'+s.sourcesTotal+' · next run: '+s.nextRun)" || true
           } >> "$GITHUB_STEP_SUMMARY"
