@@ -1,6 +1,21 @@
 {
-  "updated": "2026-10-27T05:51:52.747Z",
+  "updated": "2026-10-27T05:55:05.236Z",
   "items": [
+    {
+      "id": "19iatdt",
+      "title": "Tesla FSD Subscriptions: 1.74M vs $1B Run Rate [2026]",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUmg5VUZsOG95RTBEbmFIam1OeldQTXVoUWJUWi05VFhwZzF1RU9yTE5uQllHRDBPS0FEMjVmSzluOHNyQW92YTNEdkZ5LVpnWXpDQTExQXd4eUM2MVVfVVllTDQtZ0dOZlNUOVgzQlIyMkRXaWo5dlYzOTNxUW9LVmdkckRONXA5bUR0SlBWZkxDS1k?oc=5",
+      "source": "https://tech-insider.org/",
+      "sources": [
+        "https://tech-insider.org/"
+      ],
+      "date": "2026-10-27T05:51:56.000Z",
+      "firstSeen": "2026-10-27T05:55:05.236Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 11.99
+    },
     {
       "id": "18yo7k",
       "title": "Starlink Suspends New Customer Connections in Tajikistan",
@@ -14,7 +29,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 11.99
+      "score": 11.98
     },
     {
       "id": "10v310c",
@@ -29,7 +44,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 12.92
+      "score": 12.91
     },
     {
       "id": "1g38zk3",
@@ -44,7 +59,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.8
+      "score": 11.78
     },
     {
       "id": "18p968s",
@@ -59,7 +74,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 11.8
+      "score": 11.78
     },
     {
       "id": "f2blnz",
@@ -74,7 +89,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.78
+      "score": 11.77
     },
     {
       "id": "8ujnmv",
@@ -89,7 +104,7 @@
       "image": "",
       "snippet": "Tesla’s Cybercab line in Texas can now build the two seat robotaxi faster than the company can put it into service, according to Lars Moravy, Tesla’s Vice President of Vehicle Engineering.…",
       "category": "mobility",
-      "score": 13.21
+      "score": 13.2
     },
     {
       "id": "rm7ghm",
@@ -106,7 +121,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 18.17
+      "score": 18.16
     },
     {
       "id": "jdxier",
@@ -121,7 +136,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 12.66
+      "score": 12.65
     },
     {
       "id": "p2k84x",
@@ -136,7 +151,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 11.66
+      "score": 11.64
     },
     {
       "id": "1ty684l",
@@ -151,7 +166,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.64
+      "score": 11.63
     },
     {
       "id": "j0k27e",
@@ -166,7 +181,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 12.63
+      "score": 12.61
     },
     {
       "id": "rzbr8x",
@@ -181,7 +196,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.52
+      "score": 11.51
     },
     {
       "id": "1vljb76",
@@ -196,7 +211,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 12.52
+      "score": 12.51
     },
     {
       "id": "1e517nf",
@@ -211,7 +226,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.51
+      "score": 11.5
     },
     {
       "id": "1wzrtbk",
@@ -226,7 +241,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 11.45
+      "score": 11.44
     },
     {
       "id": "nq85gr",
@@ -241,7 +256,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 11.43
+      "score": 11.41
     },
     {
       "id": "10xz1yu",
@@ -256,7 +271,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 12.42
+      "score": 12.41
     },
     {
       "id": "1rnvvtz",
@@ -271,7 +286,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.37
+      "score": 11.36
     },
     {
       "id": "scgjqi",
@@ -286,7 +301,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 12.36
+      "score": 12.35
     },
     {
       "id": "1lps4sg",
@@ -301,7 +316,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 11.28
+      "score": 11.27
     },
     {
       "id": "1vyrddi",
@@ -316,7 +331,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.27
+      "score": 11.25
     },
     {
       "id": "1ggsz65",
@@ -331,22 +346,23 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.24
+      "score": 11.22
     },
     {
-      "id": "vd29sq",
+      "id": "490vya",
       "title": "Elon Musk Says Merging SpaceX and Tesla Would Be a Good Idea. Here's What Investors Should Know.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWk5sdlNBU2E1VzM1SWJiR25qTUpRT3FFNkNUbUlTanNnR01MaS1ZRHI5ZlhRN2lWMm0ycEItckFMc3lsbW1vUDBxUUd5VTIybVZ1QWlmU0VaSzBidUN5UnVGa0dHZDB4T1loS09XNldhc1NPOThzTmZKNGxtZmdiTEJTMzlLTE9sdGsyb2ozNE5CUko2d2E2Zg?oc=5",
-      "source": "The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcG8zcVdpdC1KeTBDb0lubW0zcy1LeGFQVFRSOUVra3BQTGRSLTd0Rlo0OWlWekp2ZFFnWmpuMGctTEFXZ1JYNnIzSk1TdkJ5Y2J1NG01VngtQWJWeWxKUGRDTEhoZUdydEVFWHl5cUN1MC1xOEY0cDhuY3U3Q0hOLVFCcFEtOEVVdy1nWVJta2lXbnE4ZWk2aWFB?oc=5",
+      "source": "Yahoo Finance",
       "sources": [
-        "The Motley Fool"
+        "The Motley Fool",
+        "Yahoo Finance"
       ],
       "date": "2026-10-27T02:32:04.000Z",
       "firstSeen": "2026-10-27T05:51:52.747Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 12.12
+      "score": 15.6
     },
     {
       "id": "1kjjimq",
@@ -361,7 +377,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 13.61
+      "score": 13.59
     },
     {
       "id": "13j77sj",
@@ -376,7 +392,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 15.61
+      "score": 15.59
     },
     {
       "id": "1uie6hc",
@@ -391,7 +407,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.08
+      "score": 11.07
     },
     {
       "id": "ywyzxx",
@@ -406,7 +422,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.08
+      "score": 13.06
     },
     {
       "id": "12w5g8h",
@@ -421,7 +437,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 12.99
+      "score": 12.98
     },
     {
       "id": "rnfyhk",
@@ -436,7 +452,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 10.99
+      "score": 10.98
     },
     {
       "id": "dkv6wz",
@@ -451,7 +467,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 10.98
+      "score": 10.97
     },
     {
       "id": "viw1hv",
@@ -466,7 +482,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 11.98
+      "score": 11.97
     },
     {
       "id": "5pn571",
@@ -481,7 +497,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 12.94
+      "score": 12.92
     },
     {
       "id": "1p1f33j",
@@ -496,7 +512,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 13.43
+      "score": 13.42
     },
     {
       "id": "6wdh5c",
@@ -511,7 +527,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 10.91
+      "score": 10.9
     },
     {
       "id": "1nafhoe",
@@ -526,7 +542,22 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 10.91
+      "score": 10.9
+    },
+    {
+      "id": "110rz8q",
+      "title": "Tesla Starts Producing Humanoid Robots: Who Could Get Them First",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObkt6YWd3eXdtVUlIaWdjdE1KYnpUUWpmMmtGMTVKV2pyMlUzY1dlcFZHV0MyZkNROWdONDYwSHByMjBZeEdKN3ZqanVKTDEzdmstR3lMU2c2LTUxWFQyVlpublJ3bk56NXlsWjI4aGlsbWxabG5Bbl8zQjlZcFhieHQxWUpBNWczaVZDcGdmMVJOcXRsWS1WaDZ3?oc=5",
+      "source": "DailyVoice.com",
+      "sources": [
+        "DailyVoice.com"
+      ],
+      "date": "2026-10-27T01:38:37.000Z",
+      "firstSeen": "2026-10-27T05:55:05.236Z",
+      "image": "",
+      "snippet": "",
+      "category": "robotics",
+      "score": 12.88
     },
     {
       "id": "1q3vpmk",
@@ -542,7 +573,22 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 15.89
+      "score": 15.87
+    },
+    {
+      "id": "1pdi7sf",
+      "title": "United Airlines CEO Says Starlink Is a Key Factor in Customers’ Flight Choices—Elon Musk Responds",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYnYyUC01SS1helZ0d1N0TFlOT0NERkd2MURKMnJ3Z1JDakVUX2wxM2xiMzVFVHpTZ09nS19ad1YwZXJLUF9oWVRjM1k3R1UycWI4ZkZ3U01KVVFqdEdBQjhZRzlzWjItVDlkRndIdWd2VktYSFlubHVqNHpLcS1zOWJDbFRDdkVxVUtIS25Cb3ZuMnl2Mm9lZENB?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "date": "2026-10-27T01:30:00.000Z",
+      "firstSeen": "2026-10-27T05:55:05.236Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 13.35
     },
     {
       "id": "1cp6pwh",
@@ -557,7 +603,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 10.8
+      "score": 10.79
     },
     {
       "id": "1j6he51",
@@ -572,7 +618,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 10.8
+      "score": 10.79
     },
     {
       "id": "rrfgrv",
@@ -587,7 +633,7 @@
       "image": "",
       "snippet": "",
       "category": "robotics",
-      "score": 10.73
+      "score": 10.72
     },
     {
       "id": "vkatub",
@@ -602,7 +648,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 10.71
+      "score": 10.7
     },
     {
       "id": "sil9c9",
@@ -617,7 +663,7 @@
       "image": "",
       "snippet": "File: A SpaceX Falcon 9 rocket stands in the launch position during sunset at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California. Image: SpaceX SpaceX will…",
       "category": "connectivity",
-      "score": 15.7
+      "score": 15.69
     },
     {
       "id": "15zskvo",
@@ -632,7 +678,22 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 11.69
+      "score": 11.68
+    },
+    {
+      "id": "8wfcj7",
+      "title": "Tesla Stock Eyes Mag 7’s Worst July — Gordon Johnson Says Q2 Numbers Expose FSD’s ‘Ridiculous’ Valuation",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWdPdkF1LVFPb1dNOTBTX2VXS2tzLXFMZm14MWhEWXB6QlFmNFZLVldtSk5lY29vS01fR3lma3l4dGUxaU5wSUJvdFRJZ1o0STV3V21fTFh0TkUyeldvblZITm9XZ1pMS0djczZEM1FaMFItb2p1aHk2eWlTVW5OV0JMdG1selNEWnp5S2JWRVpBVWphOTQza0pNZFA0Y3R0N0Q5ZTRGeUxTUnprV0QzZVFR?oc=5",
+      "source": "Stocktwits",
+      "sources": [
+        "Stocktwits"
+      ],
+      "date": "2026-10-27T00:46:26.000Z",
+      "firstSeen": "2026-10-27T05:55:05.236Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 10.67
     },
     {
       "id": "lo38u5",
@@ -647,7 +708,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 10.67
+      "score": 10.65
     },
     {
       "id": "1legx0m",
@@ -662,7 +723,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 10.66
+      "score": 10.65
     },
     {
       "id": "x6uvb8",
@@ -677,7 +738,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 10.65
+      "score": 10.64
     },
     {
       "id": "z9bozc",
@@ -692,7 +753,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 11.57
+      "score": 11.55
     },
     {
       "id": "1p5tpyz",
@@ -707,7 +768,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 13.46
+      "score": 13.45
     },
     {
       "id": "syx4er",
@@ -715,14 +776,15 @@
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYlZKWkZ0SFR3WXJQbW1veU1yR1Rna2lOT1htSlpDalotbHQ5LXhOeHNQZ3U5UWFZOVFHaTc0OVRGeUVGaHFCUWRJZW9TcHdCb0hEbFJmTVNBT01ianhSUnVJZWh2eW45ajJEdTEtYmxpUWlabENUeWlYVGpvWEExV0xxakJiWWU3RmJ1NUtQdWR5a2std0lzUEhYVGVhQUNaQWRwU3Z0bndPX1JOTHo2SVBCbVdMQXFVUW45ZmNLTlA1Sm8wUjlUR2lCMDNqQTFNRS10dlNCWjhJYnBLaVBmdVpiSlNkTTluSjlINDBNSXZudE9XN0lKZ3ExdHFpQQ?oc=5",
       "source": "Stocktwits",
       "sources": [
-        "Stocktwits"
+        "Stocktwits",
+        "TradingView"
       ],
-      "date": "2026-10-26T23:38:19.000Z",
+      "date": "2026-10-26T23:35:04.000Z",
       "firstSeen": "2026-10-27T01:38:04.331Z",
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 10.41
+      "score": 12.39
     },
     {
       "id": "1o0bax4",
@@ -737,7 +799,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 10.4
+      "score": 10.39
     },
     {
       "id": "8sn5nd",
@@ -752,7 +814,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 10.39
+      "score": 10.37
     },
     {
       "id": "zf21zc",
@@ -767,7 +829,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 11.32
+      "score": 11.31
     },
     {
       "id": "1koxml0",
@@ -782,7 +844,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 10.23
+      "score": 10.22
     },
     {
       "id": "1m6aose",
@@ -797,7 +859,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 12.71
+      "score": 12.69
     },
     {
       "id": "1my7dcz",
@@ -812,7 +874,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 11.69
+      "score": 11.68
     },
     {
       "id": "1fwe2cp",
@@ -827,7 +889,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 11.17
+      "score": 11.16
     },
     {
       "id": "128wa5i",
@@ -842,7 +904,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 10.17
+      "score": 10.16
     },
     {
       "id": "16ealz1",
@@ -857,7 +919,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 12.11
+      "score": 12.09
     },
     {
       "id": "13vap8p",
@@ -865,14 +927,31 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZTVNUEVaakdFeS1DSWljWUMxWjJGN1FIZkpzZ2s1Uko0WEtBNmFsLVYxdHpQQ0RZWjZIWVdYeHdBb09xU3N5Qmp3d2thWEVsakI1MnpURWI0RXloTXlBd2xLVVRQSkludGdZYWZyUVJocDBGT2dMQlYyV3h2Q21PenMtN0M0emFZVFlqYk5tRUhUUXFleUE2cQ?oc=5",
       "source": "Gold Derby",
       "sources": [
-        "Gold Derby"
+        "Gold Derby",
+        "Yahoo"
       ],
       "date": "2026-10-26T22:15:00.000Z",
       "firstSeen": "2026-10-27T01:38:04.331Z",
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 11.09
+      "score": 13.08
+    },
+    {
+      "id": "rn9bcu",
+      "title": "Details as Elon Musk says Ukraine violated Starlink's terms and conditions",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzJTTzAxY0xCeVJCZ3ZjWWlLSmZxZk0zeE81dndISGI2NXd0bzNFdGloZnFKdXYyeWVLbnpuMXFwVF95bkRBZmdEQ0ZiLUE3M3N5c1hrenZlYy03WTBaTlM4bGRuMFgtUkcwZUdxWUwwbkJfWDc3dGVLSUlGMENvNkIxZGgya2hhTjJOYkJ0cUZKZFBfTHlXd0RheUtuczNrZEhTR0pfSQ?oc=5",
+      "source": "CBS News",
+      "sources": [
+        "CBS News",
+        "Yahoo"
+      ],
+      "date": "2026-10-26T22:13:00.000Z",
+      "firstSeen": "2026-10-27T05:55:05.236Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 13.07
     },
     {
       "id": "1b4fean",
@@ -887,7 +966,22 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 10.05
+      "score": 10.04
+    },
+    {
+      "id": "pq022h",
+      "title": "Tesla: Current and upcoming models, prices, specs, and more",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IaWtMS3AxdnhqLXNOTXJmaGRJdmdnMVUwV0lsMmJJbGZ1TlFNX0pMV0VfTkZpMXFwOFZnT2E2UWhrM0dhVFlEUg?oc=5",
+      "source": "Electrek",
+      "sources": [
+        "Electrek"
+      ],
+      "date": "2026-10-26T21:45:54.000Z",
+      "firstSeen": "2026-10-27T05:55:05.236Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 11.47
     },
     {
       "id": "1yw2sun",
@@ -902,7 +996,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 9.98
+      "score": 9.97
     },
     {
       "id": "5kgq4y",
@@ -917,7 +1011,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.97
+      "score": 11.96
     },
     {
       "id": "wksqsk",
@@ -932,7 +1026,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 11.97
+      "score": 11.96
     },
     {
       "id": "y8oktf",
@@ -947,7 +1041,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 10.97
+      "score": 10.96
     },
     {
       "id": "1vu5t9o",
@@ -962,7 +1056,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 10.96
+      "score": 10.95
     },
     {
       "id": "7gqdll",
@@ -977,21 +1071,6 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 9.95
-    },
-    {
-      "id": "1py0rsw",
-      "title": "Tesla Isn’t a Hyperscaler. Why the AI Bears Are Misreading Its $5 Billion Capex Cut.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWjRfMmVucXFSYXJ4bS1FazRfZUVHR2JzWV9ndjc1b0phV0p4ZFB3eklsZHJWdC1DeXNyRjhjRzl5eGgydUhlOTJyLS1vSEdkYUc3aWUwQ29RMmtyUlFRYS1paUFMUW1jeWxZTVRhck82WnBJQ1o3RTBKTlVyd254bkw2d0p5S0pzQzFUcXY1SUE5MTFMNGEwZ0kxUGlBV2JsY2lSOFFWZ0Myck1hODFlRWEyQjRNSGdiWDloTWs0QUs?oc=5",
-      "source": "The Motley Fool",
-      "sources": [
-        "The Motley Fool"
-      ],
-      "date": "2026-10-26T21:33:00.000Z",
-      "firstSeen": "2026-10-27T01:38:04.331Z",
-      "image": "",
-      "snippet": "",
-      "category": "ai",
       "score": 9.94
     },
     {
@@ -1007,7 +1086,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 10.93
+      "score": 10.92
     },
     {
       "id": "1az4xfe",
@@ -1022,7 +1101,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 10.9
+      "score": 10.89
     },
     {
       "id": "sj1p7",
@@ -1037,7 +1116,7 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Model-3.jpeg?quality=82&strip=all&w=1400",
       "snippet": "Tesla Canada has updated the Model 3 Premium Rear-Wheel Drive on its website with 584 km of range and a 0-100 km/h time of 5.2 seconds. Those are the exact specs of the Fremont-built Long…",
       "category": "mobility",
-      "score": 11.39
+      "score": 11.37
     },
     {
       "id": "1kwsqz0",
@@ -1052,7 +1131,7 @@
       "image": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-1.jpeg",
       "snippet": "Four rockets are set to launch this week from the United States and India. SpaceX is set to launch three Falcon 9 rockets, delivering two batches of satellites for their Starlink…",
       "category": "connectivity",
-      "score": 14.86
+      "score": 14.85
     },
     {
       "id": "1d8xp6m",
@@ -1067,7 +1146,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 10.86
+      "score": 10.85
     },
     {
       "id": "1457rij",
@@ -1082,7 +1161,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 9.84
+      "score": 9.83
     },
     {
       "id": "3epvcy",
@@ -1097,7 +1176,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 12.33
+      "score": 12.32
     },
     {
       "id": "ma8qux",
@@ -1112,7 +1191,23 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.82
+      "score": 11.81
+    },
+    {
+      "id": "1py0rsw",
+      "title": "Tesla Isn’t a Hyperscaler. Why the AI Bears Are Misreading Its $5 Billion Capex Cut.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWjRfMmVucXFSYXJ4bS1FazRfZUVHR2JzWV9ndjc1b0phV0p4ZFB3eklsZHJWdC1DeXNyRjhjRzl5eGgydUhlOTJyLS1vSEdkYUc3aWUwQ29RMmtyUlFRYS1paUFMUW1jeWxZTVRhck82WnBJQ1o3RTBKTlVyd254bkw2d0p5S0pzQzFUcXY1SUE5MTFMNGEwZ0kxUGlBV2JsY2lSOFFWZ0Myck1hODFlRWEyQjRNSGdiWDloTWs0QUs?oc=5",
+      "source": "The Motley Fool",
+      "sources": [
+        "The Motley Fool",
+        "The Globe and Mail"
+      ],
+      "date": "2026-10-26T20:59:21.000Z",
+      "firstSeen": "2026-10-27T01:38:04.331Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 11.8
     },
     {
       "id": "mj4abx",
@@ -1127,7 +1222,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 9.78
+      "score": 9.77
     },
     {
       "id": "19eay8w",
@@ -1142,7 +1237,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 12.26
+      "score": 12.25
     },
     {
       "id": "cmypcg",
@@ -1157,7 +1252,22 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 9.76
+      "score": 9.74
+    },
+    {
+      "id": "1f19xmg",
+      "title": "Tesla Stock Surges After Barclays Upgrade on Hopes of a SpaceX Merger",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeVhHakxHRFNMVm1tbG1wa3c5azZwNjJSNHhsbG1qOVhhRWJuLWV6UzB3eXYxLXN5cXRWZmp3QUFpUzZKX09XVnZncEh4LThxQkdmdjZVanN4LUZOTS1NTERaTTBFUmhodXU4UkxqWGxKemd6b0MzOVNJemhQVmlLcU9YbzNOdm9LampXX19iWXI0SFhvbzVMN3B4ZFZrc3UzZ0R3djRNZ3dnb1pTVU8tMlJsSjZ0Ml9vY25uNUR3YVUtRGNFdmEzWk9GS2pRZU00UG1mMWVNSXMxQQ?oc=5",
+      "source": "Investopedia",
+      "sources": [
+        "Investopedia"
+      ],
+      "date": "2026-10-26T20:37:34.000Z",
+      "firstSeen": "2026-10-27T05:55:05.236Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 11.73
     },
     {
       "id": "wy6x7s",
@@ -1172,7 +1282,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 12.72
+      "score": 12.71
     },
     {
       "id": "idy76t",
@@ -1187,7 +1297,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 9.69
+      "score": 9.68
     },
     {
       "id": "5ygwif",
@@ -1202,7 +1312,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 10.63
+      "score": 10.62
     },
     {
       "id": "bthgof",
@@ -1217,7 +1327,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 9.63
+      "score": 9.62
     },
     {
       "id": "1trr71x",
@@ -1232,7 +1342,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 9.62
+      "score": 9.61
     },
     {
       "id": "t66vm3",
@@ -1247,7 +1357,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 10.62
+      "score": 10.61
     },
     {
       "id": "o3ywlw",
@@ -1262,7 +1372,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 11.6
+      "score": 11.59
     },
     {
       "id": "u33ywg",
@@ -1277,7 +1387,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 9.6
+      "score": 9.59
     },
     {
       "id": "smio9y",
@@ -1292,7 +1402,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 10.59
+      "score": 10.58
     },
     {
       "id": "aqcjog",
@@ -1307,7 +1417,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 9.59
+      "score": 9.58
     },
     {
       "id": "2zjom8",
@@ -1322,7 +1432,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 9.58
+      "score": 9.57
     },
     {
       "id": "1utsax8",
@@ -1337,7 +1447,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 11.58
+      "score": 11.57
     },
     {
       "id": "1thsktq",
@@ -1353,7 +1463,22 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 13.57
+      "score": 13.56
+    },
+    {
+      "id": "hqqve3",
+      "title": "Musk’s Starlink explanation challenged by Texas GOP lawmaker",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU0NPaEl6ckpMSG5lMzRfRncxR2dCSmN2SDd3VU1LNTZyUmJ3UEdMa3pRLXdNTFRicEo4NXN2QXpJLWZ5NktKMUNVMzdyT3NkRlk1RlhsQnI5cFVKQXVqblByTE9OeDYtOTVDTlVqOTdKcXcxRGRENVBRYk14YnJ0WVVHR2d5SUFOZUdFRWhFNUszbnpGU3JTTVFhZ3kzbDRHbEhwZnlSN2NsUDdIQ282Rld3LVhycGc?oc=5",
+      "source": "Honolulu Star-Advertiser",
+      "sources": [
+        "Honolulu Star-Advertiser"
+      ],
+      "date": "2026-10-26T19:46:47.000Z",
+      "firstSeen": "2026-10-27T05:55:05.236Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 10.55
     },
     {
       "id": "zngoyf",
@@ -1368,7 +1493,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 11.55
+      "score": 11.54
     },
     {
       "id": "z06rbb",
@@ -1383,7 +1508,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 10.52
+      "score": 10.51
     },
     {
       "id": "1dvy1xk",
@@ -1398,7 +1523,22 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 14
+      "score": 13.99
+    },
+    {
+      "id": "1q23roh",
+      "title": "Tesla FSD Latvia approval: rollout expected soon",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHTGZxdi1hNHFwdjBYQXVJZWFyNjlzT19LVXdhRVRnNU1kZ2UtMHZ4NkI0UVhZV0FMVzBjR3FHQmJUSmh5MWVpeWRfR1lEWXVIT3lEeTZWQm1YT0tTOUl1bWxtM1VZeWJ0YXFvUUpvSTBJcnhDdnJzZEUzVGFLNm8?oc=5",
+      "source": "NeoTeo",
+      "sources": [
+        "NeoTeo"
+      ],
+      "date": "2026-10-26T19:30:27.000Z",
+      "firstSeen": "2026-10-27T05:55:05.236Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 11.49
     },
     {
       "id": "7qf5ok",
@@ -1413,7 +1553,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 12.5
+      "score": 12.49
     },
     {
       "id": "ba68qp",
@@ -1429,7 +1569,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.49
+      "score": 11.47
     },
     {
       "id": "13v5of2",
@@ -1444,7 +1584,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 9.48
+      "score": 9.47
     },
     {
       "id": "vn0x0",
@@ -1459,7 +1599,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 9.47
+      "score": 9.46
     },
     {
       "id": "3dzzi3",
@@ -1474,7 +1614,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 9.44
+      "score": 9.43
     },
     {
       "id": "1a3bryh",
@@ -1489,7 +1629,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.43
+      "score": 11.42
     },
     {
       "id": "1iu6z3n",
@@ -1504,7 +1644,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 9.41
+      "score": 9.39
     },
     {
       "id": "1t3jjrs",
@@ -1519,7 +1659,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 9.39
+      "score": 9.38
     },
     {
       "id": "juxxut",
@@ -1534,7 +1674,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 9.37
+      "score": 9.36
     },
     {
       "id": "i5j1np",
@@ -1550,7 +1690,22 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 13.87
+      "score": 13.86
+    },
+    {
+      "id": "pa934y",
+      "title": "Tesla designed Cybercab battery pack to support cheaper LFP chemistry",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbzh2UFFmVGtyak92TmcyVy03LW43TXJtSFVtS3l1Sk5IbE1fUFVUZzJMYkN4czRJcGtrMmE3SzRDNXBpWmtSdjNFNDBRSHdpUXhVc2VaMjRLVVIxVG5fOEJrVTFkdDUwb2s2N2g4MnFkTWNicTgzbmM4Y0RRYVR1UkZWX1FRLUMwNXc?oc=5",
+      "source": "Drive Tesla Canada",
+      "sources": [
+        "Drive Tesla Canada"
+      ],
+      "date": "2026-10-26T18:51:57.000Z",
+      "firstSeen": "2026-10-27T05:55:05.236Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 9.36
     },
     {
       "id": "1tmw2ab",
@@ -1565,7 +1720,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 10.35
+      "score": 10.34
     },
     {
       "id": "tiskyl",
@@ -1580,7 +1735,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 11.83
+      "score": 11.82
     },
     {
       "id": "1lwh1w",
@@ -1595,7 +1750,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 10.32
+      "score": 10.31
     },
     {
       "id": "7tdnx6",
@@ -1610,7 +1765,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 10.32
+      "score": 10.31
     },
     {
       "id": "177246v",
@@ -1625,7 +1780,7 @@
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f680.png",
       "snippet": "SpaceX’s Raptor engine family has steadily increased sea-level thrust while simultaneously reducing mass, turning iterative engineering gains into substantially higher performance for the…",
       "category": "space",
-      "score": 10.82
+      "score": 10.8
     },
     {
       "id": "qqr0ju",
@@ -1640,7 +1795,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 9.3
+      "score": 9.29
     },
     {
       "id": "105ag22",
@@ -1655,7 +1810,7 @@
       "image": "",
       "snippet": "",
       "category": "robotics",
-      "score": 13.8
+      "score": 13.78
     },
     {
       "id": "whrral",
@@ -1670,7 +1825,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 10.29
+      "score": 10.28
     },
     {
       "id": "mw3e6s",
@@ -1686,7 +1841,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 11.29
+      "score": 11.28
     },
     {
       "id": "1sqyqh8",
@@ -1701,7 +1856,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 10.29
+      "score": 10.28
     },
     {
       "id": "onn2sg",
@@ -1716,7 +1871,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 12.29
+      "score": 12.28
     },
     {
       "id": "p6ybr7",
@@ -1731,7 +1886,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 9.26
+      "score": 9.25
     },
     {
       "id": "58pn0",
@@ -1746,7 +1901,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 9.25
+      "score": 9.24
     },
     {
       "id": "c8jtfs",
@@ -1761,7 +1916,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 9.25
+      "score": 9.24
     },
     {
       "id": "l58cac",
@@ -1776,7 +1931,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 10.24
+      "score": 10.23
     },
     {
       "id": "bsyew5",
@@ -1792,7 +1947,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 11.24
+      "score": 11.23
     },
     {
       "id": "1knnvuh",
@@ -1807,7 +1962,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 9.24
+      "score": 9.23
     },
     {
       "id": "bjevhl",
@@ -1822,7 +1977,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 10.23
+      "score": 10.22
     },
     {
       "id": "1g9eswf",
@@ -1837,7 +1992,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 9.22
+      "score": 9.21
     },
     {
       "id": "vuwrg",
@@ -1852,7 +2007,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 13.22
+      "score": 13.21
     },
     {
       "id": "1qwi7s1",
@@ -1868,7 +2023,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 11.21
+      "score": 11.2
     },
     {
       "id": "1qeqhbm",
@@ -1883,7 +2038,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 11.21
+      "score": 11.19
     },
     {
       "id": "1bnbgqi",
@@ -1898,7 +2053,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 10.2
+      "score": 10.19
     },
     {
       "id": "1l5s0yb",
@@ -1914,7 +2069,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 13.69
+      "score": 13.68
     },
     {
       "id": "rivre6",
@@ -1929,7 +2084,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.69
+      "score": 11.68
     },
     {
       "id": "pic6p2",
@@ -1944,7 +2099,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 9.19
+      "score": 9.18
     },
     {
       "id": "1v6yaof",
@@ -1959,7 +2114,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 11.17
+      "score": 11.16
     },
     {
       "id": "oikuc0",
@@ -1975,7 +2130,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 14.14
+      "score": 14.12
     },
     {
       "id": "sok1si",
@@ -1990,7 +2145,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 9.12
+      "score": 9.11
     },
     {
       "id": "1y30luh",
@@ -2005,7 +2160,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 9.12
+      "score": 9.11
     },
     {
       "id": "c3ybem",
@@ -2020,7 +2175,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 9.12
+      "score": 9.11
     },
     {
       "id": "3kgymr",
@@ -2035,7 +2190,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 11.1
+      "score": 11.09
     },
     {
       "id": "1s4fbs8",
@@ -2050,7 +2205,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 10.6
+      "score": 10.59
     },
     {
       "id": "jy37rm",
@@ -2065,7 +2220,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 10.59
+      "score": 10.58
     },
     {
       "id": "uoj8a9",
@@ -2080,7 +2235,7 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/tesla-robotaxi-houston-geofence-rocket-map.jpg?quality=82&strip=all&w=1600",
       "snippet": "Tesla expanded its Robotaxi service area in Houston today, and it shaped the new geofence like a rocket. Plenty of people on X see something else in it, which is fair given the phallic…",
       "category": "space",
-      "score": 10.57
+      "score": 10.56
     },
     {
       "id": "6wfht5",
@@ -2095,7 +2250,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 11.07
+      "score": 11.06
     },
     {
       "id": "18v62z8",
@@ -2110,158 +2265,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 9.07
-    },
-    {
-      "id": "1ru4euw",
-      "title": "Elon Musk warns of a major AI neocloud shakeout",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWjJGQUdaR1pzVUs0RXE2c1lMWVdSekt5bWFwOXd5MTFkQk8xM3RJdXF2VFo5ZDRITVNYUWRCdFBESU5KOFlCeDZwYzZqNzE2c3ZWUk5HUVZHRHRBcGxtNWV5OFJRVXduZWdIMzQ2QXBUdnpNOHY0aW5JNVIzMEc3MEVFQjFGb3pOYVh5YlNhNjh2RDJNMGlLWnN3?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "date": "2026-10-26T17:18:43.000Z",
-      "firstSeen": "2026-10-27T05:51:52.747Z",
-      "image": "",
-      "snippet": "",
-      "category": "ai",
-      "score": 11.56
-    },
-    {
-      "id": "njei4j",
-      "title": "Elon Musk Is Wrong About Nebius: Rating Upgrade (NASDAQ:NBIS)",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNakVYaWNCcldtc1I4QXV1cDBIWDRJcTJmQlhFakhnR211Q1BleVYwVHpoeWd0N1dzT2VrU2tjYUdnWTB4SnZzUGdGaVhFNHYxdV81UGhFeVdEb1I1ZThmUklwZy1vSDlYWmZ5TEV2R3k5SXI1T1FxQmxBZWdwTWd0M1NCUWFqeWVIZFlmcmFPbjk?oc=5",
-      "source": "Seeking Alpha",
-      "sources": [
-        "Seeking Alpha"
-      ],
-      "date": "2026-10-26T17:17:20.000Z",
-      "firstSeen": "2026-10-27T01:38:04.331Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 10.05
-    },
-    {
-      "id": "z5v33t",
-      "title": "SpaceX aiming for 'profound milestone' with next launch of world’s biggest rocket",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWDlnTVhMRXRQaGIzWFNVVjVOSlJfSTBGU3VfWHJmUWN3Ym8wb2pLVTRjMTlsM05FTEJUeUg3YnQ3LTdMTkVZMWhMeDg5ZXZrdHpEclhTZFA5MDFBWlVjbHh4T092MWdtb0NzVlBLV1Zvck9RakxObnZNSmVFOHNqcXZOYXprV3B1UHVPX3Zud3pJOEVL?oc=5",
-      "source": "The Independent",
-      "sources": [
-        "The Independent"
-      ],
-      "date": "2026-10-26T17:15:00.000Z",
-      "firstSeen": "2026-10-27T01:38:04.331Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 11.04
-    },
-    {
-      "id": "1ibvpn",
-      "title": "Starlink Restrictions Explained: What Enterprises Can Learn",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSjVNLWVCekFKeWxwV1kwazJtNjFhWWM1eEVoVVBGeHJYdVE0Zy11RG1PZ3c1aDNkblBwclNLZXNyeGRYTmVQZWl1ZGI2RXlQUEVkVDN6V3lGOTk2TFZneW5zdzJGZ2puSTE3aUV3QVk0WkVSNzc5T0lTX3Noa0tKVFUzT1VHWmU3R25hTldaQXNPMmlseGs1WlhEaw?oc=5",
-      "source": "TechRepublic",
-      "sources": [
-        "TechRepublic"
-      ],
-      "date": "2026-10-26T17:11:32.000Z",
-      "firstSeen": "2026-10-27T01:38:04.331Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 9.03
-    },
-    {
-      "id": "a81vvn",
-      "title": "Will Elon Musk’s Prediction of ‘Guppy Level Death’ Sink Neoclouds like CoreWeave, Nebius, and Terawulf?",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVmdldVE0Nk9qNUNWYm9tZzZKUV9GM0U1c0JLZVZHNTNjLWZlQ0prREh6V04taWZXY3laUS0wT01oazFPeWtSY2RDT21aNUJrTU9QQjBuT2Y1dlVTRTd4VWtPRUpkYm1BRkw5eFFQYi1CanhURFRYemZXX2w1MXFYWTlKWVd0QQ?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance",
-        "Barron's"
-      ],
-      "date": "2026-10-26T17:06:00.000Z",
-      "firstSeen": "2026-10-27T01:38:04.331Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 13.51
-    },
-    {
-      "id": "1mknu7o",
-      "title": "Grok Bot Explained: Email, DMs, and 100+ Weekly Updates",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQalM0ZEJtQ0Y1a3pjWldkUTF1MFhnOEllWjdjcU10RmwteWxFQnB6dkQtWHd6T24wVVJmZTFsbGFmM0QtTkZJamJOdDA0WU5mR2tJTmppSWo4NlB1Q0w2OUZyZWwwX3puZnFoQ0VsNE5wdDc0QXppM3hfQjdZOGVDRlJjYkdfc0o2bUNqNlZTYw?oc=5",
-      "source": "BASENOR - Tesla Accessories",
-      "sources": [
-        "BASENOR - Tesla Accessories"
-      ],
-      "date": "2026-10-26T17:05:35.000Z",
-      "firstSeen": "2026-10-27T01:38:04.331Z",
-      "image": "",
-      "snippet": "",
-      "category": "ai",
-      "score": 9.01
-    },
-    {
-      "id": "16nyfmn",
-      "title": "Anthropic’s dual-class share structure borrows ideas from Mark Zuckerberg, Elon Musk—and the New York Times",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSXhWeElLWFQtUDdYOFUyZ0llVjZuMEVkVUpnYlFraW5mNDk0bGVIbGFFWXBFblcyczRQYkdHSGVLVjAyaWF3MmhmbGEyMEo0ZHkyUDR3d0Uycm9uVXhXUTZJYUhhbjRfUHBZemp1SXhEQ3RTRHNDblhMdDJPN1A4Z1pSejdmRXU4ckVlaWxtUFFCRkN3UDViQzJWbXA1QWF0Tkg3V19B?oc=5",
-      "source": "Fortune",
-      "sources": [
-        "Fortune"
-      ],
-      "date": "2026-10-26T17:05:00.000Z",
-      "firstSeen": "2026-10-27T01:38:04.331Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 11.51
-    },
-    {
-      "id": "jd8aaq",
-      "title": "Tesla Stock Rises After Barclays Upgrade and Robotaxi Push",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUThIbXNMQmxkZFJUbjVzbE9qOU1DUU1HVGs0X0hzU2FQekNpNEZheTM1Z1Uxa3B5R1N2dUgyREpHT1EzdElTRE4wVVZxY3ZKeHhWME9YTDlSS3NrYzNvYTZMNWZIWWZ2d2FWOVd0N3lMSEJIc0IzWE40eW12c1VyanI5bkRNZVRCWGdQVmNISm94dUZ3SGJfZV9R?oc=5",
-      "source": "Electric Vehicles",
-      "sources": [
-        "Electric Vehicles"
-      ],
-      "date": "2026-10-26T17:01:00.000Z",
-      "firstSeen": "2026-10-27T01:38:04.331Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9
-    },
-    {
-      "id": "qqxa8r",
-      "title": "SpaceX tests all 33 Super Heavy engines ahead of Flight 15 — Space.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX3FMUV9XQXBmdDhFRnJHUUxrclhpa2U3eTNNR3hnMVA5TmpRaVQxbnFpb25mM0ozeVJHNzV3dzJRWkFsM3FKOFVHVTNxM1ctZjk5R3Z3eHBJZUhYTFdCUXM0MlFLVG1pUFhQNjQwREVmRDlmbGRhSGNNYUVOYVRMNUJPY2l0a0lMX1dVSlpNWl9hTXl3N1Q1dXpEVzB3WDFmYWJpWTV3?oc=5",
-      "source": "UA.NEWS",
-      "sources": [
-        "UA.NEWS"
-      ],
-      "date": "2026-10-26T16:54:53.000Z",
-      "firstSeen": "2026-10-27T01:38:04.331Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 8.98
-    },
-    {
-      "id": "xojn17",
-      "title": "Ukraine disputes Musk's claims of Starlink misuse as military connectivity restored",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6aGxoV1RKMGQzMHNueUhkR1FHdU5wQktJZ3Nuam94cUQyYTB5OVhKOGpPN3JhWjdmVmZPU3BjakVyTmdGUnNPNHpvVF91cUNscEo4d1JxTWEwTEZvZk9rN0kwWVIxVzBfSTM1OW9jVTF6RUtlWDBERVVpWQ?oc=5",
-      "source": "The Record from Recorded Future News",
-      "sources": [
-        "The Record from Recorded Future News"
-      ],
-      "date": "2026-10-26T16:48:55.000Z",
-      "firstSeen": "2026-10-27T01:38:04.331Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 9.96
+      "score": 9.05
     }
   ]
 }

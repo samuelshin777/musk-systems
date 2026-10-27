@@ -1,4 +1,4 @@
-MUSK SYSTEMS — KEYWORD & HASHTAG REPORT (auto-generated 2026-10-27T05:51:52.747Z)
+MUSK SYSTEMS — KEYWORD & HASHTAG REPORT (auto-generated 2026-10-27T05:55:05.236Z)
 ==========================================================================
 
 TOP KEYWORDS (by frequency across visible site text + headlines)
@@ -14,43 +14,44 @@ TOP KEYWORDS (by frequency across visible site text + headlines)
 10. Starship
 11. Robotaxi
 12. Grok
-13. Falcon 9
-14. Satellite Internet
-15. Space Exploration
-16. Optimus
+13. Satellite Internet
+14. Space Exploration
+15. Optimus
+16. Falcon 9
 17. TSLA
 18. Future Tech
 19. Nasdaq
-20. Dragon
-21. Starbase
-22. IPO
-23. Electric Vehicles
-24. Tower Catch
-25. Musk Systems
+20. Humanoid Robot
+21. Dragon
+22. Starbase
+23. IPO
+24. Electric Vehicles
+25. Tower Catch
 
 TRENDING TODAY (LAST 24H)
-#Tesla #Starlink #SpaceX #Cybercab #Robotics #FSD
+#Tesla #Starlink #SpaceX #Cybercab #FSD #Robotics
 
 HASHTAGS (score = weighted occurrences)
-#Tesla  (54)
+#Tesla  (60)
 #ElonMusk  (45)
-#Starlink  (43)
-#SpaceX  (39)
-#Robotics  (16)
+#Starlink  (41)
+#SpaceX  (35)
+#Robotics  (18)
 #Cybercab  (15)
-#FSD  (11)
+#FSD  (15)
 #xAI  (10)
 #Neuralink  (9)
 #Starship  (8)
 #Robotaxi  (8)
 #Grok  (7)
-#Falcon9  (7)
 #SatelliteInternet  (7)
 #SpaceExploration  (7)
 #Optimus  (6)
+#Falcon9  (5)
 #TSLA  (5)
 #FutureTech  (5)
 #Nasdaq  (4)
+#HumanoidRobot  (4)
 #SpaceXDragon  (3)
 #Starbase  (3)
 #SpaceXIPO  (3)
@@ -63,7 +64,6 @@ HASHTAGS (score = weighted occurrences)
 #SPCX  (2)
 #Earnings  (2)
 #ReusableRockets  (2)
-#HumanoidRobot  (2)
 #BrainComputerInterface  (2)
 #Blindsight  (1)
 #FalconHeavy  (1)
@@ -74,7 +74,7 @@ HASHTAGS (score = weighted occurrences)
 #ArtificialIntelligence  (1)
 
 READY-TO-POST SETS (3–8 per post)
-Today:      #ElonMusk #Tesla #Starlink #SpaceX #Cybercab #Robotics
+Today:      #ElonMusk #Tesla #Starlink #SpaceX #Cybercab #FSD
 Space:      #ElonMusk #SpaceX #Starship #Starlink #SpaceExploration #Mars
 Tesla:      #ElonMusk #Tesla #Robotaxi #Cybercab #Optimus #AutonomousDriving
 AI/Neuro:   #ElonMusk #xAI #Grok #ArtificialIntelligence #Neuralink #BrainComputerInterface

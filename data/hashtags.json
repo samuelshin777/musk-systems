@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-27T05:51:52.747Z",
+  "updated": "2026-10-27T05:55:05.236Z",
   "hashtags": [
     {
       "tag": "#Tesla",
-      "score": 54
+      "score": 60
     },
     {
       "tag": "#ElonMusk",
@@ -11,15 +11,15 @@
     },
     {
       "tag": "#Starlink",
-      "score": 43
+      "score": 41
     },
     {
       "tag": "#SpaceX",
-      "score": 39
+      "score": 35
     },
     {
       "tag": "#Robotics",
-      "score": 16
+      "score": 18
     },
     {
       "tag": "#Cybercab",
@@ -27,7 +27,7 @@
     },
     {
       "tag": "#FSD",
-      "score": 11
+      "score": 15
     },
     {
       "tag": "#xAI",
@@ -50,10 +50,6 @@
       "score": 7
     },
     {
-      "tag": "#Falcon9",
-      "score": 7
-    },
-    {
       "tag": "#SatelliteInternet",
       "score": 7
     },
@@ -66,6 +62,10 @@
       "score": 6
     },
     {
+      "tag": "#Falcon9",
+      "score": 5
+    },
+    {
       "tag": "#TSLA",
       "score": 5
     },
@@ -75,6 +75,10 @@
     },
     {
       "tag": "#Nasdaq",
+      "score": 4
+    },
+    {
+      "tag": "#HumanoidRobot",
       "score": 4
     },
     {
@@ -126,10 +130,6 @@
       "score": 2
     },
     {
-      "tag": "#HumanoidRobot",
-      "score": 2
-    },
-    {
       "tag": "#BrainComputerInterface",
       "score": 2
     },
@@ -175,18 +175,18 @@
     "Starship",
     "Robotaxi",
     "Grok",
-    "Falcon 9",
     "Satellite Internet",
     "Space Exploration",
     "Optimus",
+    "Falcon 9",
     "TSLA",
     "Future Tech",
     "Nasdaq",
+    "Humanoid Robot",
     "Dragon",
     "Starbase",
     "IPO",
     "Electric Vehicles",
-    "Tower Catch",
-    "Musk Systems"
+    "Tower Catch"
   ]
 }

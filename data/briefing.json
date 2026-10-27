@@ -3,12 +3,12 @@
   "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "connectivity": 44,
-    "mobility": 38,
-    "space": 26,
-    "ai": 17,
-    "business": 23,
-    "robotics": 2
+    "mobility": 42,
+    "connectivity": 45,
+    "space": 25,
+    "ai": 15,
+    "business": 20,
+    "robotics": 3
   },
   "topStory": {
     "id": "rm7ghm",
@@ -25,7 +25,7 @@
     "image": "",
     "snippet": "",
     "category": "ai",
-    "score": 18.17
+    "score": 18.16
   },
   "topList": [
     {
@@ -42,7 +42,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 15.89
+      "score": 15.87
     },
     {
       "id": "sil9c9",
@@ -57,7 +57,23 @@
       "image": "",
       "snippet": "File: A SpaceX Falcon 9 rocket stands in the launch position during sunset at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California. Image: SpaceX SpaceX will…",
       "category": "connectivity",
-      "score": 15.7
+      "score": 15.69
+    },
+    {
+      "id": "490vya",
+      "title": "Elon Musk Says Merging SpaceX and Tesla Would Be a Good Idea. Here's What Investors Should Know.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcG8zcVdpdC1KeTBDb0lubW0zcy1LeGFQVFRSOUVra3BQTGRSLTd0Rlo0OWlWekp2ZFFnWmpuMGctTEFXZ1JYNnIzSk1TdkJ5Y2J1NG01VngtQWJWeWxKUGRDTEhoZUdydEVFWHl5cUN1MC1xOEY0cDhuY3U3Q0hOLVFCcFEtOEVVdy1nWVJta2lXbnE4ZWk2aWFB?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "The Motley Fool",
+        "Yahoo Finance"
+      ],
+      "date": "2026-10-27T02:32:04.000Z",
+      "firstSeen": "2026-10-27T05:51:52.747Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 15.6
     },
     {
       "id": "13j77sj",
@@ -72,7 +88,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 15.61
+      "score": 15.59
     },
     {
       "id": "1kwsqz0",
@@ -87,7 +103,7 @@
       "image": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-1.jpeg",
       "snippet": "Four rockets are set to launch this week from the United States and India. SpaceX is set to launch three Falcon 9 rockets, delivering two batches of satellites for their Starlink…",
       "category": "connectivity",
-      "score": 14.86
+      "score": 14.85
     },
     {
       "id": "oikuc0",
@@ -103,22 +119,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 14.14
-    },
-    {
-      "id": "1dvy1xk",
-      "title": "Anthropic IPO Prospectus and Elon Musk Takes a Shot at Neoclouds",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNGdLUUQ0UG9KUTNvemJtNXQ5aFJ4c3VLSG4yekVpUXNKSGZZWDZqbjJGU19NQVVtcWlZTldYTklmbld5Z1ZySUxMV256eWFobm5GS0ZVaVQyckQxYjBUd1hfamFNcWY1aWphcHJvYWg5UGpNSnFodUVVQmtKdlEwMHJ5Nkk0Z1d5?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "date": "2026-10-26T19:31:40.000Z",
-      "firstSeen": "2026-10-27T01:38:04.331Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 14
+      "score": 14.12
     }
   ],
   "trending": [
@@ -126,8 +127,8 @@
     "Starlink",
     "SpaceX",
     "Cybercab",
-    "Robotics",
-    "FSD"
+    "FSD",
+    "Robotics"
   ],
   "spark": [
     {
@@ -184,7 +185,7 @@
     },
     {
       "date": "2026-10-27",
-      "total": 46
+      "total": 50
     }
   ],
   "summary": "150 stories (last 24h). Most active frontier: Starlink. Top story: Elon Musk Predicts a Wave of Failures Among AI Cloud Companies. Is SpaceX Stock a Sell?.",

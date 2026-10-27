@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T05:51:52.747Z",
+  "updated": "2026-10-27T05:55:05.236Z",
   "answers": [
     {
       "q": "What is the latest Elon Musk news today?",
@@ -51,8 +51,14 @@
     },
     {
       "q": "What is Tesla working on right now?",
-      "a": "Cybercab and Robotaxi: First Cybercab rides reported alongside Q3 2026 results. Optimus: Output targeted toward the end of 2026. Latest: Cybercab Has No Pedals: 125,000 Exemption Cap [2026] (https://tech-insider.org/, 27 Oct 2026); The Cybercab Rollout, Explained in 5 Points (BASENOR - Tesla Accessories, 27 Oct 2026).",
+      "a": "Cybercab and Robotaxi: First Cybercab rides reported alongside Q3 2026 results. Optimus: Output targeted toward the end of 2026. Latest: Tesla FSD Subscriptions: 1.74M vs $1B Run Rate [2026] (https://tech-insider.org/, 27 Oct 2026); Cybercab Has No Pedals: 125,000 Exemption Cap [2026] (https://tech-insider.org/, 27 Oct 2026).",
       "links": [
+        {
+          "title": "Tesla FSD Subscriptions: 1.74M vs $1B Run Rate [2026]",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUmg5VUZsOG95RTBEbmFIam1OeldQTXVoUWJUWi05VFhwZzF1RU9yTE5uQllHRDBPS0FEMjVmSzluOHNyQW92YTNEdkZ5LVpnWXpDQTExQXd4eUM2MVVfVVllTDQtZ0dOZlNUOVgzQlIyMkRXaWo5dlYzOTNxUW9LVmdkckRONXA5bUR0SlBWZkxDS1k?oc=5",
+          "source": "https://tech-insider.org/",
+          "date": "2026-10-27T05:51:56.000Z"
+        },
         {
           "title": "Cybercab Has No Pedals: 125,000 Exemption Cap [2026]",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHZrZlFHZTUwUi1KOXBOM2JMTXFaamVqYzJ6Zm1OeXJlMGpSaWtTMW9RNzNTTXA3Ynp3SUZmSmthaFpyOG4wTjc0bHFTZWZpLVlrdW93ZHhaTjZFNG9WS2UybEhyZE5VLWx2NXJrRElyQk0zRnJIMTRObzZJWkE4RVFTMWdBYzQ?oc=5",
@@ -64,12 +70,6 @@
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd1ZURjUwcWpmVkhaXzl1c2ZQeHdITWJvVG1NTnZZalB4OVozY1lJMlNFT0U4ZUJzbDRVUmR5T1dzNFg5bVhlWUI3amUwT2tWTEYydDc1LUd6NjY2d1NVaFBPNHJyeEpOaG10eF9zV2Q0ZUFfOHJhVTJaeHFMTXQzd3pGZw?oc=5",
           "source": "BASENOR - Tesla Accessories",
           "date": "2026-10-27T05:04:10.000Z"
-        },
-        {
-          "title": "Tesla has a Cybercab problem nobody saw coming",
-          "url": "https://www.teslarati.com/tesla-has-a-cybercab-problem-nobody-saw-coming/",
-          "source": "Teslarati",
-          "date": "2026-10-27T04:49:20.000Z"
         }
       ]
     },

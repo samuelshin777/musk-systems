@@ -1,6 +1,6 @@
 # Musk Systems — Elon Musk achievements, projects and daily news
 
-> Unofficial fan tribute that documents Elon Musk's achievements and tracks his current projects (SpaceX, Starship, Starlink, Tesla, Optimus, Cybercab, xAI/Grok, Neuralink, The Boring Company). A new daily edition is generated automatically (DAILY 07:47 KST). Last update: 2026-10-27T05:51:52.747Z.
+> Unofficial fan tribute that documents Elon Musk's achievements and tracks his current projects (SpaceX, Starship, Starlink, Tesla, Optimus, Cybercab, xAI/Grok, Neuralink, The Boring Company). A new daily edition is generated automatically (DAILY 07:47 KST). Last update: 2026-10-27T05:55:05.236Z.
 
 ## Today's briefing
 150 stories (last 24h). Most active frontier: Starlink. Top story: Elon Musk Predicts a Wave of Failures Among AI Cloud Companies. Is SpaceX Stock a Sell?.
@@ -20,6 +20,7 @@
 - Machine-readable data: https://elonmusksystem.com/data/news.json, https://elonmusksystem.com/data/briefing.json, https://elonmusksystem.com/data/projects.json, https://elonmusksystem.com/data/hashtags.json
 
 ## Latest headlines (links go to original publishers)
+- 2026-10-27 [Tesla] Tesla FSD Subscriptions: 1.74M vs $1B Run Rate [2026] — https://tech-insider.org/: https://news.google.com/rss/articles/CBMikwFBVV95cUxQUmg5VUZsOG95RTBEbmFIam1OeldQTXVoUWJUWi05VFhwZzF1RU9yTE5uQllHRDBPS0FEMjVmSzluOHNyQW92YTNEdkZ5LVpnWXpDQTExQXd4eUM2MVVfVVllTDQtZ0dOZlNUOVgzQlIyMkRXaWo5dlYzOTNxUW9LVmdkckRONXA5bUR0SlBWZkxDS1k?oc=5
 - 2026-10-27 [Starlink] Starlink Suspends New Customer Connections in Tajikistan — Caspian Post: https://news.google.com/rss/articles/CBMilgFBVV95cUxNSDIxTjd0WWxEVnI0Y2M5cGZoVElsRjN2cmNPazFuZ3BRNTBsc0pqWGs4cnZsU2Q1VDd3dG5fc29OWmswbEhoNEJlX2JGWXkyR245dW01Rm9mVkltZXVOQmNjR1NoNFY2OTBjMG11UGhqMWM4VnJ3ZUNwM0ZxZTFaUWZWalJ3a2F5NWFRdk9qSmpOTEdZY1E?oc=5
 - 2026-10-27 [Starlink] Verizon CEO Open to Working With Elon Musk's Starlink, But There’s One Deal He Won’t Touch: ‘No Benefit W — Benzinga: https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ196NnF6SlFNdnJ2YjUxekQwVXc4NjVsbUNxWHNYb0h1bE5yT2lEbXBEQ2xUT29RaURVSzhuZlJkQks3T2huX3NpT0FBdnByNkxZQXNiZE9LN0VEaXozSEI4YURKY2FrNjJiR1RJUlpXTDUwLWoycGRLZktIaUdLbXNjN3lDZzJr?oc=5
 - 2026-10-27 [Tesla] Cybercab Has No Pedals: 125,000 Exemption Cap [2026] — https://tech-insider.org/: https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHZrZlFHZTUwUi1KOXBOM2JMTXFaamVqYzJ6Zm1OeXJlMGpSaWtTMW9RNzNTTXA3Ynp3SUZmSmthaFpyOG4wTjc0bHFTZWZpLVlrdW93ZHhaTjZFNG9WS2UybEhyZE5VLWx2NXJrRElyQk0zRnJIMTRObzZJWkE4RVFTMWdBYzQ?oc=5
@@ -39,7 +40,6 @@
 - 2026-10-27 [Business] Skydance’s Elon Musk Problem Inside Warner Bros. — puck.news: https://news.google.com/rss/articles/CBMiigFBVV95cUxQbXp0LVhHYmNhTXEzTFh5UWxJbC1vZkkwbXNEcFBSRHNwWmltcmJFQUpwLUxoWFBaZTRvb0VhOEVNZXRyRHBiWGs0U1VUc0YwbV9TblNoVjVDSEZTeEJRemszck9TWjBaQzNhamstVlNjdF8ySi1GV0NvMGZIRWU5Ym5IX0oxTVc4UlE?oc=5
 - 2026-10-27 [Tesla] South Korea charges 80 for illegal Tesla FSD activation — Chosunbiz: https://news.google.com/rss/articles/CBMigAFBVV95cUxNYTBrSEo5YUZGZjUzVTRLQ2NHTi1CV2EyT25abEJiQ3RCa2xGSUNQb2N2cnk3OTduMUtXSG1WdWlXN1BrOS1CRE4xVkZkNDFQeFhDVHRVUEhyRTZvaWhjNVlKdmUtY05ERlhHUEtCSDVsMXFuZFBrRllxakFIZ0IwedIBlAFBVV95cUxOU2NsclBQaExDdi1pYWJaVjE4NDNUNmw5YVd0YTltM3U5X0NEOWx5VHhhbEkzcGxCV1I2VzQtS3Z6MjkzdTdJMGtZakN5YXE2TmVNUEdJM1F5MHNWQlJLOFd3TF9FbGdMS2kxbFpERHlDYjJjVTRRM000clhDRHEzYWZlUUx4Rm5reVBRYW01eXk0cVlM?oc=5
 - 2026-10-27 [Starlink] Marco Rubio Says Elon Musk’s SpaceX, Not White House, Controls Ukraine’s Starlink, After Trump Said ‘I Don’t Know Who Did It’ — Yahoo: https://news.google.com/rss/articles/CBMijwFBVV95cUxPT2RnQ1dUZVlWMmdvem5VaTJfZ1BsUGJEa2FqODlaaXZaczlWS3RBTVAwc0k1bVRaLTRRSTVKTXJJODE4WEt5VHE5ajV2Y0ljYm0xRENQVUJlUUNYcGlnUmlyNGc1ZG1sZG52T1h2MUJNSmtEdnlwVVlfdWIzM3ltOW4ySUE5M1JDWDFycmNBRQ?oc=5
-- 2026-10-27 [Starlink] From Ukraine’s Starlink dependency to India’s NavIC challenge—lessons in space sovereignty — ThePrint: https://news.google.com/rss/articles/CBMijAFBVV95cUxOSVY4dHdYcDFGV19FR2ExUmRTQWUxMFo1UWZ6ZEp2b21lRFRBQTBRa0NFSkhZdWczT01UbzFNYnZmSkM0MjV5YTQ2blJ6dEUwWHg5MG14cXVTM3AxR3dzZ0lkMGdNQ3RrREtXNFBYZk45eldxNFM3R0NfcjlsaGxiWkhQamZTY2lIVXhVONIBkgFBVV95cUxPY0lpYmtDYm5sRmFWMWpmZF80NlhPNUQ3N21zYWE0TW5EYWRyYkFxN2NQR0EtRkZYbGFOOVhPcVZHZHdBNFY2SlU4TW55YTUta0ZfNlo3U1dyZlFiYmh5OEltRmgxeUF0TXhzUURHVUhGR1VqeEdUTnJ5dzgtZ1RuOUE5OHRFUmdUR2NZVTJ1aTBxQQ?oc=5
 
 ## Projects in motion
 - Starship (SpaceX) — TESTING: Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate
@@ -50,7 +50,7 @@
 - Grok & orbital compute (SpaceX · xAI) — SHIPPING: $40B in debt closed for GPUs arriving in 2027; Grok releasing an AI-generated video series
 
 ## Topics and hashtags (auto-generated from site text and headlines)
-#Tesla #ElonMusk #Starlink #SpaceX #Robotics #Cybercab #FSD #xAI #Neuralink #Starship #Robotaxi #Grok #Falcon9 #SatelliteInternet #SpaceExploration #Optimus #TSLA #FutureTech #Nasdaq #SpaceXDragon #Starbase #SpaceXIPO #ElectricVehicles #TowerCatch #MuskSystems
+#Tesla #ElonMusk #Starlink #SpaceX #Robotics #Cybercab #FSD #xAI #Neuralink #Starship #Robotaxi #Grok #SatelliteInternet #SpaceExploration #Optimus #Falcon9 #TSLA #FutureTech #Nasdaq #HumanoidRobot #SpaceXDragon #Starbase #SpaceXIPO #ElectricVehicles #TowerCatch
 
 ## Editorial note
 Independent, unofficial fan site. Not affiliated with or endorsed by Elon Musk, SpaceX, Tesla, xAI, X, Neuralink or The Boring Company. Not investment advice.
