@@ -55,11 +55,13 @@
       "robotics": 2
     },
     "2026-10-27": {
-      "total": 8,
-      "business": 2,
-      "connectivity": 3,
-      "ai": 1,
-      "mobility": 2
+      "total": 46,
+      "connectivity": 13,
+      "mobility": 15,
+      "space": 7,
+      "ai": 3,
+      "business": 7,
+      "robotics": 1
     }
   }
 }

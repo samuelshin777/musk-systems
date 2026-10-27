@@ -1,99 +1,99 @@
 {
-  "updated": "2026-10-27T01:38:04.331Z",
+  "updated": "2026-10-27T05:51:52.747Z",
   "answers": [
     {
       "q": "What is the latest Elon Musk news today?",
       "a": "As of 27 Oct 2026: Elon Musk said SpaceX has closed $40 billion in debt to buy AI chips arriving in 2027, though Bloomberg reported pricing talks were still under way. SpaceX and Tesla have each formed special board committees of independent directors to review a possible merger; no terms have been agreed. Musk said Starship Flight 15, which is set to attempt the first tower catch of the ship itself, could fly within about four to six weeks of mid-October.",
       "links": [
         {
+          "title": "Elon Musk Predicts a Wave of Failures Among AI Cloud Companies. Is SpaceX Stock a Sell?",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUU50Vnc2NGRCRHktMk40UUtnRjlNZ1pLUmpJYWVzSzVCOVRLSExMQm1lMXVVNDQzc085anBuRzZ1QjlLeGhHUURhN3BlU3NLMUk1R3dtX05SUzllUWNYdnFiY25LamswNzdYa3g5LU9CUEJsT0V5ZTVpR2sxcF9NMVBNWmx2ZDlzdVdWdzd2NEZENXBRRGwyeGpQTlI?oc=5",
+          "source": "Yahoo Finance",
+          "date": "2026-10-27T04:39:35.000Z"
+        },
+        {
+          "title": "Elon Musk Hires Snapchat’s First Product Manager at X",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzdkQzbWM1dzkxeC1WZGJ6bDBLSHNaS1d5TW5fR244WnB6U29NWm43VTlLc2xDS1lCMkxnZHdxT0pCQWJYNEJ3ZjlXVl9VaEdlX1c5XzVYbHhta1FiX051VW15UUEyV205OUE?oc=5",
+          "source": "BeInCrypto",
+          "date": "2026-10-27T01:36:35.000Z"
+        },
+        {
           "title": "West Coast Falcon 9 rocket to launch 27 Starlink satellites",
           "url": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
           "source": "Spaceflight Now",
           "date": "2026-10-27T00:50:37.000Z"
-        },
-        {
-          "title": "SpaceX ignites giant Super Heavy booster engines ahead of daring Starship launch (video)",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-ignites-giant-super-heavy-booster-engines-ahead-of-daring-starship-launch-video",
-          "source": "Space.com",
-          "date": "2026-10-26T16:00:00.000Z"
-        },
-        {
-          "title": "Launch Preview: Falcon 9 and GSLV rockets scheduled to launch",
-          "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102626/",
-          "source": "NASASpaceflight",
-          "date": "2026-10-26T21:11:56.000Z"
         }
       ]
     },
     {
       "q": "What is SpaceX working on right now?",
-      "a": "Starship: Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate. Starlink: 10,000+ satellites; V3 satellites now flying on Starship. Latest: Verizon CEO threatens to ‘punch’ Starlink Mobile, teases faster FWA, touts $2B AWS dark fiber deal (SDxCentral, 27 Oct 2026); Satcom and Starlink: Reviving a faltered dream, with a bigger constellation | Business News (Hindustan Times, 27 Oct 2026).",
+      "a": "Starship: Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate. Starlink: 10,000+ satellites; V3 satellites now flying on Starship. Latest: Starlink Suspends New Customer Connections in Tajikistan (Caspian Post, 27 Oct 2026); Verizon CEO Open to Working With Elon Musk's Starlink, But There’s One Deal He Won’t Touch: ‘No Benefit W (Benzinga, 27 Oct 2026).",
       "links": [
         {
-          "title": "Verizon CEO threatens to ‘punch’ Starlink Mobile, teases faster FWA, touts $2B AWS dark fiber deal",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNk1tWjFHcHpvVlE5SzhJQmp3VTU3TzA2MU1YcVhJOFB0ckJDUGw0aW10S1VBc3ZndmpZWld0ZTBCcVJyT2xiVmd3ZWRIbkdKR2s5SktGc3prX0oySXRWWjdheFFkS0FNejhNTXdVMDQzRi1xTG0tSVNvRzVITjFsa1pPZVhjUTBlaHE0ZDgxODVfa3B2akV3bkVOT3ZGTV9qX29wYTh5YzcwSWxCaG4wQnNyUy03WGVXLUl1a0s0WEdEX2VC?oc=5",
-          "source": "SDxCentral",
-          "date": "2026-10-27T01:16:53.000Z"
+          "title": "Starlink Suspends New Customer Connections in Tajikistan",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSDIxTjd0WWxEVnI0Y2M5cGZoVElsRjN2cmNPazFuZ3BRNTBsc0pqWGs4cnZsU2Q1VDd3dG5fc29OWmswbEhoNEJlX2JGWXkyR245dW01Rm9mVkltZXVOQmNjR1NoNFY2OTBjMG11UGhqMWM4VnJ3ZUNwM0ZxZTFaUWZWalJ3a2F5NWFRdk9qSmpOTEdZY1E?oc=5",
+          "source": "Caspian Post",
+          "date": "2026-10-27T05:50:40.000Z"
         },
         {
-          "title": "Satcom and Starlink: Reviving a faltered dream, with a bigger constellation | Business News",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb3RIR3hIenlvcG1YSmRXbDc1cFNQMEliRkdTZTBtcGQ5dHpQYWxwU3YyaWV0cDlmU1dyOUZDVk5JbUl5VlZERUo2SWwyWjNTNk4yRDJnbU1RUlVBVGtVMHFBVFVuX0ZQY3N3MUc2eldIU1ktNWQ2elpyZE5HVXhFVnBwNWl6dV9hc0ltTXkyaS1RQVVMZ3doSFNpR0pqQ0xQYlFTWURuakpMNXNmWi0yeTZSb0FSSzk5bFlZVnloTUVRaVlRVGR1dGQwQkpCNzTSAdQBQVVfeXFMTzRaalc5SXpEVzBvajJMNmZfQTBJMUNRWW1xeFJxMmpoU1dSSjZ3aWxCejVsVkpiZ29UUzFXV2NLUkR3cERVQmt5ZFpXSFNhUHVHLTZfZk9PVHRkekNMWUdCSjdqbUo5bnBpUmYzQnFESlNSUzd0NlpHQ3pCN1pMdkt2WWxPN3g0aTdIdTRGS3RSR0ZyMlFPVUtRMEgtTC1WbjN0aDFVTFptMmgwQmRlQUhNdW1DZGlMdlh5NjFORDhHZ1AzLVY0T041NFpQUm5kZzAzRkw?oc=5",
-          "source": "Hindustan Times",
-          "date": "2026-10-27T01:15:28.000Z"
+          "title": "Verizon CEO Open to Working With Elon Musk's Starlink, But There’s One Deal He Won’t Touch: ‘No Benefit W",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ196NnF6SlFNdnJ2YjUxekQwVXc4NjVsbUNxWHNYb0h1bE5yT2lEbXBEQ2xUT29RaURVSzhuZlJkQks3T2huX3NpT0FBdnByNkxZQXNiZE9LN0VEaXozSEI4YURKY2FrNjJiR1RJUlpXTDUwLWoycGRLZktIaUdLbXNjN3lDZzJr?oc=5",
+          "source": "Benzinga",
+          "date": "2026-10-27T05:35:14.000Z"
         },
         {
-          "title": "West Coast Falcon 9 rocket to launch 27 Starlink satellites",
-          "url": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
-          "source": "Spaceflight Now",
-          "date": "2026-10-27T00:50:37.000Z"
+          "title": "SpaceX Gigabay Takes Shape as Starbase Eyes Massive Expansion",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdzFyWEVmbnJ6ZGd5eW1vVzVvam1xNzZ0b3BZQlQ3SEVtT1RsTlhTMzlPeTBnTUViNFpRQkFOUTZ1UzZYOFZEZEJuRXhocnZFQkowQkpTSUt2NVpyUWNmb3FLMTA0Yk1NTUlzcERXRmxkQUdfX2NfeWpPLTEzUFZBYmtOMFJWT3Bkc2Z0c2ZfQVNTcFp2ck9jeXZWT2o?oc=5",
+          "source": "BASENOR - Tesla Accessories",
+          "date": "2026-10-27T05:07:09.000Z"
         }
       ]
     },
     {
       "q": "What is Tesla working on right now?",
-      "a": "Cybercab and Robotaxi: First Cybercab rides reported alongside Q3 2026 results. Optimus: Output targeted toward the end of 2026. Latest: Tesla expands Houston robotaxi zone tenfold but has just 34 vehicles (디지털투데이, 27 Oct 2026); Tesla Designed The Cybercab To Use LFP Cells In The Future (InsideEVs, 27 Oct 2026).",
+      "a": "Cybercab and Robotaxi: First Cybercab rides reported alongside Q3 2026 results. Optimus: Output targeted toward the end of 2026. Latest: Cybercab Has No Pedals: 125,000 Exemption Cap [2026] (https://tech-insider.org/, 27 Oct 2026); The Cybercab Rollout, Explained in 5 Points (BASENOR - Tesla Accessories, 27 Oct 2026).",
       "links": [
         {
-          "title": "Tesla expands Houston robotaxi zone tenfold but has just 34 vehicles",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU0NQLTB3X2hTamZURDNTeDFMVzlDMURSZzh3YlVBbWVJRnF3Vkd1X3pDeFRaSUxkOFEwNkNuNnVlMFBwWjRsamhZZnZOSkctVTVMQWYxeFJtZUVrQl9yOEV4UEs2emoxXzJRTklDR3FBVVVLY3FmbUlGLUlvajhnUDBXamtTVnh1eW9Oa3gyOVA0ckJDaUpVQ2s1RUI0aHkzSURhdnkzNllLYzZiZVVoSC1PR0I?oc=5",
-          "source": "디지털투데이",
-          "date": "2026-10-27T00:40:47.000Z"
+          "title": "Cybercab Has No Pedals: 125,000 Exemption Cap [2026]",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHZrZlFHZTUwUi1KOXBOM2JMTXFaamVqYzJ6Zm1OeXJlMGpSaWtTMW9RNzNTTXA3Ynp3SUZmSmthaFpyOG4wTjc0bHFTZWZpLVlrdW93ZHhaTjZFNG9WS2UybEhyZE5VLWx2NXJrRElyQk0zRnJIMTRObzZJWkE4RVFTMWdBYzQ?oc=5",
+          "source": "https://tech-insider.org/",
+          "date": "2026-10-27T05:07:14.000Z"
         },
         {
-          "title": "Tesla Designed The Cybercab To Use LFP Cells In The Future",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KNU9nQjZJakgwRkpIR3pkUm1mYklmcFhpUmdGQ1M3VXJxYmxQaDZNZnNtR280TDRlYjVnT1FyZE52QkkxS2NFc3ByTTI2WGZjaUtQOVFtTUpzeGdudFJnT29MbTFkSmRGS1NlTWgxUjV4LWtBWnNxQnRCcw?oc=5",
-          "source": "InsideEVs",
-          "date": "2026-10-27T00:39:36.000Z"
+          "title": "The Cybercab Rollout, Explained in 5 Points",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd1ZURjUwcWpmVkhaXzl1c2ZQeHdITWJvVG1NTnZZalB4OVozY1lJMlNFT0U4ZUJzbDRVUmR5T1dzNFg5bVhlWUI3amUwT2tWTEYydDc1LUd6NjY2d1NVaFBPNHJyeEpOaG10eF9zV2Q0ZUFfOHJhVTJaeHFMTXQzd3pGZw?oc=5",
+          "source": "BASENOR - Tesla Accessories",
+          "date": "2026-10-27T05:04:10.000Z"
         },
         {
-          "title": "Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYmluRnNVZjR4UlRKZ0gtbEh3NTc3Y1I1TVkxT2ZxUjBYX2ZiMThxbXhRVjFOWGt2VWdwZGw0YzFKM2VCU1BJS2NxMk1Ca0VscldVVDhIVHp6d2hiX29rdnRkUkVfSzFHd0JYTTFKbWItSzVfNHZBRjZubnFXeVFnU3ozWFJXUlZzUFpaOGk1MGJXMm4zNnI1N2xOQ21tbWx1YlNVQmxKazZNNEJSbDJ0b1JoSVFzVTZiWWZsb19SQy1lZEk5M3pNajZDM2VwSnlpOHVuTi1QTC04ZVk?oc=5",
-          "source": "Investor's Business Daily",
-          "date": "2026-10-26T23:51:00.000Z"
+          "title": "Tesla has a Cybercab problem nobody saw coming",
+          "url": "https://www.teslarati.com/tesla-has-a-cybercab-problem-nobody-saw-coming/",
+          "source": "Teslarati",
+          "date": "2026-10-27T04:49:20.000Z"
         }
       ]
     },
     {
       "q": "What are xAI and Neuralink doing now?",
-      "a": "xAI and Grok: $40B in debt closed for GPUs arriving in 2027; Grok releasing an AI-generated video series. Neuralink: Next-generation implant with more channels unveiled in October. Latest: Local AI expert weighs in as Musk offers dim forecast for neocloud companies (KSL, 27 Oct 2026); Elon Musk’s AI ‘The Odyssey’ Is Absolute Garbage And It Stinks (Forbes, 26 Oct 2026).",
+      "a": "xAI and Grok: $40B in debt closed for GPUs arriving in 2027; Grok releasing an AI-generated video series. Neuralink: Next-generation implant with more channels unveiled in October. Latest: Elon Musk Predicts a Wave of Failures Among AI Cloud Companies. Is SpaceX Stock a Sell? (Yahoo Finance, 27 Oct 2026); Pushed to pick in midterm races, Grok chose Republicans and OpenAI's model chose Democrats (Buttondown, 27 Oct 2026).",
       "links": [
+        {
+          "title": "Elon Musk Predicts a Wave of Failures Among AI Cloud Companies. Is SpaceX Stock a Sell?",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUU50Vnc2NGRCRHktMk40UUtnRjlNZ1pLUmpJYWVzSzVCOVRLSExMQm1lMXVVNDQzc085anBuRzZ1QjlLeGhHUURhN3BlU3NLMUk1R3dtX05SUzllUWNYdnFiY25LamswNzdYa3g5LU9CUEJsT0V5ZTVpR2sxcF9NMVBNWmx2ZDlzdVdWdzd2NEZENXBRRGwyeGpQTlI?oc=5",
+          "source": "Yahoo Finance",
+          "date": "2026-10-27T04:39:35.000Z"
+        },
+        {
+          "title": "Pushed to pick in midterm races, Grok chose Republicans and OpenAI's model chose Democrats",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONWdVdHBocUFtVmdtY2pEQ0NkZzc3X25OUXBYWnkzNjJRNHV0cW5DVk03YVp5UzViZUdmWjlocU11TmhxVTV5NVloU2ZjY1lpOElsT1haVjJqbWZvOTFYMjExV3dHVUtzV0VyaWtkTXYtWGcxeW1tT3NFcEltSFdnMHJVU3RoVnZOc2lZR25rcDVYc1k?oc=5",
+          "source": "Buttondown",
+          "date": "2026-10-27T03:50:15.000Z"
+        },
         {
           "title": "Local AI expert weighs in as Musk offers dim forecast for neocloud companies",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQekw1VUczZndiWUFCWUpCd3piajVtMTZPcU83YzNkal82M05COGxEckRaMXNKVmdNQ2xvaFRkUFgtWkt6WF9yMzA1SVlBb3U1UXpCRVpLYW03cmtQMlR3TVd2cmtGUUF5ZWZPaWlRQ0xodWQtT2Nsa2gyeUQ5a0ppWmhCX1RpemlyY1YwUFBBRUtYVzVPcWJya2lLYnNrUDd2ZEVQTlMxT0dJTEs2TGF0MTlQQQ?oc=5",
           "source": "KSL",
           "date": "2026-10-27T00:48:45.000Z"
-        },
-        {
-          "title": "Elon Musk’s AI ‘The Odyssey’ Is Absolute Garbage And It Stinks",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXVpUjR3RDFXRHJKUkU0NS04Z3VueFFXTFlSU0xmWWg4alVDbXhDU1h3cmpVQy1ZaTViX3Qzcm5ZekdDQVFjVUNWazlTcXJTSjlfaVRWYzZkNm81TlBDT01Ib0Z6TlpXVmRQOUttNVhLZzZPQUNUdU9La2FnMTdYWDVONW16MWJ2c2ZHLQ?oc=5",
-          "source": "Forbes",
-          "date": "2026-10-26T22:44:56.000Z"
-        },
-        {
-          "title": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSE9tQzJpUFg1WGx4RlNNd1JnMnBzaXdiY2Y4U0xTNmgwcGZhRnR2NVcyemp2YmRHTEJ3SDAxVTY5NnJYMjc5WkZ2MEJ5LW1ldzUtM0N4YVA4Z1hQTC1GTTkwTVVHRHd0MzRpVjJCdlAtZnJ5Z1d3VU5iSXZDSGxoUEJqNDh2X2ZBQkRXdjRRSE9xY3ZXajEwNXAtWHBUbzRRR1pkY3RaUlBVNWs?oc=5",
-          "source": "WIRED",
-          "date": "2026-10-26T22:40:00.000Z"
         }
       ]
     },

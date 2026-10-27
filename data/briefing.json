@@ -3,44 +3,76 @@
   "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "business": 22,
-    "connectivity": 48,
+    "connectivity": 44,
+    "mobility": 38,
+    "space": 26,
     "ai": 17,
-    "mobility": 31,
-    "space": 30,
+    "business": 23,
     "robotics": 2
   },
   "topStory": {
-    "id": "sil9c9",
-    "title": "West Coast Falcon 9 rocket to launch 27 Starlink satellites",
-    "url": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
-    "source": "Spaceflight Now",
+    "id": "rm7ghm",
+    "title": "Elon Musk Predicts a Wave of Failures Among AI Cloud Companies. Is SpaceX Stock a Sell?",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUU50Vnc2NGRCRHktMk40UUtnRjlNZ1pLUmpJYWVzSzVCOVRLSExMQm1lMXVVNDQzc085anBuRzZ1QjlLeGhHUURhN3BlU3NLMUk1R3dtX05SUzllUWNYdnFiY25LamswNzdYa3g5LU9CUEJsT0V5ZTVpR2sxcF9NMVBNWmx2ZDlzdVdWdzd2NEZENXBRRGwyeGpQTlI?oc=5",
+    "source": "Yahoo Finance",
     "sources": [
-      "Spaceflight Now"
+      "Yahoo Finance",
+      "The Motley Fool",
+      "The Globe and Mail"
     ],
-    "date": "2026-10-27T00:50:37.000Z",
-    "firstSeen": "2026-10-27T01:38:04.331Z",
+    "date": "2026-10-27T04:39:35.000Z",
+    "firstSeen": "2026-10-27T05:51:52.747Z",
     "image": "",
-    "snippet": "File: A SpaceX Falcon 9 rocket stands in the launch position during sunset at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California. Image: SpaceX SpaceX will…",
-    "category": "connectivity",
-    "score": 16.78
+    "snippet": "",
+    "category": "ai",
+    "score": 18.17
   },
   "topList": [
     {
-      "id": "1lolkdl",
-      "title": "SpaceX ignites giant Super Heavy booster engines ahead of daring Starship launch (video)",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-ignites-giant-super-heavy-booster-engines-ahead-of-daring-starship-launch-video",
-      "source": "Space.com",
+      "id": "1q3vpmk",
+      "title": "Elon Musk Hires Snapchat’s First Product Manager at X",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzdkQzbWM1dzkxeC1WZGJ6bDBLSHNaS1d5TW5fR244WnB6U29NWm43VTlLc2xDS1lCMkxnZHdxT0pCQWJYNEJ3ZjlXVl9VaEdlX1c5XzVYbHhta1FiX051VW15UUEyV205OUE?oc=5",
+      "source": "BeInCrypto",
       "sources": [
-        "Space",
-        "Space.com"
+        "BeInCrypto",
+        "Firstpost"
       ],
-      "date": "2026-10-26T16:00:00.000Z",
+      "date": "2026-10-27T01:36:35.000Z",
       "firstSeen": "2026-10-27T01:38:04.331Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/tPwHSadFnKXigUVzEAMXwf-1920-80.png",
-      "snippet": "SpaceX is shooting for new heights with its upcoming Starship test flight, and the booster tapped for the mission is in its final stretch of preparations before the mission. The Super Heavy…",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 15.89
+    },
+    {
+      "id": "sil9c9",
+      "title": "West Coast Falcon 9 rocket to launch 27 Starlink satellites",
+      "url": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
+      "source": "Spaceflight Now",
+      "sources": [
+        "Spaceflight Now"
+      ],
+      "date": "2026-10-27T00:50:37.000Z",
+      "firstSeen": "2026-10-27T01:38:04.331Z",
+      "image": "",
+      "snippet": "File: A SpaceX Falcon 9 rocket stands in the launch position during sunset at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California. Image: SpaceX SpaceX will…",
+      "category": "connectivity",
+      "score": 15.7
+    },
+    {
+      "id": "13j77sj",
+      "title": "Tesla’s Cybercab Fleet Expands Tenfold in Just a Month, Elon Musk Says Driverless Mileage Is Growing ‘Like a Rocket Going to Orbit’",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTDQwR3UtZGVtWmNTNEtvQmU4MTMxMTNzY3RyMTJYaHAzRUhaRHExY0o1YURhMjRRSnlOT2lsVkZSYjB5RFBaLTBfUGdHUWpWVXNQN3U1dEgwWm9ITkZPY3hERy1VRm05RUdBMXZWRGVaOTd4V0IxRGZzRXN1S1YwNkl3MTA4Z2ZHZEJ0UGFEbHhzQXRiZWgwakdLQUxIUXdncXc?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "date": "2026-10-27T02:30:00.000Z",
+      "firstSeen": "2026-10-27T05:51:52.747Z",
+      "image": "",
+      "snippet": "",
       "category": "space",
-      "score": 16.65
+      "score": 15.61
     },
     {
       "id": "1kwsqz0",
@@ -55,22 +87,23 @@
       "image": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-1.jpeg",
       "snippet": "Four rockets are set to launch this week from the United States and India. SpaceX is set to launch three Falcon 9 rockets, delivering two batches of satellites for their Starlink…",
       "category": "connectivity",
-      "score": 15.84
+      "score": 14.86
     },
     {
-      "id": "1q3vpmk",
-      "title": "Elon Musk Hires Snapchat’s First Product Manager at X",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzdkQzbWM1dzkxeC1WZGJ6bDBLSHNaS1d5TW5fR244WnB6U29NWm43VTlLc2xDS1lCMkxnZHdxT0pCQWJYNEJ3ZjlXVl9VaEdlX1c5XzVYbHhta1FiX051VW15UUEyV205OUE?oc=5",
-      "source": "BeInCrypto",
+      "id": "oikuc0",
+      "title": "Musk unveils AI film project based on ancient Greek epic ‘The Odyssey’",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2dEVlpmcDJ0eGRXYTZZcm1xejZSRUptak13NUZUYjc3bHhxM21HX3BMWjBaMVgwb3hMOW5IbmpkNElfa0Z1d19IRFhFZTA3X284bUI3Mkl3dVM1a2hQSllxSFNtaU1vNV85bXROaTdDck9wQ3MtSURqNkYxQkFrT2IyZS1icVVhTlMyLVpnZU5uMXVLdVlhWlNPN2JJQQ?oc=5",
+      "source": "24NewsHD",
       "sources": [
-        "BeInCrypto"
+        "24NewsHD",
+        "24 News HD"
       ],
-      "date": "2026-10-27T01:36:35.000Z",
+      "date": "2026-10-26T17:42:50.000Z",
       "firstSeen": "2026-10-27T01:38:04.331Z",
       "image": "",
       "snippet": "",
-      "category": "business",
-      "score": 14.99
+      "category": "ai",
+      "score": 14.14
     },
     {
       "id": "1dvy1xk",
@@ -85,45 +118,15 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 14.94
-    },
-    {
-      "id": "105ag22",
-      "title": "Elon Musk Says He'd Be 'Stunned' If Any Robot Rivals Optimus At Launch: Gene Munster Calls It A Tesla 'Call Option' With 'Massive Value'",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZFRnVVVvY2Mwb09HNHZxWFlpWDhfTEdmLTVrQnNTN09XNEIyVldkTWJrNjNFcHM3REVIckowdVYwT01zNnBfQ08tQk5uYXJzN05RUnByVXdsLXZERS01VUtIVC1xQkxVVXhGWnRHb2xsZGN5VG1TcTFnQng2NWI0SHhqUEpEMzBPd05keFdaYWZnMDli?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "date": "2026-10-26T18:30:42.000Z",
-      "firstSeen": "2026-10-27T01:38:04.331Z",
-      "image": "",
-      "snippet": "",
-      "category": "robotics",
-      "score": 14.7
-    },
-    {
-      "id": "1p5tpyz",
-      "title": "Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYmluRnNVZjR4UlRKZ0gtbEh3NTc3Y1I1TVkxT2ZxUjBYX2ZiMThxbXhRVjFOWGt2VWdwZGw0YzFKM2VCU1BJS2NxMk1Ca0VscldVVDhIVHp6d2hiX29rdnRkUkVfSzFHd0JYTTFKbWItSzVfNHZBRjZubnFXeVFnU3ozWFJXUlZzUFpaOGk1MGJXMm4zNnI1N2xOQ21tbWx1YlNVQmxKazZNNEJSbDJ0b1JoSVFzVTZiWWZsb19SQy1lZEk5M3pNajZDM2VwSnlpOHVuTi1QTC04ZVk?oc=5",
-      "source": "Investor's Business Daily",
-      "sources": [
-        "Investor's Business Daily"
-      ],
-      "date": "2026-10-26T23:51:00.000Z",
-      "firstSeen": "2026-10-27T01:38:04.331Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 14.52
+      "score": 14
     }
   ],
   "trending": [
-    "Starlink",
     "Tesla",
+    "Starlink",
     "SpaceX",
+    "Cybercab",
     "Robotics",
-    "Robotaxi",
     "FSD"
   ],
   "spark": [
@@ -181,10 +184,10 @@
     },
     {
       "date": "2026-10-27",
-      "total": 8
+      "total": 46
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: Starlink. Top story: West Coast Falcon 9 rocket to launch 27 Starlink satellites.",
+  "summary": "150 stories (last 24h). Most active frontier: Starlink. Top story: Elon Musk Predicts a Wave of Failures Among AI Cloud Companies. Is SpaceX Stock a Sell?.",
   "editor": {
     "date": "2026-10-26",
     "generated": "2026-10-26T12:10:00.000Z",
