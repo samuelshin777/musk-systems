@@ -1,6 +1,6 @@
 # Musk Systems — Elon Musk achievements, projects and daily news
 
-> Unofficial fan tribute that documents Elon Musk's achievements and tracks his current projects (SpaceX, Starship, Starlink, Tesla, Optimus, Cybercab, xAI/Grok, Neuralink, The Boring Company). A new daily edition is generated automatically (DAILY 07:47 KST). Last update: 2026-10-27T05:55:05.236Z.
+> Unofficial fan tribute that documents Elon Musk's achievements and tracks his current projects (SpaceX, Starship, Starlink, Tesla, Optimus, Cybercab, xAI/Grok, Neuralink, The Boring Company). A new daily edition is generated automatically (DAILY 07:47 KST). Last update: 2026-10-27T06:19:57.376Z.
 
 ## Today's briefing
 150 stories (last 24h). Most active frontier: Starlink. Top story: Elon Musk Predicts a Wave of Failures Among AI Cloud Companies. Is SpaceX Stock a Sell?.
@@ -10,14 +10,14 @@
 - Grok released the first seven minutes of its AI-generated 'Odyssey' series, and Starlink service in Ukraine is back to normal after a weeklong disruption.
 
 ## Main pages
-- Home: https://elonmusksystem.com/
-- Live news feed: https://elonmusksystem.com/#planet
-- Today's digest: https://elonmusksystem.com/news/2026-10-27.html
-- Daily news archive: https://elonmusksystem.com/news/
-- Full plain-text edition: https://elonmusksystem.com/llms-full.txt
-- Today's answers (Q&A): https://elonmusksystem.com/#answers · https://elonmusksystem.com/data/answers.json
-- RSS feed: https://elonmusksystem.com/feed.xml
-- Machine-readable data: https://elonmusksystem.com/data/news.json, https://elonmusksystem.com/data/briefing.json, https://elonmusksystem.com/data/projects.json, https://elonmusksystem.com/data/hashtags.json
+- Home: https://YOUR-DOMAIN.com/
+- Live news feed: https://YOUR-DOMAIN.com/#planet
+- Today's digest: https://YOUR-DOMAIN.com/news/2026-10-27.html
+- Daily news archive: https://YOUR-DOMAIN.com/news/
+- Full plain-text edition: https://YOUR-DOMAIN.com/llms-full.txt
+- Today's answers (Q&A): https://YOUR-DOMAIN.com/#answers · https://YOUR-DOMAIN.com/data/answers.json
+- RSS feed: https://YOUR-DOMAIN.com/feed.xml
+- Machine-readable data: https://YOUR-DOMAIN.com/data/news.json, https://YOUR-DOMAIN.com/data/briefing.json, https://YOUR-DOMAIN.com/data/projects.json, https://YOUR-DOMAIN.com/data/hashtags.json
 
 ## Latest headlines (links go to original publishers)
 - 2026-10-27 [Tesla] Tesla FSD Subscriptions: 1.74M vs $1B Run Rate [2026] — https://tech-insider.org/: https://news.google.com/rss/articles/CBMikwFBVV95cUxQUmg5VUZsOG95RTBEbmFIam1OeldQTXVoUWJUWi05VFhwZzF1RU9yTE5uQllHRDBPS0FEMjVmSzluOHNyQW92YTNEdkZ5LVpnWXpDQTExQXd4eUM2MVVfVVllTDQtZ0dOZlNUOVgzQlIyMkRXaWo5dlYzOTNxUW9LVmdkckRONXA5bUR0SlBWZkxDS1k?oc=5

@@ -25,7 +25,7 @@
     "image": "",
     "snippet": "",
     "category": "ai",
-    "score": 18.16
+    "score": 18.05
   },
   "topList": [
     {
@@ -42,7 +42,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 15.87
+      "score": 15.77
     },
     {
       "id": "sil9c9",
@@ -57,7 +57,7 @@
       "image": "",
       "snippet": "File: A SpaceX Falcon 9 rocket stands in the launch position during sunset at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California. Image: SpaceX SpaceX will…",
       "category": "connectivity",
-      "score": 15.69
+      "score": 15.59
     },
     {
       "id": "490vya",
@@ -73,7 +73,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 15.6
+      "score": 15.5
     },
     {
       "id": "13j77sj",
@@ -88,7 +88,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 15.59
+      "score": 15.49
     },
     {
       "id": "1kwsqz0",
@@ -103,7 +103,7 @@
       "image": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-1.jpeg",
       "snippet": "Four rockets are set to launch this week from the United States and India. SpaceX is set to launch three Falcon 9 rockets, delivering two batches of satellites for their Starlink…",
       "category": "connectivity",
-      "score": 14.85
+      "score": 14.76
     },
     {
       "id": "oikuc0",
@@ -119,7 +119,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 14.12
+      "score": 14.04
     }
   ],
   "trending": [

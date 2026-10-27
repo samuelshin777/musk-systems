@@ -176,21 +176,40 @@
     $('#status-bar')?.classList.add('live-mode');
   }
 
-  (async () => {
-    const bust = '?v=' + new Date().toISOString().slice(0, 13);
-    try {
-      const [news, status] = await Promise.all([
-        fetch('data/news.json' + bust, { cache: 'no-store' }).then((r) => r.json()),
-        fetch('data/status.json' + bust, { cache: 'no-store' }).then((r) => r.json()).catch(() => null)
-      ]);
-      renderEdition(news.items);
-      if (status && R) { const sb = $('#status-bar'); sb.innerHTML = R.status(status); nextRun = null; tick(); }
-      const stale = (status?.staleAfterHours || 26) * 3600e3;
-      if (Date.now() - new Date(news.updated).getTime() > stale) await liveFallback();
-    } catch (_) {
-      applyView(); // opened from disk: keep the pre-rendered edition
-      try { await liveFallback(); } catch (__) { /* offline */ }
+  /* Daily edition loader.
+     The edition is rebuilt every morning on GitHub and published to GitHub Pages (LIVE_BASE).
+     A copy of this page hosted anywhere else (e.g. Cafe24) pulls that day's edition from there,
+     so the site updates daily without FTP uploads or DNS changes. GitHub Pages allows cross-site reads (CORS). */
+  const LIVE_BASE = 'https://samuelshin777.github.io/musk-systems/';
+  const onLiveHost = location.href.startsWith(LIVE_BASE);
+  const bases = (/^https?:$/.test(location.protocol) && !onLiveHost) ? [LIVE_BASE, ''] : ['', LIVE_BASE];
+  const bust = '?v=' + new Date().toISOString().slice(0, 13);
+  async function getJSON(name) {
+    for (const b of bases) {
+      try { const r = await fetch(b + 'data/' + name + bust, { cache: 'no-store' }); if (r.ok) return await r.json(); } catch (_) { /* try next */ }
     }
+    return null;
+  }
+  function renderAll({ news, status, briefing, projects, answers }) {
+    if (!R) return;
+    if (news?.items?.length) renderEdition(news.items);
+    if (status) { const sb = $('#status-bar'); if (sb) sb.innerHTML = R.status(status); nextRun = null; tick(); }
+    if (briefing) {
+      const ts = $('#top-story'); if (ts && briefing.topStory) ts.innerHTML = R.topStory(briefing.topStory);
+      const pl = $('#pulse'); if (pl) pl.innerHTML = R.pulse(briefing);
+      const ed = $('#edition-date'); if (ed) ed.textContent = briefing.date || '';
+    }
+    if (projects?.projects) { const ul = $('.proj'); if (ul) ul.innerHTML = R.projects(projects); }
+    if (answers?.answers?.length) { const qa = $('#qa-list'); if (qa) qa.innerHTML = R.answers(answers.answers); }
+    const day = (news?.updated || '').slice(0, 10);
+    const pill = $('.updated-pill'); if (pill && day) pill.innerHTML = `<i class="dot live"></i> NEWS FEED UPDATED ${day}`;
+  }
+  (async () => {
+    const [news, status, briefing, projects, answers] = await Promise.all(['news.json', 'status.json', 'briefing.json', 'projects.json', 'answers.json'].map(getJSON));
+    if (!news) { applyView(); try { await liveFallback(); } catch (_) { /* offline */ } return; }
+    renderAll({ news, status, briefing, projects, answers });
+    const stale = (status?.staleAfterHours || 26) * 3600e3;
+    if (Date.now() - new Date(news.updated).getTime() > stale) { try { await liveFallback(); } catch (_) { /* keep edition */ } }
   })();
   applyView();
 
