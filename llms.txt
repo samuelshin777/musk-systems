@@ -1,6 +1,6 @@
 # Musk Systems — Elon Musk achievements, projects and daily news
 
-> Unofficial fan tribute that documents Elon Musk's achievements and tracks his current projects (SpaceX, Starship, Starlink, Tesla, Optimus, Cybercab, xAI/Grok, Neuralink, The Boring Company). A new daily edition is generated automatically (DAILY 07:47 KST). Last update: 2026-10-27T06:19:57.376Z.
+> Unofficial fan tribute that documents Elon Musk's achievements and tracks his current projects (SpaceX, Starship, Starlink, Tesla, Optimus, Cybercab, xAI/Grok, Neuralink, The Boring Company). A new daily edition is generated automatically (DAILY 07:47 KST). Last update: 2026-10-27T06:20:39.654Z.
 
 ## Today's briefing
 150 stories (last 24h). Most active frontier: Starlink. Top story: Elon Musk Predicts a Wave of Failures Among AI Cloud Companies. Is SpaceX Stock a Sell?.
@@ -10,16 +10,19 @@
 - Grok released the first seven minutes of its AI-generated 'Odyssey' series, and Starlink service in Ukraine is back to normal after a weeklong disruption.
 
 ## Main pages
-- Home: https://YOUR-DOMAIN.com/
-- Live news feed: https://YOUR-DOMAIN.com/#planet
-- Today's digest: https://YOUR-DOMAIN.com/news/2026-10-27.html
-- Daily news archive: https://YOUR-DOMAIN.com/news/
-- Full plain-text edition: https://YOUR-DOMAIN.com/llms-full.txt
-- Today's answers (Q&A): https://YOUR-DOMAIN.com/#answers · https://YOUR-DOMAIN.com/data/answers.json
-- RSS feed: https://YOUR-DOMAIN.com/feed.xml
-- Machine-readable data: https://YOUR-DOMAIN.com/data/news.json, https://YOUR-DOMAIN.com/data/briefing.json, https://YOUR-DOMAIN.com/data/projects.json, https://YOUR-DOMAIN.com/data/hashtags.json
+- Home: https://elonmusksystem.com/
+- Live news feed: https://elonmusksystem.com/#planet
+- Today's digest: https://elonmusksystem.com/news/2026-10-27.html
+- Daily news archive: https://elonmusksystem.com/news/
+- Full plain-text edition: https://elonmusksystem.com/llms-full.txt
+- Today's answers (Q&A): https://elonmusksystem.com/#answers · https://elonmusksystem.com/data/answers.json
+- RSS feed: https://elonmusksystem.com/feed.xml
+- Machine-readable data: https://elonmusksystem.com/data/news.json, https://elonmusksystem.com/data/briefing.json, https://elonmusksystem.com/data/projects.json, https://elonmusksystem.com/data/hashtags.json
 
 ## Latest headlines (links go to original publishers)
+- 2026-10-27 [Starlink] How Recent Starlink Restrictions Expose Europe’s Dependence on US Military Space Services — Bloomsbury Intelligence and Security Institute (BISI): https://news.google.com/rss/articles/CBMitwFBVV95cUxPbXhYaFh0ZmxhWHRQOGJwSU4wdVBnRUZBbHBtN3pxZzhCYXppT3FfeHRVUm5QWkhDQjgteDY4cUJEU1NBRW1jLUx2UUt5RGh2aFh0bnN1OVRUY3JHajVoZTc5dXJCSFhBXzZKUE0yM1NIYWpNWjJDRmFGbjFpT2dSdGFrV1RLaGJqeTJkYUdfaUR3TVVSUzJnT2JOaWtUOU9SM0tJOVptTVViQlJ3ZHRfOTBqQ0hGelk?oc=5
+- 2026-10-27 [xAI & Grok] Elon Musk Wanted 30,000 Of NVIDIA’s Bleeding Edge AI GPU Systems But Is Getting Just 20,000, Still Enough To Be 2027’s Biggest Buyer, Says Analyst Jeff Pu — Wccftech: https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWTZsOUJERkktUHZwWlVqdWEtWUI3V09RZm1TZHlYTlBuV3k3Z0xySkk4MnliTkc2NVJDR1ZvLXhKUmhuLXFJcjEwc3pCdHJ3RGlMR0VTVHkzX2N1aDg0WFJDVlRFb0V5cG5FYU1GTG5HWW9hN1lvTTNoZGl1SW5FQ3FWdlBoWGRfUEZ6QzhSZ1hDTTk4emU0akNpUVVmdUJhTWMwcG5tSnlZZTdqd01ONlNNRVk3eEpjRHd4djl6NjU5Q3JjQWxnRXJJRlg2TjNhWUxfbUpzWlQ4bE5uNTRFa1U5c1h6dll5VmpTeWlaYTB0QVk5MWN6SWEyR0N3TlHSAYQCQVVfeXFMT1VzemVab0o4QnJ1UEZLRVNySlRJaDRScFdvRl83dDk1anpDbUJTd2pMZWRPWUo0TVNRSWx0M3NRN1M3QTdMVDVhTVYyZ1BkRV9WaE1iQlBmWDF2b1JJanY1R3FoZVdRVXBFOEhEWlA3Z0tKOUs4c1hqb19aYjF3b25PZzdKZ3JjYWhLeno1MjlfNmppWC1Kb0JCaWVRR3B0SEFwWF93Y3dTUzU2TTA3XzNDZ24wRnBlZk9BWFB4bzdQR2dZN2JKZFNWQW5mUFU3bWFqcTRwaVU1SjViR0NjR0hRLVRzSjRNUkNHUU0zQWNmMmw0dXM2TEpBWHR0Q2tDSDNpbGY?oc=5
+- 2026-10-27 [Starlink] "Either Trump is lying, or Musk": U.S. Congress demands to find out who restricted Starlink for Ukraine — Українські Національні Новини (УНН): https://news.google.com/rss/articles/CBMivAFBVV95cUxQNzV6UVlBR25xV1huMEI3aVJGOE5ZWUJ4UjdvSHRhc3JKMTNlLTM3NVlXYTJjVFUzcFNpbm5tRmxCaEk0MjdYUmpxN29pVi1nd29NQWZNYnBuTkpJMTY5LS1xbm5HSzZCZGxNcFI5T1hJUUNZb1BvcjBhSmNaUW1UWlJ0U19wWTl6anhXWVNjMlA1NmlvSUNJOHdVMWVFeVN4eS13VnpTS3NwbHQ2UE11cF9wQTNvam92ZXFUYdIBuwFBVV95cUxOc1p6NzNFdzhndUxESjByTnRSM0hfcHlQdWlUbEI4ODNuek96Z25sR2tlNncyVGVEbUU4TFFDVi1vT2VIek1Bd1gxbmVBU1NYS0syZWtDbW9CLXB2dlVrNWRvQUpLMFJnbmQxRXVJQk52eWZHSHpDMmFaVndHQnU5dU5PdTdTamptSUJsTk1oMTRWS2dncEk5WEtLOHVBUnhFMXBIWDFsY2ZGZ042U0lna0RoQmFlY0xacnFZ?oc=5
 - 2026-10-27 [Tesla] Tesla FSD Subscriptions: 1.74M vs $1B Run Rate [2026] — https://tech-insider.org/: https://news.google.com/rss/articles/CBMikwFBVV95cUxQUmg5VUZsOG95RTBEbmFIam1OeldQTXVoUWJUWi05VFhwZzF1RU9yTE5uQllHRDBPS0FEMjVmSzluOHNyQW92YTNEdkZ5LVpnWXpDQTExQXd4eUM2MVVfVVllTDQtZ0dOZlNUOVgzQlIyMkRXaWo5dlYzOTNxUW9LVmdkckRONXA5bUR0SlBWZkxDS1k?oc=5
 - 2026-10-27 [Starlink] Starlink Suspends New Customer Connections in Tajikistan — Caspian Post: https://news.google.com/rss/articles/CBMilgFBVV95cUxNSDIxTjd0WWxEVnI0Y2M5cGZoVElsRjN2cmNPazFuZ3BRNTBsc0pqWGs4cnZsU2Q1VDd3dG5fc29OWmswbEhoNEJlX2JGWXkyR245dW01Rm9mVkltZXVOQmNjR1NoNFY2OTBjMG11UGhqMWM4VnJ3ZUNwM0ZxZTFaUWZWalJ3a2F5NWFRdk9qSmpOTEdZY1E?oc=5
 - 2026-10-27 [Starlink] Verizon CEO Open to Working With Elon Musk's Starlink, But There’s One Deal He Won’t Touch: ‘No Benefit W — Benzinga: https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ196NnF6SlFNdnJ2YjUxekQwVXc4NjVsbUNxWHNYb0h1bE5yT2lEbXBEQ2xUT29RaURVSzhuZlJkQks3T2huX3NpT0FBdnByNkxZQXNiZE9LN0VEaXozSEI4YURKY2FrNjJiR1RJUlpXTDUwLWoycGRLZktIaUdLbXNjN3lDZzJr?oc=5
@@ -37,9 +40,6 @@
 - 2026-10-27 [Tesla] Tesla FSD Safety Data: 6M Miles Per Collision — What It Means — BASENOR - Tesla Accessories: https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ0x4WEFLX1NYNXk0UzJwQzlpeXpGelQ2djkwQ3ByWUpZb3lVMmplRVJIZkZrZ2JwbmZmckp6X3RoX3YwcHpza2ZhS0FWd1BLamxDRWlObHd0X24wSnBXbWxUcktsMjEzdkF3T2FreC0zWmxuT2Y5RmJ1TktTQWlBMEpjR3I0a1RXV1AwLW8xN1A2ODFuSHdiaw?oc=5
 - 2026-10-27 [xAI & Grok] Pushed to pick in midterm races, Grok chose Republicans and OpenAI's model chose Democrats — Buttondown: https://news.google.com/rss/articles/CBMikwFBVV95cUxONWdVdHBocUFtVmdtY2pEQ0NkZzc3X25OUXBYWnkzNjJRNHV0cW5DVk03YVp5UzViZUdmWjlocU11TmhxVTV5NVloU2ZjY1lpOElsT1haVjJqbWZvOTFYMjExV3dHVUtzV0VyaWtkTXYtWGcxeW1tT3NFcEltSFdnMHJVU3RoVnZOc2lZR25rcDVYc1k?oc=5
 - 2026-10-27 [Starlink] ‘To Ukrainians, America represents something’: Colorado Springs man in Ukraine notices attacks ramping up after reports of Starlink slowdown — KKTV: https://news.google.com/rss/articles/CBMi8gFBVV95cUxOU1NYTUhpa1JjZUs4YUhiYWNNV3dYRlNsb3hqbmRpYnQycnhLS3Z5WHhfTDV2WU9uTGczUi1KNlVIRWJYd0R3QjdPQ041bXR5Q0M0d3NSRVRwQ0ZYNGxYV1piNl83N19feEN6V3Q2Y0NDN2xzOHJwUlh2azlyWi1PbUJXcnphRm1UM0VYS2RpTF9WeExMUGFHdVBYMll6M1NpYjIxVzFrUkNDc0E1SU1ZdlRPM0p5S2d2YzRacEhCQkxzVGo2Q2xsbWRsOHJJNUhHTmJYOVFSTGgydFZwX2cyMUw1WkV0V0NiVktnVWZoWUJad9IBhgJBVV95cUxObk1qX3ZHaGVRM3lHZVRQZXVUNFYzTGJGZDVVUy00X0x1SXpyWjNuZEoyZk14YWxKOU5mSjJyT2Z2NS1Cb0xNZndXLWM2UHZLTDdHRFB0NGp1RWFEUDFuNXl3cDh1cnpNRmhkVnRzRndKcmM4Z2w1eExwX1ZPUElvYV9RZ0U5U1haTHJrakM1WUdVSmw3MEVtdi1jWnVEUzRGX0dWRl9BbHo5T1VkM0ZIODZjdmdnQm9MMm9wMkJYMjk1cXlkSFRweHZkRG9mUG1OR3hXSXp5WXBEN1ZQdHp0WEpNZVRydnExVnVJY1dySEVOM25LWXZQb3F3RUozVWFZQ1h0bzBB?oc=5
-- 2026-10-27 [Business] Skydance’s Elon Musk Problem Inside Warner Bros. — puck.news: https://news.google.com/rss/articles/CBMiigFBVV95cUxQbXp0LVhHYmNhTXEzTFh5UWxJbC1vZkkwbXNEcFBSRHNwWmltcmJFQUpwLUxoWFBaZTRvb0VhOEVNZXRyRHBiWGs0U1VUc0YwbV9TblNoVjVDSEZTeEJRemszck9TWjBaQzNhamstVlNjdF8ySi1GV0NvMGZIRWU5Ym5IX0oxTVc4UlE?oc=5
-- 2026-10-27 [Tesla] South Korea charges 80 for illegal Tesla FSD activation — Chosunbiz: https://news.google.com/rss/articles/CBMigAFBVV95cUxNYTBrSEo5YUZGZjUzVTRLQ2NHTi1CV2EyT25abEJiQ3RCa2xGSUNQb2N2cnk3OTduMUtXSG1WdWlXN1BrOS1CRE4xVkZkNDFQeFhDVHRVUEhyRTZvaWhjNVlKdmUtY05ERlhHUEtCSDVsMXFuZFBrRllxakFIZ0IwedIBlAFBVV95cUxOU2NsclBQaExDdi1pYWJaVjE4NDNUNmw5YVd0YTltM3U5X0NEOWx5VHhhbEkzcGxCV1I2VzQtS3Z6MjkzdTdJMGtZakN5YXE2TmVNUEdJM1F5MHNWQlJLOFd3TF9FbGdMS2kxbFpERHlDYjJjVTRRM000clhDRHEzYWZlUUx4Rm5reVBRYW01eXk0cVlM?oc=5
-- 2026-10-27 [Starlink] Marco Rubio Says Elon Musk’s SpaceX, Not White House, Controls Ukraine’s Starlink, After Trump Said ‘I Don’t Know Who Did It’ — Yahoo: https://news.google.com/rss/articles/CBMijwFBVV95cUxPT2RnQ1dUZVlWMmdvem5VaTJfZ1BsUGJEa2FqODlaaXZaczlWS3RBTVAwc0k1bVRaLTRRSTVKTXJJODE4WEt5VHE5ajV2Y0ljYm0xRENQVUJlUUNYcGlnUmlyNGc1ZG1sZG52T1h2MUJNSmtEdnlwVVlfdWIzM3ltOW4ySUE5M1JDWDFycmNBRQ?oc=5
 
 ## Projects in motion
 - Starship (SpaceX) — TESTING: Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate

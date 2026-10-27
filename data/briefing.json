@@ -3,10 +3,10 @@
   "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "mobility": 42,
-    "connectivity": 45,
+    "connectivity": 46,
+    "ai": 16,
+    "mobility": 40,
     "space": 25,
-    "ai": 15,
     "business": 20,
     "robotics": 3
   },
@@ -25,7 +25,7 @@
     "image": "",
     "snippet": "",
     "category": "ai",
-    "score": 18.05
+    "score": 18.04
   },
   "topList": [
     {
@@ -57,7 +57,7 @@
       "image": "",
       "snippet": "File: A SpaceX Falcon 9 rocket stands in the launch position during sunset at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California. Image: SpaceX SpaceX will…",
       "category": "connectivity",
-      "score": 15.59
+      "score": 15.58
     },
     {
       "id": "490vya",
@@ -185,7 +185,7 @@
     },
     {
       "date": "2026-10-27",
-      "total": 50
+      "total": 53
     }
   ],
   "summary": "150 stories (last 24h). Most active frontier: Starlink. Top story: Elon Musk Predicts a Wave of Failures Among AI Cloud Companies. Is SpaceX Stock a Sell?.",

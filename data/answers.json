@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T06:19:57.376Z",
+  "updated": "2026-10-27T06:20:39.654Z",
   "answers": [
     {
       "q": "What is the latest Elon Musk news today?",
@@ -27,25 +27,25 @@
     },
     {
       "q": "What is SpaceX working on right now?",
-      "a": "Starship: Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate. Starlink: 10,000+ satellites; V3 satellites now flying on Starship. Latest: Starlink Suspends New Customer Connections in Tajikistan (Caspian Post, 27 Oct 2026); Verizon CEO Open to Working With Elon Musk's Starlink, But There’s One Deal He Won’t Touch: ‘No Benefit W (Benzinga, 27 Oct 2026).",
+      "a": "Starship: Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate. Starlink: 10,000+ satellites; V3 satellites now flying on Starship. Latest: How Recent Starlink Restrictions Expose Europe’s Dependence on US Military Space Services (Bloomsbury Intelligence and Security Institute (BISI), 27 Oct 2026); \"Either Trump is lying, or Musk\": U.S. Congress demands to find out who restricted Starlink for Ukraine (Українські Національні Новини (УНН), 27 Oct 2026).",
       "links": [
+        {
+          "title": "How Recent Starlink Restrictions Expose Europe’s Dependence on US Military Space Services",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbXhYaFh0ZmxhWHRQOGJwSU4wdVBnRUZBbHBtN3pxZzhCYXppT3FfeHRVUm5QWkhDQjgteDY4cUJEU1NBRW1jLUx2UUt5RGh2aFh0bnN1OVRUY3JHajVoZTc5dXJCSFhBXzZKUE0yM1NIYWpNWjJDRmFGbjFpT2dSdGFrV1RLaGJqeTJkYUdfaUR3TVVSUzJnT2JOaWtUOU9SM0tJOVptTVViQlJ3ZHRfOTBqQ0hGelk?oc=5",
+          "source": "Bloomsbury Intelligence and Security Institute (BISI)",
+          "date": "2026-10-27T06:05:40.000Z"
+        },
+        {
+          "title": "\"Either Trump is lying, or Musk\": U.S. Congress demands to find out who restricted Starlink for Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNzV6UVlBR25xV1huMEI3aVJGOE5ZWUJ4UjdvSHRhc3JKMTNlLTM3NVlXYTJjVFUzcFNpbm5tRmxCaEk0MjdYUmpxN29pVi1nd29NQWZNYnBuTkpJMTY5LS1xbm5HSzZCZGxNcFI5T1hJUUNZb1BvcjBhSmNaUW1UWlJ0U19wWTl6anhXWVNjMlA1NmlvSUNJOHdVMWVFeVN4eS13VnpTS3NwbHQ2UE11cF9wQTNvam92ZXFUYdIBuwFBVV95cUxOc1p6NzNFdzhndUxESjByTnRSM0hfcHlQdWlUbEI4ODNuek96Z25sR2tlNncyVGVEbUU4TFFDVi1vT2VIek1Bd1gxbmVBU1NYS0syZWtDbW9CLXB2dlVrNWRvQUpLMFJnbmQxRXVJQk52eWZHSHpDMmFaVndHQnU5dU5PdTdTamptSUJsTk1oMTRWS2dncEk5WEtLOHVBUnhFMXBIWDFsY2ZGZ042U0lna0RoQmFlY0xacnFZ?oc=5",
+          "source": "Українські Національні Новини (УНН)",
+          "date": "2026-10-27T05:58:25.000Z"
+        },
         {
           "title": "Starlink Suspends New Customer Connections in Tajikistan",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSDIxTjd0WWxEVnI0Y2M5cGZoVElsRjN2cmNPazFuZ3BRNTBsc0pqWGs4cnZsU2Q1VDd3dG5fc29OWmswbEhoNEJlX2JGWXkyR245dW01Rm9mVkltZXVOQmNjR1NoNFY2OTBjMG11UGhqMWM4VnJ3ZUNwM0ZxZTFaUWZWalJ3a2F5NWFRdk9qSmpOTEdZY1E?oc=5",
           "source": "Caspian Post",
           "date": "2026-10-27T05:50:40.000Z"
-        },
-        {
-          "title": "Verizon CEO Open to Working With Elon Musk's Starlink, But There’s One Deal He Won’t Touch: ‘No Benefit W",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ196NnF6SlFNdnJ2YjUxekQwVXc4NjVsbUNxWHNYb0h1bE5yT2lEbXBEQ2xUT29RaURVSzhuZlJkQks3T2huX3NpT0FBdnByNkxZQXNiZE9LN0VEaXozSEI4YURKY2FrNjJiR1RJUlpXTDUwLWoycGRLZktIaUdLbXNjN3lDZzJr?oc=5",
-          "source": "Benzinga",
-          "date": "2026-10-27T05:35:14.000Z"
-        },
-        {
-          "title": "SpaceX Gigabay Takes Shape as Starbase Eyes Massive Expansion",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdzFyWEVmbnJ6ZGd5eW1vVzVvam1xNzZ0b3BZQlQ3SEVtT1RsTlhTMzlPeTBnTUViNFpRQkFOUTZ1UzZYOFZEZEJuRXhocnZFQkowQkpTSUt2NVpyUWNmb3FLMTA0Yk1NTUlzcERXRmxkQUdfX2NfeWpPLTEzUFZBYmtOMFJWT3Bkc2Z0c2ZfQVNTcFp2ck9jeXZWT2o?oc=5",
-          "source": "BASENOR - Tesla Accessories",
-          "date": "2026-10-27T05:07:09.000Z"
         }
       ]
     },
@@ -75,8 +75,14 @@
     },
     {
       "q": "What are xAI and Neuralink doing now?",
-      "a": "xAI and Grok: $40B in debt closed for GPUs arriving in 2027; Grok releasing an AI-generated video series. Neuralink: Next-generation implant with more channels unveiled in October. Latest: Elon Musk Predicts a Wave of Failures Among AI Cloud Companies. Is SpaceX Stock a Sell? (Yahoo Finance, 27 Oct 2026); Pushed to pick in midterm races, Grok chose Republicans and OpenAI's model chose Democrats (Buttondown, 27 Oct 2026).",
+      "a": "xAI and Grok: $40B in debt closed for GPUs arriving in 2027; Grok releasing an AI-generated video series. Neuralink: Next-generation implant with more channels unveiled in October. Latest: Elon Musk Wanted 30,000 Of NVIDIA’s Bleeding Edge AI GPU Systems But Is Getting Just 20,000, Still Enough To Be 2027’s Biggest Buyer, Says Analyst Jeff Pu (Wccftech, 27 Oct 2026); Elon Musk Predicts a Wave of Failures Among AI Cloud Companies. Is SpaceX Stock a Sell? (Yahoo Finance, 27 Oct 2026).",
       "links": [
+        {
+          "title": "Elon Musk Wanted 30,000 Of NVIDIA’s Bleeding Edge AI GPU Systems But Is Getting Just 20,000, Still Enough To Be 2027’s Biggest Buyer, Says Analyst Jeff Pu",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWTZsOUJERkktUHZwWlVqdWEtWUI3V09RZm1TZHlYTlBuV3k3Z0xySkk4MnliTkc2NVJDR1ZvLXhKUmhuLXFJcjEwc3pCdHJ3RGlMR0VTVHkzX2N1aDg0WFJDVlRFb0V5cG5FYU1GTG5HWW9hN1lvTTNoZGl1SW5FQ3FWdlBoWGRfUEZ6QzhSZ1hDTTk4emU0akNpUVVmdUJhTWMwcG5tSnlZZTdqd01ONlNNRVk3eEpjRHd4djl6NjU5Q3JjQWxnRXJJRlg2TjNhWUxfbUpzWlQ4bE5uNTRFa1U5c1h6dll5VmpTeWlaYTB0QVk5MWN6SWEyR0N3TlHSAYQCQVVfeXFMT1VzemVab0o4QnJ1UEZLRVNySlRJaDRScFdvRl83dDk1anpDbUJTd2pMZWRPWUo0TVNRSWx0M3NRN1M3QTdMVDVhTVYyZ1BkRV9WaE1iQlBmWDF2b1JJanY1R3FoZVdRVXBFOEhEWlA3Z0tKOUs4c1hqb19aYjF3b25PZzdKZ3JjYWhLeno1MjlfNmppWC1Kb0JCaWVRR3B0SEFwWF93Y3dTUzU2TTA3XzNDZ24wRnBlZk9BWFB4bzdQR2dZN2JKZFNWQW5mUFU3bWFqcTRwaVU1SjViR0NjR0hRLVRzSjRNUkNHUU0zQWNmMmw0dXM2TEpBWHR0Q2tDSDNpbGY?oc=5",
+          "source": "Wccftech",
+          "date": "2026-10-27T05:58:27.000Z"
+        },
         {
           "title": "Elon Musk Predicts a Wave of Failures Among AI Cloud Companies. Is SpaceX Stock a Sell?",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUU50Vnc2NGRCRHktMk40UUtnRjlNZ1pLUmpJYWVzSzVCOVRLSExMQm1lMXVVNDQzc085anBuRzZ1QjlLeGhHUURhN3BlU3NLMUk1R3dtX05SUzllUWNYdnFiY25LamswNzdYa3g5LU9CUEJsT0V5ZTVpR2sxcF9NMVBNWmx2ZDlzdVdWdzd2NEZENXBRRGwyeGpQTlI?oc=5",
@@ -88,12 +94,6 @@
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONWdVdHBocUFtVmdtY2pEQ0NkZzc3X25OUXBYWnkzNjJRNHV0cW5DVk03YVp5UzViZUdmWjlocU11TmhxVTV5NVloU2ZjY1lpOElsT1haVjJqbWZvOTFYMjExV3dHVUtzV0VyaWtkTXYtWGcxeW1tT3NFcEltSFdnMHJVU3RoVnZOc2lZR25rcDVYc1k?oc=5",
           "source": "Buttondown",
           "date": "2026-10-27T03:50:15.000Z"
-        },
-        {
-          "title": "Local AI expert weighs in as Musk offers dim forecast for neocloud companies",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQekw1VUczZndiWUFCWUpCd3piajVtMTZPcU83YzNkal82M05COGxEckRaMXNKVmdNQ2xvaFRkUFgtWkt6WF9yMzA1SVlBb3U1UXpCRVpLYW03cmtQMlR3TVd2cmtGUUF5ZWZPaWlRQ0xodWQtT2Nsa2gyeUQ5a0ppWmhCX1RpemlyY1YwUFBBRUtYVzVPcWJya2lLYnNrUDd2ZEVQTlMxT0dJTEs2TGF0MTlQQQ?oc=5",
-          "source": "KSL",
-          "date": "2026-10-27T00:48:45.000Z"
         }
       ]
     },
