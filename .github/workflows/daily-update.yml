@@ -4,8 +4,8 @@
 #   2) /goal      Claude Code runs the /goal command   only if the ANTHROPIC_API_KEY secret exists
 #   3) verify     the edition must be fresh and ASP/IIS-safe
 #   4) commit     the new edition is saved back to the repository
-#   5) deploy     FTP (DEPLOY_TARGET=ftp + FTP secrets) or GitHub Pages (DEPLOY_TARGET=pages);
-#                 skipped, not failed, until one of them is set up
+#   5) publish    GitHub Pages (job "pages") — always; no FTP, no upload step that can be refused
+#                 optional extra: FTP mirror only if DEPLOY_TARGET=ftp (never fails the run)
 #   6) alert      opens a GitHub issue if the edition itself failed
 name: Daily Musk news update
 on:
@@ -30,7 +30,6 @@ jobs:
       INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
       HAS_CLAUDE: ${{ secrets.ANTHROPIC_API_KEY != '' }}
       HAS_FTP: ${{ vars.DEPLOY_TARGET == 'ftp' && secrets.FTP_SERVER != '' && secrets.FTP_USERNAME != '' && secrets.FTP_PASSWORD != '' }}
-      HAS_PAGES: ${{ vars.DEPLOY_TARGET == 'pages' }}
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-node@v5
@@ -77,9 +76,10 @@ jobs:
       # IIS servers with "FTP virtual host names" reject a plain username with
       # "530 User cannot log in, home directory inaccessible"; they expect "hostname|username".
       # This step tries the username as entered, then the IIS form, and passes the one that works on.
-      - name: 5 · FTP login check
+      - name: 5 · FTP login check (optional mirror)
         id: ftpcheck
         if: env.HAS_FTP == 'true'
+        continue-on-error: true
         env:
           FTP_SERVER: ${{ secrets.FTP_SERVER }}
           FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
@@ -97,8 +97,9 @@ jobs:
           echo "::error title=FTP login refused::$first — Check FTP_SERVER (host only, no ftp://), FTP_USERNAME and FTP_PASSWORD. On IIS, set FTP_USERNAME to 'yourdomain.com|username' exactly as your FTP program uses it. The edition itself was built and saved."
           exit 1
 
-      - name: 5 · Deploy over FTP
+      - name: 5 · Deploy over FTP (optional mirror)
         if: env.HAS_FTP == 'true' && steps.ftpcheck.outcome == 'success'
+        continue-on-error: true
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ steps.ftpcheck.outputs.host }}
@@ -117,18 +118,6 @@ jobs:
             render.js
             script.js
 
-      # 5b · GitHub Pages (Settings → Pages → Source: GitHub Actions, then DEPLOY_TARGET=pages)
-      - uses: actions/upload-pages-artifact@v3
-        if: env.HAS_PAGES == 'true'
-        with: { path: . }
-      - uses: actions/deploy-pages@v4
-        if: env.HAS_PAGES == 'true'
-
-      - name: 5 · Deploy skipped — setup not finished
-        if: env.HAS_FTP != 'true' && env.HAS_PAGES != 'true'
-        run: |
-          echo "::notice title=Deploy skipped::The edition was built and saved to the repository. Add DEPLOY_TARGET=ftp and the FTP_SERVER / FTP_USERNAME / FTP_PASSWORD secrets (see SETUP.html) to publish it to your web server."
-
       - name: Run summary
         if: always()
         run: |
@@ -140,7 +129,8 @@ jobs:
             echo "| News engine | ${{ steps.engine.outcome }} |"
             echo "| /goal editor | $([ "$HAS_CLAUDE" = true ] && echo ran || echo 'not set up (optional)') |"
             echo "| Verify | ${{ steps.verify.outcome }} |"
-            echo "| Deploy | $([ "$HAS_FTP" = true ] && echo "FTP — login ${{ steps.ftpcheck.outcome }}" || ([ "$HAS_PAGES" = true ] && echo 'GitHub Pages' || echo 'skipped — finish SETUP.html')) |"
+            echo "| Publish | GitHub Pages (next job) |"
+            echo "| FTP mirror | $([ "$HAS_FTP" = true ] && echo "login ${{ steps.ftpcheck.conclusion }} (optional)" || echo 'off') |"
             echo ""
             node -e "const s=require('./data/status.json');console.log('Stories: '+s.totalItems+' ('+s.newItems+' new) · sources OK: '+s.sourcesOk+'/'+s.sourcesTotal+' · next run: '+s.nextRun)" || true
           } >> "$GITHUB_STEP_SUMMARY"
@@ -151,3 +141,36 @@ jobs:
         run: |
           gh issue create --title "Daily edition problem $(date -u +%F)" \
             --body "The daily Musk Systems edition did not complete cleanly. Run log: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}. The site keeps showing the previous edition, and visitors' browsers switch to live mode after 26 hours." || true
+
+  # GitHub Pages — publishes the edition that job "edition" just saved. No FTP, nothing for a host to refuse.
+  # One-time setup in the repository: Settings → Pages → Source: "GitHub Actions" (+ custom domain). See SETUP.html.
+  pages:
+    needs: edition
+    if: always() && needs.edition.result == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+        with: { ref: main }
+      - name: Stage public files only
+        run: |
+          mkdir _site
+          cp -r index.html styles.css assets data news feed.xml sitemap.xml robots.txt llms.txt llms-full.txt _site/
+          touch _site/.nojekyll
+          cp index.html _site/404.html
+          host=$(node -e "try{const u=new URL(process.env.SITE_URL);if(!/github\.io$/.test(u.hostname))console.log(u.hostname)}catch(e){}")
+          if [ -n "$host" ]; then echo "$host" > _site/CNAME; echo "Custom domain: $host"; fi
+          du -sh _site
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: _site }
+      - name: Publish to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
+      - name: Pages not switched on yet?
+        if: failure()
+        run: echo "::error title=GitHub Pages is off::Open Settings → Pages and set Source to 'GitHub Actions' (see SETUP.html), then run the workflow again. The edition itself was built and saved."

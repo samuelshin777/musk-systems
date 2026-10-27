@@ -2,7 +2,13 @@
 
 비공식 팬 트리뷰트 사이트입니다. 2페이지 스크롤 비주얼 디자인이며, 매일 **07:47 (한국 시간, 22:47 UTC)** 에 뉴스가 자동으로 갱신됩니다.
 
-## FTP 업로드 방법 (중요)
+## 게시 방식: GitHub Pages (FTP 사용 안 함)
+2026-10-27부터 사이트는 GitHub Pages에서 직접 열립니다. 매일 07:47 실행의 마지막 단계(`pages`)가 새 판을 바로 게시하므로 FTP 업로드나 서버 로그인 오류가 생기지 않습니다.
+한 번만 하는 설정은 **SETUP.html**을 열고 순서대로 하면 됩니다. 저장소 공개 전환(무료 계정일 때), Pages 켜기, 변수 정리, 도메인 DNS 연결, 첫 실행 순서입니다.
+- 미리보기 주소: https://samuelshin777.github.io/musk-systems/
+- FTP는 `DEPLOY_TARGET=ftp`일 때만 보조 업로드로 시도하며, 실패해도 실행을 멈추지 않습니다.
+
+## FTP 업로드 방법 (예전 방식)
 1. **`musk-systems-FTP-upload.zip`** 을 내 컴퓨터에서 먼저 압축 해제합니다. ZIP 파일 자체를 서버에 올리면 사이트가 열리지 않습니다.
 2. 압축을 푼 폴더 **안의 내용물 전체**(index.html, web.config, .htaccess, assets, data, news, feed.xml, sitemap.xml, robots.txt, llms.txt, llms-full.txt, styles.css)를 웹 루트(`/`, `public_html`, `wwwroot` 등)에 올립니다.
 3. `https://내도메인.com/` 으로 접속해 확인합니다.
