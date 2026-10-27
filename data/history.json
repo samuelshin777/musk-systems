@@ -46,13 +46,20 @@
       "space": 1
     },
     "2026-10-26": {
-      "total": 130,
-      "business": 21,
-      "ai": 28,
-      "space": 21,
-      "mobility": 21,
-      "connectivity": 35,
-      "robotics": 4
+      "total": 142,
+      "mobility": 29,
+      "connectivity": 45,
+      "space": 30,
+      "ai": 16,
+      "business": 20,
+      "robotics": 2
+    },
+    "2026-10-27": {
+      "total": 8,
+      "business": 2,
+      "connectivity": 3,
+      "ai": 1,
+      "mobility": 2
     }
   }
 }

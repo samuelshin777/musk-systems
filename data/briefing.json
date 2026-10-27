@@ -1,141 +1,121 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "business": 23,
-    "ai": 31,
-    "space": 21,
-    "mobility": 27,
-    "connectivity": 42,
-    "robotics": 6
+    "business": 22,
+    "connectivity": 48,
+    "ai": 17,
+    "mobility": 31,
+    "space": 30,
+    "robotics": 2
   },
   "topStory": {
-    "id": "mqua8c",
-    "title": "Musk says SpaceX has closed $40 billion in debt to buy AI chips",
-    "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
-    "source": "CNBC",
+    "id": "sil9c9",
+    "title": "West Coast Falcon 9 rocket to launch 27 Starlink satellites",
+    "url": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
+    "source": "Spaceflight Now",
     "sources": [
-      "CNBC",
-      "Bloomberg",
-      "CoinDesk",
-      "Mint",
-      "Moneycontrol",
-      "The Next Web",
-      "Quartz",
-      "CNBC Technology"
+      "Spaceflight Now"
     ],
-    "date": "2026-10-26T00:37:00.000Z",
-    "firstSeen": "2026-10-26T12:05:54.338Z",
+    "date": "2026-10-27T00:50:37.000Z",
+    "firstSeen": "2026-10-27T01:38:04.331Z",
     "image": "",
-    "snippet": "Musk said the mostly callable debt will pay for GPUs due in the first half of 2027; Bloomberg reported pricing talks were still ongoing.",
-    "category": "ai",
-    "score": 23.2
+    "snippet": "File: A SpaceX Falcon 9 rocket stands in the launch position during sunset at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California. Image: SpaceX SpaceX will…",
+    "category": "connectivity",
+    "score": 16.78
   },
   "topList": [
     {
-      "id": "ike4u5",
-      "title": "EasyJet to offer Starlink internet onboard some flights from 2027",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc21wdE5SVUlzdjlSMHBrWW9yRTllenFIT1prYm9KVnNnbWp0OTlZamFnNkdOaHVDMy1wS19iUnJubkRaa2c1S2tSanFPLVJyTEpkYVBjcTlrZ255bmtyd2ZaRVdJTEhWMGhTTnlWd2VSSnhxRUlDNHc1VG9CbHQtMTFZOE1Uek1RZmRHQ25qZzQzOG1BeDZMVlFiSHg5d0NKUV9sXw?oc=5",
-      "source": "Reuters",
+      "id": "1lolkdl",
+      "title": "SpaceX ignites giant Super Heavy booster engines ahead of daring Starship launch (video)",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-ignites-giant-super-heavy-booster-engines-ahead-of-daring-starship-launch-video",
+      "source": "Space.com",
       "sources": [
-        "Reuters",
-        "www.marketscreener.com",
-        "The Economic Times",
-        "AOL.com"
+        "Space",
+        "Space.com"
       ],
-      "date": "2026-10-26T11:32:02.000Z",
-      "firstSeen": "2026-10-26T12:05:54.338Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 20.75
+      "date": "2026-10-26T16:00:00.000Z",
+      "firstSeen": "2026-10-27T01:38:04.331Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/tPwHSadFnKXigUVzEAMXwf-1920-80.png",
+      "snippet": "SpaceX is shooting for new heights with its upcoming Starship test flight, and the booster tapped for the mission is in its final stretch of preparations before the mission. The Super Heavy…",
+      "category": "space",
+      "score": 16.65
     },
     {
-      "id": "12fhsoz",
-      "title": "Ukraine disputes Musk’s claim Starlink was used for offensive drone strikes",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTWI4VHl2WHBzYlVJVHdQZmJIeVc0UHVWR1JxMXdPb0cwNlNrLVczdW9yU3V6MFAzOFJwZU9YVGZCVE9EY1p1RkdoVUtoeFNEZjFVcldOSTZOLUpqYTFTMXdtazQ0akl3a2RjMXhrUW1fVVF4TElBeE1LaWdSemJrd1BuZjZEaXo2QlgxVFVuMDVYLW9MbUxaNy1xaUhzZDNJb1ljZWdncDdJZjM2WXc5Ng?oc=5",
-      "source": "WJAC",
+      "id": "1kwsqz0",
+      "title": "Launch Preview: Falcon 9 and GSLV rockets scheduled to launch",
+      "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102626/",
+      "source": "NASASpaceflight",
       "sources": [
-        "WJAC",
-        "KOKH",
-        "WPBN",
-        "WTOV",
-        "www.fox23.com",
-        "KABB",
-        "WXLV"
+        "NASASpaceflight"
       ],
-      "date": "2026-10-26T00:47:35.000Z",
-      "firstSeen": "2026-10-26T12:05:54.338Z",
-      "image": "",
-      "snippet": "",
+      "date": "2026-10-26T21:11:56.000Z",
+      "firstSeen": "2026-10-27T01:38:04.331Z",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-1.jpeg",
+      "snippet": "Four rockets are set to launch this week from the United States and India. SpaceX is set to launch three Falcon 9 rockets, delivering two batches of satellites for their Starlink…",
       "category": "connectivity",
-      "score": 20.24
+      "score": 15.84
     },
     {
-      "id": "1us2875",
-      "title": "Tesla’s FSD system receives approval in Latvia",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0J2UllSWjFibkludUlEbUFGS1FJQkpWRHZVREc4TEFVWkZrZUxTYTcwRkRwelhTX2REZkM0Smh4Mm5mamhzUXZ5Nk1XeWEtbmY1RnZiS08tZFBpbjFfYkdZeDBReUNxcmpscW1wSGVfbl9MOE5rcmp6c24yWEh4UU80VmU2ZXh0cXFXUHhJZjRaS1U0Y0JBbFVBTU00dUVoUFp1bVhfbkc2Tzg?oc=5",
-      "source": "Investing.com",
+      "id": "1q3vpmk",
+      "title": "Elon Musk Hires Snapchat’s First Product Manager at X",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzdkQzbWM1dzkxeC1WZGJ6bDBLSHNaS1d5TW5fR244WnB6U29NWm43VTlLc2xDS1lCMkxnZHdxT0pCQWJYNEJ3ZjlXVl9VaEdlX1c5XzVYbHhta1FiX051VW15UUEyV205OUE?oc=5",
+      "source": "BeInCrypto",
       "sources": [
-        "Investing.com",
-        "StreetInsider",
-        "Investing.com India"
+        "BeInCrypto"
       ],
-      "date": "2026-10-26T10:54:10.000Z",
-      "firstSeen": "2026-10-26T12:05:54.338Z",
+      "date": "2026-10-27T01:36:35.000Z",
+      "firstSeen": "2026-10-27T01:38:04.331Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 14.99
+    },
+    {
+      "id": "1dvy1xk",
+      "title": "Anthropic IPO Prospectus and Elon Musk Takes a Shot at Neoclouds",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNGdLUUQ0UG9KUTNvemJtNXQ5aFJ4c3VLSG4yekVpUXNKSGZZWDZqbjJGU19NQVVtcWlZTldYTklmbld5Z1ZySUxMV256eWFobm5GS0ZVaVQyckQxYjBUd1hfamFNcWY1aWphcHJvYWg5UGpNSnFodUVVQmtKdlEwMHJ5Nkk0Z1d5?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "date": "2026-10-26T19:31:40.000Z",
+      "firstSeen": "2026-10-27T01:38:04.331Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 14.94
+    },
+    {
+      "id": "105ag22",
+      "title": "Elon Musk Says He'd Be 'Stunned' If Any Robot Rivals Optimus At Launch: Gene Munster Calls It A Tesla 'Call Option' With 'Massive Value'",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZFRnVVVvY2Mwb09HNHZxWFlpWDhfTEdmLTVrQnNTN09XNEIyVldkTWJrNjNFcHM3REVIckowdVYwT01zNnBfQ08tQk5uYXJzN05RUnByVXdsLXZERS01VUtIVC1xQkxVVXhGWnRHb2xsZGN5VG1TcTFnQng2NWI0SHhqUEpEMzBPd05keFdaYWZnMDli?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "date": "2026-10-26T18:30:42.000Z",
+      "firstSeen": "2026-10-27T01:38:04.331Z",
+      "image": "",
+      "snippet": "",
+      "category": "robotics",
+      "score": 14.7
+    },
+    {
+      "id": "1p5tpyz",
+      "title": "Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYmluRnNVZjR4UlRKZ0gtbEh3NTc3Y1I1TVkxT2ZxUjBYX2ZiMThxbXhRVjFOWGt2VWdwZGw0YzFKM2VCU1BJS2NxMk1Ca0VscldVVDhIVHp6d2hiX29rdnRkUkVfSzFHd0JYTTFKbWItSzVfNHZBRjZubnFXeVFnU3ozWFJXUlZzUFpaOGk1MGJXMm4zNnI1N2xOQ21tbWx1YlNVQmxKazZNNEJSbDJ0b1JoSVFzVTZiWWZsb19SQy1lZEk5M3pNajZDM2VwSnlpOHVuTi1QTC04ZVk?oc=5",
+      "source": "Investor's Business Daily",
+      "sources": [
+        "Investor's Business Daily"
+      ],
+      "date": "2026-10-26T23:51:00.000Z",
+      "firstSeen": "2026-10-27T01:38:04.331Z",
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 17.58
-    },
-    {
-      "id": "1sq4tey",
-      "title": "Elon Musk and SpaceX Just Delivered Incredible News to Nvidia That Could Help the Stock Double in the Next Year",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMFQzZmIyWlE4d3J4OVJyTVFvTmxHOEpYQjJSamZEek1GS1dQQ2huQWJlbTBTUnFNdUlxYkp2WTBiQksxWEpIVDBFd1BtU2RGMjNEZFhBRTFjODVLRTdNYTZlM05zX0F2b3dFZnExT0ZkVXdKWVJhS2VOdmVmQUQ4UHpFM1Y4d2xQeFRmbmVJVlUxN2hJcnFQclZkYXA?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance",
-        "The Motley Fool"
-      ],
-      "date": "2026-10-26T07:24:12.000Z",
-      "firstSeen": "2026-10-26T12:05:54.338Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 17.19
-    },
-    {
-      "id": "1p6dd60",
-      "title": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTXppMmROR0hLeEtpY0hYZGhBSVdvS0pTbUZRdHhFNnlzT3RoUFdVTWNBR2FiUFZBU3VlckNIUHRBY2wxME9veS00dTNYYXVLZnVtWVNPNzVpeXFMZnUyT19fU3hob0I1RjJWRkhtZkx6RXF1OFZKRW1GUk84RVhnSnVRX0lDV0VyNzZXeTFycThBNFJL0gGaAUFVX3lxTE9yZjRYZHhNdW5rV0R0ZGlCdUhBbzhtdDNadVpILXdxSDk0NnZKOW1jLTF5U0kxdjRzM2c5bzVVT1NPdnhvUFpDRWExR01yd1EtRXVoWHpkTVRpZnBXSmdHQmlEVzg1SkZCWjRVMW5jYnBkV0ZEUnI4aTZsTVFFU25KSENHQTVTbGt1RnNwdDhHZ3RfVUhnV0dkS1E?oc=5",
-      "source": "CNBC",
-      "sources": [
-        "CNBC",
-        "CNBC Technology"
-      ],
-      "date": "2026-10-26T08:42:51.000Z",
-      "firstSeen": "2026-10-26T12:05:54.338Z",
-      "image": "",
-      "snippet": "Investors are already questioning the debt-fueled expansion of neoclouds and whether the large AI infrastructure build-out will generate long-term returns.",
-      "category": "business",
-      "score": 17.02
-    },
-    {
-      "id": "1u8af22",
-      "title": "Elon Musk’s AI Odyssey Gets Roasted After First Episode Is Released",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PQUF1RWZESEFLRXpYajJVcTVTYXNMRXNjTXJwS0FuNGpGcGVKenB1czVNQjZ5VVVWZGZLNWdSZHBXalZLUi01OEpPMnlfRmdVT1J5T2dYelFlUURtZ3ctTVZRZ09POWdEM2hGbThDSWFiMG1URFhNR3RQQ2U3NU0?oc=5",
-      "source": "www.techtimes.co.uk",
-      "sources": [
-        "www.techtimes.co.uk",
-        "The Independent"
-      ],
-      "date": "2026-10-26T11:37:14.000Z",
-      "firstSeen": "2026-10-26T12:05:54.338Z",
-      "image": "",
-      "snippet": "",
-      "category": "ai",
-      "score": 16.78
+      "score": 14.52
     }
   ],
   "trending": [
@@ -143,14 +123,10 @@
     "Tesla",
     "SpaceX",
     "Robotics",
-    "FSD",
-    "SatelliteInternet"
+    "Robotaxi",
+    "FSD"
   ],
   "spark": [
-    {
-      "date": "2026-10-13",
-      "total": 1
-    },
     {
       "date": "2026-10-14",
       "total": 1
@@ -201,10 +177,14 @@
     },
     {
       "date": "2026-10-26",
-      "total": 130
+      "total": 142
+    },
+    {
+      "date": "2026-10-27",
+      "total": 8
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: Starlink. Top story: Musk says SpaceX has closed $40 billion in debt to buy AI chips.",
+  "summary": "150 stories (last 24h). Most active frontier: Starlink. Top story: West Coast Falcon 9 rocket to launch 27 Starlink satellites.",
   "editor": {
     "date": "2026-10-26",
     "generated": "2026-10-26T12:10:00.000Z",
