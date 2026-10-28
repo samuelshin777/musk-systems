@@ -1,8 +1,8 @@
 # Musk Systems — full daily edition, 28 Oct 2026
 
-> Unofficial fan tracker of Elon Musk's companies and projects. Rebuilt automatically every day (DAILY 07:47 KST) from 17 news sources. Every headline links to its original publisher. Not affiliated with Elon Musk or his companies. Last update: 2026-10-28T01:47:33.393Z.
+> Unofficial fan tracker of Elon Musk's companies and projects. Rebuilt automatically every day (DAILY 07:47 KST) from 17 news sources. Every headline links to its original publisher. Not affiliated with Elon Musk or his companies. Last update: 2026-10-28T07:01:30.615Z.
 
-Site: https://elonmusksystem.com/ · Archive: https://elonmusksystem.com/news/ · RSS: https://elonmusksystem.com/feed.xml
+Site: https://YOUR-DOMAIN.com/ · Archive: https://YOUR-DOMAIN.com/news/ · RSS: https://YOUR-DOMAIN.com/feed.xml
 
 ## Today's answers
 ### What is the latest Elon Musk news today?

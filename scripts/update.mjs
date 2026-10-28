@@ -307,7 +307,7 @@ const qa = [
 await writeFile(p('data/answers.json'), JSON.stringify({ updated: NOW.toISOString(), answers: qa }, null, 2));
 
 /* embedded artwork + inlined CSS/JS: index.html runs on its own, with or without the assets folder */
-const ART_FILES = { hero: 'hero-musk', space: 'card-space', connect: 'card-connect', energy: 'card-energy', ai: 'card-ai', city: 'card-city', planet: 'planet-map', sat: 'satellite', logo: 'salahuddin-logo' };
+const ART_FILES = { hero: 'hero-launch', space: 'card-space', connect: 'card-connect', energy: 'card-energy', ai: 'card-ai', city: 'card-city', planet: 'planet-map', sat: 'satellite', logo: 'salahuddin-logo' };
 const artVars = async (mode) => {
   const out = [];
   for (const [k, file] of Object.entries(ART_FILES)) {

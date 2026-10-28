@@ -446,3 +446,5 @@ h1{font-size:clamp(42px,min(6.2vw,9.4vh),96px)}.page-1{padding-bottom:22px}
 /* quick facts ride along beside the answers instead of leaving a gap */
 .facts{position:sticky;top:96px}
 @media(max-width:980px){.facts{position:static}}
+/* hero artwork without a portrait: rocket launch + skyline (aspect 350:264) */
+.hero-visual .hero-img{width:min(100%,680px);aspect-ratio:350/264;background-position:center 40%;-webkit-mask-image:radial-gradient(ellipse 50% 50% at 50% 50%,#000 55%,transparent 100%);mask-image:radial-gradient(ellipse 50% 50% at 50% 50%,#000 55%,transparent 100%)}

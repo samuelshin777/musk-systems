@@ -28,7 +28,7 @@
     "image": "",
     "snippet": "",
     "category": "business",
-    "score": 18.09
+    "score": 17.13
   },
   "topList": [
     {
@@ -45,7 +45,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 15.48
+      "score": 14.53
     },
     {
       "id": "11e350x",
@@ -60,7 +60,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 15.38
+      "score": 14.18
     },
     {
       "id": "eqm6b",
@@ -75,7 +75,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 14.87
+      "score": 13.74
     },
     {
       "id": "yjs8zi",
@@ -91,7 +91,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 14.23
+      "score": 13.05
     },
     {
       "id": "8upw6b",
@@ -106,23 +106,23 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 14.13
+      "score": 12.89
     },
     {
-      "id": "7lgtfq",
-      "title": "Waymo vs Tesla Robotaxi [2026]: 7x Gap, Waymo Wins",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR0d1dUh6eEJFLWJSYzJMY0UyZkhOdGhjaGJLdWFVYWRsYWdZOGpaYmZDZUJLMXhtdVNoTF9SWDVfSUptRVZIMDBPWFdTU0twOV9oNDdObHdpTHBfN3Y0MDdKWTEwekd1ZHVuWG1NeDQzNDBhei1Vd3VQRm9MLWNEZDVvbFdLaFNt?oc=5",
-      "source": "tech-insider.org",
+      "id": "tc0b4x",
+      "title": "‘Very strange that Elon Musk doesn’t know’: Ukraine disputes SpaceX CEO on the basic facts after Starshield is restored",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQndscGwyQlVCQW51a2w4OTVZLTh3eWNlVkFpODVZWGNmM2dMNW9DNlVHZmVTSWtuekp2Z0M0T242eE8zYm96R1k3dC0xRWVKUG14T0wyMUVHbnUwS2hzTl9UckxlSWs2MFpxakhPRHVndEVuOF9iTTVMNWIzZmFjYWhUUXcyVGVweVcwSFVORzlNLXc?oc=5",
+      "source": "Yahoo Finance",
       "sources": [
-        "tech-insider.org",
-        "shattered.io"
+        "MoneyWise.com",
+        "Yahoo Finance"
       ],
-      "date": "2026-10-28T01:35:49.000Z",
+      "date": "2026-10-27T13:46:06.000Z",
       "firstSeen": "2026-10-28T01:47:33.393Z",
       "image": "",
       "snippet": "",
-      "category": "mobility",
-      "score": 13.95
+      "category": "connectivity",
+      "score": 12.69
     }
   ],
   "trending": [

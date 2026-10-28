@@ -1,20 +1,20 @@
 # Musk Systems — Elon Musk achievements, projects and daily news
 
-> Unofficial fan tribute that documents Elon Musk's achievements and tracks his current projects (SpaceX, Starship, Starlink, Tesla, Optimus, Cybercab, xAI/Grok, Neuralink, The Boring Company). A new daily edition is generated automatically (DAILY 07:47 KST). Last update: 2026-10-28T01:47:33.393Z.
+> Unofficial fan tribute that documents Elon Musk's achievements and tracks his current projects (SpaceX, Starship, Starlink, Tesla, Optimus, Cybercab, xAI/Grok, Neuralink, The Boring Company). A new daily edition is generated automatically (DAILY 07:47 KST). Last update: 2026-10-28T07:01:30.615Z.
 
 ## Today's briefing
 150 stories (last 24h). Most active frontier: Tesla. Top story: Judge Orders Greg Abbott to Show Elon Musk Emails to Election Rival.
 
 
 ## Main pages
-- Home: https://elonmusksystem.com/
-- Live news feed: https://elonmusksystem.com/#planet
-- Today's digest: https://elonmusksystem.com/news/2026-10-28.html
-- Daily news archive: https://elonmusksystem.com/news/
-- Full plain-text edition: https://elonmusksystem.com/llms-full.txt
-- Today's answers (Q&A): https://elonmusksystem.com/#answers · https://elonmusksystem.com/data/answers.json
-- RSS feed: https://elonmusksystem.com/feed.xml
-- Machine-readable data: https://elonmusksystem.com/data/news.json, https://elonmusksystem.com/data/briefing.json, https://elonmusksystem.com/data/projects.json, https://elonmusksystem.com/data/hashtags.json
+- Home: https://YOUR-DOMAIN.com/
+- Live news feed: https://YOUR-DOMAIN.com/#planet
+- Today's digest: https://YOUR-DOMAIN.com/news/2026-10-28.html
+- Daily news archive: https://YOUR-DOMAIN.com/news/
+- Full plain-text edition: https://YOUR-DOMAIN.com/llms-full.txt
+- Today's answers (Q&A): https://YOUR-DOMAIN.com/#answers · https://YOUR-DOMAIN.com/data/answers.json
+- RSS feed: https://YOUR-DOMAIN.com/feed.xml
+- Machine-readable data: https://YOUR-DOMAIN.com/data/news.json, https://YOUR-DOMAIN.com/data/briefing.json, https://YOUR-DOMAIN.com/data/projects.json, https://YOUR-DOMAIN.com/data/hashtags.json
 
 ## Latest headlines (links go to original publishers)
 - 2026-10-28 [Tesla] Waymo vs Tesla Robotaxi [2026]: 7x Gap, Waymo Wins — tech-insider.org (+1 outlets): https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR0d1dUh6eEJFLWJSYzJMY0UyZkhOdGhjaGJLdWFVYWRsYWdZOGpaYmZDZUJLMXhtdVNoTF9SWDVfSUptRVZIMDBPWFdTU0twOV9oNDdObHdpTHBfN3Y0MDdKWTEwekd1ZHVuWG1NeDQzNDBhei1Vd3VQRm9MLWNEZDVvbFdLaFNt?oc=5
