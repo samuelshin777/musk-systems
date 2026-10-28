@@ -3,49 +3,62 @@
   "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "mobility": 38,
-    "space": 22,
-    "ai": 17,
-    "business": 33,
-    "connectivity": 33,
+    "space": 26,
+    "ai": 18,
+    "connectivity": 35,
+    "mobility": 37,
+    "business": 27,
     "robotics": 6,
     "neuro": 1
   },
   "topStory": {
-    "id": "i2yknx",
-    "title": "Judge Orders Greg Abbott to Show Elon Musk Emails to Election Rival",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcFZzRGVJREkwNThHQm13YzJzSjRwTXozT3dCZjN4ZXQ0LVNiWldFN1A1VVlnRGFmcUl5NlZHNmtZcGI3TDM0WlJrOFpFcEFSa19Bb0xVVjFfY2hudDlnM3NwNWpyTU8tMTZpek96SjdaTjNEYlBwby1nQ2Z4MlZsZjJaUUt0RWlHQkhtNFFyRkx2ZzZabk8zVWlBRQ?oc=5",
-    "source": "Law Commentary",
+    "id": "kqghkb",
+    "title": "Musk’s Mars Merger Pay",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdWlOaXBVUlJSNkhjYXY5cWdWM3AwRXZWUGxRR1Q0enMwUnRfM0tUWlN4T1hXWWdEZEloVTNwNnlmci15cE1oal96MnFMdlc2ZmpvZUUxRU94X1RIbEpvT3UxX3dGa0I5dnNOaG9SczFPZ3Z5SnpxTzZvRHBRY2FtZWhONnNydw?oc=5",
+    "source": "Bloomberg",
     "sources": [
-      "Law Commentary",
-      "KHOU",
-      "notus.org",
-      "San Antonio Current",
-      "Chron"
+      "Bloomberg.com",
+      "Bloomberg"
     ],
-    "date": "2026-10-27T13:25:00.000Z",
+    "date": "2026-10-27T18:22:01.000Z",
     "firstSeen": "2026-10-28T01:47:33.393Z",
     "image": "",
     "snippet": "",
-    "category": "business",
-    "score": 17.13
+    "category": "space",
+    "score": 17.03
   },
   "topList": [
     {
-      "id": "whk89w",
-      "title": "Prediction: The Stock Market Could Crash in 2027, and Elon Musk Just Explained Why",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM3JOUU1OVmNuN0NCeWxfQThyVU8xc1BXZHNPS3BnMGJTakhBR0wyS0JaVGNURmQtQWhJUHNIWGItWHNMMmNEWTN6dzcxRURaT1RhZDQtREZfVlRWaXh5aEtrZGhxWGdfZ0taWGRwMnIxSGVtem5qSURmWnhQTjB1NnlnREROM2J6RWk5R3RNY0g2cjlGNmdmdktjN00zcm10NUE?oc=5",
-      "source": "Yahoo Finance",
+      "id": "1gjcohl",
+      "title": "SpaceX and Tesla Turn to Boards Cozy With Musk to Mull a Merger",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdi1iUlRUTTBzSmd0ak9XVkJyeHI0bjYwLU5IQkRadEJ2cjV6VTVneWNxUTk3dEpnQ01FOGJhbjZOeGd4bHpTUmZpd2ZtU2lRVlN5WDZnalk5NFEzQnQ1aXJBVUFFMHgxUTFuSGNlenU5Y1Z6UVJxUU1nZy03U0ZyTVMwdmhsV25XRXEzSDU0MS1ubGl5WnlxVFp5MHhoU081ekJZdE1Bd2dMZmc3dHMwZm1LM0Y?oc=5",
+      "source": "Bloomberg",
       "sources": [
-        "Yahoo Finance",
-        "The Motley Fool"
+        "Bloomberg.com",
+        "Bloomberg"
       ],
-      "date": "2026-10-27T12:50:00.000Z",
+      "date": "2026-10-27T17:00:00.000Z",
       "firstSeen": "2026-10-28T01:47:33.393Z",
       "image": "",
       "snippet": "",
-      "category": "business",
-      "score": 14.53
+      "category": "space",
+      "score": 16.77
+    },
+    {
+      "id": "ledi64",
+      "title": "Elon Musk Says SpaceX Is Now a \"Super Intelligence\" Company",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMmZlNDVweVJ0Xzc3X0ZjMkExZGQ3T1c2UnoxNm5vZUN6LXc0QlZINVBudFRqV1NKM2VESVRZNEE4WGxtVHN6emhES1JRUGluS2Z4cEhJVUtzUzF2YlVLZmZabkNSVWg4TXZvSGFsQjZWVHdDakpJd0xkVVpzRzktMVJWR0J5Z21tcmw5NzJOdXlIOWc?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "The Motley Fool",
+        "Yahoo Finance"
+      ],
+      "date": "2026-10-28T05:50:00.000Z",
+      "firstSeen": "2026-10-28T07:02:10.788Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 16.17
     },
     {
       "id": "11e350x",
@@ -60,7 +73,37 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 14.18
+      "score": 14.17
+    },
+    {
+      "id": "mre628",
+      "title": "Maye Musk Didn't Understand Her Son's Starlink Vision at First — Now She's Praising How SpaceX Satellite",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWxQMHRIaTVBMkNKTEJKX0lZQ01ES3c5VmJNd0thOTlyMHRfWFZ6LXhxUEs5bW1QQUp6RmlpTkZ1SnJxNUUxVXZDVzhGWWtKVW9RckxDYlZVT09HZnRQV2dVWG56RkVLQVZCTDZCWWFMMGthME9CR1VUNU90YW9DX0ttUDFSdHpTWDVBSDE5YnZ3WEJRMnZSLVZielNSODZTXy1hMnpYZ0F4UzdDY0VWeXh2dDhPZw?oc=5",
+      "source": "Benzinga",
+      "sources": [
+        "Benzinga"
+      ],
+      "date": "2026-10-28T02:57:50.000Z",
+      "firstSeen": "2026-10-28T07:02:10.788Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 13.93
+    },
+    {
+      "id": "14e9pl3",
+      "title": "Tesla Robotaxi Miami: 5 Key Facts Before Launch [2026]",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS3hpRWw2Tlo2clk0ZFNKSUJlSkhjeUpjOGZiQTNpd2RQNm9NbGs3eldma2NQUmtpOXd3dThPT3ZhTFJKNnhwYnhUWm1oYno2bHZLR3dlS2VqSF9qZkpselV5TG9JT3haak5CS1ZTZ1VHVEczSi1EZm9QVFo2RnY1bmFoUE1fTkV1ZVdIeUZ0cw?oc=5",
+      "source": "https://tech-insider.org/",
+      "sources": [
+        "https://tech-insider.org/"
+      ],
+      "date": "2026-10-28T06:22:46.000Z",
+      "firstSeen": "2026-10-28T07:02:10.788Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 13.82
     },
     {
       "id": "eqm6b",
@@ -76,53 +119,6 @@
       "snippet": "",
       "category": "space",
       "score": 13.74
-    },
-    {
-      "id": "yjs8zi",
-      "title": "Waymo adds nearly 250 square miles of robotaxi coverage in 5 cities",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeG9zUmRmTjB4WjZWcjV3c29ZVER4THYza2lqRFZWbW8wY0kya2xBU3ZiRDlLMHRrb19Sbkh0TE5mNXBuR3owOEFoR3lOVWx6b0FHM0VLakJNalVLZnVDYnlYS0ZXOUNSS3B2eTJhVWtRU2hNR0VseGZtRzRKbVhDR0pR?oc=5",
-      "source": "Electrek",
-      "sources": [
-        "Electrek",
-        "Drive Tesla Canada"
-      ],
-      "date": "2026-10-27T20:55:00.000Z",
-      "firstSeen": "2026-10-28T01:47:33.393Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 13.05
-    },
-    {
-      "id": "8upw6b",
-      "title": "Texas lawmaker demands to see 1,000 pages of records from Gov. Greg Abbott and Elon Musk. Then she realizes why they've allegedly been kept secret",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQnFvMGJheDNCeGRwMnRDcjhCRm9CU2M4VkVweTQxRkVEMThVcTFQVktNamJNRU00LWhmLWRyMGRmQmdmYWttNnR3ampKejlQWVROX29OTkpPZVlaYjBqek85cmd6WVBOcWJSNk5Vb3pRRzdHVWtSVnYyXzFXR0p1MmRjd280ZWFyTnZjMFNNTFZWX0t1UkYtd3V0c3hLWEhyQXNtSTd6eTlld1I3T2NYdmk4S2lzTW1yN1JhbkxfYUtSOElhTEYwTjVjUURxVTV2cUw5X2F5RkdaWnhwQmVnRHhLQUdtdXNWdVAtNmdwb1B5c1ZGVWhGNUJMZmxGTnE2dHFBY3d6bUc?oc=5",
-      "source": "We Got This Covered",
-      "sources": [
-        "We Got This Covered"
-      ],
-      "date": "2026-10-27T22:30:00.000Z",
-      "firstSeen": "2026-10-28T01:47:33.393Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 12.89
-    },
-    {
-      "id": "tc0b4x",
-      "title": "‘Very strange that Elon Musk doesn’t know’: Ukraine disputes SpaceX CEO on the basic facts after Starshield is restored",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQndscGwyQlVCQW51a2w4OTVZLTh3eWNlVkFpODVZWGNmM2dMNW9DNlVHZmVTSWtuekp2Z0M0T242eE8zYm96R1k3dC0xRWVKUG14T0wyMUVHbnUwS2hzTl9UckxlSWs2MFpxakhPRHVndEVuOF9iTTVMNWIzZmFjYWhUUXcyVGVweVcwSFVORzlNLXc?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "MoneyWise.com",
-        "Yahoo Finance"
-      ],
-      "date": "2026-10-27T13:46:06.000Z",
-      "firstSeen": "2026-10-28T01:47:33.393Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 12.69
     }
   ],
   "trending": [
@@ -188,9 +184,9 @@
     },
     {
       "date": "2026-10-28",
-      "total": 7
+      "total": 31
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: Tesla. Top story: Judge Orders Greg Abbott to Show Elon Musk Emails to Election Rival.",
+  "summary": "150 stories (last 24h). Most active frontier: Tesla. Top story: Musk’s Mars Merger Pay.",
   "editor": null
 }

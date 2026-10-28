@@ -25,5 +25,5 @@ Allow: /
 User-agent: Applebot
 Allow: /
 
-Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
-# Plain-text summaries for AI assistants: https://YOUR-DOMAIN.com/llms.txt and https://YOUR-DOMAIN.com/llms-full.txt
+Sitemap: https://elonmusksystem.com/sitemap.xml
+# Plain-text summaries for AI assistants: https://elonmusksystem.com/llms.txt and https://elonmusksystem.com/llms-full.txt

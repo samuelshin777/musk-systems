@@ -65,12 +65,12 @@
       "neuro": 1
     },
     "2026-10-28": {
-      "total": 7,
-      "mobility": 3,
-      "space": 1,
-      "ai": 1,
-      "business": 1,
-      "connectivity": 1
+      "total": 31,
+      "space": 8,
+      "ai": 5,
+      "connectivity": 8,
+      "mobility": 8,
+      "business": 2
     }
   }
 }
