@@ -1,140 +1,139 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "connectivity": 46,
-    "ai": 16,
-    "mobility": 40,
-    "space": 25,
-    "business": 20,
-    "robotics": 3
+    "mobility": 38,
+    "space": 22,
+    "ai": 17,
+    "business": 33,
+    "connectivity": 33,
+    "robotics": 6,
+    "neuro": 1
   },
   "topStory": {
-    "id": "rm7ghm",
-    "title": "Elon Musk Predicts a Wave of Failures Among AI Cloud Companies. Is SpaceX Stock a Sell?",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUU50Vnc2NGRCRHktMk40UUtnRjlNZ1pLUmpJYWVzSzVCOVRLSExMQm1lMXVVNDQzc085anBuRzZ1QjlLeGhHUURhN3BlU3NLMUk1R3dtX05SUzllUWNYdnFiY25LamswNzdYa3g5LU9CUEJsT0V5ZTVpR2sxcF9NMVBNWmx2ZDlzdVdWdzd2NEZENXBRRGwyeGpQTlI?oc=5",
-    "source": "Yahoo Finance",
+    "id": "i2yknx",
+    "title": "Judge Orders Greg Abbott to Show Elon Musk Emails to Election Rival",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcFZzRGVJREkwNThHQm13YzJzSjRwTXozT3dCZjN4ZXQ0LVNiWldFN1A1VVlnRGFmcUl5NlZHNmtZcGI3TDM0WlJrOFpFcEFSa19Bb0xVVjFfY2hudDlnM3NwNWpyTU8tMTZpek96SjdaTjNEYlBwby1nQ2Z4MlZsZjJaUUt0RWlHQkhtNFFyRkx2ZzZabk8zVWlBRQ?oc=5",
+    "source": "Law Commentary",
     "sources": [
-      "Yahoo Finance",
-      "The Motley Fool",
-      "The Globe and Mail"
+      "Law Commentary",
+      "KHOU",
+      "notus.org",
+      "San Antonio Current",
+      "Chron"
     ],
-    "date": "2026-10-27T04:39:35.000Z",
-    "firstSeen": "2026-10-27T05:51:52.747Z",
+    "date": "2026-10-27T13:25:00.000Z",
+    "firstSeen": "2026-10-28T01:47:33.393Z",
     "image": "",
     "snippet": "",
-    "category": "ai",
-    "score": 18.04
+    "category": "business",
+    "score": 18.09
   },
   "topList": [
     {
-      "id": "1q3vpmk",
-      "title": "Elon Musk Hires Snapchat’s First Product Manager at X",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzdkQzbWM1dzkxeC1WZGJ6bDBLSHNaS1d5TW5fR244WnB6U29NWm43VTlLc2xDS1lCMkxnZHdxT0pCQWJYNEJ3ZjlXVl9VaEdlX1c5XzVYbHhta1FiX051VW15UUEyV205OUE?oc=5",
-      "source": "BeInCrypto",
+      "id": "whk89w",
+      "title": "Prediction: The Stock Market Could Crash in 2027, and Elon Musk Just Explained Why",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM3JOUU1OVmNuN0NCeWxfQThyVU8xc1BXZHNPS3BnMGJTakhBR0wyS0JaVGNURmQtQWhJUHNIWGItWHNMMmNEWTN6dzcxRURaT1RhZDQtREZfVlRWaXh5aEtrZGhxWGdfZ0taWGRwMnIxSGVtem5qSURmWnhQTjB1NnlnREROM2J6RWk5R3RNY0g2cjlGNmdmdktjN00zcm10NUE?oc=5",
+      "source": "Yahoo Finance",
       "sources": [
-        "BeInCrypto",
-        "Firstpost"
+        "Yahoo Finance",
+        "The Motley Fool"
       ],
-      "date": "2026-10-27T01:36:35.000Z",
-      "firstSeen": "2026-10-27T01:38:04.331Z",
+      "date": "2026-10-27T12:50:00.000Z",
+      "firstSeen": "2026-10-28T01:47:33.393Z",
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 15.77
+      "score": 15.48
     },
     {
-      "id": "sil9c9",
-      "title": "West Coast Falcon 9 rocket to launch 27 Starlink satellites",
-      "url": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
-      "source": "Spaceflight Now",
-      "sources": [
-        "Spaceflight Now"
-      ],
-      "date": "2026-10-27T00:50:37.000Z",
-      "firstSeen": "2026-10-27T01:38:04.331Z",
-      "image": "",
-      "snippet": "File: A SpaceX Falcon 9 rocket stands in the launch position during sunset at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California. Image: SpaceX SpaceX will…",
-      "category": "connectivity",
-      "score": 15.58
-    },
-    {
-      "id": "490vya",
-      "title": "Elon Musk Says Merging SpaceX and Tesla Would Be a Good Idea. Here's What Investors Should Know.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcG8zcVdpdC1KeTBDb0lubW0zcy1LeGFQVFRSOUVra3BQTGRSLTd0Rlo0OWlWekp2ZFFnWmpuMGctTEFXZ1JYNnIzSk1TdkJ5Y2J1NG01VngtQWJWeWxKUGRDTEhoZUdydEVFWHl5cUN1MC1xOEY0cDhuY3U3Q0hOLVFCcFEtOEVVdy1nWVJta2lXbnE4ZWk2aWFB?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "The Motley Fool",
-        "Yahoo Finance"
-      ],
-      "date": "2026-10-27T02:32:04.000Z",
-      "firstSeen": "2026-10-27T05:51:52.747Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 15.5
-    },
-    {
-      "id": "13j77sj",
-      "title": "Tesla’s Cybercab Fleet Expands Tenfold in Just a Month, Elon Musk Says Driverless Mileage Is Growing ‘Like a Rocket Going to Orbit’",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTDQwR3UtZGVtWmNTNEtvQmU4MTMxMTNzY3RyMTJYaHAzRUhaRHExY0o1YURhMjRRSnlOT2lsVkZSYjB5RFBaLTBfUGdHUWpWVXNQN3U1dEgwWm9ITkZPY3hERy1VRm05RUdBMXZWRGVaOTd4V0IxRGZzRXN1S1YwNkl3MTA4Z2ZHZEJ0UGFEbHhzQXRiZWgwakdLQUxIUXdncXc?oc=5",
+      "id": "11e350x",
+      "title": "Scott Galloway Warns Tesla Is the ‘Patient’ and SpaceX Its ‘Organ Donor’ in Elon Musk’s $3.5 Trillion Merger Plan: 'Real Merger With a Fake Premise'",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMTVfNkRnM0ZvclBTQlFmeDR3eUpJalRzeDZ3UjFFY044b0YtMjZ0Y3h2YjJOcXJEbm1Xb1dsMW1HSTROWGFoclFwLWJvX1A3SW1sMUhqLTNyNUJMOWRQZmtIeE5nc2htYXBGY1hYOG14U3AyOWg0VEZBT19ISHdhVjY5OGxpamRTRjhKa09EMTRRa3ppdC13R05CYnl0SEE3?oc=5",
       "source": "Yahoo Finance",
       "sources": [
         "Yahoo Finance"
       ],
-      "date": "2026-10-27T02:30:00.000Z",
-      "firstSeen": "2026-10-27T05:51:52.747Z",
+      "date": "2026-10-27T21:30:18.000Z",
+      "firstSeen": "2026-10-28T01:47:33.393Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 15.49
+      "score": 15.38
     },
     {
-      "id": "1kwsqz0",
-      "title": "Launch Preview: Falcon 9 and GSLV rockets scheduled to launch",
-      "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102626/",
-      "source": "NASASpaceflight",
+      "id": "eqm6b",
+      "title": "Why Anthropic's IPO contrasts the 'cult of Elon Musk' at SpaceX and Tesla",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaXF4MmxxVU8tVFd0RWFNSkFuNFg3RFFCRlFrY1Q4eHRET21kdlhyV042STlIUnhiaGRFa1hlbHBTeV9qZE5Qbk9MWGZILXEtdC1aazVsc2xLMmw2VzdnVUFkc2t0dkZyZGJaR1VjYVNId3pTakRZazFkcEhaMnQxVnlYUlZhUFVmc0RCLWJidXdwekJJejAzWFNoU0l1MmhJX01QenFGQkJiMFM3WS1lWHphMklxdVVIb282cmNVdHRkOE84U3NxNmtLS2dRVjA?oc=5",
+      "source": "Yahoo Finance",
       "sources": [
-        "NASASpaceflight"
+        "Yahoo Finance"
       ],
-      "date": "2026-10-26T21:11:56.000Z",
-      "firstSeen": "2026-10-27T01:38:04.331Z",
-      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-1.jpeg",
-      "snippet": "Four rockets are set to launch this week from the United States and India. SpaceX is set to launch three Falcon 9 rockets, delivering two batches of satellites for their Starlink…",
-      "category": "connectivity",
-      "score": 14.76
-    },
-    {
-      "id": "oikuc0",
-      "title": "Musk unveils AI film project based on ancient Greek epic ‘The Odyssey’",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2dEVlpmcDJ0eGRXYTZZcm1xejZSRUptak13NUZUYjc3bHhxM21HX3BMWjBaMVgwb3hMOW5IbmpkNElfa0Z1d19IRFhFZTA3X284bUI3Mkl3dVM1a2hQSllxSFNtaU1vNV85bXROaTdDck9wQ3MtSURqNkYxQkFrT2IyZS1icVVhTlMyLVpnZU5uMXVLdVlhWlNPN2JJQQ?oc=5",
-      "source": "24NewsHD",
-      "sources": [
-        "24NewsHD",
-        "24 News HD"
-      ],
-      "date": "2026-10-26T17:42:50.000Z",
-      "firstSeen": "2026-10-27T01:38:04.331Z",
+      "date": "2026-10-27T19:24:24.000Z",
+      "firstSeen": "2026-10-28T01:47:33.393Z",
       "image": "",
       "snippet": "",
-      "category": "ai",
-      "score": 14.04
+      "category": "space",
+      "score": 14.87
+    },
+    {
+      "id": "yjs8zi",
+      "title": "Waymo adds nearly 250 square miles of robotaxi coverage in 5 cities",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeG9zUmRmTjB4WjZWcjV3c29ZVER4THYza2lqRFZWbW8wY0kya2xBU3ZiRDlLMHRrb19Sbkh0TE5mNXBuR3owOEFoR3lOVWx6b0FHM0VLakJNalVLZnVDYnlYS0ZXOUNSS3B2eTJhVWtRU2hNR0VseGZtRzRKbVhDR0pR?oc=5",
+      "source": "Electrek",
+      "sources": [
+        "Electrek",
+        "Drive Tesla Canada"
+      ],
+      "date": "2026-10-27T20:55:00.000Z",
+      "firstSeen": "2026-10-28T01:47:33.393Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 14.23
+    },
+    {
+      "id": "8upw6b",
+      "title": "Texas lawmaker demands to see 1,000 pages of records from Gov. Greg Abbott and Elon Musk. Then she realizes why they've allegedly been kept secret",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQnFvMGJheDNCeGRwMnRDcjhCRm9CU2M4VkVweTQxRkVEMThVcTFQVktNamJNRU00LWhmLWRyMGRmQmdmYWttNnR3ampKejlQWVROX29OTkpPZVlaYjBqek85cmd6WVBOcWJSNk5Vb3pRRzdHVWtSVnYyXzFXR0p1MmRjd280ZWFyTnZjMFNNTFZWX0t1UkYtd3V0c3hLWEhyQXNtSTd6eTlld1I3T2NYdmk4S2lzTW1yN1JhbkxfYUtSOElhTEYwTjVjUURxVTV2cUw5X2F5RkdaWnhwQmVnRHhLQUdtdXNWdVAtNmdwb1B5c1ZGVWhGNUJMZmxGTnE2dHFBY3d6bUc?oc=5",
+      "source": "We Got This Covered",
+      "sources": [
+        "We Got This Covered"
+      ],
+      "date": "2026-10-27T22:30:00.000Z",
+      "firstSeen": "2026-10-28T01:47:33.393Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 14.13
+    },
+    {
+      "id": "7lgtfq",
+      "title": "Waymo vs Tesla Robotaxi [2026]: 7x Gap, Waymo Wins",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR0d1dUh6eEJFLWJSYzJMY0UyZkhOdGhjaGJLdWFVYWRsYWdZOGpaYmZDZUJLMXhtdVNoTF9SWDVfSUptRVZIMDBPWFdTU0twOV9oNDdObHdpTHBfN3Y0MDdKWTEwekd1ZHVuWG1NeDQzNDBhei1Vd3VQRm9MLWNEZDVvbFdLaFNt?oc=5",
+      "source": "tech-insider.org",
+      "sources": [
+        "tech-insider.org",
+        "shattered.io"
+      ],
+      "date": "2026-10-28T01:35:49.000Z",
+      "firstSeen": "2026-10-28T01:47:33.393Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 13.95
     }
   ],
   "trending": [
     "Tesla",
     "Starlink",
     "SpaceX",
+    "Robotics",
     "Cybercab",
-    "FSD",
-    "Robotics"
+    "Robotaxi"
   ],
   "spark": [
-    {
-      "date": "2026-10-14",
-      "total": 1
-    },
     {
       "date": "2026-10-15",
       "total": 0
@@ -185,19 +184,13 @@
     },
     {
       "date": "2026-10-27",
-      "total": 53
+      "total": 143
+    },
+    {
+      "date": "2026-10-28",
+      "total": 7
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: Starlink. Top story: Elon Musk Predicts a Wave of Failures Among AI Cloud Companies. Is SpaceX Stock a Sell?.",
-  "editor": {
-    "date": "2026-10-26",
-    "generated": "2026-10-26T12:10:00.000Z",
-    "by": "/goal daily editor",
-    "bullets": [
-      "Elon Musk said SpaceX has closed $40 billion in debt to buy AI chips arriving in 2027, though Bloomberg reported pricing talks were still under way.",
-      "SpaceX and Tesla have each formed special board committees of independent directors to review a possible merger; no terms have been agreed.",
-      "Musk said Starship Flight 15, which is set to attempt the first tower catch of the ship itself, could fly within about four to six weeks of mid-October.",
-      "Grok released the first seven minutes of its AI-generated 'Odyssey' series, and Starlink service in Ukraine is back to normal after a weeklong disruption."
-    ]
-  }
+  "summary": "150 stories (last 24h). Most active frontier: Tesla. Top story: Judge Orders Greg Abbott to Show Elon Musk Emails to Election Rival.",
+  "editor": null
 }
