@@ -1,139 +1,149 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "space": 26,
-    "ai": 18,
-    "connectivity": 35,
-    "mobility": 37,
-    "business": 27,
-    "robotics": 6,
+    "business": 33,
+    "connectivity": 46,
+    "space": 29,
+    "mobility": 24,
+    "robotics": 3,
+    "ai": 14,
     "neuro": 1
   },
   "topStory": {
-    "id": "kqghkb",
-    "title": "Musk’s Mars Merger Pay",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdWlOaXBVUlJSNkhjYXY5cWdWM3AwRXZWUGxRR1Q0enMwUnRfM0tUWlN4T1hXWWdEZEloVTNwNnlmci15cE1oal96MnFMdlc2ZmpvZUUxRU94X1RIbEpvT3UxX3dGa0I5dnNOaG9SczFPZ3Z5SnpxTzZvRHBRY2FtZWhONnNydw?oc=5",
-    "source": "Bloomberg",
+    "id": "1g2dvzk",
+    "title": "Putin salutes Musk's genius as Russia plays catch-up with Starlink",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONmd3STdjSU1aQWhudHNDZjVqQjZJMmxWdHVFbUl6VVBmUzZ0ZEVtTVl6YzZDSUVvcmdZbjhrUkkwVHp0LWVsMDg2TkhFLUJqeXZWY2FDS2xtLWpKdWVadWd2LWloOTFFa25sUG9wdWRaQnlyR2c1bElQazVoRm1TZUtaajRiQmdTdURTZW1qbnpjMXF2czlITWFGS0FvYm9reTRwMTE4RHEtQnBIWWxVOQ?oc=5",
+    "source": "Reuters",
     "sources": [
-      "Bloomberg.com",
-      "Bloomberg"
+      "Reuters",
+      "Modern Diplomacy",
+      "The Straits Times",
+      "RTE.ie",
+      "Internazionale",
+      "Miami Herald",
+      "Bradenton Herald",
+      "Raleigh News & Observer"
     ],
-    "date": "2026-10-27T18:22:01.000Z",
-    "firstSeen": "2026-10-28T01:47:33.393Z",
+    "date": "2026-10-28T15:46:00.000Z",
+    "firstSeen": "2026-10-29T01:57:22.331Z",
     "image": "",
     "snippet": "",
-    "category": "space",
-    "score": 17.03
+    "category": "connectivity",
+    "score": 25.53
   },
   "topList": [
     {
-      "id": "1gjcohl",
-      "title": "SpaceX and Tesla Turn to Boards Cozy With Musk to Mull a Merger",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdi1iUlRUTTBzSmd0ak9XVkJyeHI0bjYwLU5IQkRadEJ2cjV6VTVneWNxUTk3dEpnQ01FOGJhbjZOeGd4bHpTUmZpd2ZtU2lRVlN5WDZnalk5NFEzQnQ1aXJBVUFFMHgxUTFuSGNlenU5Y1Z6UVJxUU1nZy03U0ZyTVMwdmhsV25XRXEzSDU0MS1ubGl5WnlxVFp5MHhoU081ekJZdE1Bd2dMZmc3dHMwZm1LM0Y?oc=5",
-      "source": "Bloomberg",
+      "id": "1xu2pms",
+      "title": "Pentagon watchdog tells lawmakers it won’t investigate Starlink slowdowns to Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXZ6TzNnOExPZmEyc0F6ckNhMURBcndMTUFfaC1TTDZkY1lqRGVhNm05YjlqeUo0a2hOdmdlWVYtV3M3bkVRbHhpNUJRRXVzcEhFSjNkUzRlVmJVYTBHWEgyeXdUZnpwSENKS1AyVTg4ekROcGljemJOdnJQSkh5WmgzSThGTlRfVDdHWGcxdHZ0NmkzcWdOd011MndzSWJxZFdYZFhnV1Z3NENTdjAxN2p6T3pJc2JY?oc=5",
+      "source": "AP News",
       "sources": [
-        "Bloomberg.com",
-        "Bloomberg"
+        "AP News",
+        "The Spec",
+        "The Washington Post",
+        "Sun Sentinel"
       ],
-      "date": "2026-10-27T17:00:00.000Z",
-      "firstSeen": "2026-10-28T01:47:33.393Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 16.77
-    },
-    {
-      "id": "ledi64",
-      "title": "Elon Musk Says SpaceX Is Now a \"Super Intelligence\" Company",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMmZlNDVweVJ0Xzc3X0ZjMkExZGQ3T1c2UnoxNm5vZUN6LXc0QlZINVBudFRqV1NKM2VESVRZNEE4WGxtVHN6emhES1JRUGluS2Z4cEhJVUtzUzF2YlVLZmZabkNSVWg4TXZvSGFsQjZWVHdDakpJd0xkVVpzRzktMVJWR0J5Z21tcmw5NzJOdXlIOWc?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "The Motley Fool",
-        "Yahoo Finance"
-      ],
-      "date": "2026-10-28T05:50:00.000Z",
-      "firstSeen": "2026-10-28T07:02:10.788Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 16.17
-    },
-    {
-      "id": "11e350x",
-      "title": "Scott Galloway Warns Tesla Is the ‘Patient’ and SpaceX Its ‘Organ Donor’ in Elon Musk’s $3.5 Trillion Merger Plan: 'Real Merger With a Fake Premise'",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMTVfNkRnM0ZvclBTQlFmeDR3eUpJalRzeDZ3UjFFY044b0YtMjZ0Y3h2YjJOcXJEbm1Xb1dsMW1HSTROWGFoclFwLWJvX1A3SW1sMUhqLTNyNUJMOWRQZmtIeE5nc2htYXBGY1hYOG14U3AyOWg0VEZBT19ISHdhVjY5OGxpamRTRjhKa09EMTRRa3ppdC13R05CYnl0SEE3?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "date": "2026-10-27T21:30:18.000Z",
-      "firstSeen": "2026-10-28T01:47:33.393Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 14.17
-    },
-    {
-      "id": "mre628",
-      "title": "Maye Musk Didn't Understand Her Son's Starlink Vision at First — Now She's Praising How SpaceX Satellite",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWxQMHRIaTVBMkNKTEJKX0lZQ01ES3c5VmJNd0thOTlyMHRfWFZ6LXhxUEs5bW1QQUp6RmlpTkZ1SnJxNUUxVXZDVzhGWWtKVW9RckxDYlZVT09HZnRQV2dVWG56RkVLQVZCTDZCWWFMMGthME9CR1VUNU90YW9DX0ttUDFSdHpTWDVBSDE5YnZ3WEJRMnZSLVZielNSODZTXy1hMnpYZ0F4UzdDY0VWeXh2dDhPZw?oc=5",
-      "source": "Benzinga",
-      "sources": [
-        "Benzinga"
-      ],
-      "date": "2026-10-28T02:57:50.000Z",
-      "firstSeen": "2026-10-28T07:02:10.788Z",
+      "date": "2026-10-28T23:02:00.000Z",
+      "firstSeen": "2026-10-29T01:57:22.331Z",
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 13.93
+      "score": 20.22
     },
     {
-      "id": "14e9pl3",
-      "title": "Tesla Robotaxi Miami: 5 Key Facts Before Launch [2026]",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS3hpRWw2Tlo2clk0ZFNKSUJlSkhjeUpjOGZiQTNpd2RQNm9NbGs3eldma2NQUmtpOXd3dThPT3ZhTFJKNnhwYnhUWm1oYno2bHZLR3dlS2VqSF9qZkpselV5TG9JT3haak5CS1ZTZ1VHVEczSi1EZm9QVFo2RnY1bmFoUE1fTkV1ZVdIeUZ0cw?oc=5",
-      "source": "https://tech-insider.org/",
+      "id": "31vdnj",
+      "title": "Putin hails Elon Musk’s ‘genius’ amid plans for Russian version of Starlink",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSWxEZGN4WDlFNDFaZ1VvSndELThSMjVJNnBIR0wzd0NJdVY1SGdwaldYNV96c2F3b2dkOENTSEdqYkFuTmVUczNuSE5zWEhLM2F4SEx6TG9aWGdiTFZPNmt2UEEzUjVPbUQwQnVqZk9QNEwtWUtsS08teExjckVZRUFZQkp1WndUTUdReGxibDJ5OG1oQkJrbw?oc=5",
+      "source": "The Guardian",
       "sources": [
-        "https://tech-insider.org/"
+        "The Guardian",
+        "AFP.com",
+        "Bangkok Post",
+        "CTV News"
       ],
-      "date": "2026-10-28T06:22:46.000Z",
-      "firstSeen": "2026-10-28T07:02:10.788Z",
+      "date": "2026-10-28T18:51:00.000Z",
+      "firstSeen": "2026-10-29T01:57:22.331Z",
       "image": "",
       "snippet": "",
-      "category": "space",
-      "score": 13.82
+      "category": "connectivity",
+      "score": 17.21
     },
     {
-      "id": "eqm6b",
-      "title": "Why Anthropic's IPO contrasts the 'cult of Elon Musk' at SpaceX and Tesla",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaXF4MmxxVU8tVFd0RWFNSkFuNFg3RFFCRlFrY1Q4eHRET21kdlhyV042STlIUnhiaGRFa1hlbHBTeV9qZE5Qbk9MWGZILXEtdC1aazVsc2xLMmw2VzdnVUFkc2t0dkZyZGJaR1VjYVNId3pTakRZazFkcEhaMnQxVnlYUlZhUFVmc0RCLWJidXdwekJJejAzWFNoU0l1MmhJX01QenFGQkJiMFM3WS1lWHphMklxdVVIb282cmNVdHRkOE84U3NxNmtLS2dRVjA?oc=5",
+      "id": "u4lbk4",
+      "title": "SpaceX Could Keep Starship Cost Savings Instead of Cutting Launch Prices, Varda Executive Says",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeE10UDVQbTlyQWVMbHJfZ1hlU3BnMDZya1AydjdOeE5JeDlQNVF5NElfNXh3OWlxSzJtVzQxbWl5VVpuVDJ4N3dhX2EzdzRWTXR3YXZTYUV2YVpVZ1lkVmFpMW8tLWtEMmVsZkV6ZmQ2eVNvODlibVhPVFM3cWxtT0l4VVlqU2JsazlHZXpMQkFoSGF5dnpNNTVIeXE?oc=5",
       "source": "Yahoo Finance",
       "sources": [
-        "Yahoo Finance"
+        "Yahoo Finance",
+        "BigGo Finance"
       ],
-      "date": "2026-10-27T19:24:24.000Z",
-      "firstSeen": "2026-10-28T01:47:33.393Z",
+      "date": "2026-10-28T16:00:23.000Z",
+      "firstSeen": "2026-10-29T01:57:22.331Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.74
+      "score": 15.09
+    },
+    {
+      "id": "bqeedo",
+      "title": "There’s a New Wildcard Haunting Telecom Earnings: Elon Musk’s SpaceX",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVG5kR1VfVnNLc2gxLUc0Uy1qZVZvdHVTNkVFYTMtUTBycy1vaGNYNXpQVGtJaWNOTFpOR0hFS3d6SXpXWlpOb1B3RENYblZVRkQ5VzZsRXNKMVljQ2lUWGFkamtjWmo0RmJrMmJUd3JCOUhUeUYtd2FTVXZWNG83NlZ1S2F2dFVZMjZjMjJ4UHRiUG9HTVNnbXg2NF9EQQ?oc=5",
+      "source": "Broadband Breakfast",
+      "sources": [
+        "Broadband Breakfast"
+      ],
+      "date": "2026-10-29T01:12:03.000Z",
+      "firstSeen": "2026-10-29T01:57:22.331Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 14.79
+    },
+    {
+      "id": "1kk9vzd",
+      "title": "Putin calls Musk a ‘genius’ as Russia begins building its own Starlink rival",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaS0xS2hLaUE2b3B0cl92ZGRvWE1NWXdwM0Ryc3VwdVZTNnFVcVNqX3U2TmJ1MzMtU25nV0RNNHNkZjlFSDNkUmZJLVB3bXJfWVpzOXpnNkRIdzNhVFhubUMtNkhJQWItaEt5NjZwNldRQnVSNW1XT194QWRXUWYxYmxYdWRWZWllLW5RMFVUOEhVcUFzbnJEUkVmUGZ0SjBMeEphRUNCMjBRMVZBWjZ0Vno1YkdjeGxGaXo4aNIBwgFBVV95cUxNUFFUR0I1WGx4OTM2MnlTaklxRGVkeHZndk1BUVFLVHJiRmR5RmJJakp1VXpHOXJIS2tFTFVxSXNSejR4QmMwQnQ1NkpIbHlYaHRXOGNvN2pibXA4NnpGRWhLSEZwcDZQbUhDQnhwVkg5VWZYanlaQ2JBVVRuc0JiZ2JsMkpKMlZHb1FYdjBKWWpfaG1KLUVRNnJiQ1VySjBKUW96UEVET2R0MkE2c3NZNWxtWDVvaHRPSDI4Ql9RV3Vrdw?oc=5",
+      "source": "Firstpost",
+      "sources": [
+        "Firstpost",
+        "Global News",
+        "Moneycontrol.com"
+      ],
+      "date": "2026-10-28T16:22:54.000Z",
+      "firstSeen": "2026-10-29T01:57:22.331Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 14.66
+    },
+    {
+      "id": "weml1w",
+      "title": "Not Space. Not Starlink. Here's My Top Reason to Buy SpaceX Stock.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRVdGMkFsMmNoS29sQVJUNUIycjFITURkNkROLXE2cU11VmNoR09IMU1qcDBSUWQ1WlQzcWh3Rk9UTlM1YmRCeTFVSjR0MXhZU01YeVRXZkNpWUZUSTNfNjZTd3lqZ2ZZSS1mWDNILVZ2elB5bExOT1BMWGdBc1FOMFA2bTBwazBmZ1pza1liamRNU2gtNzMtdQ?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "Yahoo Finance",
+        "The Motley Fool"
+      ],
+      "date": "2026-10-28T22:23:00.000Z",
+      "firstSeen": "2026-10-29T01:57:22.331Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 14.56
     }
   ],
   "trending": [
-    "Tesla",
     "Starlink",
+    "Tesla",
     "SpaceX",
     "Robotics",
-    "Cybercab",
-    "Robotaxi"
+    "SatelliteInternet",
+    "Starship"
   ],
   "spark": [
-    {
-      "date": "2026-10-15",
-      "total": 0
-    },
     {
       "date": "2026-10-16",
       "total": 1
@@ -184,9 +194,13 @@
     },
     {
       "date": "2026-10-28",
-      "total": 31
+      "total": 138
+    },
+    {
+      "date": "2026-10-29",
+      "total": 12
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: Tesla. Top story: Musk’s Mars Merger Pay.",
+  "summary": "150 stories (last 24h). Most active frontier: Starlink. Top story: Putin salutes Musk's genius as Russia plays catch-up with Starlink.",
   "editor": null
 }
