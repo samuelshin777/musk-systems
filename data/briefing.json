@@ -1,138 +1,129 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "business": 33,
     "connectivity": 46,
-    "space": 29,
-    "mobility": 24,
-    "robotics": 3,
-    "ai": 14,
-    "neuro": 1
+    "space": 24,
+    "neuro": 4,
+    "business": 29,
+    "mobility": 33,
+    "ai": 14
   },
   "topStory": {
-    "id": "1g2dvzk",
-    "title": "Putin salutes Musk's genius as Russia plays catch-up with Starlink",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONmd3STdjSU1aQWhudHNDZjVqQjZJMmxWdHVFbUl6VVBmUzZ0ZEVtTVl6YzZDSUVvcmdZbjhrUkkwVHp0LWVsMDg2TkhFLUJqeXZWY2FDS2xtLWpKdWVadWd2LWloOTFFa25sUG9wdWRaQnlyR2c1bElQazVoRm1TZUtaajRiQmdTdURTZW1qbnpjMXF2czlITWFGS0FvYm9reTRwMTE4RHEtQnBIWWxVOQ?oc=5",
+    "id": "16i4u36",
+    "title": "Eutelsat expects $11 billion revenue after EU's Starlink rival comes online",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOFY3QXRjLUNOZXdmOFNWRl9kMXVaMzJiX1pFQ05qSkxlX1V5b3VfQUYzb0E4LXI3RWktUUVnSlJhNmgzMjJzVVVQeWtyazhueFB0cnBSLTVOb0NXbnRvdU5fbXd6LUhiRUUtOC1CZ1NRTjJ2d2NRRERmc05FSmRnWVZQU0NUazF1Q3lzRGVHWnVqdjkyQ2REb0pYak1fc2o0bE5fc3ozVWo4ZTB4NmhJVFUyOXlQREp6YVdkVUw0ZmlCUlNXb1hLZ0dtTjU?oc=5",
     "source": "Reuters",
     "sources": [
       "Reuters",
-      "Modern Diplomacy",
-      "The Straits Times",
-      "RTE.ie",
-      "Internazionale",
-      "Miami Herald",
-      "Bradenton Herald",
-      "Raleigh News & Observer"
+      "The Express Tribune",
+      "شبكة تواصل الإخبارية",
+      "www.marketscreener.com"
     ],
-    "date": "2026-10-28T15:46:00.000Z",
-    "firstSeen": "2026-10-29T01:57:22.331Z",
+    "date": "2026-10-29T16:58:56.000Z",
+    "firstSeen": "2026-10-30T02:10:29.252Z",
     "image": "",
     "snippet": "",
     "category": "connectivity",
-    "score": 25.53
+    "score": 18.75
   },
   "topList": [
     {
-      "id": "1xu2pms",
-      "title": "Pentagon watchdog tells lawmakers it won’t investigate Starlink slowdowns to Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXZ6TzNnOExPZmEyc0F6ckNhMURBcndMTUFfaC1TTDZkY1lqRGVhNm05YjlqeUo0a2hOdmdlWVYtV3M3bkVRbHhpNUJRRXVzcEhFSjNkUzRlVmJVYTBHWEgyeXdUZnpwSENKS1AyVTg4ekROcGljemJOdnJQSkh5WmgzSThGTlRfVDdHWGcxdHZ0NmkzcWdOd011MndzSWJxZFdYZFhnV1Z3NENTdjAxN2p6T3pJc2JY?oc=5",
-      "source": "AP News",
+      "id": "mqi5wz",
+      "title": "Lithuania charges two suspects with terrorism over Starlink arson attack",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOazlfQ2l5UWhtdzAtdXc1X0VWNHV1TzFGLU92eTZJVlBjVVAxMjF5cWt2ZEh2VzVicWN0dHZMMTk1QmtSdF9MX3dkYWxqcExzSVBmZmY1N2l4RU1SSHRFdWRaYnlZTS1rMjM4MHRwQ2JJVHNObUR2Qk12TFl6ZVhRUzBxeTdPOUtaNnVpTG1PSzJnVF9ncGo1endZYnZ2OWZpSG5zSmdWN1hSX1U2eExHQUR4cVQ?oc=5",
+      "source": "Reuters",
       "sources": [
-        "AP News",
-        "The Spec",
-        "The Washington Post",
-        "Sun Sentinel"
+        "Reuters",
+        "TVP World",
+        "Мілітарний",
+        "Al Arabiya English"
       ],
-      "date": "2026-10-28T23:02:00.000Z",
-      "firstSeen": "2026-10-29T01:57:22.331Z",
+      "date": "2026-10-29T11:39:19.000Z",
+      "firstSeen": "2026-10-30T02:10:29.252Z",
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 20.22
+      "score": 17.68
     },
     {
-      "id": "31vdnj",
-      "title": "Putin hails Elon Musk’s ‘genius’ amid plans for Russian version of Starlink",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSWxEZGN4WDlFNDFaZ1VvSndELThSMjVJNnBIR0wzd0NJdVY1SGdwaldYNV96c2F3b2dkOENTSEdqYkFuTmVUczNuSE5zWEhLM2F4SEx6TG9aWGdiTFZPNmt2UEEzUjVPbUQwQnVqZk9QNEwtWUtsS08teExjckVZRUFZQkp1WndUTUdReGxibDJ5OG1oQkJrbw?oc=5",
-      "source": "The Guardian",
+      "id": "1jrcxro",
+      "title": "SpaceX fires up Starship upper stage ahead of landmark Flight 15 test launch (video)",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-upper-stage-ahead-of-landmark-flight-15-test-launch-video",
+      "source": "Space.com",
       "sources": [
-        "The Guardian",
-        "AFP.com",
-        "Bangkok Post",
-        "CTV News"
+        "Space",
+        "Space.com"
       ],
-      "date": "2026-10-28T18:51:00.000Z",
-      "firstSeen": "2026-10-29T01:57:22.331Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 17.21
-    },
-    {
-      "id": "u4lbk4",
-      "title": "SpaceX Could Keep Starship Cost Savings Instead of Cutting Launch Prices, Varda Executive Says",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeE10UDVQbTlyQWVMbHJfZ1hlU3BnMDZya1AydjdOeE5JeDlQNVF5NElfNXh3OWlxSzJtVzQxbWl5VVpuVDJ4N3dhX2EzdzRWTXR3YXZTYUV2YVpVZ1lkVmFpMW8tLWtEMmVsZkV6ZmQ2eVNvODlibVhPVFM3cWxtT0l4VVlqU2JsazlHZXpMQkFoSGF5dnpNNTVIeXE?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance",
-        "BigGo Finance"
-      ],
-      "date": "2026-10-28T16:00:23.000Z",
-      "firstSeen": "2026-10-29T01:57:22.331Z",
-      "image": "",
-      "snippet": "",
+      "date": "2026-10-29T13:00:00.000Z",
+      "firstSeen": "2026-10-30T02:10:29.252Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/AjxLrgTioZbWTuu6knjwxP-1920-80.jpg",
+      "snippet": "SpaceX just checked another big box on the path to its 15th Starship test flight, which promises to be pretty epic. The company conducted static-fire tests with Starship 's Ship upper stage…",
       "category": "space",
-      "score": 15.09
+      "score": 15.94
     },
     {
-      "id": "bqeedo",
-      "title": "There’s a New Wildcard Haunting Telecom Earnings: Elon Musk’s SpaceX",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVG5kR1VfVnNLc2gxLUc0Uy1qZVZvdHVTNkVFYTMtUTBycy1vaGNYNXpQVGtJaWNOTFpOR0hFS3d6SXpXWlpOb1B3RENYblZVRkQ5VzZsRXNKMVljQ2lUWGFkamtjWmo0RmJrMmJUd3JCOUhUeUYtd2FTVXZWNG83NlZ1S2F2dFVZMjZjMjJ4UHRiUG9HTVNnbXg2NF9EQQ?oc=5",
-      "source": "Broadband Breakfast",
+      "id": "1nak23n",
+      "title": "What's on the line for Elon Musk in the midterm elections",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHJVY2Y0NkFMejNOY2taNllUR0ptb1NXdnQ4bTVQZmpPenlsWlNqNkk5Z3FSenhrUmdQemFIMjVia1k4ZS1LUnYzQndTaEJLblIxMVdINHQteWQ2V1dWNHZWNEUxWHZfWjRQVEtkd1ozZkY0OGl6MlBfb3h1c0hSUzZma3N0Y3Vyay1QZ1M4UENDWUdEeE5J?oc=5",
+      "source": "CNN",
       "sources": [
-        "Broadband Breakfast"
+        "CNN",
+        "Local 3 News"
       ],
-      "date": "2026-10-29T01:12:03.000Z",
-      "firstSeen": "2026-10-29T01:57:22.331Z",
+      "date": "2026-10-29T23:28:38.000Z",
+      "firstSeen": "2026-10-30T02:10:29.252Z",
       "image": "",
       "snippet": "",
-      "category": "space",
-      "score": 14.79
+      "category": "business",
+      "score": 15.78
     },
     {
-      "id": "1kk9vzd",
-      "title": "Putin calls Musk a ‘genius’ as Russia begins building its own Starlink rival",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaS0xS2hLaUE2b3B0cl92ZGRvWE1NWXdwM0Ryc3VwdVZTNnFVcVNqX3U2TmJ1MzMtU25nV0RNNHNkZjlFSDNkUmZJLVB3bXJfWVpzOXpnNkRIdzNhVFhubUMtNkhJQWItaEt5NjZwNldRQnVSNW1XT194QWRXUWYxYmxYdWRWZWllLW5RMFVUOEhVcUFzbnJEUkVmUGZ0SjBMeEphRUNCMjBRMVZBWjZ0Vno1YkdjeGxGaXo4aNIBwgFBVV95cUxNUFFUR0I1WGx4OTM2MnlTaklxRGVkeHZndk1BUVFLVHJiRmR5RmJJakp1VXpHOXJIS2tFTFVxSXNSejR4QmMwQnQ1NkpIbHlYaHRXOGNvN2pibXA4NnpGRWhLSEZwcDZQbUhDQnhwVkg5VWZYanlaQ2JBVVRuc0JiZ2JsMkpKMlZHb1FYdjBKWWpfaG1KLUVRNnJiQ1VySjBKUW96UEVET2R0MkE2c3NZNWxtWDVvaHRPSDI4Ql9RV3Vrdw?oc=5",
-      "source": "Firstpost",
+      "id": "1wzfaqz",
+      "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
+      "url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
+      "source": "TechCrunch",
       "sources": [
-        "Firstpost",
-        "Global News",
-        "Moneycontrol.com"
+        "TechCrunch"
       ],
-      "date": "2026-10-28T16:22:54.000Z",
-      "firstSeen": "2026-10-29T01:57:22.331Z",
+      "date": "2026-10-29T21:51:29.000Z",
+      "firstSeen": "2026-10-30T02:10:29.252Z",
       "image": "",
-      "snippet": "",
+      "snippet": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
       "category": "connectivity",
-      "score": 14.66
+      "score": 14.87
     },
     {
-      "id": "weml1w",
-      "title": "Not Space. Not Starlink. Here's My Top Reason to Buy SpaceX Stock.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRVdGMkFsMmNoS29sQVJUNUIycjFITURkNkROLXE2cU11VmNoR09IMU1qcDBSUWQ1WlQzcWh3Rk9UTlM1YmRCeTFVSjR0MXhZU01YeVRXZkNpWUZUSTNfNjZTd3lqZ2ZZSS1mWDNILVZ2elB5bExOT1BMWGdBc1FOMFA2bTBwazBmZ1pza1liamRNU2gtNzMtdQ?oc=5",
-      "source": "Yahoo Finance",
+      "id": "69d23k",
+      "title": "‘Intimate and embarrassing’: Texas Democrat sues to expose Greg Abbott’s private messages with Elon Musk",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZ3I0c0N2WmltZ3FRZFBmYjh6WHVBbk5NREdlT0JCQkQzS01MeWJmUDU1MndIeE55V2k3dmY5Ul9IcUhPbWVsTjJYa3RtTTZ6ZU9Id3ZiVmlWV0kzUExrdFJnSXhDWW5meFNhamN3c0J5dm9HbW55VEtqRTZoVk94QllkTzE2TVBsZnN1Q2doaFdlaktsXzZFZ2Q3ajREdEFvazN5YUVTY1NUX2tza184ZWFYQUtENXl2VDJUdnBLa0J4RWpiZjIydE0xUDRoZFBtSVVULUZ1bUQ5dzFPNG1URWkxVQ?oc=5",
+      "source": "MS NOW",
       "sources": [
-        "Yahoo Finance",
-        "The Motley Fool"
+        "MS NOW",
+        "Yahoo"
       ],
-      "date": "2026-10-28T22:23:00.000Z",
-      "firstSeen": "2026-10-29T01:57:22.331Z",
+      "date": "2026-10-30T00:33:00.000Z",
+      "firstSeen": "2026-10-30T02:10:29.252Z",
       "image": "",
       "snippet": "",
-      "category": "connectivity",
+      "category": "business",
       "score": 14.56
+    },
+    {
+      "id": "zzjefn",
+      "title": "SpaceX Stock Slides Back Toward $140 as Elon Musk Talked Up 10,000 Starship Launches a Year From A Single Louisiana Site",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUNhcjNxOGpjMi1xYzNSSlVJQnJoMGlDd1JjRG5VVVNWWmFKMXRSV3NYMWVBUFVCdVE0R1JUMXA4VzlsSGh4TG9YNV9UdG4yMC1iME43T1VNUXZMZlp3SkkzXzQxUjJFM2hZX3pIXzdNOVZlb3Zham5qWC0wdk96SHN6VFo?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "date": "2026-10-29T18:12:33.000Z",
+      "firstSeen": "2026-10-30T02:10:29.252Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 14.52
     }
   ],
   "trending": [
@@ -140,14 +131,10 @@
     "Tesla",
     "SpaceX",
     "Robotics",
-    "SatelliteInternet",
-    "Starship"
+    "Grok",
+    "FSD"
   ],
   "spark": [
-    {
-      "date": "2026-10-16",
-      "total": 1
-    },
     {
       "date": "2026-10-17",
       "total": 0
@@ -198,9 +185,13 @@
     },
     {
       "date": "2026-10-29",
+      "total": 138
+    },
+    {
+      "date": "2026-10-30",
       "total": 12
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: Starlink. Top story: Putin salutes Musk's genius as Russia plays catch-up with Starlink.",
+  "summary": "150 stories (last 24h). Most active frontier: Starlink. Top story: Eutelsat expects $11 billion revenue after EU's Starlink rival comes online.",
   "editor": null
 }

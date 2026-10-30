@@ -1,72 +1,72 @@
 {
-  "updated": "2026-10-29T01:57:22.331Z",
+  "updated": "2026-10-30T02:10:29.252Z",
   "hashtags": [
     {
       "tag": "#Starlink",
-      "score": 49
-    },
-    {
-      "tag": "#ElonMusk",
-      "score": 45
+      "score": 47
     },
     {
       "tag": "#Tesla",
-      "score": 34
+      "score": 42
+    },
+    {
+      "tag": "#ElonMusk",
+      "score": 33
     },
     {
       "tag": "#SpaceX",
-      "score": 27
-    },
-    {
-      "tag": "#Robotics",
-      "score": 16
-    },
-    {
-      "tag": "#SatelliteInternet",
-      "score": 15
+      "score": 25
     },
     {
       "tag": "#Neuralink",
-      "score": 11
+      "score": 17
+    },
+    {
+      "tag": "#Robotics",
+      "score": 14
     },
     {
       "tag": "#FSD",
-      "score": 11
+      "score": 13
     },
     {
       "tag": "#Starship",
-      "score": 10
+      "score": 12
+    },
+    {
+      "tag": "#Grok",
+      "score": 11
     },
     {
       "tag": "#xAI",
       "score": 10
     },
     {
-      "tag": "#Grok",
+      "tag": "#SatelliteInternet",
       "score": 9
     },
     {
-      "tag": "#Optimus",
-      "score": 6
-    },
-    {
-      "tag": "#HumanoidRobot",
-      "score": 6
+      "tag": "#Robotaxi",
+      "score": 8
     },
     {
       "tag": "#Cybercab",
-      "score": 5
-    },
-    {
-      "tag": "#Starbase",
-      "score": 5
+      "score": 7
     },
     {
       "tag": "#SpaceExploration",
+      "score": 7
+    },
+    {
+      "tag": "#TSLA",
       "score": 5
     },
     {
-      "tag": "#Robotaxi",
+      "tag": "#Optimus",
+      "score": 4
+    },
+    {
+      "tag": "#SPCX",
       "score": 4
     },
     {
@@ -74,19 +74,15 @@
       "score": 4
     },
     {
-      "tag": "#Earnings",
+      "tag": "#BrainComputerInterface",
       "score": 4
     },
     {
+      "tag": "#Falcon9",
+      "score": 3
+    },
+    {
       "tag": "#SpaceXDragon",
-      "score": 3
-    },
-    {
-      "tag": "#SuperHeavy",
-      "score": 3
-    },
-    {
-      "tag": "#BoringCompany",
       "score": 3
     },
     {
@@ -114,7 +110,7 @@
       "score": 2
     },
     {
-      "tag": "#SPCX",
+      "tag": "#Earnings",
       "score": 2
     },
     {
@@ -122,7 +118,7 @@
       "score": 2
     },
     {
-      "tag": "#BrainComputerInterface",
+      "tag": "#HumanoidRobot",
       "score": 2
     },
     {
@@ -134,19 +130,23 @@
       "score": 1
     },
     {
-      "tag": "#Falcon9",
-      "score": 1
-    },
-    {
       "tag": "#FalconHeavy",
       "score": 1
     },
     {
-      "tag": "#Zip2",
+      "tag": "#SuperHeavy",
       "score": 1
     },
     {
-      "tag": "#TSLA",
+      "tag": "#Starbase",
+      "score": 1
+    },
+    {
+      "tag": "#BoringCompany",
+      "score": 1
+    },
+    {
+      "tag": "#Zip2",
       "score": 1
     },
     {
@@ -164,29 +164,29 @@
   ],
   "keywords": [
     "Starlink",
-    "Elon Musk",
     "Tesla",
+    "Elon Musk",
     "SpaceX",
-    "Robotics",
-    "Satellite Internet",
     "Neuralink",
+    "Robotics",
     "Full Self-Driving",
     "Starship",
-    "xAI",
     "Grok",
-    "Optimus",
-    "Humanoid Robot",
-    "Cybercab",
-    "Starbase",
-    "Space Exploration",
+    "xAI",
+    "Satellite Internet",
     "Robotaxi",
+    "Cybercab",
+    "Space Exploration",
+    "TSLA",
+    "Optimus",
+    "SPCX",
     "Nasdaq",
-    "Earnings",
+    "Brain Computer Interface",
+    "Falcon 9",
     "Dragon",
-    "Super Heavy",
-    "Boring Company",
     "IPO",
     "Tower Catch",
-    "Musk Systems"
+    "Musk Systems",
+    "Future Technology"
   ]
 }
