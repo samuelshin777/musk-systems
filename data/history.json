@@ -94,12 +94,20 @@
       "robotics": 2
     },
     "2026-10-31": {
-      "total": 5,
-      "space": 1,
-      "robotics": 1,
-      "business": 1,
-      "ai": 1,
-      "mobility": 1
+      "total": 139,
+      "space": 23,
+      "business": 24,
+      "connectivity": 41,
+      "ai": 16,
+      "mobility": 23,
+      "robotics": 4,
+      "neuro": 8
+    },
+    "2026-11-01": {
+      "total": 7,
+      "connectivity": 1,
+      "space": 4,
+      "mobility": 2
     }
   }
 }

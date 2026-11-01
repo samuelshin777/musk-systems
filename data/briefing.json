@@ -1,139 +1,141 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "windowLabel": "LAST 24H",
-  "total": 150,
+  "total": 138,
   "counts": {
-    "space": 30,
+    "connectivity": 41,
+    "space": 26,
+    "mobility": 24,
+    "business": 23,
+    "ai": 13,
     "robotics": 3,
-    "business": 39,
-    "ai": 10,
-    "mobility": 31,
-    "connectivity": 27,
-    "neuro": 10
+    "neuro": 8
   },
   "topStory": {
-    "id": "w4s6pv",
-    "title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZXZlRGxMZ3BzTFB6M2kxdWMtZDNTQUZqRmRSRTVUTnN5OUxycXdjSFNveEEwR3ZNVnFqZzlsVWhQbVB6emVRT29mUEhyd0g1am1zb1VGTTFGeXItRklfUVphc19JcTlsVFNWWmxhaHQzcUQxMkRXUFNNMW9ObFhFbER3VUg5UmxZSWthbUo4MVF2akIxcUQwZWNXUEoxU1IxSnVkNm5B0gGrAUFVX3lxTE1OR0kySFBiZEQ4eTZPTDR2MEpmMXlVbmVqVVFGbWpBTXBWM252d2wtWFRBYUE3M3dvWHloWHF5bU9penBtQkVkYXVFaTRSb0dtaTdQSTEzT2dtcUJyaktfYk55VU5aT0VSVFRSYlZVWF9oLU5yUDFfb1ZoUW0yVXk1elpWQnU2NTR0Y2E2MnBQWTFjYlN1cERNOUdiQU9Gc0thdkpMYWFMOWlRYw?oc=5",
-    "source": "CNBC",
+    "id": "1gh0r6v",
+    "title": "Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California (video)",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly",
+    "source": "Space.com",
     "sources": [
-      "CNBC",
-      "CNBC Technology"
+      "Space",
+      "Yahoo Tech",
+      "Space.com"
     ],
-    "date": "2026-10-30T11:30:01.000Z",
-    "firstSeen": "2026-10-31T01:51:50.340Z",
-    "image": "",
-    "snippet": "Meta's Mark Zuckerberg and Elon Musk of Tesla and SpaceX adopted President Trump's preferred \"super intelligence\" term on their third-quarter earnings calls.",
-    "category": "ai",
-    "score": 16.71
+    "date": "2026-10-31T05:24:00.000Z",
+    "firstSeen": "2026-11-01T01:30:04.537Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/Bv6cX3eJVG9R8i6gxerymQ-1920-80.jpg",
+    "snippet": "SpaceX celebrated Halloween with an early-morning launch from California. A Falcon 9 rocket lifted off from Vandenberg Space Force Base today (Oct. 31) at 12:04 a.m. EDT (0404 GMT; 9:04…",
+    "category": "connectivity",
+    "score": 16.72
   },
   "topList": [
     {
-      "id": "1k5rimp",
-      "title": "Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch",
-      "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
-      "source": "Spaceflight Now",
+      "id": "1wp2xuy",
+      "title": "SpaceX Says Starship Flies Commercial Payloads This Year. Here's What a Successful Flight Is Worth -- and What a Failure Costs.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2dDdWlEYXljNzBYNVRBVFFzbklEZ2RUa1ZnNktWV2tnblVLOFhVLTZLdEdoUWpxWS1XbkYxY0ppUnlRSTVVbF9hMmZrUUw4TWhTQV9LMHlSQnZVUnNKd0tPU3NVOVFicXVmNG42cTh3Ynd1Q1VOc2V5b3RFTmRtYTJwU0s2SFloSG44V213ZHA3T3hmd1NnMTIzUzNOdVI5SWVpdw?oc=5",
+      "source": "Yahoo Finance",
       "sources": [
-        "Spaceflight Now"
+        "Yahoo Finance",
+        "The Motley Fool",
+        "The Globe and Mail"
       ],
-      "date": "2026-10-30T22:46:02.000Z",
-      "firstSeen": "2026-10-31T01:51:50.340Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg",
-      "snippet": "File photo of a Falcon 9 fueled for launch at Vandenberg Space Force Base in California. Image: SpaceX. SpaceX looks to cap the month of October with the launch of a Starlink mission from…",
-      "category": "connectivity",
-      "score": 16.18
-    },
-    {
-      "id": "aukgd1",
-      "title": "Tech Earnings Sink SpaceX Stock. No Other Companies Meet Elon Musk’s High Bar.",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTWZ2T2RzcTRlakVhZ1dwbFY2SzZLZ1V6bUJCeVRwNGkwUTVGVnU1c1c1YXpmdU1IQTVuWUVBcDBNc0k3ZjBRWjY5UVBTanQ2QmUxYkdtX1QwOUFIMndhOEZjMHdZV21xZG1oRl83dkdGSGltVzZfWmJBQlJlLVI3c0lOSTZSN2hnWEpzSkJrTQ?oc=5",
-      "source": "Barron's",
-      "sources": [
-        "Barron's"
-      ],
-      "date": "2026-10-30T20:31:00.000Z",
-      "firstSeen": "2026-10-31T01:51:50.340Z",
+      "date": "2026-10-31T21:25:00.000Z",
+      "firstSeen": "2026-11-01T01:30:04.537Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 15.12
+      "score": 16.43
     },
     {
-      "id": "2buaaq",
-      "title": "Could Elon Musk alter the course of the midterms?",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVl8xSEd6dTFnWTRpc0RYNXB6X3I1ZzZvU3lEWjRWRFBxajdCbUZIWFMwamRQN2k3VUZOMFRlZkRXTzF1aUpNdHppU2Z6Yk9USURWZU84M0gwb0NIX1R1TERybS00ekpYal96UWVNNWdjMmQ1dEZzbENIM3JHNkgwdHl5MmtTdlRsU1BPY2paeldDZlMxbmc?oc=5",
-      "source": "CNN",
-      "sources": [
-        "CNN",
-        "Modern Ghana"
-      ],
-      "date": "2026-10-30T20:24:00.000Z",
-      "firstSeen": "2026-10-31T01:51:50.340Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 15.09
-    },
-    {
-      "id": "5drp1e",
-      "title": "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MVV9nR01mTTV2Q05KSy1zWVRnRFZ6YV94dkhERzhtUUxMVk9USjZxd0tmUERBcC05eTlnRDVLNjk3SzdTZHQwVnNRaFZUY05xNHo1SnVrVXlDUjlTTVhvUWxEbncwNlF6NTE0VF9pc1pOemRXWXpCa20wVDPSAYIBQVVfeXFMTWUyaks4OEVScW5NcEtZTTN6LVBURDBvQjdVQ2JtNExKMUsxc2FmMU95U192dG9EanhDSl9PNTY0b045ZV9oVEcwc1c2M1ZPZ0prTkRoY2kwaFlSUGwtQ2hFNzVhalRXN2RuNzlUSGU3bkFKNUZnZ1g5X1kzME8xSUQtUQ?oc=5",
-      "source": "CNBC",
-      "sources": [
-        "CNBC",
-        "Bloomberg.com"
-      ],
-      "date": "2026-10-30T13:28:42.000Z",
-      "firstSeen": "2026-10-31T01:51:50.340Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 15.09
-    },
-    {
-      "id": "1fsqgep",
-      "title": "Stocktwits Zero To Sixty: Rivian Raises Delivery Guidance On R2 Demand, Tesla Expands Robotaxi Fleet, And Ford Advances Low-Cost EV Plans",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLXhSVXdhZ1RNRVdGbWFtSFN4dWtMWTFHS1FqYlRGZFVVSDFpc3lYTFRXZy1WV0Z3MzdockdxVi1ndDJTLXpoZjlSMXI5Yl9vRkl5blp0cDVuUF9kWmx2RkVBWDVreXo5UnhNUGR0T0NLWHo0UmNvV2hXQmh5WjI1SG5LSEwwbzNZZnlocTh6YV9uTGpYY3ctb0RrRktWTjJoQWc?oc=5",
+      "id": "1083gfi",
+      "title": "Elon Musk Has Incredible News for Micron Stock Investors",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQTdzX25NNzdOQ1g1RnFsVlZYT0E0VHFZSDU4QkM1OUlSbHJMTzRLb0tSSXFGRHVEbHEzbGVhUnVwQ3ZYOG9FdlJTUUtKUXY5WkdvdjgyOUM4cjk5NHY2TEk2UlppUEFkdXEzdy03cDhhN1ZjTVJabThicTlla2pDNmE5a3hOMzFOdkVqMVVmSUxMMHdoNk5pSzN5bUkyUQ?oc=5",
       "source": "Yahoo Finance",
       "sources": [
-        "Yahoo Finance"
+        "Yahoo Finance",
+        "The Motley Fool"
       ],
-      "date": "2026-10-31T00:10:00.000Z",
-      "firstSeen": "2026-10-31T01:51:50.340Z",
+      "date": "2026-10-31T15:14:01.000Z",
+      "firstSeen": "2026-11-01T01:30:04.537Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 14.02
+    },
+    {
+      "id": "1el6074",
+      "title": "Judge Lets NAACP's Pollution Lawsuit Against Elon Musk's xAI Proceed",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObkswakZlVmtJSnFBZXhjZjFydWVUR0ZfbjdWM0JQR1d5MWVadTFMbVZ5OEJRZnBwVlNXbThnbDk1MDROZ3dXWEo4S0M0bVRoaUpfeW85aDFPTDQtTVlaV2dYWXZUOXpZUUs3NC15eUVTZ3I1akdZdnJxak1xUlphRV9TbjZBX181ZGxHajNHblQwSTNmeU1pNDZB?oc=5",
+      "source": "Startup Fortune",
+      "sources": [
+        "Startup Fortune"
+      ],
+      "date": "2026-10-31T21:42:07.000Z",
+      "firstSeen": "2026-11-01T01:30:04.537Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 14
+    },
+    {
+      "id": "pm6v43",
+      "title": "Tesla's Cybercab Reaches Dallas in November, and Nevada Just Cleared 5,000 Robotaxis in Las Vegas. Here's the Number That Makes the Bulls Right.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMDB5ZHdVMmFjenVVSUdDd1VlU0ZHTDBtbkJibWJMVGV4aDFNWGdjQVNBMkx4OC1EYzFQajliM0RrSGxBeDJqNGVYUnhxVTdKNG11SE1BN195ZFhyNkx3U2UxVElCLUc2enVTaGJXeV9DcmVSazNnZVRxcTdjbm5JcFNKUk5HWi1ra0lRTXBGNUNKRjZGYWFtTg?oc=5",
+      "source": "The Motley Fool",
+      "sources": [
+        "The Motley Fool",
+        "The Globe and Mail"
+      ],
+      "date": "2026-11-01T01:09:06.000Z",
+      "firstSeen": "2026-11-01T01:30:04.537Z",
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 15.04
+      "score": 13.9
     },
     {
-      "id": "6m9xa",
-      "title": "Video: Opinion | The Story Behind Musk’s ‘Woke Mind Virus’ Theory",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRXAyOV9aZEZMdVRXc1p5UnQteVprTjc2ZmlSSXhaN3FkZDM4LTFVb2ZNckROUkJ5Q2NKZ2xnRjg4Mk5UTzJEcGhjbGNNOUhFRU1hSml0SjdNVVV2V2dlZ1dmbkw1Z2VPMGdOSzhPSXlXR1UtZFJoS3hmQkk1RlBWbDJXa2NYQW1QVnlSRTlsV2hteGpXQUFqLWxGTHRkV205MTJOZm9RNA?oc=5",
-      "source": "The New York Times",
+      "id": "178m6rc",
+      "title": "Astronomical Power: How Musk and Bezos plan to grow their fortunes as they amass political influence",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbEhKbXdLOWRvQ1d4eVp6X3pmbVZWSl9RejZJaWRyU0dqT192QlF1T05YZTNCRThVa3VsYnY1bkQ5bW1odmFLaXJfRk9lZ1RWbTVyNFAzc2ktaHpMbU00enozSm9LQVZGS0RsOFhtUWxNRVQwRWxINFJCLVg2THVkWnZfMXdySUJVbTJ2VnhLZHd5NGJUT2taOTY1SDU2bkctQkZ1b0hWTW9CYlRxckV0SWYxWTltRmljcmhueTNvY2hGSFItT1FFM3ZyVFY1T2RCMDJHcmxXd21PVHlJU3dmVWFzSWNramxt?oc=5",
+      "source": "MS NOW",
       "sources": [
-        "The New York Times"
+        "MS NOW",
+        "Yahoo"
       ],
-      "date": "2026-10-30T21:00:32.000Z",
-      "firstSeen": "2026-10-31T01:51:50.340Z",
+      "date": "2026-10-31T20:50:51.000Z",
+      "firstSeen": "2026-11-01T01:30:04.537Z",
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 14.74
+      "score": 13.79
+    },
+    {
+      "id": "1lz34n6",
+      "title": "SpaceX Hits 700 Falcon 9 Launches With Starlink 15-18 Mission",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOajJTa3N0TWJfR3U3ZlFwcFF6SmRZTFJWazNhLUhQdU80b2M0U0hZR0pYVFdBemktSkctTnRjMjJCRUJqZVRwMU91R0w2M2pUc3lGR0haYjRQR3FMRG04OFVfVGMyOFFKaW14dmNaRm53T0JZQzE1V0x5a3BmR2U5M0JmaHpYMG9YQ0dQWGRLbWlGd3djeVo1ajRZLW4?oc=5",
+      "source": "BASENOR - Tesla Accessories",
+      "sources": [
+        "BASENOR - Tesla Accessories",
+        "TeslaNorth.com",
+        "Breakingthenews.net"
+      ],
+      "date": "2026-10-31T04:10:00.000Z",
+      "firstSeen": "2026-11-01T01:30:04.537Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 13.53
     }
   ],
   "trending": [
-    "Tesla",
-    "SpaceX",
     "Starlink",
-    "Robotics",
-    "Neuralink",
-    "FSD"
+    "SpaceX",
+    "Tesla",
+    "SatelliteInternet",
+    "Cybercab",
+    "Starship"
   ],
   "spark": [
-    {
-      "date": "2026-10-18",
-      "total": 0
-    },
     {
       "date": "2026-10-19",
       "total": 0
@@ -184,9 +186,13 @@
     },
     {
       "date": "2026-10-31",
-      "total": 5
+      "total": 139
+    },
+    {
+      "date": "2026-11-01",
+      "total": 7
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: Business. Top story: Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not.",
+  "summary": "138 stories (last 24h). Most active frontier: Starlink. Top story: Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California (video).",
   "editor": null
 }

@@ -1,92 +1,84 @@
 {
-  "updated": "2026-10-31T01:51:50.340Z",
+  "updated": "2026-11-01T01:30:04.537Z",
   "hashtags": [
     {
       "tag": "#ElonMusk",
-      "score": 49
+      "score": 47
     },
     {
       "tag": "#Tesla",
-      "score": 44
+      "score": 40
     },
     {
       "tag": "#SpaceX",
-      "score": 33
+      "score": 37
     },
     {
       "tag": "#Starlink",
-      "score": 31
-    },
-    {
-      "tag": "#Neuralink",
-      "score": 17
-    },
-    {
-      "tag": "#Robotics",
-      "score": 14
-    },
-    {
-      "tag": "#xAI",
-      "score": 12
+      "score": 33
     },
     {
       "tag": "#Starship",
-      "score": 10
+      "score": 16
+    },
+    {
+      "tag": "#Robotics",
+      "score": 16
+    },
+    {
+      "tag": "#Neuralink",
+      "score": 15
+    },
+    {
+      "tag": "#xAI",
+      "score": 14
+    },
+    {
+      "tag": "#Robotaxi",
+      "score": 12
+    },
+    {
+      "tag": "#Cybercab",
+      "score": 11
+    },
+    {
+      "tag": "#SatelliteInternet",
+      "score": 11
     },
     {
       "tag": "#Optimus",
       "score": 10
     },
     {
+      "tag": "#Grok",
+      "score": 9
+    },
+    {
       "tag": "#FSD",
       "score": 9
     },
     {
-      "tag": "#Robotaxi",
+      "tag": "#BrainComputerInterface",
       "score": 8
     },
     {
-      "tag": "#Grok",
-      "score": 7
-    },
-    {
-      "tag": "#Falcon9",
-      "score": 5
-    },
-    {
-      "tag": "#SatelliteInternet",
-      "score": 5
-    },
-    {
       "tag": "#SpaceExploration",
-      "score": 5
-    },
-    {
-      "tag": "#TowerCatch",
-      "score": 5
-    },
-    {
-      "tag": "#SPCX",
-      "score": 4
+      "score": 7
     },
     {
       "tag": "#Nasdaq",
       "score": 4
     },
     {
-      "tag": "#BrainComputerInterface",
+      "tag": "#OrbitalDataCenters",
       "score": 4
     },
     {
-      "tag": "#Blindsight",
-      "score": 3
-    },
-    {
-      "tag": "#Cybercab",
-      "score": 3
-    },
-    {
       "tag": "#SpaceXDragon",
+      "score": 3
+    },
+    {
+      "tag": "#Starbase",
       "score": 3
     },
     {
@@ -102,6 +94,10 @@
       "score": 3
     },
     {
+      "tag": "#TowerCatch",
+      "score": 3
+    },
+    {
       "tag": "#MuskSystems",
       "score": 3
     },
@@ -114,11 +110,7 @@
       "score": 3
     },
     {
-      "tag": "#NeuralinkTelepathy",
-      "score": 2
-    },
-    {
-      "tag": "#FAA",
+      "tag": "#Moon",
       "score": 2
     },
     {
@@ -126,7 +118,7 @@
       "score": 2
     },
     {
-      "tag": "#Earnings",
+      "tag": "#SPCX",
       "score": 2
     },
     {
@@ -138,12 +130,12 @@
       "score": 2
     },
     {
-      "tag": "#AutonomousDriving",
-      "score": 2
+      "tag": "#Blindsight",
+      "score": 1
     },
     {
-      "tag": "#OrbitalDataCenters",
-      "score": 2
+      "tag": "#Falcon9",
+      "score": 1
     },
     {
       "tag": "#FalconHeavy",
@@ -154,11 +146,19 @@
       "score": 1
     },
     {
-      "tag": "#Starbase",
+      "tag": "#BoringCompany",
       "score": 1
     },
     {
-      "tag": "#BoringCompany",
+      "tag": "#Zip2",
+      "score": 1
+    },
+    {
+      "tag": "#Megapack",
+      "score": 1
+    },
+    {
+      "tag": "#ArtificialIntelligence",
       "score": 1
     }
   ],
@@ -167,26 +167,26 @@
     "Tesla",
     "SpaceX",
     "Starlink",
-    "Neuralink",
-    "Robotics",
-    "xAI",
     "Starship",
-    "Optimus",
-    "Full Self-Driving",
+    "Robotics",
+    "Neuralink",
+    "xAI",
     "Robotaxi",
-    "Grok",
-    "Falcon 9",
-    "Satellite Internet",
-    "Space Exploration",
-    "Tower Catch",
-    "SPCX",
-    "Nasdaq",
-    "Brain Computer Interface",
-    "Blindsight",
     "Cybercab",
+    "Satellite Internet",
+    "Optimus",
+    "Grok",
+    "Full Self-Driving",
+    "Brain Computer Interface",
+    "Space Exploration",
+    "Nasdaq",
+    "Orbital Data Centers",
     "Dragon",
+    "Starbase",
     "IPO",
     "TSLA",
-    "Future Tech"
+    "Future Tech",
+    "Tower Catch",
+    "Musk Systems"
   ]
 }
