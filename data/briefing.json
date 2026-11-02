@@ -1,145 +1,135 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "windowLabel": "LAST 24H",
-  "total": 138,
+  "total": 128,
   "counts": {
-    "connectivity": 41,
-    "space": 26,
-    "mobility": 24,
-    "business": 23,
-    "ai": 13,
-    "robotics": 3,
-    "neuro": 8
+    "mobility": 27,
+    "business": 20,
+    "ai": 28,
+    "space": 24,
+    "connectivity": 23,
+    "neuro": 5,
+    "robotics": 1
   },
   "topStory": {
-    "id": "1gh0r6v",
-    "title": "Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California (video)",
-    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly",
-    "source": "Space.com",
+    "id": "86c54z",
+    "title": "Elon Musk calls Earth’s data centers “peanuts” next to what SpaceX is planning in orbit",
+    "url": "https://www.teslarati.com/elon-musk-calls-earths-data-centers-peanuts-next-to-what-spacex-is-planning-in-orbit/",
+    "source": "Teslarati",
     "sources": [
-      "Space",
-      "Yahoo Tech",
-      "Space.com"
+      "Teslarati"
     ],
-    "date": "2026-10-31T05:24:00.000Z",
-    "firstSeen": "2026-11-01T01:30:04.537Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/Bv6cX3eJVG9R8i6gxerymQ-1920-80.jpg",
-    "snippet": "SpaceX celebrated Halloween with an early-morning launch from California. A Falcon 9 rocket lifted off from Vandenberg Space Force Base today (Oct. 31) at 12:04 a.m. EDT (0404 GMT; 9:04…",
-    "category": "connectivity",
-    "score": 16.72
+    "date": "2026-11-01T18:31:40.000Z",
+    "firstSeen": "2026-11-02T01:51:51.276Z",
+    "image": "",
+    "snippet": "Elon Musk is pushing back on one of the biggest worries hanging over SpaceX stock. In a reply on X on Sunday, Musk said the company’s capital expenditure efficiency is severely…",
+    "category": "ai",
+    "score": 14.66
   },
   "topList": [
     {
-      "id": "1wp2xuy",
-      "title": "SpaceX Says Starship Flies Commercial Payloads This Year. Here's What a Successful Flight Is Worth -- and What a Failure Costs.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2dDdWlEYXljNzBYNVRBVFFzbklEZ2RUa1ZnNktWV2tnblVLOFhVLTZLdEdoUWpxWS1XbkYxY0ppUnlRSTVVbF9hMmZrUUw4TWhTQV9LMHlSQnZVUnNKd0tPU3NVOVFicXVmNG42cTh3Ynd1Q1VOc2V5b3RFTmRtYTJwU0s2SFloSG44V213ZHA3T3hmd1NnMTIzUzNOdVI5SWVpdw?oc=5",
-      "source": "Yahoo Finance",
+      "id": "1t432if",
+      "title": "Elon Musk Predicts Orbital AI Computing Surge, Boosting SpaceX (SPCX) Ambitions",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdGFoY2dwSVhCemhBOVBBS2hUS2ZNN2Nzem44M2xkbXZKVGh2X09CUGdnMWl6eEdZSjUtNWpxNkM1c0ZlUzdPdGtYX0k5TkpudW9VemZ2YVQtd0tfU0tBblZ0R29NVmwtTnk2Tkp3RDdTdmZzYjdndUlHYXZUdk5fTVNKc2ZMZS1ibkxCV3YzWWRVa2NCMHdQU3FERUJyRGlkaUx5WlExc0lUbFMxM0dRd2d0RTlUZw?oc=5",
+      "source": "GuruFocus",
       "sources": [
-        "Yahoo Finance",
-        "The Motley Fool",
-        "The Globe and Mail"
+        "GuruFocus"
       ],
-      "date": "2026-10-31T21:25:00.000Z",
-      "firstSeen": "2026-11-01T01:30:04.537Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 16.43
-    },
-    {
-      "id": "1083gfi",
-      "title": "Elon Musk Has Incredible News for Micron Stock Investors",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQTdzX25NNzdOQ1g1RnFsVlZYT0E0VHFZSDU4QkM1OUlSbHJMTzRLb0tSSXFGRHVEbHEzbGVhUnVwQ3ZYOG9FdlJTUUtKUXY5WkdvdjgyOUM4cjk5NHY2TEk2UlppUEFkdXEzdy03cDhhN1ZjTVJabThicTlla2pDNmE5a3hOMzFOdkVqMVVmSUxMMHdoNk5pSzN5bUkyUQ?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance",
-        "The Motley Fool"
-      ],
-      "date": "2026-10-31T15:14:01.000Z",
-      "firstSeen": "2026-11-01T01:30:04.537Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 14.02
-    },
-    {
-      "id": "1el6074",
-      "title": "Judge Lets NAACP's Pollution Lawsuit Against Elon Musk's xAI Proceed",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObkswakZlVmtJSnFBZXhjZjFydWVUR0ZfbjdWM0JQR1d5MWVadTFMbVZ5OEJRZnBwVlNXbThnbDk1MDROZ3dXWEo4S0M0bVRoaUpfeW85aDFPTDQtTVlaV2dYWXZUOXpZUUs3NC15eUVTZ3I1akdZdnJxak1xUlphRV9TbjZBX181ZGxHajNHblQwSTNmeU1pNDZB?oc=5",
-      "source": "Startup Fortune",
-      "sources": [
-        "Startup Fortune"
-      ],
-      "date": "2026-10-31T21:42:07.000Z",
-      "firstSeen": "2026-11-01T01:30:04.537Z",
+      "date": "2026-11-02T00:20:56.000Z",
+      "firstSeen": "2026-11-02T01:51:51.276Z",
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 14
+      "score": 14.59
     },
     {
-      "id": "pm6v43",
-      "title": "Tesla's Cybercab Reaches Dallas in November, and Nevada Just Cleared 5,000 Robotaxis in Las Vegas. Here's the Number That Makes the Bulls Right.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMDB5ZHdVMmFjenVVSUdDd1VlU0ZHTDBtbkJibWJMVGV4aDFNWGdjQVNBMkx4OC1EYzFQajliM0RrSGxBeDJqNGVYUnhxVTdKNG11SE1BN195ZFhyNkx3U2UxVElCLUc2enVTaGJXeV9DcmVSazNnZVRxcTdjbm5JcFNKUk5HWi1ra0lRTXBGNUNKRjZGYWFtTg?oc=5",
-      "source": "The Motley Fool",
+      "id": "1ex74s",
+      "title": "Elon Musk sees orbital AI surpassing data centers as Colossus leads (SPCX:NASDAQ)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdTZ5NTd4SnNRcm5za05WWlNRbm9HNW9hd19uWnFrY0tTMms0b3hYZ3JhWm1KWGRWTm1DSjc3Z1RsWHN3cklNa0w1MUhxaDBxcXpVSWhnRERETGRnOUtVSlB2QlIzZ2ZHR3dWaDE4OEJmOTdkMW15NTZWVlotWXgzWEVodzE4eWxhNmtKbHhvSG5UMGNudF9JZS1oVjY1QzdLa0N4R0YxU0k?oc=5",
+      "source": "Seeking Alpha",
       "sources": [
-        "The Motley Fool",
-        "The Globe and Mail"
+        "Seeking Alpha"
       ],
-      "date": "2026-11-01T01:09:06.000Z",
-      "firstSeen": "2026-11-01T01:30:04.537Z",
+      "date": "2026-11-01T23:37:25.000Z",
+      "firstSeen": "2026-11-02T01:51:51.276Z",
       "image": "",
       "snippet": "",
-      "category": "mobility",
-      "score": 13.9
+      "category": "ai",
+      "score": 14.4
     },
     {
-      "id": "178m6rc",
-      "title": "Astronomical Power: How Musk and Bezos plan to grow their fortunes as they amass political influence",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbEhKbXdLOWRvQ1d4eVp6X3pmbVZWSl9RejZJaWRyU0dqT192QlF1T05YZTNCRThVa3VsYnY1bkQ5bW1odmFLaXJfRk9lZ1RWbTVyNFAzc2ktaHpMbU00enozSm9LQVZGS0RsOFhtUWxNRVQwRWxINFJCLVg2THVkWnZfMXdySUJVbTJ2VnhLZHd5NGJUT2taOTY1SDU2bkctQkZ1b0hWTW9CYlRxckV0SWYxWTltRmljcmhueTNvY2hGSFItT1FFM3ZyVFY1T2RCMDJHcmxXd21PVHlJU3dmVWFzSWNramxt?oc=5",
-      "source": "MS NOW",
+      "id": "1dwb2r6",
+      "title": "Europe’s answer to Elon Musk’s Starlink wants to build satellites in Australia",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd3dSZXViZjBhSWl2eVVFcVR0akxaS3pFWGM2dnlTYnpZRTl5eTNiQi1CeDJ5WmFSX3ZLYkZKOW15OG1ISm9MZTFPSVdjU2hxX2tsMnBTZUhQajZuMkNFcFVFTWQwNVlfM3BXRWZOX21IZGdacDY5aTdpT0xtU2JrbzBxSElwSXBzeGtaX0hpRHVodFZudkVIYy1WajZqbmNIckRiZUl3WEtJSjJUSDJmdThLeHJRUDhtYUZKcWI0Y1MyUXVvNThwMmwwc2I0dw?oc=5",
+      "source": "SMH.com.au",
       "sources": [
-        "MS NOW",
-        "Yahoo"
+        "SMH.com.au",
+        "شبكة تواصل الإخبارية",
+        "The Age",
+        "WAtoday"
       ],
-      "date": "2026-10-31T20:50:51.000Z",
-      "firstSeen": "2026-11-01T01:30:04.537Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 13.79
-    },
-    {
-      "id": "1lz34n6",
-      "title": "SpaceX Hits 700 Falcon 9 Launches With Starlink 15-18 Mission",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOajJTa3N0TWJfR3U3ZlFwcFF6SmRZTFJWazNhLUhQdU80b2M0U0hZR0pYVFdBemktSkctTnRjMjJCRUJqZVRwMU91R0w2M2pUc3lGR0haYjRQR3FMRG04OFVfVGMyOFFKaW14dmNaRm53T0JZQzE1V0x5a3BmR2U5M0JmaHpYMG9YQ0dQWGRLbWlGd3djeVo1ajRZLW4?oc=5",
-      "source": "BASENOR - Tesla Accessories",
-      "sources": [
-        "BASENOR - Tesla Accessories",
-        "TeslaNorth.com",
-        "Breakingthenews.net"
-      ],
-      "date": "2026-10-31T04:10:00.000Z",
-      "firstSeen": "2026-11-01T01:30:04.537Z",
+      "date": "2026-11-01T02:45:03.000Z",
+      "firstSeen": "2026-11-02T01:51:51.276Z",
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 13.53
+      "score": 14.26
+    },
+    {
+      "id": "2f8run",
+      "title": "Elon Musk and Stanley Druckenmiller Walk Into a Crypto Bar — and These ETFs Walk Out With a Payday",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX1ptWlVDa2NZOUY3X0E5NlZPbHJFVnB5MmhQcmVGOHJlREdVdEQ1SGVoUkVleERkSDk0UlVhQWdKNVo4X0JBRDdWeTY5ZWJoUnUzbzJBN3k1VHVnQ0gydnlTRU1uNlprZEJ3U1BHTTRqVXZkMjRVZHctTkI0eHNLLURZRkRiVnUxTEd2bEpRTlRaN2gzU0RXaWlKUGc5WnlybGhn?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "date": "2026-11-01T22:30:05.000Z",
+      "firstSeen": "2026-11-02T01:51:51.276Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 13.61
+    },
+    {
+      "id": "19a23zn",
+      "title": "SpaceXAI loses bid to dismiss NAACP Clean Air Act lawsuit",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmR5dWRTUlBJZGhQaV9JZTJfbUhCLVBkaXVMTzdUbE9KVFN5QVg3WmpGclBqZ0htcWpDdEtWRm03X2FYdDR3MXVvNXpZSFlZb0Rxcm11OTN2R2Y0ZGtiVXQteVdkUWdyNS11WGg1TEZPVWNzSWxidFk2cXlVWF9JZmJNM3RXMmV5d1l4Zw?oc=5",
+      "source": "Beinsure",
+      "sources": [
+        "Beinsure"
+      ],
+      "date": "2026-11-01T23:39:46.000Z",
+      "firstSeen": "2026-11-02T01:51:51.276Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 13.41
+    },
+    {
+      "id": "4zg4f2",
+      "title": "Elon Musk Issues Serious Hack Warning Amid Bitcoin And Crypto Price Crash Fear",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMGVtZWZOemduWHo0dWxNVmllNjd1TE5NZnZCalo2Ty1sYXMzSDFNaTFBR2dhUEppRmxuaXlSdTdfVVdYdTl6NnF0N1BCNmR4b2JjY25LdEtHOVoyV1pZSGN2ck1KTXRXUER4dEI0YUpXNXVoY0tnLWZ0N0F6QXhjOW9Hbkxnb0hrMURJejdLbExRak1FN0Q3d3VkdHFjODVkOUliLWw0RXB3RWpLbmc3M3duQzQ0SmdCZVgwancxUmF1dGhIRV96ZDFWRlVkeWNtdFE3Y2pRTDFvRWJ5dTBEeVFoeE5ZRWllWFE?oc=5",
+      "source": "Forbes",
+      "sources": [
+        "Forbes"
+      ],
+      "date": "2026-11-01T12:30:06.000Z",
+      "firstSeen": "2026-11-02T01:51:51.276Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 13.4
     }
   ],
   "trending": [
-    "Starlink",
     "SpaceX",
     "Tesla",
+    "Starlink",
     "SatelliteInternet",
-    "Cybercab",
-    "Starship"
+    "Grok",
+    "FSD"
   ],
   "spark": [
-    {
-      "date": "2026-10-19",
-      "total": 0
-    },
     {
       "date": "2026-10-20",
       "total": 2
@@ -190,9 +180,13 @@
     },
     {
       "date": "2026-11-01",
-      "total": 7
+      "total": 139
+    },
+    {
+      "date": "2026-11-02",
+      "total": 3
     }
   ],
-  "summary": "138 stories (last 24h). Most active frontier: Starlink. Top story: Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California (video).",
+  "summary": "128 stories (last 24h). Most active frontier: xAI & Grok. Top story: Elon Musk calls Earth’s data centers “peanuts” next to what SpaceX is planning in orbit.",
   "editor": null
 }
