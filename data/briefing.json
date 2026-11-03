@@ -1,139 +1,141 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "windowLabel": "LAST 24H",
-  "total": 128,
+  "total": 150,
   "counts": {
-    "mobility": 27,
-    "business": 20,
-    "ai": 28,
-    "space": 24,
-    "connectivity": 23,
-    "neuro": 5,
+    "connectivity": 26,
+    "space": 27,
+    "ai": 24,
+    "business": 40,
+    "mobility": 26,
+    "neuro": 6,
     "robotics": 1
   },
   "topStory": {
-    "id": "86c54z",
-    "title": "Elon Musk calls Earth’s data centers “peanuts” next to what SpaceX is planning in orbit",
-    "url": "https://www.teslarati.com/elon-musk-calls-earths-data-centers-peanuts-next-to-what-spacex-is-planning-in-orbit/",
-    "source": "Teslarati",
+    "id": "jjfpbf",
+    "title": "Elon Musk ramps up campaign cash for Derrick Van Orden",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazdzVlN2ZG1LSHcwZzVGaW85dnJ4Z1VOZUgxWWNNLWY0SEpXeXZfM0l5enQ5T3ptVXl5N2dJYlJ6cUg2QThQOTdsR0tIbVFLc0VYRDQyQUlvUllyWjVmdUVXZWZiZWZDUk9SdWxEcUptNkh2aUgtWUpJQmxqNmRYdmZqNHB5Qi0wQ1c0S1pURFBvSDFZMWdpRUhqc01zVFpveE9IOVBGR3hqemhybmNzYXh1VWhnbXJXVkdtZ2dDR1RZaVE5emwybGhNMS1XZw?oc=5",
+    "source": "Milwaukee Journal Sentinel",
     "sources": [
-      "Teslarati"
+      "Milwaukee Journal Sentinel",
+      "Herald Times Reporter",
+      "Chippewa Herald",
+      "La Crosse Tribune"
     ],
-    "date": "2026-11-01T18:31:40.000Z",
-    "firstSeen": "2026-11-02T01:51:51.276Z",
+    "date": "2026-11-02T19:09:00.000Z",
+    "firstSeen": "2026-11-03T03:43:59.003Z",
     "image": "",
-    "snippet": "Elon Musk is pushing back on one of the biggest worries hanging over SpaceX stock. In a reply on X on Sunday, Musk said the company’s capital expenditure efficiency is severely…",
-    "category": "ai",
-    "score": 14.66
+    "snippet": "",
+    "category": "business",
+    "score": 16.88
   },
   "topList": [
     {
-      "id": "1t432if",
-      "title": "Elon Musk Predicts Orbital AI Computing Surge, Boosting SpaceX (SPCX) Ambitions",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdGFoY2dwSVhCemhBOVBBS2hUS2ZNN2Nzem44M2xkbXZKVGh2X09CUGdnMWl6eEdZSjUtNWpxNkM1c0ZlUzdPdGtYX0k5TkpudW9VemZ2YVQtd0tfU0tBblZ0R29NVmwtTnk2Tkp3RDdTdmZzYjdndUlHYXZUdk5fTVNKc2ZMZS1ibkxCV3YzWWRVa2NCMHdQU3FERUJyRGlkaUx5WlExc0lUbFMxM0dRd2d0RTlUZw?oc=5",
-      "source": "GuruFocus",
+      "id": "17w9vns",
+      "title": "Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites",
+      "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-110226/",
+      "source": "NASASpaceflight",
       "sources": [
-        "GuruFocus"
+        "NASASpaceflight"
       ],
-      "date": "2026-11-02T00:20:56.000Z",
-      "firstSeen": "2026-11-02T01:51:51.276Z",
-      "image": "",
-      "snippet": "",
-      "category": "ai",
-      "score": 14.59
+      "date": "2026-11-02T22:21:38.000Z",
+      "firstSeen": "2026-11-03T03:43:59.003Z",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2024/11/Booster-1062-became-the-first-booster-to-complete-a-21st-launch-and-landing-May-2024-Credit-Julia-Bergeron-NSF-scaled.jpeg",
+      "snippet": "Eight launches are expected this week, from launch sites in the United States, China, New Zealand, and South Korea. China is scheduled to launch four missions on Chang Zheng 2C, Chang Zheng…",
+      "category": "space",
+      "score": 15.61
     },
     {
-      "id": "1ex74s",
-      "title": "Elon Musk sees orbital AI surpassing data centers as Colossus leads (SPCX:NASDAQ)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdTZ5NTd4SnNRcm5za05WWlNRbm9HNW9hd19uWnFrY0tTMms0b3hYZ3JhWm1KWGRWTm1DSjc3Z1RsWHN3cklNa0w1MUhxaDBxcXpVSWhnRERETGRnOUtVSlB2QlIzZ2ZHR3dWaDE4OEJmOTdkMW15NTZWVlotWXgzWEVodzE4eWxhNmtKbHhvSG5UMGNudF9JZS1oVjY1QzdLa0N4R0YxU0k?oc=5",
-      "source": "Seeking Alpha",
+      "id": "8f3nhf",
+      "title": "Elon Musk finds a backdoor into the $235-billion wireless market after being rejected by every major carrier",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaEZBWjRFVWRoNDhNVzhvdXpFMGVEOGhaZmJDZE1OV01PWHRyUjVvWi1kcVFJV0xNLTE4MTBPY3cxbkVRVmJZTGJyOHVtLThEd0pFR0VpMWR3WjlwYmhrSFN3SDZLUmpWV3diNzBDLUd0d2lnMmNXOFhIcDVQQ2NRLWpzaGlxX3hMRmZsSkxsNFFuMTg?oc=5",
+      "source": "Yahoo Finance",
       "sources": [
-        "Seeking Alpha"
+        "Yahoo Finance",
+        "AOL.com"
       ],
-      "date": "2026-11-01T23:37:25.000Z",
-      "firstSeen": "2026-11-02T01:51:51.276Z",
+      "date": "2026-11-02T23:00:00.000Z",
+      "firstSeen": "2026-11-03T03:43:59.003Z",
       "image": "",
       "snippet": "",
-      "category": "ai",
-      "score": 14.4
+      "category": "business",
+      "score": 15.27
     },
     {
-      "id": "1dwb2r6",
-      "title": "Europe’s answer to Elon Musk’s Starlink wants to build satellites in Australia",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd3dSZXViZjBhSWl2eVVFcVR0akxaS3pFWGM2dnlTYnpZRTl5eTNiQi1CeDJ5WmFSX3ZLYkZKOW15OG1ISm9MZTFPSVdjU2hxX2tsMnBTZUhQajZuMkNFcFVFTWQwNVlfM3BXRWZOX21IZGdacDY5aTdpT0xtU2JrbzBxSElwSXBzeGtaX0hpRHVodFZudkVIYy1WajZqbmNIckRiZUl3WEtJSjJUSDJmdThLeHJRUDhtYUZKcWI0Y1MyUXVvNThwMmwwc2I0dw?oc=5",
-      "source": "SMH.com.au",
+      "id": "1vgm41d",
+      "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQczBwSEw4SlJpSy1MVFBranJ4WUdXS2tJRkh3SndLdk5EVEZvV0VEZDBLOVRNTFNxUXh1U292cjQ1UlNTZEl6OU1ESFp6aklCd051OWItd3habzdNU2xlTEpzTl9EZTdLQWl1ZGNQQnhzekhsencxaVZUVXJaZEFvallDVTdDY0RmZHdr?oc=5",
+      "source": "The Verge",
       "sources": [
-        "SMH.com.au",
-        "شبكة تواصل الإخبارية",
-        "The Age",
-        "WAtoday"
+        "The Verge",
+        "The Tech Buzz"
       ],
-      "date": "2026-11-01T02:45:03.000Z",
-      "firstSeen": "2026-11-02T01:51:51.276Z",
+      "date": "2026-11-02T20:03:52.000Z",
+      "firstSeen": "2026-11-03T03:43:59.003Z",
       "image": "",
       "snippet": "",
-      "category": "connectivity",
-      "score": 14.26
+      "category": "mobility",
+      "score": 15.08
     },
     {
-      "id": "2f8run",
-      "title": "Elon Musk and Stanley Druckenmiller Walk Into a Crypto Bar — and These ETFs Walk Out With a Payday",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX1ptWlVDa2NZOUY3X0E5NlZPbHJFVnB5MmhQcmVGOHJlREdVdEQ1SGVoUkVleERkSDk0UlVhQWdKNVo4X0JBRDdWeTY5ZWJoUnUzbzJBN3k1VHVnQ0gydnlTRU1uNlprZEJ3U1BHTTRqVXZkMjRVZHctTkI0eHNLLURZRkRiVnUxTEd2bEpRTlRaN2gzU0RXaWlKUGc5WnlybGhn?oc=5",
+      "id": "onortl",
+      "title": "Musk: Ground Data Centers Will Be “Peanuts Compared to Orbital Compute” by 2029",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZTUtckdPcEFvWktITWdTT1pOMjdmM2Y5dmJ5Q3dRTEpxQ09TdjJXWkJwQnFJZk5wM0ROSlFEWVhKR0ZuNnBxTThod2lPLTlWY2o4U010T2tiS0h0dzRDb0F4eXNOcHFEUWl1RUZiTkRYcWV5MGJGRF9CWFVmbFU4SVZGdW1BZWhZNUZDLVFPNFNzbmY0c0UyWg?oc=5",
       "source": "Yahoo Finance",
       "sources": [
         "Yahoo Finance"
       ],
-      "date": "2026-11-01T22:30:05.000Z",
-      "firstSeen": "2026-11-02T01:51:51.276Z",
+      "date": "2026-11-02T22:08:11.000Z",
+      "firstSeen": "2026-11-03T03:43:59.003Z",
       "image": "",
       "snippet": "",
-      "category": "business",
-      "score": 13.61
+      "category": "ai",
+      "score": 15.06
     },
     {
-      "id": "19a23zn",
-      "title": "SpaceXAI loses bid to dismiss NAACP Clean Air Act lawsuit",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmR5dWRTUlBJZGhQaV9JZTJfbUhCLVBkaXVMTzdUbE9KVFN5QVg3WmpGclBqZ0htcWpDdEtWRm03X2FYdDR3MXVvNXpZSFlZb0Rxcm11OTN2R2Y0ZGtiVXQteVdkUWdyNS11WGg1TEZPVWNzSWxidFk2cXlVWF9JZmJNM3RXMmV5d1l4Zw?oc=5",
-      "source": "Beinsure",
+      "id": "174andz",
+      "title": "SpaceX plans 1 rocket launch in California this week (so far)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX0tldW5lM0hSaHBGSHlXTWdJWUpidGpBMVJBNWY3aVozd1ktVnA5Zk15S01XX1NvTUJNUXVCYmJZamRPMHhSdVhMS04zVG1QUENDOFUyWlhIMXNWckpTTmxRVFlFbEUwcmFuQ3pub0cwSWNyYVNycFI1Y0lXaHJoaDdSQWJ1NTdNSkpFRm9XVmhVRHprVTFJMzBCSHJJbGlfZkdmYUwxMjZYZnM1ZERTd0gzb2M?oc=5",
+      "source": "Ventura County Star",
       "sources": [
-        "Beinsure"
+        "Ventura County Star",
+        "AOL.com",
+        "NewsBreak: Local News & Alerts"
       ],
-      "date": "2026-11-01T23:39:46.000Z",
-      "firstSeen": "2026-11-02T01:51:51.276Z",
+      "date": "2026-11-02T14:01:00.000Z",
+      "firstSeen": "2026-11-03T03:43:59.003Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.41
+      "score": 14.83
     },
     {
-      "id": "4zg4f2",
-      "title": "Elon Musk Issues Serious Hack Warning Amid Bitcoin And Crypto Price Crash Fear",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMGVtZWZOemduWHo0dWxNVmllNjd1TE5NZnZCalo2Ty1sYXMzSDFNaTFBR2dhUEppRmxuaXlSdTdfVVdYdTl6NnF0N1BCNmR4b2JjY25LdEtHOVoyV1pZSGN2ck1KTXRXUER4dEI0YUpXNXVoY0tnLWZ0N0F6QXhjOW9Hbkxnb0hrMURJejdLbExRak1FN0Q3d3VkdHFjODVkOUliLWw0RXB3RWpLbmc3M3duQzQ0SmdCZVgwancxUmF1dGhIRV96ZDFWRlVkeWNtdFE3Y2pRTDFvRWJ5dTBEeVFoeE5ZRWllWFE?oc=5",
-      "source": "Forbes",
+      "id": "1a744z2",
+      "title": "Trump Declares He’ll Pardon Elon Musk",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Fd3VuLXRDaWhCcFJLazBkcTNlVF9pZGFTby1KMEZQYTdyd0JjaGhfWC1NSXdKNGlVRS1UTGNXb21GWExQUHAzMWxYWEhwWktvSHBoY3ZNWDAzaGtMMmZmLThFMjkzOElrUmdCMk42cmZYSmM?oc=5",
+      "source": "The New Republic",
       "sources": [
-        "Forbes"
+        "The New Republic",
+        "The Pavlovic Today",
+        "AOL.com"
       ],
-      "date": "2026-11-01T12:30:06.000Z",
-      "firstSeen": "2026-11-02T01:51:51.276Z",
+      "date": "2026-11-02T18:37:26.000Z",
+      "firstSeen": "2026-11-03T03:43:59.003Z",
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 13.4
+      "score": 14.76
     }
   ],
   "trending": [
-    "SpaceX",
     "Tesla",
+    "SpaceX",
     "Starlink",
-    "SatelliteInternet",
     "Grok",
+    "Cybercab",
     "FSD"
   ],
   "spark": [
-    {
-      "date": "2026-10-20",
-      "total": 2
-    },
     {
       "date": "2026-10-21",
       "total": 1
@@ -184,9 +186,13 @@
     },
     {
       "date": "2026-11-02",
-      "total": 3
+      "total": 135
+    },
+    {
+      "date": "2026-11-03",
+      "total": 15
     }
   ],
-  "summary": "128 stories (last 24h). Most active frontier: xAI & Grok. Top story: Elon Musk calls Earth’s data centers “peanuts” next to what SpaceX is planning in orbit.",
+  "summary": "150 stories (last 24h). Most active frontier: Business. Top story: Elon Musk ramps up campaign cash for Derrick Van Orden.",
   "editor": null
 }
