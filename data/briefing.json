@@ -1,145 +1,141 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "connectivity": 26,
-    "space": 27,
-    "ai": 24,
-    "business": 40,
-    "mobility": 26,
-    "neuro": 6,
-    "robotics": 1
+    "connectivity": 36,
+    "space": 24,
+    "business": 33,
+    "mobility": 34,
+    "robotics": 4,
+    "ai": 17,
+    "neuro": 2
   },
   "topStory": {
-    "id": "jjfpbf",
-    "title": "Elon Musk ramps up campaign cash for Derrick Van Orden",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazdzVlN2ZG1LSHcwZzVGaW85dnJ4Z1VOZUgxWWNNLWY0SEpXeXZfM0l5enQ5T3ptVXl5N2dJYlJ6cUg2QThQOTdsR0tIbVFLc0VYRDQyQUlvUllyWjVmdUVXZWZiZWZDUk9SdWxEcUptNkh2aUgtWUpJQmxqNmRYdmZqNHB5Qi0wQ1c0S1pURFBvSDFZMWdpRUhqc01zVFpveE9IOVBGR3hqemhybmNzYXh1VWhnbXJXVkdtZ2dDR1RZaVE5emwybGhNMS1XZw?oc=5",
-    "source": "Milwaukee Journal Sentinel",
+    "id": "1ustxyv",
+    "title": "How a SpaceX-Tesla merger could hand Musk majority control",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wYlNqN1VyMXppTUNoVWQwSHdvMzgtbEF4R2VRbFZPeWs0aE9aNVBxa1daY0FvSjNjbDVjM3JwNmh4ZHdDSWtMZklHYzRmWV90V2FzN0g0RkhqSjUyaEE0VUJxRi1WYWl4TlZ2U3lRQ29Eb214UnNzMTN3?oc=5",
+    "source": "Reuters",
     "sources": [
-      "Milwaukee Journal Sentinel",
-      "Herald Times Reporter",
-      "Chippewa Herald",
-      "La Crosse Tribune"
+      "Reuters",
+      "The American Bazaar",
+      "The Detroit News"
     ],
-    "date": "2026-11-02T19:09:00.000Z",
-    "firstSeen": "2026-11-03T03:43:59.003Z",
+    "date": "2026-11-03T15:00:25.000Z",
+    "firstSeen": "2026-11-04T02:45:23.803Z",
     "image": "",
     "snippet": "",
-    "category": "business",
-    "score": 16.88
+    "category": "space",
+    "score": 19.22
   },
   "topList": [
     {
-      "id": "17w9vns",
-      "title": "Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites",
-      "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-110226/",
-      "source": "NASASpaceflight",
+      "id": "g80un5",
+      "title": "Tesla cuts FSD’s speed margin from 50% to 10% over the limit in Europe",
+      "url": "https://electrek.co/2026/11/03/tesla-assisted-driving-rdw-speed-cap-10-percent-europe/",
+      "source": "Electrek",
       "sources": [
-        "NASASpaceflight"
+        "Electrek",
+        "shattered.io",
+        "ShiftDelete.Net",
+        "TeslaNorth.com"
       ],
-      "date": "2026-11-02T22:21:38.000Z",
-      "firstSeen": "2026-11-03T03:43:59.003Z",
-      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2024/11/Booster-1062-became-the-first-booster-to-complete-a-21st-launch-and-landing-May-2024-Credit-Julia-Bergeron-NSF-scaled.jpeg",
-      "snippet": "Eight launches are expected this week, from launch sites in the United States, China, New Zealand, and South Korea. China is scheduled to launch four missions on Chang Zheng 2C, Chang Zheng…",
-      "category": "space",
-      "score": 15.61
+      "date": "2026-11-03T13:47:32.000Z",
+      "firstSeen": "2026-11-04T02:45:23.803Z",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&strip=all&w=1600",
+      "snippet": "Tesla’s driver-assistance system in Europe can no longer be set to drive 50% over the speed limit. The Netherlands’ RDW, which approved the system in April, confirmed today that it signed…",
+      "category": "mobility",
+      "score": 16.48
     },
     {
-      "id": "8f3nhf",
-      "title": "Elon Musk finds a backdoor into the $235-billion wireless market after being rejected by every major carrier",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaEZBWjRFVWRoNDhNVzhvdXpFMGVEOGhaZmJDZE1OV01PWHRyUjVvWi1kcVFJV0xNLTE4MTBPY3cxbkVRVmJZTGJyOHVtLThEd0pFR0VpMWR3WjlwYmhrSFN3SDZLUmpWV3diNzBDLUd0d2lnMmNXOFhIcDVQQ2NRLWpzaGlxX3hMRmZsSkxsNFFuMTg?oc=5",
+      "id": "u0bah9",
+      "title": "Musk’s pay under a SpaceX-Tesla merger: voting control, but no $1 trillion payday​",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQenlkU0tVOVBzcm1oVTFKMjNPUVlJY25RNjBfUXo5OGFPeWg2S01zM0lTa3ZXa216UjhPTVlXdzU1RXU4aWtJVnZ4cmJQX19xV1M1NG5HbWFLYm9ReUp0VUFBMThuS1JHMzJRZGxLZnNmNVlCb0lOQ2tfamowMU9TRnRLZ2l1X1I0Qkk5YWotZ1pIeXVyNHp0MEZ3V2h4ZVpmX2lXMlRqbHlTaU1VQUd1N1NKa3lNa25hdXZuSlBTNUZLVDJfUU1CTE1n?oc=5",
+      "source": "Reuters",
+      "sources": [
+        "Reuters"
+      ],
+      "date": "2026-11-03T20:34:40.000Z",
+      "firstSeen": "2026-11-04T02:45:23.803Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 16.42
+    },
+    {
+      "id": "s2j0q4",
+      "title": "Do we know how many Starship launches SpaceX will need to get NASA astronauts to the moon? No. Will its refuelling plan be simple? Also no.",
+      "url": "https://www.space.com/space-exploration/artemis/do-we-know-how-many-starship-launches-spacex-will-need-to-get-nasa-astronauts-to-the-moon-no-will-its-refuelling-plan-be-simple-also-no",
+      "source": "Space.com",
+      "sources": [
+        "Space",
+        "Space.com"
+      ],
+      "date": "2026-11-03T13:00:00.000Z",
+      "firstSeen": "2026-11-04T02:45:23.803Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Nu5bWDwZmhSzFr3qifWiqj-1920-80.jpg",
+      "snippet": "NASA's Artemis IV moon mission will be a complicated affair — especially if SpaceX's Starship ends up being the lunar lander. For all of the changing components of the Artemis program over…",
+      "category": "space",
+      "score": 15.82
+    },
+    {
+      "id": "hx15uk",
+      "title": "Here's What SpaceX Stock Will Be Worth by 2027 if Elon Musk's $1 Trillion Revenue Call Is Correct",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNak82Rk9uWHNGdlk1N3pmQXpBdzFBUTNMOGJIaEYtYS1uVGtqTkpCS1daRGtnNF9xd0xLSktFQk9tek55UFNRMXl2VHpFWXZpVWVIMVBYaWdub2ZOWW44cThlX01CdndMcmpub1ZrYXltSk1WYUxSYWFBT2tuTVpHLVJPWTlYLTU4OUJTOWE0YjdjWDhud0lReUNB?oc=5",
       "source": "Yahoo Finance",
       "sources": [
         "Yahoo Finance",
-        "AOL.com"
+        "The Motley Fool"
       ],
-      "date": "2026-11-02T23:00:00.000Z",
-      "firstSeen": "2026-11-03T03:43:59.003Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 15.27
-    },
-    {
-      "id": "1vgm41d",
-      "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQczBwSEw4SlJpSy1MVFBranJ4WUdXS2tJRkh3SndLdk5EVEZvV0VEZDBLOVRNTFNxUXh1U292cjQ1UlNTZEl6OU1ESFp6aklCd051OWItd3habzdNU2xlTEpzTl9EZTdLQWl1ZGNQQnhzekhsencxaVZUVXJaZEFvallDVTdDY0RmZHdr?oc=5",
-      "source": "The Verge",
-      "sources": [
-        "The Verge",
-        "The Tech Buzz"
-      ],
-      "date": "2026-11-02T20:03:52.000Z",
-      "firstSeen": "2026-11-03T03:43:59.003Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 15.08
-    },
-    {
-      "id": "onortl",
-      "title": "Musk: Ground Data Centers Will Be “Peanuts Compared to Orbital Compute” by 2029",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZTUtckdPcEFvWktITWdTT1pOMjdmM2Y5dmJ5Q3dRTEpxQ09TdjJXWkJwQnFJZk5wM0ROSlFEWVhKR0ZuNnBxTThod2lPLTlWY2o4U010T2tiS0h0dzRDb0F4eXNOcHFEUWl1RUZiTkRYcWV5MGJGRF9CWFVmbFU4SVZGdW1BZWhZNUZDLVFPNFNzbmY0c0UyWg?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "date": "2026-11-02T22:08:11.000Z",
-      "firstSeen": "2026-11-03T03:43:59.003Z",
-      "image": "",
-      "snippet": "",
-      "category": "ai",
-      "score": 15.06
-    },
-    {
-      "id": "174andz",
-      "title": "SpaceX plans 1 rocket launch in California this week (so far)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX0tldW5lM0hSaHBGSHlXTWdJWUpidGpBMVJBNWY3aVozd1ktVnA5Zk15S01XX1NvTUJNUXVCYmJZamRPMHhSdVhMS04zVG1QUENDOFUyWlhIMXNWckpTTmxRVFlFbEUwcmFuQ3pub0cwSWNyYVNycFI1Y0lXaHJoaDdSQWJ1NTdNSkpFRm9XVmhVRHprVTFJMzBCSHJJbGlfZkdmYUwxMjZYZnM1ZERTd0gzb2M?oc=5",
-      "source": "Ventura County Star",
-      "sources": [
-        "Ventura County Star",
-        "AOL.com",
-        "NewsBreak: Local News & Alerts"
-      ],
-      "date": "2026-11-02T14:01:00.000Z",
-      "firstSeen": "2026-11-03T03:43:59.003Z",
+      "date": "2026-11-03T21:18:00.000Z",
+      "firstSeen": "2026-11-04T02:45:23.803Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 14.83
+      "score": 15.09
     },
     {
-      "id": "1a744z2",
-      "title": "Trump Declares He’ll Pardon Elon Musk",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Fd3VuLXRDaWhCcFJLazBkcTNlVF9pZGFTby1KMEZQYTdyd0JjaGhfWC1NSXdKNGlVRS1UTGNXb21GWExQUHAzMWxYWEhwWktvSHBoY3ZNWDAzaGtMMmZmLThFMjkzOElrUmdCMk42cmZYSmM?oc=5",
-      "source": "The New Republic",
+      "id": "8bh3rd",
+      "title": "Elon Musk's next target: a major shake-up of America's wireless market",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeU5nTlZiZGUwa3QwS19EelJsSEM1bE9uLTFKMFA1Q0swVTRiSEY1LUNSY0dQS3lhMHAyc3YyLUNKQzZ6OXlaNTc2QTJ1VkxUQU1XUy1xMVdIa2lLMFJCT0dja3ZUc09YVXhtNG9rVUZINndENS1ZTy1yVktENThnMER2bWY?oc=5",
+      "source": "Axios",
       "sources": [
-        "The New Republic",
-        "The Pavlovic Today",
-        "AOL.com"
+        "Axios",
+        "Benton Institute for Broadband & Society",
+        "Yahoo Finance"
       ],
-      "date": "2026-11-02T18:37:26.000Z",
-      "firstSeen": "2026-11-03T03:43:59.003Z",
+      "date": "2026-11-03T10:00:06.000Z",
+      "firstSeen": "2026-11-04T02:45:23.803Z",
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 14.76
+      "score": 14.78
+    },
+    {
+      "id": "1831plg",
+      "title": "EXCLUSIVE: Tesla misled South Korean customers about automated-driving tech, consumer group alleges",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaHFtVW90SEVfXzZpTkdUYVU0WENhU1BnZ3I4QW1sUUJjcGxqVHlpZzA4ODAyRF9LUmdRbnpCSjRPdUd2YjVTaktzZnJHeWx4WWxNMDhnaWVoS3c3djAyeEpMUWlaVVZwVE5BYUxnemhmbXlSRzBWdU41c0lRMGQwclZIbTVITE1iQWVhbzNsdjFySF9raFl0aDNHV0JLRjBqMU8xNmxBVmUxNUVpck1XcUlITmNqUFRMUWhHOEJmUzc1cTVMbUxjbVM2c2J0TGRHVG5PV1JNc2ZRSU5OV3c?oc=5",
+      "source": "Reuters",
+      "sources": [
+        "Reuters"
+      ],
+      "date": "2026-11-04T00:03:00.000Z",
+      "firstSeen": "2026-11-04T02:45:23.803Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 14.28
     }
   ],
   "trending": [
     "Tesla",
-    "SpaceX",
     "Starlink",
-    "Grok",
-    "Cybercab",
-    "FSD"
+    "SpaceX",
+    "Robotics",
+    "FSD",
+    "Cybercab"
   ],
   "spark": [
-    {
-      "date": "2026-10-21",
-      "total": 1
-    },
     {
       "date": "2026-10-22",
       "total": 0
@@ -190,9 +186,13 @@
     },
     {
       "date": "2026-11-03",
-      "total": 15
+      "total": 132
+    },
+    {
+      "date": "2026-11-04",
+      "total": 18
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: Business. Top story: Elon Musk ramps up campaign cash for Derrick Van Orden.",
+  "summary": "150 stories (last 24h). Most active frontier: Starlink. Top story: How a SpaceX-Tesla merger could hand Musk majority control.",
   "editor": null
 }
