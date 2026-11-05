@@ -1,145 +1,138 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "connectivity": 36,
+    "business": 46,
     "space": 24,
-    "business": 33,
-    "mobility": 34,
-    "robotics": 4,
-    "ai": 17,
-    "neuro": 2
+    "ai": 13,
+    "connectivity": 41,
+    "mobility": 25,
+    "robotics": 1
   },
   "topStory": {
-    "id": "1ustxyv",
-    "title": "How a SpaceX-Tesla merger could hand Musk majority control",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wYlNqN1VyMXppTUNoVWQwSHdvMzgtbEF4R2VRbFZPeWs0aE9aNVBxa1daY0FvSjNjbDVjM3JwNmh4ZHdDSWtMZklHYzRmWV90V2FzN0g0RkhqSjUyaEE0VUJxRi1WYWl4TlZ2U3lRQ29Eb214UnNzMTN3?oc=5",
+    "id": "79dwfk",
+    "title": "Elon Musk bet big on Texas, but now Democrats are in charge",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hOVJ6V0NOUFNhMFdldHFWWGk0c2hjeXdkQ3k4dnNPT2h4UGRQVzc1ZGFTVnBUOTlQT0dPVjJySGdwSktUOUFSLWpnNDR6WFFzUGwyNUUzU1VLVUtlTXo2ZExKZmxjWjQ?oc=5",
     "source": "Reuters",
     "sources": [
       "Reuters",
-      "The American Bazaar",
-      "The Detroit News"
+      "Yahoo"
     ],
-    "date": "2026-11-03T15:00:25.000Z",
-    "firstSeen": "2026-11-04T02:45:23.803Z",
+    "date": "2026-11-04T22:07:45.000Z",
+    "firstSeen": "2026-11-05T02:50:52.915Z",
     "image": "",
     "snippet": "",
-    "category": "space",
-    "score": 19.22
+    "category": "business",
+    "score": 16.77
   },
   "topList": [
     {
-      "id": "g80un5",
-      "title": "Tesla cuts FSD’s speed margin from 50% to 10% over the limit in Europe",
-      "url": "https://electrek.co/2026/11/03/tesla-assisted-driving-rdw-speed-cap-10-percent-europe/",
-      "source": "Electrek",
-      "sources": [
-        "Electrek",
-        "shattered.io",
-        "ShiftDelete.Net",
-        "TeslaNorth.com"
-      ],
-      "date": "2026-11-03T13:47:32.000Z",
-      "firstSeen": "2026-11-04T02:45:23.803Z",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&strip=all&w=1600",
-      "snippet": "Tesla’s driver-assistance system in Europe can no longer be set to drive 50% over the speed limit. The Netherlands’ RDW, which approved the system in April, confirmed today that it signed…",
-      "category": "mobility",
-      "score": 16.48
-    },
-    {
-      "id": "u0bah9",
-      "title": "Musk’s pay under a SpaceX-Tesla merger: voting control, but no $1 trillion payday​",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQenlkU0tVOVBzcm1oVTFKMjNPUVlJY25RNjBfUXo5OGFPeWg2S01zM0lTa3ZXa216UjhPTVlXdzU1RXU4aWtJVnZ4cmJQX19xV1M1NG5HbWFLYm9ReUp0VUFBMThuS1JHMzJRZGxLZnNmNVlCb0lOQ2tfamowMU9TRnRLZ2l1X1I0Qkk5YWotZ1pIeXVyNHp0MEZ3V2h4ZVpmX2lXMlRqbHlTaU1VQUd1N1NKa3lNa25hdXZuSlBTNUZLVDJfUU1CTE1n?oc=5",
-      "source": "Reuters",
-      "sources": [
-        "Reuters"
-      ],
-      "date": "2026-11-03T20:34:40.000Z",
-      "firstSeen": "2026-11-04T02:45:23.803Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 16.42
-    },
-    {
-      "id": "s2j0q4",
-      "title": "Do we know how many Starship launches SpaceX will need to get NASA astronauts to the moon? No. Will its refuelling plan be simple? Also no.",
-      "url": "https://www.space.com/space-exploration/artemis/do-we-know-how-many-starship-launches-spacex-will-need-to-get-nasa-astronauts-to-the-moon-no-will-its-refuelling-plan-be-simple-also-no",
-      "source": "Space.com",
-      "sources": [
-        "Space",
-        "Space.com"
-      ],
-      "date": "2026-11-03T13:00:00.000Z",
-      "firstSeen": "2026-11-04T02:45:23.803Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Nu5bWDwZmhSzFr3qifWiqj-1920-80.jpg",
-      "snippet": "NASA's Artemis IV moon mission will be a complicated affair — especially if SpaceX's Starship ends up being the lunar lander. For all of the changing components of the Artemis program over…",
-      "category": "space",
-      "score": 15.82
-    },
-    {
-      "id": "hx15uk",
-      "title": "Here's What SpaceX Stock Will Be Worth by 2027 if Elon Musk's $1 Trillion Revenue Call Is Correct",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNak82Rk9uWHNGdlk1N3pmQXpBdzFBUTNMOGJIaEYtYS1uVGtqTkpCS1daRGtnNF9xd0xLSktFQk9tek55UFNRMXl2VHpFWXZpVWVIMVBYaWdub2ZOWW44cThlX01CdndMcmpub1ZrYXltSk1WYUxSYWFBT2tuTVpHLVJPWTlYLTU4OUJTOWE0YjdjWDhud0lReUNB?oc=5",
+      "id": "1c1yueo",
+      "title": "Was Elon Musk the Midterms’ Biggest Loser? What It Means for Tesla and SpaceX Investors",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0dBckExTHZEV19WS2dEUE1sNU1EcjNqY1VJdzU4cENVZGlFRWcxSzhQaVp5Tzg5NHNUd0YzN1B4SUNsNUg1b3M4QjctdkJrVWoxMGZQYUdlYXV1b0FJcDVDMnhyQWhkNW5nT1hLMnlHaWoydEVMdmRONWR2allBZVFubzB3REt0T1kzVHNMekU1QmRlb2Q5RlQ3SjlFUQ?oc=5",
       "source": "Yahoo Finance",
       "sources": [
+        "Rolling Stone",
         "Yahoo Finance",
         "The Motley Fool"
       ],
-      "date": "2026-11-03T21:18:00.000Z",
-      "firstSeen": "2026-11-04T02:45:23.803Z",
+      "date": "2026-11-04T18:11:23.000Z",
+      "firstSeen": "2026-11-05T02:50:52.915Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 15.09
+      "score": 16.36
     },
     {
-      "id": "8bh3rd",
-      "title": "Elon Musk's next target: a major shake-up of America's wireless market",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeU5nTlZiZGUwa3QwS19EelJsSEM1bE9uLTFKMFA1Q0swVTRiSEY1LUNSY0dQS3lhMHAyc3YyLUNKQzZ6OXlaNTc2QTJ1VkxUQU1XUy1xMVdIa2lLMFJCT0dja3ZUc09YVXhtNG9rVUZINndENS1ZTy1yVktENThnMER2bWY?oc=5",
-      "source": "Axios",
-      "sources": [
-        "Axios",
-        "Benton Institute for Broadband & Society",
-        "Yahoo Finance"
-      ],
-      "date": "2026-11-03T10:00:06.000Z",
-      "firstSeen": "2026-11-04T02:45:23.803Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 14.78
-    },
-    {
-      "id": "1831plg",
-      "title": "EXCLUSIVE: Tesla misled South Korean customers about automated-driving tech, consumer group alleges",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaHFtVW90SEVfXzZpTkdUYVU0WENhU1BnZ3I4QW1sUUJjcGxqVHlpZzA4ODAyRF9LUmdRbnpCSjRPdUd2YjVTaktzZnJHeWx4WWxNMDhnaWVoS3c3djAyeEpMUWlaVVZwVE5BYUxnemhmbXlSRzBWdU41c0lRMGQwclZIbTVITE1iQWVhbzNsdjFySF9raFl0aDNHV0JLRjBqMU8xNmxBVmUxNUVpck1XcUlITmNqUFRMUWhHOEJmUzc1cTVMbUxjbVM2c2J0TGRHVG5PV1JNc2ZRSU5OV3c?oc=5",
+      "id": "18laa4f",
+      "title": "SpaceX launches first Starlink satellites",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vX2JUODRVUDViNHpqaGtKZERCUm5teUR1WWstVHlodW9jdF8yNjdMUXphdDFxMTJyV0Y3bUk3UzZ5SXZ3Q3R2WGdQbFNxSF9UeXlyWWw0Si1rbW03?oc=5",
       "source": "Reuters",
       "sources": [
         "Reuters"
       ],
-      "date": "2026-11-04T00:03:00.000Z",
-      "firstSeen": "2026-11-04T02:45:23.803Z",
+      "date": "2026-11-04T22:19:44.000Z",
+      "firstSeen": "2026-11-05T02:50:52.915Z",
       "image": "",
       "snippet": "",
-      "category": "mobility",
-      "score": 14.28
+      "category": "connectivity",
+      "score": 15.82
+    },
+    {
+      "id": "wzu8o",
+      "title": "Tesla and SpaceX Shares Drop After Elon Musk's Election Bet Backfires",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOFBIVW9RcnI1UTNYZnFBNVZuZ3FTWGgxM2Fwc3NFS1RxeUlYWW5Bbjd6WFhnMUJSaG1iek54cjY5UU02Q0RFYUxweWswdXROSmt1OVVoNU9QamZtUTl1YXBUYlJRS1UtcjJIVXFPLVlPVTJmeXdDdzBjNGQ4UE90cVJsUmxPUl83ay05WmZfSHdqTzlIQ3F3T3RRSWVpQQ?oc=5",
+      "source": "Business Insider",
+      "sources": [
+        "Quartz",
+        "Business Insider",
+        "Investopedia"
+      ],
+      "date": "2026-11-04T14:41:00.000Z",
+      "firstSeen": "2026-11-05T02:50:52.915Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 15.63
+    },
+    {
+      "id": "14bzfyo",
+      "title": "Elon Musk will face scrutiny from Democrats after midterms",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVFB1cnJfcnJmRFI3NlJjTWlHeWxkM3V3cEhtYzA5QzkwdURtSnVQM2JEMWhOVnp5bmQtblhZWDlMNHFwTEJOUkwtb0Q4X1MyWXdlNGhTODFKTk52NE0yaW1sZF9OS0Z5OER2NS1YdE1SM2pVQVF0SE5pU0lwdlNnSVFvMm83NWpGV3JmWG9vdUJZdw?oc=5",
+      "source": "NPR",
+      "sources": [
+        "NPR",
+        "Houston Chronicle",
+        "WCMU Public Media"
+      ],
+      "date": "2026-11-04T21:11:00.000Z",
+      "firstSeen": "2026-11-05T02:50:52.915Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 15.54
+    },
+    {
+      "id": "11drmtv",
+      "title": "17 better ways Elon Musk could have wasted $446 million",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRGxlcWZZTzVWMkZUeDYzM3VWb0hIaVpwT3JuLXIxWGdxaFJueXpxekk1TzAwLW5ZVkVuRDd1cHl2UXhIZDMxN19DaGN6UXBxN24xMV9iMFhqelJEQ09LMGstYUV3cnBPUlNmQmFnZUM5eGZ2WTE0dEpBdmkzSU5PNzJYeFVaNW9aTlVKUVhEV1Q?oc=5",
+      "source": "The Verge",
+      "sources": [
+        "The Verge"
+      ],
+      "date": "2026-11-04T21:45:00.000Z",
+      "firstSeen": "2026-11-05T02:50:52.915Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 14.68
+    },
+    {
+      "id": "k9fw4i",
+      "title": "SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNUJMNUhfVmg3dHlfRHhVb0tham91N0NObjZjNXl0bWN0Yno0QVdFNFVueHlnNEo2eGJJbTUzajY3cVZ6cnR2TG9vN0VpVVBpcEttSm1sZVgwbmpnTE5JZ2EycUV3ZXY5WVk4VTRZaHpHTTNSVHMtZUl3d0l2UXI0LWZsWTR1dkpmcF9R?oc=5",
+      "source": "The New York Times",
+      "sources": [
+        "The New York Times"
+      ],
+      "date": "2026-11-04T21:19:26.000Z",
+      "firstSeen": "2026-11-05T02:50:52.915Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 14.58
     }
   ],
   "trending": [
-    "Tesla",
-    "Starlink",
     "SpaceX",
-    "Robotics",
+    "Starlink",
+    "Tesla",
     "FSD",
-    "Cybercab"
+    "Starship",
+    "Grok"
   ],
   "spark": [
-    {
-      "date": "2026-10-22",
-      "total": 0
-    },
     {
       "date": "2026-10-23",
       "total": 2
@@ -190,9 +183,13 @@
     },
     {
       "date": "2026-11-04",
-      "total": 18
+      "total": 140
+    },
+    {
+      "date": "2026-11-05",
+      "total": 10
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: Starlink. Top story: How a SpaceX-Tesla merger could hand Musk majority control.",
+  "summary": "150 stories (last 24h). Most active frontier: Business. Top story: Elon Musk bet big on Texas, but now Democrats are in charge.",
   "editor": null
 }

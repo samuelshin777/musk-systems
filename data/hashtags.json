@@ -1,29 +1,21 @@
 {
-  "updated": "2026-11-04T02:45:23.803Z",
+  "updated": "2026-11-05T02:50:52.915Z",
   "hashtags": [
     {
-      "tag": "#Tesla",
-      "score": 56
-    },
-    {
       "tag": "#ElonMusk",
-      "score": 41
+      "score": 73
     },
     {
-      "tag": "#Starlink",
-      "score": 35
+      "tag": "#Tesla",
+      "score": 36
     },
     {
       "tag": "#SpaceX",
+      "score": 35
+    },
+    {
+      "tag": "#Starlink",
       "score": 27
-    },
-    {
-      "tag": "#FSD",
-      "score": 21
-    },
-    {
-      "tag": "#Robotics",
-      "score": 16
     },
     {
       "tag": "#Grok",
@@ -42,10 +34,6 @@
       "score": 9
     },
     {
-      "tag": "#Cybercab",
-      "score": 9
-    },
-    {
       "tag": "#SatelliteInternet",
       "score": 7
     },
@@ -54,12 +42,24 @@
       "score": 6
     },
     {
-      "tag": "#Robotaxi",
+      "tag": "#Robotics",
       "score": 6
+    },
+    {
+      "tag": "#FSD",
+      "score": 5
     },
     {
       "tag": "#SpaceExploration",
       "score": 5
+    },
+    {
+      "tag": "#Moon",
+      "score": 4
+    },
+    {
+      "tag": "#NASA",
+      "score": 4
     },
     {
       "tag": "#SPCX",
@@ -70,8 +70,12 @@
       "score": 4
     },
     {
-      "tag": "#HumanoidRobot",
+      "tag": "#OrbitalDataCenters",
       "score": 4
+    },
+    {
+      "tag": "#Cybercab",
+      "score": 3
     },
     {
       "tag": "#SpaceXDragon",
@@ -79,10 +83,6 @@
     },
     {
       "tag": "#SpaceXIPO",
-      "score": 3
-    },
-    {
-      "tag": "#FutureTech",
       "score": 3
     },
     {
@@ -102,11 +102,23 @@
       "score": 3
     },
     {
+      "tag": "#Robotaxi",
+      "score": 2
+    },
+    {
       "tag": "#PayPal",
       "score": 2
     },
     {
+      "tag": "#Earnings",
+      "score": 2
+    },
+    {
       "tag": "#ReusableRockets",
+      "score": 2
+    },
+    {
+      "tag": "#HumanoidRobot",
       "score": 2
     },
     {
@@ -148,42 +160,30 @@
     {
       "tag": "#Megapack",
       "score": 1
-    },
-    {
-      "tag": "#ArtificialIntelligence",
-      "score": 1
-    },
-    {
-      "tag": "#ElectricVehicles",
-      "score": 1
-    },
-    {
-      "tag": "#Multiplanetary",
-      "score": 1
     }
   ],
   "keywords": [
-    "Tesla",
     "Elon Musk",
-    "Starlink",
+    "Tesla",
     "SpaceX",
-    "Full Self-Driving",
-    "Robotics",
+    "Starlink",
     "Grok",
     "Starship",
     "xAI",
     "Neuralink",
-    "Cybercab",
     "Satellite Internet",
     "Optimus",
-    "Robotaxi",
+    "Robotics",
+    "Full Self-Driving",
     "Space Exploration",
+    "Moon",
+    "NASA",
     "SPCX",
     "Nasdaq",
-    "Humanoid Robot",
+    "Orbital Data Centers",
+    "Cybercab",
     "Dragon",
     "IPO",
-    "Future Tech",
     "Tower Catch",
     "Musk Systems",
     "Future Technology",
