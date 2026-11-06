@@ -1,123 +1,124 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "business": 46,
-    "space": 24,
-    "ai": 13,
-    "connectivity": 41,
-    "mobility": 25,
-    "robotics": 1
+    "connectivity": 27,
+    "business": 39,
+    "ai": 20,
+    "space": 29,
+    "mobility": 28,
+    "neuro": 3,
+    "robotics": 4
   },
   "topStory": {
-    "id": "79dwfk",
-    "title": "Elon Musk bet big on Texas, but now Democrats are in charge",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hOVJ6V0NOUFNhMFdldHFWWGk0c2hjeXdkQ3k4dnNPT2h4UGRQVzc1ZGFTVnBUOTlQT0dPVjJySGdwSktUOUFSLWpnNDR6WFFzUGwyNUUzU1VLVUtlTXo2ZExKZmxjWjQ?oc=5",
-    "source": "Reuters",
+    "id": "1brm75i",
+    "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbVlBX0FCZGw4ZnNTUlRoSU5wSjJRWllFQ2JTZjBHNy1CQ0VXNWZWb1Y1V2dDWXhLQWIxZC1hNG00U0xXUjZIdHV6U0FaWS1hN1BURXBNd2g4Q0RoT0lFX21qMlNrQTkwelZndmExbGpSdlhlQ24taDl4QXpTQkNmVlJZc3FaajZl0gGOAUFVX3lxTE9peU5XOFhISzIwSnNNaGtiR0Iya1JqWVNFcXgyQXVPVXNubjAyMXVYMUR2aHd1MWRnZEhmLXI1MnRONmk3SHIzUGtOZnQ1U3JFdjBkSnYxNHdsQTVSQnBGWmVwUGxSZWJIYW1JZURVYUxsa2prV1VXeUs1VW5CU0pISHRtYVUzLV9LSTNyTEE?oc=5",
+    "source": "CNBC",
     "sources": [
-      "Reuters",
-      "Yahoo"
+      "CNBC",
+      "Quartz",
+      "CNBC Technology"
     ],
-    "date": "2026-11-04T22:07:45.000Z",
-    "firstSeen": "2026-11-05T02:50:52.915Z",
+    "date": "2026-11-05T21:29:01.000Z",
+    "firstSeen": "2026-11-06T02:51:30.512Z",
     "image": "",
-    "snippet": "",
-    "category": "business",
-    "score": 16.77
+    "snippet": "Elon Musk's Tesla and SpaceX lose $420 billion in combined market cap after midterms",
+    "category": "space",
+    "score": 18.61
   },
   "topList": [
     {
-      "id": "1c1yueo",
-      "title": "Was Elon Musk the Midterms’ Biggest Loser? What It Means for Tesla and SpaceX Investors",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0dBckExTHZEV19WS2dEUE1sNU1EcjNqY1VJdzU4cENVZGlFRWcxSzhQaVp5Tzg5NHNUd0YzN1B4SUNsNUg1b3M4QjctdkJrVWoxMGZQYUdlYXV1b0FJcDVDMnhyQWhkNW5nT1hLMnlHaWoydEVMdmRONWR2allBZVFubzB3REt0T1kzVHNMekU1QmRlb2Q5RlQ3SjlFUQ?oc=5",
-      "source": "Yahoo Finance",
+      "id": "k0hxh2",
+      "title": "Elon Musk's record $474 million election bet backfires in Texas",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObUVPR2FqRXVNYnlMdEEzUDdwaGVORVJMcU5iekt6ODFFYjZVS0JTUjBRUUh5SFRNcG8ydElSNVd3SjBvakc4VFBKR1lLOUMxa0JCN3E1Uy1vcWsxTmtWRzVPM1FQazZHMU41VFMtRDBzXzBrNHVTQXA4VDBMQnhwd29rUzVfd3h3alFvRlBOZzJRVjR3aEMybDhET2ZxamhuWks1dEsxMWU4M0pkZDBNbXN3?oc=5",
+      "source": "Scripps News",
       "sources": [
-        "Rolling Stone",
-        "Yahoo Finance",
-        "The Motley Fool"
+        "Scripps News",
+        "KGUN 9",
+        "KPAX News"
       ],
-      "date": "2026-11-04T18:11:23.000Z",
-      "firstSeen": "2026-11-05T02:50:52.915Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 16.36
-    },
-    {
-      "id": "18laa4f",
-      "title": "SpaceX launches first Starlink satellites",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vX2JUODRVUDViNHpqaGtKZERCUm5teUR1WWstVHlodW9jdF8yNjdMUXphdDFxMTJyV0Y3bUk3UzZ5SXZ3Q3R2WGdQbFNxSF9UeXlyWWw0Si1rbW03?oc=5",
-      "source": "Reuters",
-      "sources": [
-        "Reuters"
-      ],
-      "date": "2026-11-04T22:19:44.000Z",
-      "firstSeen": "2026-11-05T02:50:52.915Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 15.82
-    },
-    {
-      "id": "wzu8o",
-      "title": "Tesla and SpaceX Shares Drop After Elon Musk's Election Bet Backfires",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOFBIVW9RcnI1UTNYZnFBNVZuZ3FTWGgxM2Fwc3NFS1RxeUlYWW5Bbjd6WFhnMUJSaG1iek54cjY5UU02Q0RFYUxweWswdXROSmt1OVVoNU9QamZtUTl1YXBUYlJRS1UtcjJIVXFPLVlPVTJmeXdDdzBjNGQ4UE90cVJsUmxPUl83ay05WmZfSHdqTzlIQ3F3T3RRSWVpQQ?oc=5",
-      "source": "Business Insider",
-      "sources": [
-        "Quartz",
-        "Business Insider",
-        "Investopedia"
-      ],
-      "date": "2026-11-04T14:41:00.000Z",
-      "firstSeen": "2026-11-05T02:50:52.915Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 15.63
-    },
-    {
-      "id": "14bzfyo",
-      "title": "Elon Musk will face scrutiny from Democrats after midterms",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVFB1cnJfcnJmRFI3NlJjTWlHeWxkM3V3cEhtYzA5QzkwdURtSnVQM2JEMWhOVnp5bmQtblhZWDlMNHFwTEJOUkwtb0Q4X1MyWXdlNGhTODFKTk52NE0yaW1sZF9OS0Z5OER2NS1YdE1SM2pVQVF0SE5pU0lwdlNnSVFvMm83NWpGV3JmWG9vdUJZdw?oc=5",
-      "source": "NPR",
-      "sources": [
-        "NPR",
-        "Houston Chronicle",
-        "WCMU Public Media"
-      ],
-      "date": "2026-11-04T21:11:00.000Z",
-      "firstSeen": "2026-11-05T02:50:52.915Z",
+      "date": "2026-11-05T21:33:28.000Z",
+      "firstSeen": "2026-11-06T02:51:30.512Z",
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 15.54
+      "score": 17.63
     },
     {
-      "id": "11drmtv",
-      "title": "17 better ways Elon Musk could have wasted $446 million",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRGxlcWZZTzVWMkZUeDYzM3VWb0hIaVpwT3JuLXIxWGdxaFJueXpxekk1TzAwLW5ZVkVuRDd1cHl2UXhIZDMxN19DaGN6UXBxN24xMV9iMFhqelJEQ09LMGstYUV3cnBPUlNmQmFnZUM5eGZ2WTE0dEpBdmkzSU5PNzJYeFVaNW9aTlVKUVhEV1Q?oc=5",
+      "id": "hx5vlu",
+      "title": "T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUlR2cjVLemFmaW1PbFcyV2lGbzNMUWhQTUxLYXdsWVhLQXBqQmVqWVFGQWRpelhHM2hSV2plcUpkTUpVVFJQbXlrOEpqWm5HX1lMcEZzaG9yUGREM0g2T09FMldQbGVSeFFuSFlTNmV3cjRJRk5CRVp2TUptNW5SNEhWRUd3TjlFTGdqZkFTbw?oc=5",
       "source": "The Verge",
       "sources": [
         "The Verge"
       ],
-      "date": "2026-11-04T21:45:00.000Z",
-      "firstSeen": "2026-11-05T02:50:52.915Z",
+      "date": "2026-11-05T23:17:10.000Z",
+      "firstSeen": "2026-11-06T02:51:30.512Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 17.06
+    },
+    {
+      "id": "6pbbh8",
+      "title": "Musk has little to show for his record spending on Republican campaigns in US midterms",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLW1HNDhJZmxwMWdaVVZTX05ZVjhhTkRhV19Wb3RJOVhfWjdCa0MxLV9uWXZ1YWRKVUZ5bGZHN3duOTJMWGdrQ0tDRDdORGtHTlIxVWlhOXozR1J2MXBxV2JreTY4b2c3empONmg5QXl0ejFvelFlTjRSTzZZd19fSy0zT0E2T1NjWXE5Y29pdXFVQ1pYbDFrQXlwZ0ZRSkhuRS1oR2RYU2FFdDVmN1JJS2t6Yzczbk1Ydnc?oc=5",
+      "source": "Reuters",
+      "sources": [
+        "Reuters"
+      ],
+      "date": "2026-11-05T19:20:55.000Z",
+      "firstSeen": "2026-11-06T02:51:30.512Z",
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 14.68
+      "score": 16.12
     },
     {
-      "id": "k9fw4i",
-      "title": "SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNUJMNUhfVmg3dHlfRHhVb0tham91N0NObjZjNXl0bWN0Yno0QVdFNFVueHlnNEo2eGJJbTUzajY3cVZ6cnR2TG9vN0VpVVBpcEttSm1sZVgwbmpnTE5JZ2EycUV3ZXY5WVk4VTRZaHpHTTNSVHMtZUl3d0l2UXI0LWZsWTR1dkpmcF9R?oc=5",
-      "source": "The New York Times",
+      "id": "qbrrg2",
+      "title": "Elon Musk spent millions to help elect Republicans. Here's why it didn't work.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTVVxN2lTQWNycGlsSk1uRmlDYzhVd1JUSUJGYjBWNTY5U1VoWEQ0ZUt3T3pXM3BSeDFoaEtOSUlPUWlXRDVtRmFUNUtFcGdwVkRSY21YcHFJNk1Gc1hTU3RHUXd6ZjFob25TNlpHYV9WQi13SGFoRmRSRGFreW5nUnI3bWFWTi1zckc3TTdBNm93WFRvUURmMzFHdWpQZnFPaUNkX2t0S2NoeFBLVmR5MGQ4aHFyQmppdmJJUmF5MWg1bldFNDRFUA?oc=5",
+      "source": "The Des Moines Register",
       "sources": [
-        "The New York Times"
+        "The Des Moines Register",
+        "Seacoastonline.com",
+        "USA Today"
       ],
-      "date": "2026-11-04T21:19:26.000Z",
-      "firstSeen": "2026-11-05T02:50:52.915Z",
+      "date": "2026-11-05T20:20:08.000Z",
+      "firstSeen": "2026-11-06T02:51:30.512Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 15.34
+    },
+    {
+      "id": "9eb8u3",
+      "title": "US proposes space launch rule changes in potential boost for SpaceX",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUzZGN0pDYmZFQllRaXVhU3dwdHFPUnp6dDc5YmsycjV3NzZVc1NqYWNjblptNFpqMlNqY2tkLXI2SzJJQ3lwZFJRdU84d0JyREdVQm1mNmpReDRfdzlLaXBOdXZScEJMS1RDclJyMXFDaVJVYkptSVJDVnlGeTZ6c29kN1FOOXNYQ0ZiWEVMRmR6MU5ibWVjMTBiUVpVY3ZyMlo4MFJsNnJIUWZMTTRDZEgzZWUzSDBYeWJB?oc=5",
+      "source": "Reuters",
+      "sources": [
+        "Reuters"
+      ],
+      "date": "2026-11-05T18:20:13.000Z",
+      "firstSeen": "2026-11-06T02:51:30.512Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 14.89
+    },
+    {
+      "id": "kpn6an",
+      "title": "SpaceX Targets Nov 13 for Starship Flight 15 and First Ship Catch",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOelZUVTNwQzBvNEpPRVdSMlJlTWZpWWU0YVE3ZnhiX1d5UF9FT1hxN1Q5UEpyeHUxOTBxQjVhelQ1LW16amJjX0dqTjIzWWFxMWVXMXNBSmljRkNhVlZsWGVhN3dHalgzdjFzUXhqa1R3Tm1Oc1RuYWVJY0c2Q1dIbkpwT3BEWnM5blJIWUxFODVqY2U5bWFwRTQwU2JTM3R1N2c?oc=5",
+      "source": "BASENOR - Tesla Accessories",
+      "sources": [
+        "BASENOR - Tesla Accessories",
+        "TeslaNorth.com"
+      ],
+      "date": "2026-11-05T21:20:03.000Z",
+      "firstSeen": "2026-11-06T02:51:30.512Z",
       "image": "",
       "snippet": "",
       "category": "space",
@@ -125,18 +126,14 @@
     }
   ],
   "trending": [
+    "Tesla",
     "SpaceX",
     "Starlink",
-    "Tesla",
-    "FSD",
-    "Starship",
-    "Grok"
+    "Robotics",
+    "Robotaxi",
+    "OrbitalDataCenters"
   ],
   "spark": [
-    {
-      "date": "2026-10-23",
-      "total": 2
-    },
     {
       "date": "2026-10-24",
       "total": 1
@@ -187,9 +184,13 @@
     },
     {
       "date": "2026-11-05",
-      "total": 10
+      "total": 136
+    },
+    {
+      "date": "2026-11-06",
+      "total": 14
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: Business. Top story: Elon Musk bet big on Texas, but now Democrats are in charge.",
+  "summary": "150 stories (last 24h). Most active frontier: Business. Top story: Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms.",
   "editor": null
 }
