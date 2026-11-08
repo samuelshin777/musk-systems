@@ -1,142 +1,138 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "windowLabel": "LAST 24H",
-  "total": 150,
+  "total": 128,
   "counts": {
-    "space": 35,
-    "robotics": 4,
-    "ai": 7,
-    "mobility": 61,
-    "business": 16,
-    "connectivity": 27
+    "mobility": 38,
+    "connectivity": 24,
+    "business": 20,
+    "ai": 11,
+    "space": 30,
+    "neuro": 2,
+    "robotics": 3
   },
   "topStory": {
-    "id": "1ob0c1f",
-    "title": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (photos)",
-    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432",
-    "source": "Space.com",
+    "id": "11tkx6n",
+    "title": "Elon Musk Is Winding Down Cybertruck Production to Build Cybercabs. The Model S and Model X Already Gave Up Their Factory Space to Robots.",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbHVUWEprb3ZLSU5wTlVwNDFMcDJPM3Z0X1pSSF9FNkxPbjFlQmxlY3hIbHhuT2hmOUluMFI2bHZCTGNfU1cyNk5ManFZS202NHlZdmdPbzJTd2pkbW5BVkZONFdha2o1ZHc1V1VCUEFUc1RFZnRuX2pxaHhtVks1SWJFaXVaTGRjYXAzSktRQm5vVTVJSmNpa25SaEh5NFk?oc=5",
+    "source": "Yahoo Finance",
     "sources": [
-      "Space",
-      "Space.com"
+      "Yahoo Finance",
+      "The Motley Fool",
+      "The Globe and Mail"
     ],
-    "date": "2026-11-07T01:41:58.000Z",
-    "firstSeen": "2026-11-07T02:23:49.527Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/q9Z9sqFyvcTuBggqZ6hKgV-1920-80.jpg",
-    "snippet": "SpaceX just launched a classified mission for the U.S. military. A Falcon 9 rocket lifted off from California's Vandenberg Space Force Base this evening (Nov. 6) at 7:48 p.m. EST (4:48 p.m.…",
-    "category": "space",
-    "score": 18.81
+    "date": "2026-11-07T21:41:00.000Z",
+    "firstSeen": "2026-11-08T01:52:36.108Z",
+    "image": "",
+    "snippet": "",
+    "category": "mobility",
+    "score": 17.4
   },
   "topList": [
     {
-      "id": "f3pc4z",
-      "title": "Russia using own version of Starlink for military comms over Ukraine, Kyiv says",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ1dZdi15b2M2dnJjdnlIVmFTclRLVE12aDlKQWdsWVJiWV9QcTd5NlNCby1YQUNSbGk4RmZ6X0ROMnJzcEoyVjh4dlhxXzd3aTU2T0otcEhWSzVYcmFPcEhkRDgycHl0bmUzZ3JfOW12ZmZnc1Z6VkZsb3VVdGVXd0hSc3pndThoY2FXUEp0MXJQVlVfaUFnT1FEX01DZkxQeWRGMEhrOEFmTTQxYkFFYVVOYzdjUQ?oc=5",
+      "id": "1vhwwyp",
+      "title": "SpaceX sets Nov. 13 date for Starship launch and catch",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYU9PTEhzZ2JJdHZMVk9WN2dQakRIODEtUDBNVVhSZFJVbV9DS2JvU244TDRqeEJNbFl1ZnpCREtCOHh6c2FhOGNzcUZXRkdfdkdPb2xYOWN2VDVEVnItWXQwR0lVdDNyNFdYaVVPbTZ1QjdJSXYwLW5sLTZNVkRId1RR?oc=5",
+      "source": "SpaceNews",
+      "sources": [
+        "SpaceNews",
+        "KRGV"
+      ],
+      "date": "2026-11-07T17:25:48.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 16.91
+    },
+    {
+      "id": "19tdwlo",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "source": "TechCrunch",
+      "sources": [
+        "TechCrunch"
+      ],
+      "date": "2026-11-07T22:07:22.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "category": "ai",
+      "score": 15.01
+    },
+    {
+      "id": "1izenau",
+      "title": "Elon Musk and Elizabeth Holmes share a 'superpower,' says director who made films about both",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkZOdnctNTN5VlBfcDk0bjR3Z0NyRUQxUXJvbWVpaVlrbkMxY28weVNqd0V1MzBEWG9VOHIzM3J4U1pCSjdpNF96RHFzWGZmQS1La21VMFB2bXBKcExpVDZlRS1GNFV1dUt2TlFtM09tVzB3bGpMa2hZMTFHTk1sV1piWkVXZnRydFdKMUZVR2dXVENMVEE?oc=5",
+      "source": "Business Insider",
+      "sources": [
+        "Business Insider",
+        "Business Insider Africa"
+      ],
+      "date": "2026-11-07T17:16:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 14.37
+    },
+    {
+      "id": "n9l0ve",
+      "title": "Musk Says His Terafab Chip Plant Could Cost $1 Trillion",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcFduWHVXMHo0VktuaFhwbWNhSEVXc0g3d1J5aDJqWjZuU21GaFRiQklqX3FRV0xoU25yamEwYWNFeE9zVFk5QldRV3h4czlXWmtaTlZjUExpbE5oMkF0LVlnbV84T2V4aFd1S3BGMTFsOWZkWWRxZF80YnFFS2xUTW1qTkJObnlfU3ZjUVRiYXRXZm8?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "24/7 Wall St.",
+        "Yahoo Finance"
+      ],
+      "date": "2026-11-07T17:16:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 14.37
+    },
+    {
+      "id": "1i0oiy6",
+      "title": "Tesla to add Cybertruck shift to clear orders before dismantling line next year",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRUhMT1JwanVVTTN4eGhvcXBNTHo3UV80QXFDU2hMWTRuUGppME9ab3RkNVkwZnFOWXh6VEZ5WUNHaHcwclAtOEZFb09CLWwteW5pN0JMY1lydFVhbzV2OVE4a0FqY1lJRGhIeEN6SVNnSTBfTTBuZm5GeGJFYjdMMUVTVFVFcGNlQ2x0RnF0allhVDV5MlQ4MlV6b1luV21tOVdNQTBzNG1RaHJBU3IxSlBGV25fRm5KTUEza0I4M2xRYnZwZFVIR29vMEY0bXBBaGMtWGJNOEw2Z1VjVXc?oc=5",
       "source": "Reuters",
       "sources": [
-        "Reuters",
-        "Latest news from Azerbaijan",
-        "ThePrint",
-        "Internazionale"
+        "Reuters"
       ],
-      "date": "2026-11-06T14:30:30.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 18.19
-    },
-    {
-      "id": "1uvqv4y",
-      "title": "Tesla’s Cybertruck heads for an exit after years of hype and division",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkdNclU1NURkXzBzcmRNRDZKSDdGaDZTdC1aSThJc09TM2pPcEJTZktIQllOV1ZrX0N6QXk4eEhHR0prbE03QlJjS28wMWp2VVYzMVhUeTlKYzBuRWtiazFEaThCNUhLNUQzUG9rb0xPaEQ1bF9KcFo4dzQ0a2FxSWNEM2JYWEkwQTRLQ2ZCSkk3c2luaWhqUERaZUhkLUVsdFpaQlFR?oc=5",
-      "source": "AP News",
-      "sources": [
-        "Greenwich Time",
-        "Boston Herald",
-        "AP News"
-      ],
-      "date": "2026-11-06T20:59:31.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
+      "date": "2026-11-07T22:45:57.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 17.61
+      "score": 14.17
     },
     {
-      "id": "4mj8u8",
-      "title": "SpaceX launches classified USSF-432 mission for US Space Force — Space.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX29oOEVuaEU4ei03eFZ4TmV0M2tfaEVUOXRZWG1rZ0xlaHE4SXViOEpVVDhpRFdSOXN5VGJUZ1JaODVzeEZWOWRjUnhtdjd3M1BmcWcyQnVsT1ppcnYzYUtLSzVJNERqQzgzNmd0d2FHYnpiZHU0YlZzbWdjNEZCNHFZME5kdlF6Qmg4WFBKd1l0enFfSEJldzFUN0xXSVZna1ltZF9YVUZjNU9GYm9WY3B1dnA?oc=5",
-      "source": "UA.NEWS",
+      "id": "1ob0c1f",
+      "title": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (photos)",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432",
+      "source": "Space.com",
       "sources": [
-        "UA.NEWS",
-        "starlust.org"
+        "Space",
+        "Space.com"
       ],
-      "date": "2026-11-07T01:58:25.000Z",
+      "date": "2026-11-07T01:41:58.000Z",
       "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
+      "image": "https://cdn.mos.cms.futurecdn.net/q9Z9sqFyvcTuBggqZ6hKgV-1920-80.jpg",
+      "snippet": "SpaceX just launched a classified mission for the U.S. military. A Falcon 9 rocket lifted off from California's Vandenberg Space Force Base this evening (Nov. 6) at 7:48 p.m. EST (4:48 p.m.…",
       "category": "space",
-      "score": 15.88
-    },
-    {
-      "id": "1luktlj",
-      "title": "Falcon 9 launches from California on classified mission for U.S. Space Force",
-      "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
-      "source": "Spaceflight Now",
-      "sources": [
-        "Spaceflight Now"
-      ],
-      "date": "2026-11-06T22:00:39.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106-USSF-432-Launch-Image.jpg",
-      "snippet": "A Falcon 9 rocket lifts off from Vandenberg Space Force Base in California on Nov. 6, 2026 on the USSF-432 mission. Image: SpaceX. SpaceX launched another batch of satellites for a…",
-      "category": "space",
-      "score": 15.85
-    },
-    {
-      "id": "1obvmbj",
-      "title": "Elon Musk Says SpaceX Sales Are ‘Exploding’—and Forecasts Revenue Twice Wall Street’s Estimate",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUmNBOVZudDlZREhxOTBldFJEbEI4Wlg4M3ZSdGlPSlNPa25YZDE5UXVoWl9nWU16V3htR2hBcmU3ZVBZaENHbF9QdDcyZFZoVHhpeDFMUll3bURFaUFPd1pIZDlxNjJtZG94WEpCLXpDeFVSdktVZGxrTnJiOTBObzNETDE?oc=5",
-      "source": "Barron's",
-      "sources": [
-        "Barron's"
-      ],
-      "date": "2026-11-06T21:34:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 15.24
-    },
-    {
-      "id": "108bs2l",
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lMWdybVlISnZwQXhjTHZ3c3BFWVJuSG94UWVtd0wtT1NoNlFOSW9GdXliaXNES3lsbXpQaGlYeVcxZU5xRExMblRTNGh5SUJtNThlMnRVdVBjOFU?oc=5",
-      "source": "BBC",
-      "sources": [
-        "BBC"
-      ],
-      "date": "2026-11-06T21:49:50.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 14.81
+      "score": 14.11
     }
   ],
   "trending": [
     "Tesla",
-    "Cybertruck",
-    "SpaceX",
     "Starlink",
+    "SpaceX",
+    "Cybertruck",
     "Cybercab",
     "Starship"
   ],
   "spark": [
-    {
-      "date": "2026-10-25",
-      "total": 32
-    },
     {
       "date": "2026-10-26",
       "total": 142
@@ -187,9 +183,13 @@
     },
     {
       "date": "2026-11-07",
-      "total": 11
+      "total": 133
+    },
+    {
+      "date": "2026-11-08",
+      "total": 5
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: Tesla. Top story: SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (photos).",
+  "summary": "128 stories (last 24h). Most active frontier: Tesla. Top story: Elon Musk Is Winding Down Cybertruck Production to Build Cybercabs. The Model S and Model X Already Gave Up Their Factory Space to Robots..",
   "editor": null
 }

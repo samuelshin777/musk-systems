@@ -1,21 +1,1924 @@
 {
-  "updated": "2026-11-07T02:23:49.527Z",
+  "updated": "2026-11-08T01:52:36.108Z",
   "items": [
     {
-      "id": "4mj8u8",
-      "title": "SpaceX launches classified USSF-432 mission for US Space Force — Space.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX29oOEVuaEU4ei03eFZ4TmV0M2tfaEVUOXRZWG1rZ0xlaHE4SXViOEpVVDhpRFdSOXN5VGJUZ1JaODVzeEZWOWRjUnhtdjd3M1BmcWcyQnVsT1ppcnYzYUtLSzVJNERqQzgzNmd0d2FHYnpiZHU0YlZzbWdjNEZCNHFZME5kdlF6Qmg4WFBKd1l0enFfSEJldzFUN0xXSVZna1ltZF9YVUZjNU9GYm9WY3B1dnA?oc=5",
-      "source": "UA.NEWS",
+      "id": "1su2fja",
+      "title": "Tesla Cybercab wows visitors with its butterfly doors raised at Auto Zurich 2026",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qMFVWRXY2YnAzWnF1WDhRUVVuTUZwWVRGQUhaaElobzlqQURaSVY5VW5SVTBscHZkeGQ3S2NpT2R1NU1ZZ2tNd2g4dDRITnpENHRDZGxXb3c3NER4UmpfXzVFb3NHV1VVdVFSV2Zvbw?oc=5",
+      "source": "TopElectricSUV",
       "sources": [
-        "UA.NEWS",
-        "starlust.org"
+        "TopElectricSUV"
       ],
-      "date": "2026-11-07T01:58:25.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
+      "date": "2026-11-08T01:29:23.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 11.89
+    },
+    {
+      "id": "1w47lvl",
+      "title": "No villains, just a queue: inside the Musk-India Starlink row",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNUtYSGNIYVpqUmxReVRqWWVrczNjZzB4S3VDZTNwNTZpeVFiUGZ5SmRJYS05NHFFWUs0SnhIYW5ZSmdGN3JROXNLVjY1cHlraWEtMVZxUktoQlAyeXY1Nmt3eTEtaUFpaFBsR2dWbVBqYXZWTkxzR21kR2luRnByM1p6Mk8zTVFKLVlyNnM2WHFhajBTODBUemVkelp6Zw?oc=5",
+      "source": "https://dailyasianage.com/",
+      "sources": [
+        "https://dailyasianage.com/"
+      ],
+      "date": "2026-11-08T01:18:20.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 12.84
+    },
+    {
+      "id": "15ozch3",
+      "title": "Cybertruck vs. Cybercab: Tesla's Truck Problem, Explained",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeC1EXzJyeVhwc0VWX0VKS0EyN3doSjZ0dUx0ZVo0RG5SVE1WbTJReVdDcTBxakxlNzVZWTJEYmh4R3pKdk14M0tUQ3VfZEFfZ1FlZW5OTjNkemhXcFFZWThQc3FKcm1hN3BsZjhHVnZ5OVRGUFRqb3ZsbDJSdG9vVWRNcFpNSVRsbTRqTy0ycWJzQQ?oc=5",
+      "source": "BASENOR - Tesla Accessories",
+      "sources": [
+        "BASENOR - Tesla Accessories"
+      ],
+      "date": "2026-11-08T01:04:15.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 11.78
+    },
+    {
+      "id": "943stg",
+      "title": "Europe's defense technology sovereignty in the face of the Starlink test.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdXluNk0zcmZCYTFSUUdvck1ocGxGU2R2cWtFYzBRR2YwUlVsWnh4TlFvdFpUVkl0eUtrVEw0bzRTTUJnVmU4eDVvY082Z0tFSm8tdmhnTko0NldueWdmOG9FYzQybGNsX1hEa0dHbjhxeFpTTzBnNjVDcGtzSF9oaUh1QWNkUGpmMnIteTNqSVRLdjdHV0U0?oc=5",
+      "source": "Vietnam.vn",
+      "sources": [
+        "Vietnam.vn"
+      ],
+      "date": "2026-11-08T00:28:54.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 11.62
+    },
+    {
+      "id": "mcpmce",
+      "title": "Tesla Plans to Shift Texas Factory Capacity From Cybertruck to Cybercab",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGeWp1c3VleGk1ekRScXBJb28yVkZMMDI3T21MMGNXTW16aUJQWmFiUkNha05vbDVnVjNEMlBqb3FpakhGeUFoNlFUaWEzX3o3dF96TGdNVy0?oc=5",
+      "source": "TOKENPOST",
+      "sources": [
+        "TOKENPOST"
+      ],
+      "date": "2026-11-08T00:06:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 11.52
+    },
+    {
+      "id": "jnsa8q",
+      "title": "Elon Musk’s Political Fortunes Run Into a Blue Wave",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbnBXOFJRcE9ic0RoakZCNmhYX2hsQlZnU2N3VjlRb3Vlb1p2MTMwdTR1dnNDT3ItTjhXY0lTR2NyRzVMRVI5ZTZxb01iOXVFT1NPQ2FoMHZFWEY4OVk4bTZVeUMtUTJxNnZPUk9ldnNKanhDR3YtNXVycXJnTDNwQllXbHBSVGFST3c?oc=5",
+      "source": "WSJ",
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-11-07T23:39:13.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 12.4
+    },
+    {
+      "id": "1y194cv",
+      "title": "Dozens party outside Elon Musk's Austin home after campaign donations fell flat",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT3doV3ZscGZ3Zk9SNDlFOFI1TXByTHFWR04zcDZEUGxMT2RxRnU2UWZHay1IS1Z3cjAxTXpkeW1FUzlhQkVqWWtCQVVrcnFHTmFmMlJxb3dvM1pwTDRxcUlUa25RSVEwQ1h5ZWRIdVhTa1Z3U0FlSGpnaEFySVJYSlQyY2RkZ1ZEMExJR3pteS0?oc=5",
+      "source": "Austin American-Statesman",
+      "sources": [
+        "Austin American-Statesman"
+      ],
+      "date": "2026-11-07T23:38:33.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 12.4
+    },
+    {
+      "id": "1aw3w7u",
+      "title": "'Texas is not for sale,' voters celebrate election results at Elon Musk’s Austin compound",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWGhjVDhMZXhJQ0xIRFNJTExzWVUwSDc2WEx0OWlkMnEzejAwc2ZxTldRbVRIWHEtankxNVd3UDJRb2d6UmxlZ1poTHRxNXJONG1LdGU2RjZ5Z20xM081RnlJaFBSRWg0MjJ1UGJHRjY5T0dGbXh0RkFBblh2TlhzRE5YcVN0d2RQblBEMWlmZGlWOTl0UWJDZ3o3VzRGN1NCQTJadGN6TWppYV9xRWZWRFl5OWRPQnhLdFE?oc=5",
+      "source": "KEYE",
+      "sources": [
+        "KEYE"
+      ],
+      "date": "2026-11-07T23:38:04.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 12.4
+    },
+    {
+      "id": "aqfexs",
+      "title": "Cybercab, Explained in 3 Points: Demand, AI, and Battery Cost",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZEFkNmtIRkpIS3dCMEJOU3NRdWZwNU9rWmdZNDIxNU9WWU9tSTBhdVJLaDJESmdSeGJlR1Eycl9TczRIQUdUUEo3UEVDalZncVFGRWhCQnoxSVlsclFJLTVsMHQzZFdRWDZzM3g4ai1TTzZfSW9XZUtIMnJpUzBvbFdjTkxfSVliSUNoX09BRnZYbl9JVy1N?oc=5",
+      "source": "BASENOR - Tesla Accessories",
+      "sources": [
+        "BASENOR - Tesla Accessories"
+      ],
+      "date": "2026-11-07T23:04:31.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 11.25
+    },
+    {
+      "id": "ye5ls",
+      "title": "Cybercab 40 kWh Pack and Liquid Silver Planned [2026]",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTDVOdngzU1VPU0V0cUdwWjhUZ1N1WVZ2YVhFZ2YyZTFlTTZxZVRqRzJFaGFoMm9zZndMYXVYR1RNX1dhOTVlRGhhYnFyZDQydmpvVkRVSzRCa2lXQ0NsY1ZwTF9nZzJGT2hqV3Vmb0c4T1p2UkVGcmo1RWFyUnZPVQ?oc=5",
+      "source": "tech-insider.org",
+      "sources": [
+        "tech-insider.org"
+      ],
+      "date": "2026-11-07T22:52:38.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 11.2
+    },
+    {
+      "id": "1i0oiy6",
+      "title": "Tesla to add Cybertruck shift to clear orders before dismantling line next year",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRUhMT1JwanVVTTN4eGhvcXBNTHo3UV80QXFDU2hMWTRuUGppME9ab3RkNVkwZnFOWXh6VEZ5WUNHaHcwclAtOEZFb09CLWwteW5pN0JMY1lydFVhbzV2OVE4a0FqY1lJRGhIeEN6SVNnSTBfTTBuZm5GeGJFYjdMMUVTVFVFcGNlQ2x0RnF0allhVDV5MlQ4MlV6b1luV21tOVdNQTBzNG1RaHJBU3IxSlBGV25fRm5KTUEza0I4M2xRYnZwZFVIR29vMEY0bXBBaGMtWGJNOEw2Z1VjVXc?oc=5",
+      "source": "Reuters",
+      "sources": [
+        "Reuters"
+      ],
+      "date": "2026-11-07T22:45:57.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 14.17
+    },
+    {
+      "id": "12c7d8e",
+      "title": "“This is not Starlink”: 6-kilogram satellite terminal Russia claims Ukraine is using for deep strikes — what is it?",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdDgtazJ5cTNOYWNCZXhUajIwR3hPeDVpNmw5VlVqSzZOQ2hlbzU2bmg1V3F4Ni04bVhMTVVsQkdpNnk3ZlZpWW9zbExJTGI1THpxWVNVMDZ6Z2haNzhYVzd5aFJXaXBrcFNVNS13Y2ZqM1hnVVdlY1NycWpMMnlrZTdCMVZpR0dXOGV5cnhYMl9tRzkyNW5YYTczZDJEM25Mck9qMGJLd2gxT1ktM3VIY1ltMGV0UHNTbXdWRlIwYmhZSnY4YnVWX1V5Z2tHS3k2VzVNajZrZGR1RUYwN3dsbEhZdw?oc=5",
+      "source": "Euromaidan Press",
+      "sources": [
+        "Euromaidan Press"
+      ],
+      "date": "2026-11-07T22:35:37.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 11.13
+    },
+    {
+      "id": "ylbvw9",
+      "title": "Here’s how SpaceX will catch both Starship stages on the rocket's longest mission next week",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaHRBTnhBWVBZT2RnSHh0RkJRZXFLQllPMGNHOVp3Zko5M1NpdG5qNG9qYkNOS3dyeUhJNVdFSXNoWkNTSk5yT1lUaURlUmhjV2ZOd3k1bEs0b0pLcHRiZVBDaERaYWZoMzBaLUR2enBKWEpzWjZqZ2JIZHFUS3NJbXNlOHFMWUlodTdCZ3N6WDVRX2tUcEJyVjVPa0FBMUg5RFdpTWYyQlNndTQ?oc=5",
+      "source": "Starlust.org",
+      "sources": [
+        "Starlust.org"
+      ],
+      "date": "2026-11-07T22:22:57.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 15.88
+      "score": 13.08
+    },
+    {
+      "id": "195s44l",
+      "title": "Watch: Tesla Robotaxi Pushes Through Austin Bollards",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VUXVkOERrU3BUTV9KTHRYYU1zc1lIeUZyaEM0M0hMbmJINU9DTVg0c1FlMy15OWxGU3Fwc2hGS2g1RmZkR0dtZ1g1TmhIRU5PRXQ5N0RSM05scEs0QXo3WmM5U3Y0aTZUclJHX2NfLVVPSmFpNEl6eC15aw?oc=5",
+      "source": "Motor1.com",
+      "sources": [
+        "Motor1.com"
+      ],
+      "date": "2026-11-07T22:18:36.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 11.06
+    },
+    {
+      "id": "19tdwlo",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "source": "TechCrunch",
+      "sources": [
+        "TechCrunch"
+      ],
+      "date": "2026-11-07T22:07:22.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "category": "ai",
+      "score": 15.01
+    },
+    {
+      "id": "6d3z0y",
+      "title": "Tesla Ramps Up Cybertruck Production to Make Room for Cybercab in Texas",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcFkyZ2pobDg2cV92d3NxbDZpdmx1ZHhaN19mempMUS1HTTNaWXp3ZXBlcFU1ZnRaZWVwTXNqNVp6dFFIQkJQRTFFZTFYVTlYeFp6ejVYNnJMV0VVbDNFWW0zTWhRdG9CVGd4elY3UUxEemplUW1QNzUwbHJheGhIRUpQOVd1ZHFKcmQzczVB?oc=5",
+      "source": "Complex",
+      "sources": [
+        "Complex"
+      ],
+      "date": "2026-11-07T22:05:05.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 11
+    },
+    {
+      "id": "x5it74",
+      "title": "Tesla Cybercab Goes Personal: Liquid Silver, 40 kWh Pack Confirmed",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMlY1SU93TlZETm9CTTRtWmVSc2plSUdZSzRwQUR2dUVWNGxraUJQVWZmMFkxR2lVRlN0ejRNaXJwR1pJSmpWYlc0RURqblNoOW00UXJhQXcxbEdLSGRzQWRlaWxmdmZ1WGJEWEgtOXhra05adFQzaEMydVBVaHB3c0NZcWZrcVhrdkN0MFNlWkVGWC1oYnFCenNJNDFiaDc1?oc=5",
+      "source": "BASENOR - Tesla Accessories",
+      "sources": [
+        "BASENOR - Tesla Accessories",
+        "shattered.io"
+      ],
+      "date": "2026-11-07T22:04:14.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 13
+    },
+    {
+      "id": "11tkx6n",
+      "title": "Elon Musk Is Winding Down Cybertruck Production to Build Cybercabs. The Model S and Model X Already Gave Up Their Factory Space to Robots.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbHVUWEprb3ZLSU5wTlVwNDFMcDJPM3Z0X1pSSF9FNkxPbjFlQmxlY3hIbHhuT2hmOUluMFI2bHZCTGNfU1cyNk5ManFZS202NHlZdmdPbzJTd2pkbW5BVkZONFdha2o1ZHc1V1VCUEFUc1RFZnRuX2pxaHhtVks1SWJFaXVaTGRjYXAzSktRQm5vVTVJSmNpa25SaEh5NFk?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "Yahoo Finance",
+        "The Motley Fool",
+        "The Globe and Mail"
+      ],
+      "date": "2026-11-07T21:41:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 17.4
+    },
+    {
+      "id": "ht5h4",
+      "title": "Elon Musk’s Starlink Lets Fans Create Its Super Bowl Ad Using Grok (Scoop Confirmed)",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nRWZsV3RLTlMtcEEtdFgxT1lJZzhQQkxlTUlraE1fcjQ1QWgxWkFEVGtzX2NjcWxubUo1a2ZQd2dKVWdkcnhNckM2VkNrS3NaSUJjRVBsTThrcXdP?oc=5",
+      "source": "Cosmic Book News",
+      "sources": [
+        "Cosmic Book News"
+      ],
+      "date": "2026-11-07T21:40:13.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 11.9
+    },
+    {
+      "id": "l1oy74",
+      "title": "Tesla Plans Smaller 40kWh Cybercab Pack and Liquid Silver Version, Musk Says",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMURKLWNyT3kzXzFZWEp0UmlxQUNyOFBpeFkwRkRHUlRJa09VaGVTSWJsLXhhUERIcTlVRXpvSDBIdlNCdnItNGZOUDBsS0IzbXRHcDZLdzFlVjNQOG9YcGlVcVNtMmZ1UEN3X0FXVUhScGYzaUF6QnVHMnpVODREcm9UZUZKZVNDel9mUzQtZEJ5ZTNiZGk5U2JrUloxeGJ0alNlZXI3dldGaEptWmMtZQ?oc=5",
+      "source": "Electric Vehicles",
+      "sources": [
+        "Electric Vehicles"
+      ],
+      "date": "2026-11-07T21:39:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 11.89
+    },
+    {
+      "id": "ldtpb5",
+      "title": "Tesla to Add Cybertruck Shift as Orders Exceed Output Left Before Mid-2027",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEd6a3dTM051eTNycFQxbGt5a25SSWcwN2ZTcDZENjZGRm9uN1hiTHdXT09IR1kzMkEzdHd4TlZpSzFWNkxsMURpLVZfZ3B2Y1E5LWdJMkRJTTRMTlBjN2NnOGk5dlFEMl9BQTZqQTNWcDVWMzZScTY2dVIwODVJNE5fOHZ6OTRJcXhGUVpHVUpMZWNVd0ZJcHVmemI4ekdLS2hkWEQ5M2R0TXI1ZlJv?oc=5",
+      "source": "Electric Vehicles",
+      "sources": [
+        "Electric Vehicles"
+      ],
+      "date": "2026-11-07T21:22:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 10.82
+    },
+    {
+      "id": "1hippja",
+      "title": "SpaceX Starship Flight 15 full path",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPTklBVVhxZktrNWlaYU1UZXVRa1AxdlFpa092R0xGelpmdldPSGRRR3lvUUxUejNTUHVoMmxhaDJpeG1BRmlHbjc3NHU3a3Mzd0hhaw?oc=5",
+      "source": "starlust.org",
+      "sources": [
+        "starlust.org"
+      ],
+      "date": "2026-11-07T20:32:06.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 10.62
+    },
+    {
+      "id": "12ee19u",
+      "title": "Tesla Adds A Shift To Clear Cybertruck Orders Before Cybercab Push",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd3RXckI1Y3V5YUNUVzdPcmk2XzdkWHBveFFDNTBRV3F0TjhrTjItLVhLU2RkekU2NHZzQkpuOVo1Q1dJamhVMnIybG5fWGRfNWRXNjhFQ3FVYVhxSVNoVW9Oc3dSWm9acjUyUUhuS3RmRl9qRUFYcXE2Q09ZR0JqRGFadWpzclBabFowYmI1bmZWVVMxd2VhTjYyWQ?oc=5",
+      "source": "Finimize",
+      "sources": [
+        "Finimize"
+      ],
+      "date": "2026-11-07T20:13:44.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 10.55
+    },
+    {
+      "id": "g0gd8c",
+      "title": "‘Best vehicle I’ve ever driven’: Cybertruck fans mourn Tesla’s most hated car",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUkVLMzRmbU1WelpUVFFfdml3R2hIaFBfMEVsRGtfRXFTcHFySW5oTGZpcXh1OV93cG82V3BjWDJnbHQ0eHVvaWxOTENGSXNMRlVPRFlHckhuamE5cG1PbmplY2tNYzBiNEZyT1ZRMHdMOUJQQ2MyRFlDVWtnMXNTMDBWc2w2OUk?oc=5",
+      "source": "The San Francisco Standard",
+      "sources": [
+        "The San Francisco Standard"
+      ],
+      "date": "2026-11-07T20:00:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 10.49
+    },
+    {
+      "id": "1pdhws6",
+      "title": "Starlink prices rise: is reliable internet still affordable for Australians?",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZWgyOWRsQlRNdjFrWXdmampxWWJaaVJ6WC1wRkVSclRlUnJ2Q1VnUHJoQ0JxYmtURHZGVFllMkxqNjcwYm9rbzVDY0ZmVG5mMS1LOFZ1T0tnaFFtZlRZVmtILXNqZVNHdDA0cWRhVzRtcURpYjVubDF0aG9hUE9kOU9PUEZ4dzg4RUpYNDdwTGJuMmxrMTR1VUFvWHZ1dmhBZU5wNEFHS2ZZSXFKMDlLeW5WTVQ?oc=5",
+      "source": "The Times Australia",
+      "sources": [
+        "The Times Australia"
+      ],
+      "date": "2026-11-07T19:53:08.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 10.47
+    },
+    {
+      "id": "7gjycy",
+      "title": "Elon Musk regains $45.2 billion as Tesla axes the Cybertruck",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMmxiYWdoVlJLX1JTN0h5MFg5aF9MQndLejFZak5SRUszMUktVzRIUnJQVC1mZzlNRVA0WGdNM1FGTDRfaFVvZkExY0VwM2thdDNMdDJGV2NDMGJsaDFsSGRCN2xEdmV6a0NFaUJKTVo2V2RhaUhyRTlEeU5UaThOOWNmZ0o1T1A2d1Q4Qm9sSnREcU5Zb05CZzg1UTFrUGZRWmRjbWNLQXNKT2xadTQ2bWsycGcxVE50M0JJSHBSd3cwcDd3SDNEM3JmQ1lXLTJwdF9OX0R6Wm4ySnNCZjVGb2ZiTWpPbGc?oc=5",
+      "source": "Billionaires.Africa",
+      "sources": [
+        "Billionaires.Africa"
+      ],
+      "date": "2026-11-07T19:46:19.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 11.44
+    },
+    {
+      "id": "1ewnoaw",
+      "title": "Starship Flight 15: SpaceX shares launch timing for its most ambitious orbital mission on November 13",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc3VZRVNfVllGcVdaT2ZXQzVuR0lMdTNRNmJmcF9kVlkzZWNId19HTG5nV09uQmdNa3lObnZzUTloX1BUb29OSjJNclpnNGs1a2FjNDRWTGRBN3J4cEtCV1U1ZkxhcU1XLUpJOTFvUXhveUR5QjJVTFNyWUNmWXJHRGtRbF9WczNaMmltWGZFLW8yN0VsTkpqM3dhbm9DWlltM0IzRGs2R0JCR090Zk9Wa3lCRVF6aFZUZGt0LQ?oc=5",
+      "source": "Starlust.org",
+      "sources": [
+        "Starlust.org"
+      ],
+      "date": "2026-11-07T19:27:57.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 12.37
+    },
+    {
+      "id": "1p8rjvw",
+      "title": "How To Set Up SpaceXAI's Grok In Google Workspace (And What It Can Do)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVHc3R2pVQ3Mxanl1WHNMMWVGMmtFblQ3S2hRQmZQNk5MVFlUZzBRdEppNEFUcVRDOHJob1lMT25YVkZOMEQ5UE5PNWp1clNPR24wb2xGenBldEZzOC0yUnZNOWZZVW5oS3FJemkzRVYwd01XYnZIcE0zR0FUSUVkU1ktT3hyWE5weGRVdTl3?oc=5",
+      "source": "Engadget",
+      "sources": [
+        "Engadget"
+      ],
+      "date": "2026-11-07T19:15:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 11.82
+    },
+    {
+      "id": "1z9ggl",
+      "title": "Tesla Robotaxi app update now tells riders if Cybercab is the better choice",
+      "url": "https://www.teslarati.com/tesla-robotaxi-app-cybercab-vs-model-y/",
+      "source": "Teslarati",
+      "sources": [
+        "Teslarati"
+      ],
+      "date": "2026-11-07T18:27:46.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f9c8.png",
+      "snippet": "Tesla has rolled out a new vehicle selection screen in its Robotaxi app, and it puts the numbers riders care about most in front of them before they book. Version 26.11.0 of the app shows…",
+      "category": "mobility",
+      "score": 11.64
+    },
+    {
+      "id": "e1gg10",
+      "title": "Musk Says SpaceX Could Buy a Legacy Telco and Use Its Spectrum 10 Times Better",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMEhycVJDTFlVM3FJU2lfLTUyWkI0RlAwNGdOTWZmWXZuZVhJS3lGTjVEai15OXpwUnBfMlJUc2RmVGpidlNKVGUxbExVQXBXcmV4bi1iVGoxelp3WUU1WFZYNDJGSFVIV3hBM29WdGNMWjFReUZqZS1fQmo2WkdodWFJRGtjOG5QT2Z0SWtRemtvUVdZMmZ4NmNRLWtyMWYwNlhYRy1XOHdVdUEtamJEeXRKbE00X1dvUWQ5TFp4bw?oc=5",
+      "source": "24/7 Wall St.",
+      "sources": [
+        "24/7 Wall St."
+      ],
+      "date": "2026-11-07T18:26:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 11.13
+    },
+    {
+      "id": "d3xvbd",
+      "title": "Waymo Just Blew Up Uber’s Robotaxi Growth Story｜Road to Autonomy",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXdmg5SVRYNVVVT0d3Y3o1S1drU3RrT0szWGpoSHZMZzFlb09ZVVNJS2xvY3VDUWoyVW5hZXppeHN5OTRwTTFwZW1BZkdqdy1jX2U0ZUotR1dYaHFCaXhr?oc=5",
+      "source": "finance.biggo.com",
+      "sources": [
+        "finance.biggo.com"
+      ],
+      "date": "2026-11-07T18:20:12.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 10.11
+    },
+    {
+      "id": "15fpw5n",
+      "title": "'WTF Is This Price Increase?' Starlink's Surge Pricing Expands, Igniting Backlash",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUWFQNmpPTzN0S1R4YXhob2ZHLUJrcXV3YmVYOXdTeEFDQ251WXdoZ3ZXMXJfd1dyNFNFQ01wdS1JT2JpRFBRNUdjblQ4Y0dQOEltX1l5bEhleThFY25TRTM5OHQxaHFFcEU3bk1fdVVHMURtajEyN0p5aEkwOU40akxHeFROcEdHSnFlZzBKSFN2NkNsczNMMjNyUmNtZ1NuOTFkTl9n?oc=5",
+      "source": "PCMag",
+      "sources": [
+        "PCMag"
+      ],
+      "date": "2026-11-07T18:09:59.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 10.07
+    },
+    {
+      "id": "1atmm5k",
+      "title": "Elon Musk vs CZ: How Their Binance Hack Sparked an Ongoing X Spat",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdlZrOGtublVhWlZ2bFJmRXNXdXpfRG5zS3pRb25JRHdtWHpxMm1Rd3kzUHZQWlMwVVdtWTNYOVUyNHFPaWFBWUlBUV8ya2pHTk5CdmJEa3pGUldVTllVc3BCb21ST0xvbm41UFlyN2FVZjJrNl9RUDBtQmp0MlkyandYZkRiV0NiSWJqS2VTNDFTNklWZmZINmtESDdLRm9LVU1ncg?oc=5",
+      "source": "CryptoRank",
+      "sources": [
+        "CryptoRank"
+      ],
+      "date": "2026-11-07T18:02:54.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 11.05
+    },
+    {
+      "id": "16wugv0",
+      "title": "Tesla’s Robotaxi Just Put Starlink Inside Its Roof",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAweFNaTF9zYW5oTVhmWDU2cUx2SHdOU1BOYWhNRzhtQ1RDQWU5ZG9VbnNXSXRjYzJJWC0yYUtaTmRpZ2xQdFB0SWM1TWxMZ0IycnNpRnJSWXhTaXJ4TXg3UEN3RktiNXphWllQSzFQSkRkUHhOMlNVOW9yNA?oc=5",
+      "source": "Motor1.com",
+      "sources": [
+        "Motor1.com"
+      ],
+      "date": "2026-11-07T17:52:46.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 10.01
+    },
+    {
+      "id": "oc8edg",
+      "title": "With the Model S/X and Cybertruck Gone and No New Models, Tesla Is Disappearing Before Our Very Eyes",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT2x6LWhmcERGaS1sZmhoVWF0dVYzWkNsc1dLNjYyMkw0OHkzemtCdk5lTXZjWjNEZl9uazZzWnRRSFhRaGJBN3dWOENtV1VGd3hkWGV1S2lvM0FaZzhFc2tQM3BhbHZ0cTJxaEJ4TXVqd1dSQ3R1UzFSOXZhZXV4RGRxcGxzR2wtbG5NMUVpajAyd2FTOFFnd2RYTE53TFN0dkw3azlBR2ZIZkVkZG9Rd1Fwa0NBODg4eDVLODlFZWhMRmYtMGZnNE83TlNYczI0ZWlmQzZsdThyMlRFZS0w?oc=5",
+      "source": "autoevolution",
+      "sources": [
+        "autoevolution"
+      ],
+      "date": "2026-11-07T17:52:06.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 10.01
+    },
+    {
+      "id": "1fnukmm",
+      "title": "xAI's Grok 4.20 wins live trading showdown, edging out OpenAI and Google entries",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3hYUm9LaktUd2xnR3hTZE5hNmZTZ3FjcE1OVUdQQVA4Vm8weW0xUWc5MzVoRXgwanFTZ2hpOG15cnl0eG44aE9wVGtMZHVkYjVVcndtN013WFJXSFJ6T2NsUG4xdHZxQVZLZWY2eUlWQjltb2pjWDZjRVZrb0IxWnhzTTFJN1MxNkhLNi03S3NTZw?oc=5",
+      "source": "Briefs Finance",
+      "sources": [
+        "Briefs Finance"
+      ],
+      "date": "2026-11-07T17:45:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 9.98
+    },
+    {
+      "id": "1vhwwyp",
+      "title": "SpaceX sets Nov. 13 date for Starship launch and catch",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYU9PTEhzZ2JJdHZMVk9WN2dQakRIODEtUDBNVVhSZFJVbV9DS2JvU244TDRqeEJNbFl1ZnpCREtCOHh6c2FhOGNzcUZXRkdfdkdPb2xYOWN2VDVEVnItWXQwR0lVdDNyNFdYaVVPbTZ1QjdJSXYwLW5sLTZNVkRId1RR?oc=5",
+      "source": "SpaceNews",
+      "sources": [
+        "SpaceNews",
+        "KRGV"
+      ],
+      "date": "2026-11-07T17:25:48.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 16.91
+    },
+    {
+      "id": "1izenau",
+      "title": "Elon Musk and Elizabeth Holmes share a 'superpower,' says director who made films about both",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkZOdnctNTN5VlBfcDk0bjR3Z0NyRUQxUXJvbWVpaVlrbkMxY28weVNqd0V1MzBEWG9VOHIzM3J4U1pCSjdpNF96RHFzWGZmQS1La21VMFB2bXBKcExpVDZlRS1GNFV1dUt2TlFtM09tVzB3bGpMa2hZMTFHTk1sV1piWkVXZnRydFdKMUZVR2dXVENMVEE?oc=5",
+      "source": "Business Insider",
+      "sources": [
+        "Business Insider",
+        "Business Insider Africa"
+      ],
+      "date": "2026-11-07T17:16:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 14.37
+    },
+    {
+      "id": "n9l0ve",
+      "title": "Musk Says His Terafab Chip Plant Could Cost $1 Trillion",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcFduWHVXMHo0VktuaFhwbWNhSEVXc0g3d1J5aDJqWjZuU21GaFRiQklqX3FRV0xoU25yamEwYWNFeE9zVFk5QldRV3h4czlXWmtaTlZjUExpbE5oMkF0LVlnbV84T2V4aFd1S3BGMTFsOWZkWWRxZF80YnFFS2xUTW1qTkJObnlfU3ZjUVRiYXRXZm8?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "24/7 Wall St.",
+        "Yahoo Finance"
+      ],
+      "date": "2026-11-07T17:16:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 14.37
+    },
+    {
+      "id": "nkwy5t",
+      "title": "Elon Musk's Tesla to shift Cybertruck production capacity toward self-driving Cybercab",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeWhHZnE4am1GaExVOGUyS2NfWk9kbFk5eW1NSGdFdENlaWtSTF9HM2xZZlh2eVB4SHU5dEdENG51U2xkV1RmeG56SE5wY1U3SEQ2SGUzeUpvRkMxNmVWMUp6Nk80Q0pfNWwydnpzZDBzbXNyeXlYeHJwRVJnZnpxcEVVUGN0emV2ZG12Z1Z1VG1rMk1KVHJ0bHpqSC03Nm9uVUpKY3VtQ2RXdzQ0NllSc2dvaVVfcDg?oc=5",
+      "source": "The Business Standard",
+      "sources": [
+        "The Business Standard"
+      ],
+      "date": "2026-11-07T17:05:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 10.83
+    },
+    {
+      "id": "1grr8ab",
+      "title": "Starlink was last to apply for satcom licence in India: Report | 'The 3 are yet to finish remaining requirements' | Inshorts",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUzZpNDduMGhkYUpPWXQ0M01ZRUlzc1pJZm44MEtUWmhzZHU1VVVyUUUxRV96UjVBeHlCSnVqT1dHVzE3Y2I3X1lFVnhXWi1hTEl3WUNEdGhCamJnQS16Ui10NFpxN0VTUmhuWXNkNzlCaFM5ZW5mNTFaWGt3VkZWZ29yNEJGQzQzaXVUdE5SOWR5TTh0b24taEJpc0hPeDBBM214c3NQckPSAa4BQVVfeXFMUEQ4R25sRy1jZkppbG1aeGg2Rk54a0FuVjlJUzdCdE14ZndmWnpzZXdVOThHeWxaa3kxbU1VcEJqVWx0TTM3QmF3dXcxb05OWGRqMzF6cldtaXFGYmxETFFGcl9Bc1c3c0w3V2hGa2JEY01SSXlPeGx5NHkyN3hCa3dHS0RPWmVTU1VqYmJNZmZ2X1RyMW9FSXJjcmRPWVF4VmpjRnZkVHF3bjNhc0RR?oc=5",
+      "source": "Inshorts",
+      "sources": [
+        "Inshorts"
+      ],
+      "date": "2026-11-07T17:00:35.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 9.82
+    },
+    {
+      "id": "12z8orn",
+      "title": "Alphabet Reports $83.7 Billion SpaceX Stake in SEC Filing",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xeEpyR3FEdWpoRGdOTzRMOGRCTHBUWnZRLWNudTJQaUxDWHJoV3NxUFdDcF80dTNWUjRPLVBUVTN6U0pwMXlpZXphV2RyamIzNElzcFBldnVuemdkTzlZdkJzVDIxSEgwUzc2TUVCZEozQQ?oc=5",
+      "source": "TeslaNorth.com",
+      "sources": [
+        "TeslaNorth.com"
+      ],
+      "date": "2026-11-07T16:56:50.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 9.8
+    },
+    {
+      "id": "106fi43",
+      "title": "AST SpaceMobile Is Building Its Own Reusable Rocket to Rely Less on SpaceX",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU29ybFRHWlUyejFHRlJOeUtTSk1waTdfN2ZFYlZhUmMyN3U5UmlMY2ZyTHFPUnd5aHljYzNTMUViVjZCbzVlX21RWC1adkZ2eExKNjdyeGN5YkxKMmJHNjZJeVFqTjhiVXpBN0RjZjhCejVUdWRZTzE0aGtwY25IelBYSUMtVnphQy1mbkJQVE02WjE2STJaSVBHam1kaEdrMFQ4aDd4RktkNGxRcGp6amctcUotdkd1d1E?oc=5",
+      "source": "24/7 Wall St.",
+      "sources": [
+        "24/7 Wall St."
+      ],
+      "date": "2026-11-07T16:49:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 9.78
+    },
+    {
+      "id": "1p9trmf",
+      "title": "Tesla Cybertruck Production Winds Down Next Year Freeing Space for Cybercab Robotaxis",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORWU5VTF0bzViYmtLTDRuN0NjS045Um42YXhNT2d0akdGVEhZb3hKcTAwdG5adlBEZE9NWUhfeWF0eUpJRFpjNGlyR0dkWEZYdkhIcXNtUmx6S25EWGFVWVVKYmdqQnJndnR6anRPU0lfUVB6QVpra09RRVM4TVc2SXVhTQ?oc=5",
+      "source": "TechEBlog -",
+      "sources": [
+        "TechEBlog -"
+      ],
+      "date": "2026-11-07T16:46:56.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 9.77
+    },
+    {
+      "id": "pek162",
+      "title": "Tesla opens Supercharger in Gatineau after years of delays [Quebec]",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZzNtSXFsSU1iWklScXEyU0xmOGs1dVl5S0gzN2xxU2dkNTZrbHd2YlBHZmRNSTRKMXM3TGV5TnQzbkcyd2lRUFVzLVR1QWR1SENIaHlKY1pIb1poWWpfY0lrUk5TNk5UMUhlaF9NaG5tWkJNR1k0czhFUUhMbktITGRWS09BVlU?oc=5",
+      "source": "Drive Tesla Canada",
+      "sources": [
+        "Drive Tesla Canada"
+      ],
+      "date": "2026-11-07T16:42:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 9.75
+    },
+    {
+      "id": "1yfkfga",
+      "title": "Flight 15 Starship double-catch to happen NET Friday the 13th (confirmed)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdUNLQnVrblNnUGQ4RXlhOVRWVHAxTUlkemJxVEFhMnBIWHBQV0hvSXVpcXFHZTdYQWNlUDQ1eExrWjh4Y1pvSG5mbDhRSmFyd3lHOUxjbVA4T1Z0Wnd3bF9iakt0SFlCOEg0LUY3TnkxaW84aDI0d3VwR0E5Z3FMcHpUNmFKRGpFTEFiWFh5eTF6cE5xc1dQbUIyaHgtaW5GcUxkMkstbmR5NGppZDhYWQ?oc=5",
+      "source": "Tesla Oracle",
+      "sources": [
+        "Tesla Oracle"
+      ],
+      "date": "2026-11-07T16:34:13.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 11.72
+    },
+    {
+      "id": "dk31ek",
+      "title": "SpaceX Launches Mysterious Military Mission as Clues Point to Secret Satellites",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQa0xBQzRodHNDcXFyVDF0M1lPeUVDazJWUTBGSnl3d0luY25tXzdmR3luVW05ME5rMnVpNDluRWY3REJkR0liVzdvenRiTVk3TldpcDFYZTJKS1JhVGZEUGx6ajVGUHBlUUVYUGdZOERwc0VlRTlic2VSMlV0M2c?oc=5",
+      "source": "The Daily Galaxy",
+      "sources": [
+        "The Daily Galaxy"
+      ],
+      "date": "2026-11-07T16:15:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 11.65
+    },
+    {
+      "id": "1vvkkv1",
+      "title": "SpaceX Reveals Ambitious Starship Flight 15 Plan for First-Ever Catch",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tRTRBWmJnTjJrQXdoeUt4RVdNelVLN1NnTkE0MEwzY25uSC1TVlNJaVJmdFlJd1owbXpsTWpfdVYyNVBoaExnRFVZajNUeWlBaktsb3BINVRIbjdJWFE3X3FkOHpjLUwyd2JlUE9Nd1dzY3pfVHo5M2d1bXk?oc=5",
+      "source": "TeslaNorth.com",
+      "sources": [
+        "TeslaNorth.com"
+      ],
+      "date": "2026-11-07T16:13:50.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 11.65
+    },
+    {
+      "id": "3lmpuq",
+      "title": "Musk Says Starlink Capacity Will Grow 100x in Two to Three Years",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WRHBaU1BMU3RPNVBFSGtVMThNanVXVzVnNnhPUXNVTTVoUkxZVi1zODBnWVpQeWg1VXQyQnNFdlE5anRZWjU4cnM3RzFrWEcxWl9aMmJwWQ?oc=5",
+      "source": "ShiftDelete.Net",
+      "sources": [
+        "ShiftDelete.Net"
+      ],
+      "date": "2026-11-07T16:02:36.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 10.61
+    },
+    {
+      "id": "1y9924g",
+      "title": "Tesla deemed liable for fraud after Solar Roof ‘experiment’ on a home",
+      "url": "https://electrek.co/2026/11/07/tesla-solar-roof-fraud-liable-experiment-lawsuit/",
+      "source": "Electrek",
+      "sources": [
+        "Electrek"
+      ],
+      "date": "2026-11-07T16:01:23.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2019/08/Tesla-Solar-Roof-quote.jpg?quality=82&strip=all&w=1600",
+      "snippet": "A California judge has deemed Tesla liable for fraud in a Solar Roof lawsuit, after the company repeatedly failed to hand over evidence. Tesla had already admitted it breached the contract,…",
+      "category": "mobility",
+      "score": 11.11
+    },
+    {
+      "id": "1ufzpj",
+      "title": "Starlink vs Starshield: Who Controls Satellite Connectivity in War?",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMWhETEFUcnFHbnBFVmdqRURsMmJWQWpMMnItZGRSVElCR25oNTFMOWNtN2swVUpIV25JV3N3QzRVRXFzZW5TRlM2V05rTTh1WmlzSjN6bWhIVnUwV0kxRWd5OG5NQkhVVk1Lc0NBTGc1Ym85SDBVUXBJUjMyN1Q0WjlCZmVOQkQ5TTRucnZfb0xTZlhnVzdfUlFENmlQN3Ez?oc=5",
+      "source": "https://debuglies.com",
+      "sources": [
+        "https://debuglies.com"
+      ],
+      "date": "2026-11-07T15:47:53.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 9.56
+    },
+    {
+      "id": "1pkqarr",
+      "title": "Musk Denies Binance Fund-Move Post, 80% Claim [2026]",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUVhGSDVza01yTUgwUjZyS3JxMHpOX3ItVjh0dDZYSEs0SlVULTZYN29JN2lFQmREdlpfc21LTFNzQnBaclpoSEEzRWt3UWlDUk1YSVZjcG9ydUhobERYMzNpRmdWcWhiT2hEeGVRdVR2RXRxcVQxcHNkRDRxejAta082Z2ZzVXZBcFpIV0hnR3NkMkQta0hHWg?oc=5",
+      "source": "shattered.io",
+      "sources": [
+        "shattered.io"
+      ],
+      "date": "2026-11-07T15:44:45.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 10.55
+    },
+    {
+      "id": "q3uvbo",
+      "title": "Elon Musk reacts to Democrat call for AI pause — while $2T vanishes from tech stocks. Are you exposed?",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEc4WUkxanRQc1NnajZPbU85R2ZUbllKUU1JY0paOVlfbE5yVFZ3YS1kY01LQXItODB1ZllQbjhBVUFRYzlRRUo3bk53T1gwa3ZkQk11T1I1WEJKVVRwV2pGUER3eTRHY3F2WnVrbTlUVkVRanl6M3lJdGV6YUNCRGoteDVDeUlBMFF0eGZoSlFqZ1M2UEJILURR?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "date": "2026-11-07T15:35:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 12.01
+    },
+    {
+      "id": "5zu9pk",
+      "title": "Donald Harrison Left SpaceX Board Over Alphabet Conflicts, Musk Says",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Zc0pLR0RvMThoU1RCS0pldXRncUU0TnNQekNSU2xsR0ZtcXJNdFh2d0JXSkdTTmhBRThNWGUyc1g1bXgyTGdtOUZLSHpfUDdhSVdoek9Ub0lQSGxwQ1hCNXVoNUVCVkNKbVNoc2FPZGNLQQ?oc=5",
+      "source": "TeslaNorth.com",
+      "sources": [
+        "TeslaNorth.com"
+      ],
+      "date": "2026-11-07T15:32:08.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 10.5
+    },
+    {
+      "id": "kuy1mf",
+      "title": "Neuralink Will Help People Walk Again in Coming Years, Musk Says",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RWG9sMU9qT2FUOEFSYldoUHg2STlyQUduOTBYd2YwWVdYeGhNSjlOdmptY09CRHdUdUdYdXExN0F2SFJZLTh1UVBTdmwwektFSVU0STVnOUF4Z3FtcWYxaGhnU204OExjMTd6V0FndEo0S01iMktiREs3b2NQQQ?oc=5",
+      "source": "TeslaNorth.com",
+      "sources": [
+        "TeslaNorth.com"
+      ],
+      "date": "2026-11-07T15:29:23.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "neuro",
+      "score": 10.49
+    },
+    {
+      "id": "1ldnowd",
+      "title": "Raptor 4 Could Double Super Heavy’s Outer-Ring Engine Thrust, Musk Says",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hRGpXOFlvYTBlV050eDFZMUxHNXBIX2VIZDRRb0NLeDdYQmNIQzFUeHF0aWNHYmFPdnpIWVRrQ1hnTHJOOXk5OTNHTWp0UUI3V1A4RnlKcHEyc3BKZlM4X1Q0VjZvX0VQSl9Tb2VB?oc=5",
+      "source": "TeslaNorth.com",
+      "sources": [
+        "TeslaNorth.com"
+      ],
+      "date": "2026-11-07T15:28:23.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 10.49
+    },
+    {
+      "id": "dlhwj9",
+      "title": "Elon Musk references 'Brave New World' as Democrats push AI pause — while $2.3 trillion vanishes from tech stocks",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc2xBMUExVXJ4NXBCMDVVNWpSVExXUkg5UDN4dy02am0zUnl5UDh0NXhlb1BteWV2T05TTUNmLUVqYmtyMkxZWVF4cW01cVVvdkIxX25VLWNYRUpZQTlwOG5aeVpodDdQeEIwTk5Wc1NxN3YzRTJKQ2RyLUllY1cxS1pHeF9BdXRObTBlTEVYcGdIdlR4?oc=5",
+      "source": "MoneyWise.com",
+      "sources": [
+        "MoneyWise.com"
+      ],
+      "date": "2026-11-07T15:10:04.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 10.43
+    },
+    {
+      "id": "1j5vl67",
+      "title": "Binance News: Elon Musk & CZ Join Hands Against False Binance Claims, Here’s All",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQel92TVJfalI5UExUQ2lDS0Yyc0lUckNmUUs1Z2lJZnl0OXVYVFBSX2R3UmtsMGMzSWpKUHlNbjlxMXo0WC1XMW9wVGxsVGxkbHpQUVE3VnlxTXJUTUJjZm8xNHJuTUFDbnRub0Z6QWpteWdaTXJmcUNIaEd3N25IRDY3bTNrUFI4Q2xiNlVsTGh0N1o2RTRMRF9zYnJKMjJtbTlhOV9nWS1IY2kzY0Z3NGE4Yw?oc=5",
+      "source": "CryptoRank",
+      "sources": [
+        "CryptoRank"
+      ],
+      "date": "2026-11-07T15:08:11.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 10.42
+    },
+    {
+      "id": "1j54c7n",
+      "title": "Tesla Robotaxi App 26.11.0: The New Vehicle Selection Screen, Explained",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xTERYZmR3dFo2djVESDJTQzhrYTB3WW1JTlNRVGI1VFhRSTQtTEtEOFhMRV9TZ3gzVGVlb1JHUmtTRGV0b1pBaHVraWhJVE4ycFljRlctQVM0bnI4MFlDU1d4dEJXdw?oc=5",
+      "source": "BASENOR - Tesla Accessories",
+      "sources": [
+        "BASENOR - Tesla Accessories"
+      ],
+      "date": "2026-11-07T15:03:44.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 9.41
+    },
+    {
+      "id": "1kk3dk7",
+      "title": "As Tesla Cybertruck ‘winds down’, everyone’s remembering its most embarrassing moment",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WVWRKSUotdGRZaHdXRVNFUy1EZUNjUEZQNGRVVnhHN1VhSEVUUFZOQWNTMmtHZlpGZVI3dnJDc08wQmhtQlF1TjN3bGcxUGFyelpMV3pXX0c1dk1nSktFcDVXdmc0a28?oc=5",
+      "source": "Indy100",
+      "sources": [
+        "Indy100"
+      ],
+      "date": "2026-11-07T14:35:03.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 9.31
+    },
+    {
+      "id": "1qxrem9",
+      "title": "Elon Musk's Starlink, Jio, OneWeb race in India: Report reveals who submitted security papers first and what's pending",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOall5c3U3VVRZRy05UVRVTXY1VHAtLUUwb29wMUpNN3Y1VTJtNVFNcERmR3JMaUhLTnVxajRmSlF6c1l4Zm1QeS1kNi1MQVB2M1hHUW9kSWpHbm1NWmZoeE1qeXU1ZHJ2eWdCNmlfbXBGd0duNGQwdnlVMTNjaFFiZ0hXZ3QzRThITzdzQzNIQzN2dXJnTFB4d1NOS0NTelBhbUM5eGxMTEZ6YWJIYndzdGp4VDBrSnRmOTdscElFX0ZkbF96MXJUSEo1aUo3QTBaNG4zWGw3a19NbFNjVm5QSVpqai0xS2F5LU9pb3pScGo5QzhzRjhZQzRvUnJNZmViM1c5U0JR0gGLAkFVX3lxTE9DcUFROWVYNWUzY1dEeTNpb2JqeC1aNG1IN0g5R3Q3RUVOZ2lZT0ppa2Jyc01TUFY2c3JoNUNXV3hKUTZubnBEZXFUQXRvNTkzNnA3RkkyQ0dza1N1c3FFUWt2SzZQbXY5dnB4NXRTR1lXUENNRHFDam9ONVRrS2JZOW9PYllxb3RXcmQyQnRZUHRrMF9ESXhVZEVmc1pTVi1QV1pjd0g3bXY5Zm43WFFlOE1Xenk4aXlRYzVERlFkS0JhWHY5X3MxYzFNN2hoOXJnb2VmcGI2dU14QTdmcXRZSUlJdWpUVTc5ZFZ2em53OGNjeHg0SG5FQTBidHE0VHpkcnNiN2paWWpqQQ?oc=5",
+      "source": "Livemint",
+      "sources": [
+        "Livemint"
+      ],
+      "date": "2026-11-07T14:22:52.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 12.27
+    },
+    {
+      "id": "1q9a5in",
+      "title": "Musk Just Lost $113 Billion in Two Days. Here’s the Lesson for One-Stock Retirees",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZy1vVmFJUzlXR1FyQ0VGMEdQTzBWRExUVGlQNmNjTDMwam01cWthMEh6cjB3V20xcVFoRmpPOVhWMnU3VV9lT05Cd3lpdktqSDdzc2tRVFBjRkxjeGtGT3lWTldvVk1VX2JKYWpUanVxdHNGZGdCeXB4ZUNtUzZvTmJtdjQza1pXbmhGZWcxTVBDcFlPc3c?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "24/7 Wall St.",
+        "Yahoo Finance"
+      ],
+      "date": "2026-11-07T14:09:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 13.72
+    },
+    {
+      "id": "1f7b3r9",
+      "title": "Deutsche Telekom Chief Puts a $200 Billion Price Tag on Any SpaceX Push Into US Wireless",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOGhJdGx5MTVPbkdIVS1UaXV2LURzSW5uNkYtbG5QV0ltdWo5WXNFUkZRZUd5Sk90QUU3c3FFSTg2cXlhZU8yRGNsTm5QdDRtRXdRaVhaQUdFT3l5V3g3VGN5a2Z4Vi04alRkSXhGNk9iR3Q2alpSQkNHdDF4RVBwQ0UxUk9ULVpjSDNuMUVvS3ZNZ21XQzVDTGM5UmVPVWkzSEIzNTk2S2VFLS1BNVpBMTF1SG9WWGhWT1J1THVRQjlnVGdfcjVCR2JySDRFaHE5bkUxMVNyb0E4Zm5Td20tOVZGX2dZUnhTNWZVQXhEQ0w?oc=5",
+      "source": "ad-hoc-news.de",
+      "sources": [
+        "ad-hoc-news.de"
+      ],
+      "date": "2026-11-07T14:01:58.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 9.2
+    },
+    {
+      "id": "ezge1e",
+      "title": "Better IPO to Buy: Anthropic vs. SpaceX",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWHVSZzhfcUNLTUxKR1ptZWR1T1NDSGhiQTIxVDNaMnJYcTd5bkZNMUtrd0RVMTl3UndEVWpzRkdPMGFRNlFFalZGRW9BdVZLeXFCcGc2VTFJbHF3UmxrcWVVV1p6cnNtaDVtM3dMN2QzaGw2RHRwUkF3dTdiYkE5MUhQMEl0NV96THZUZW5lVVNKdzVMN0hFaGpXUDBySVI5ZlNHZTBnMV9kWXFYdzJWR1ZNUVN6ekFGaHVwWXRiUQ?oc=5",
+      "source": "The Globe and Mail",
+      "sources": [
+        "The Globe and Mail"
+      ],
+      "date": "2026-11-07T13:30:38.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 11.09
+    },
+    {
+      "id": "kvnfoe",
+      "title": "SpaceX posts $14.58 billion quarter as AI revenue overtakes Starlink",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tSnVLZ1hjWHZNQ19xcUNJVEY2eTI3UW5kb1ItRTI0aXdPR2c3Ym11UGdFbWRsYVQ5YnIzT3ptV1Vock1KODVDa3gxY2twdzkzQUZCbzlyQVh0cVlpQzdreVhKWWpORGFDY1RmVndEaDh0dFJmUXc?oc=5",
+      "source": "Crypto Briefing",
+      "sources": [
+        "Crypto Briefing"
+      ],
+      "date": "2026-11-07T13:13:06.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 9.04
+    },
+    {
+      "id": "7fduby",
+      "title": "Over 30 satellites already in orbit — Russia has begun using its own Starlink analogue in the war against Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZXNYNl9EblBpdXdSNG90OE52VldwZDdCV0hmMnFacl9HTXhBeEFoLWtyOUVQdi1yN1ZXU2NwZGNJTUpzMno1T19HMkpoTkZMZGlXR2hiWGo2bmJvU0hTX09EaXM4U0JFVmVhck1OT1l2U3dPSUNTX1BuV01xSHhKMjM1Z25NLU0xeUdEcEZBV1VZNFAycjNpcnhDRXZVZ2JOYXRGdTBFUjlkeUYyTWVCcThkM3A0NlRrdGZqZlpmRGsxU3dPSWhWdk5mdVY5NDRCYVFEZ3kzTUNfVERIM0NkZmRpMA?oc=5",
+      "source": "Судово-юридична газета",
+      "sources": [
+        "Судово-юридична газета"
+      ],
+      "date": "2026-11-07T13:13:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 11.04
+    },
+    {
+      "id": "pjg2lu",
+      "title": "Elon Musk's Midterm Losses Just Made One Volatile Stock in Retirement Portfolios Riskier",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QY2twb05wWVdHLWtNcnNwTERLX3UzbzQ3UHdfeHdHZUVucWFQYWVEU0REQnNNNl9jaG9oTFNiTlZGckt3OE42M1RWa0hycnI2MHV3RWNLZjA3SEY5UFNySlZDVjNveXF3LUtHOHduMTJaRWFZOHh6QXFB?oc=5",
+      "source": "WZTV",
+      "sources": [
+        "WZTV"
+      ],
+      "date": "2026-11-07T13:04:05.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 10.01
+    },
+    {
+      "id": "gqggdy",
+      "title": "World's first trillionaire Elon Musk to wind down Tesla's Cybertruck production after 48% sales plunge, missing chance to enter Africa's growing EV market",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaEdFNnc4WDV1TDloVmo0SmlRbFl4VzRoTElrNURKWVdHdWE2eWZtRFRXenZzcVNldmx4ZTlfSzAxenhfWXJfU1dtMkFzUXBpYjNKUFVwU2d3NTllTFZsZXZWVjBVa1o5aEdZS0p0SFVWUzh5WHBYTTRmVWh1VTBQc05ZUEk1dzBwNHBINGdDRmRPY0xIUm9VejhZX1JWWlRKeFhuTDR5ODdVUTRScTdkQS1xVjBsYjZuclp6bVkwcnFFNS1NaW9YT3Z5UXBadUh3UTJaVUFmWQ?oc=5",
+      "source": "Business Insider Africa",
+      "sources": [
+        "Business Insider Africa"
+      ],
+      "date": "2026-11-07T13:00:56.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 12
+    },
+    {
+      "id": "10cx92r",
+      "title": "Tesla Cybertruck Discontinued: Turning Points in Its Downfall",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNXlUNm5tOEZuNmdsOVpBWkNTanRmM0JSZ1ZLeThqYVU3X3lIVVMxbV85MzkzUkRMZzJiN1g4WmJBa0V3ckdyVDBUSFN3Z2VSc1ktbXdGSHBsSDJ4TFBJWGhjNEhoY2NqaFFqcXFzUnFRU3pEcWphWFU0anE5bXVUdUNCbXc1UDEwUlE?oc=5",
+      "source": "Newsweek",
+      "sources": [
+        "Newsweek"
+      ],
+      "date": "2026-11-07T13:00:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 8.99
+    },
+    {
+      "id": "17lunk7",
+      "title": "ON Semiconductor (ON) Is Jeff Brown’s Chip Play on Tesla’s Optimus Robot",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQlhCTVhIbVdDUHh4OFdSWGtYOERCT014Y09KY0tlbldTMHdQMTNsd3FVaFpmTXg4UktfMk55Qjl4ZGN5TjV2UUJ5N21SWFhHNXotNy1ZSFRnd28ybUlzTnk3Wkx2cGxSOEVpRGE5ei1Lek9EVVNScl9LNkhnU2RPMU9ZQ21HN2RJcXd3bEpVdXFETUhXYmhOd1l2WGc0Q3c?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "date": "2026-11-07T12:41:40.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "robotics",
+      "score": 10.43
+    },
+    {
+      "id": "19vomo0",
+      "title": "Elon Musk's bankruptcy warnings collide with JPMorgan's first Bitcoin forecast",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVzBDMEVNTldiTkhHTlBNdVA1RXUta3AxZnJJSjV5SzMtUmF5RHA2TzJGRHJiNllWaGl6RFFKTmxsamhId1RXR3d2U0syNDRtT08yS1lJOHpQRnBRU0RHR2RMNENNTGpzRzlSWEE4Ui1FTlVjQmc5UW9kNmpxRVBCMEQ1azBOc1B4NDdBX19HeEI4SXZURTBZV3F3NmlTRmRILXBMRm1oOTVzaDNNblNfSzNNSUpYYmZxMDgxUzhGd2l2R1lySHNncTZwbG9NQ05xVE45Um04aUVIZnc?oc=5",
+      "source": "TradingView",
+      "sources": [
+        "TradingView"
+      ],
+      "date": "2026-11-07T12:37:53.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 11.92
+    },
+    {
+      "id": "3c3ng",
+      "title": "Elon Musk Confirms ‘Global Bankruptcy’ Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMnNGYjNvV3k2Ymw5ZzdiTi04T1p5N0lVYi1YSFhSZGJuWnIwYTJBeVZYb3RqTEw3aGVCNnZtWkx1dWswUzhzRGtXMFAzYTR0RXBPdlpVQUhOaEFkdzBpSm0wM090UVJDc1ZuYjBDVzkydXNjVWIzcW84V2tvaU44NG94VFNFZGg5WU9IWGtaWmk0bUtWeEwwV3FPZk9VY2NqQVhZYnNTOUVPLTAyXzYtUFdVbDl3VDQxN0YyRGtlbktPdGlKLWpUVkFELXJBR05WdWdSeTlB?oc=5",
+      "source": "Forbes",
+      "sources": [
+        "Forbes"
+      ],
+      "date": "2026-11-07T12:30:45.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 11.4
+    },
+    {
+      "id": "id576c",
+      "title": "Cybertruck Winds Down Mid-2027; 570 Cybercabs Run [2026]",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX0gxekg2QlRsbUgtWGI1czJUcldyRzQ0RWxNSW14S0dhNXRiQWhEZllrVGpBWG14R1VveU8wRzg0RXlrM0pjOURyVlFIMjhYNl80Y1VldWRVTjNlOWljcHV5RmY2YkR3U0JSMGhCTk1ncVc2OFI1YkIyakFQVDZteWw0dmlWSkpoVnZOSVAxcw?oc=5",
+      "source": "shattered.io",
+      "sources": [
+        "shattered.io"
+      ],
+      "date": "2026-11-07T12:28:51.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 8.89
+    },
+    {
+      "id": "jtk4ap",
+      "title": "Tesla to invest in Cybercab after Cybertruck winddown | Morning in America",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdllzUm1ZVzZ0RExlSkFMNXhieDZOcUFMaGJJQVRXUzJhZFc1TGxxTmdPLUVQX3pNNV91amdiekpLOHZqR0kwbjZZOEJCTmdoTDNPcWg1cUFPd1VaT3otTmpNb3c5MXA5czVsV19Mc21lSm5UZHZXRUx2aW5wZWJEamVnZ0RTMWo4T3FMNXJyUGhqRTVIbFRtOFJhV1JRUlVaeURCOE5wdGIyQlVnR3FVV0FLNkxTdUVlaHc?oc=5",
+      "source": "NewsNation",
+      "sources": [
+        "NewsNation"
+      ],
+      "date": "2026-11-07T12:07:30.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 8.83
+    },
+    {
+      "id": "arqa8z",
+      "title": "Tesla Stock Forecast: Cybercab Shift Puts $338.30 Support in Focus",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUkNlOFJhX0lQRHBSSDVnams5RTFEaHJuOERhaTYyb3RSWlFDU3BaMGVTWV8yYnN3ZWNUd3U5OElMUFcyemdQNFhjclJQRjBUamtGWXhjMWxITDJ2dGRFY3o5NWtTR1lHLWtaRzJtei1lcjJHMjJxbkNUZC1FcVBBN3RiTHFONHFrZWhwRWF6NEV0Z1ZkYzBjdnBtMEUzSEp2U2lFbzhIcGFHSG1FV3phWkJxcVVXUQ?oc=5",
+      "source": "TradingKey",
+      "sources": [
+        "TradingKey"
+      ],
+      "date": "2026-11-07T12:05:06.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 8.82
+    },
+    {
+      "id": "zrgzyh",
+      "title": "Elon Musk Ron Baron Interview 2026: Full Transcript",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcjhad1BWZmF6Q3RmTEtoTndiV3M3clViNzI2enVGNWlWeXpRRWdJUGRWdkpKd1dKdUp0T1hkUG5KQkVLeVp2Q2cwdHZQbEpFMllfbFlvQmdSXzRvNThhZkxtSnpwWmh6RHJZMUFfeDFlOUN1dC1KSUNhZDREb2lRaTNjQTcyUFNwdzFxNk5IMlhRSDRoUFNub2J2M2RBamhHNDhGUWdvVFNkR2Q3bnc?oc=5",
+      "source": "TeslaNorth.com",
+      "sources": [
+        "TeslaNorth.com"
+      ],
+      "date": "2026-11-07T12:00:42.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 9.8
+    },
+    {
+      "id": "7ce22h",
+      "title": "Talarico reaches out to Elon Musk — but he’s no born-again MAGA",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSERXeVZtSDkyaFFZc25EbnFjbUZsTkxtT1p1WTJnU0p1Ni1ndlRtTWFQeV9MWGRTM1ZOOW8xbHItc3dsVUIxd19vSU50Zzk5SUY2ZlNfYmRRWi1CNGszRzVMclVkUEhQYkxIVFZXOFNYbV9HTzFJOHBBSkZIay1xOWFwOUNBWmpLWEJrLTlRNFdjUQ?oc=5",
+      "source": "Washington Examiner",
+      "sources": [
+        "Washington Examiner"
+      ],
+      "date": "2026-11-07T12:00:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 9.8
+    },
+    {
+      "id": "bhhi3",
+      "title": "Elon Musk's Neuralink rival BrainCo is building a brain-stimulation wearable to suppress appetite without drugs",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa0ZGRFZSalNNMDBKakV1WGwtUkZiMTkzYTNVeEFXUG85REFjaTNqeGpXSGJaWnh6VXVTQnpwZW12N3l5VVhxMVZyOFlrdjhka0FmcWgxMmNkcC02X0lvMGhMWnY3azQtcXhrOEN3OUhnbEp2TGRlejVvdV9iSEdaR1VrS0lvVm1zcjhMdzN4dmpSZGpuRDdlNzdPX3NYaFE?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "Yahoo Finance",
+        "AOL.com"
+      ],
+      "date": "2026-11-07T12:00:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "neuro",
+      "score": 13.3
+    },
+    {
+      "id": "ly27r",
+      "title": "Governor-Elect of Texas Announces Plans to Bring Elon Musk Under Control",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BMmlWY2s2Qml3enhsZ3NZcWkxRmtBbEVnNV9vT0Y0blcxZ2JfVFhJUEpsaFd5ZUVqaTNOUTViQTV0bzd0RlA4YU9Ma0tqRmhKUFJrS1hodG8wOVV1NlUxeEs4WE50bjVWeFpUag?oc=5",
+      "source": "Futurism",
+      "sources": [
+        "Futurism"
+      ],
+      "date": "2026-11-07T11:51:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 9.77
+    },
+    {
+      "id": "1mrd7br",
+      "title": "Bought Starlink when it was still the new kid on the block in 2020? You might be in for a NICE surprise. A whole NEW Starlink kit. Zero cost. ZILCH. Starlink is replacing eligible first-gen round dishes with brand-new Standard kits, complete with upgraded router",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KdTdVcFdqVXhQdUFhTXFaZEMzM3NRaXdRVWxzSEt5TWZQM1I4UUMtZ2NPdXhYWWRObVdSX0txOFNJUTFXUTRBZ2owVlVnMkJCbzBpYjhPUV9rSTROUC1LdFB2X2Zoamxlblg2aA?oc=5",
+      "source": "X",
+      "sources": [
+        "X"
+      ],
+      "date": "2026-11-07T11:40:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 10.74
+    },
+    {
+      "id": "k0hxh2",
+      "title": "Elon Musk's record $474 million election bet backfires in Texas",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObUVPR2FqRXVNYnlMdEEzUDdwaGVORVJMcU5iekt6ODFFYjZVS0JTUjBRUUh5SFRNcG8ydElSNVd3SjBvakc4VFBKR1lLOUMxa0JCN3E1Uy1vcWsxTmtWRzVPM1FQazZHMU41VFMtRDBzXzBrNHVTQXA4VDBMQnhwd29rUzVfd3h3alFvRlBOZzJRVjR3aEMybDhET2ZxamhuWks1dEsxMWU4M0pkZDBNbXN3?oc=5",
+      "source": "Scripps News",
+      "sources": [
+        "Scripps News",
+        "News Channel 5 Nashville"
+      ],
+      "date": "2026-11-07T11:34:20.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 13.72
+    },
+    {
+      "id": "1wpw0xw",
+      "title": "Musk hints at Tesla robot army amid Tesla-SpaceX merger talks",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZGw5OFMtc0s2czkyb1lqR1NNMHZZUmd0UGM0QkNycmlCUk94M1ZXa0pDQjl4dDVZOVRPazF2VS1lNDNJSlY4dGVCVlBmZER3aVBNRTNmRTlIdVBjSGtrSlBfdWNKX0cwc3NvVXdOMlplVlExRW1zcXJISUdsWUdsOEprMFk5S1padmIzdklpNlZLM2c?oc=5",
+      "source": "Crypto Briefing",
+      "sources": [
+        "Crypto Briefing"
+      ],
+      "date": "2026-11-07T11:33:17.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 11.72
+    },
+    {
+      "id": "1bazffu",
+      "title": "Elon Musk Wants to Build an \"Enormous Robot Army.\" Here's What That Means for Tesla and SpaceX Investors.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd1hvejc4cmNXS0RZSXgwWWR0eHVaUC04eEhzTlRBSl84bUh5bFE0N1RyeEc4c2ozd3gxR00wMjdWV1gxekhoRVdFWkZyeWtFYUU4dmJVVUNIR0VfZmlHenRGUW1YZVllb0haUk5UcEtKdHZhSVEtY1JEVGthbjBOVkhpcEs3cXFqZlEwWW94Q2dzMC1ma1VCUndzSQ?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "Yahoo Finance",
+        "The Motley Fool"
+      ],
+      "date": "2026-11-07T11:29:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 13.2
+    },
+    {
+      "id": "k2kbbj",
+      "title": "The Russian analogue of Starlink, Rassvet, is already working over Ukraine, but with interruptions. What problems could this create now?",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMVktKTjVzLW82SHFRMDluZFg5S2UxVW1KNk9mRm5xOFNLaElCd3pUN3Y0MGNwbjd4eEZVNGZoTko4RjlEeng0aldMUUhpYzJmU0ZKWDBVUlhuRm8xdzBF?oc=5",
+      "source": "Dev.ua",
+      "sources": [
+        "Dev.ua"
+      ],
+      "date": "2026-11-07T11:27:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 8.7
+    },
+    {
+      "id": "7v5umu",
+      "title": "Tesla Is Ending the Cybertruck to Build Cars It Mostly Won’t Sell",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSW5WWmk3dnNNNlVCZURxUS1XSFkwSWpiM0FmMGppbGl3YmcwUmFPNUF4c2VXcUNIRVAwZE1ySk04VzVLN3R2WXcxNEIyNVRHdloxdUZ4QTBKaUE5TEFtNmYybW5rSlR3MHdsUG02VUZNRFhjTkpTNWM0cHZIUTByYU5HZDUxdw?oc=5",
+      "source": "Business Model Analyst",
+      "sources": [
+        "Business Model Analyst"
+      ],
+      "date": "2026-11-07T11:00:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 8.62
+    },
+    {
+      "id": "144f23e",
+      "title": "SpaceX stock: USSF-432 launch marks latest weekly catalyst",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNHI2UFVqWFYzNWExX0w4OE1VZE5nbWxleFAxZHdSQlAzazVUcHlFZnhzRTQyN0tHcGN5SS1EbGpsMkFxNEpXT1JyNDhMWThFaUZSbEJKMTJvRXFfWThHa3Y5THhqVEdpWTB4QUhhQzZJaWU5TlZqUjlQdVYzdzJRNllSYTlpS2dKOEhpY1FtU2c3ZEpVZWljLW5QQnFBWHdRd2pKYlo0dFo4Uk9GRjRjU25tUWJvSjB1VDl5SA?oc=5",
+      "source": "ad-hoc-news.de",
+      "sources": [
+        "ad-hoc-news.de"
+      ],
+      "date": "2026-11-07T10:40:14.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 10.55
+    },
+    {
+      "id": "1ecpdz0",
+      "title": "Starship | SpaceX Documentary Series on X",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PTDF3bVM3WG01ZnlSblREWnl4X2NGSmlWQWZkaGI1MElPZE9wMDBBSVkwaF84SGp0V2xDRHoxREhpYk12WWxFMWVqM24tNGhsS0hEYw?oc=5",
+      "source": "X",
+      "sources": [
+        "X"
+      ],
+      "date": "2026-11-07T10:19:23.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 8.49
+    },
+    {
+      "id": "1gh9hi4",
+      "title": "Prediction: SpaceX Will Not Cancel the Falcon 9 in 2028",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcGExWXMtSllTSUNaZTA4Z2NGcmE0UGFtVk5OeEZuZ1BBOUppZmJlWVhiMmZaWjZ3QzNHbVM4NjlhcC1jdXRjSzRJckZ4VTBkaThjZzQzcDlLRnVlaHB6Ym90OGdzb1JGWllhR3ZrV0N5cWJrV2k4WkpsWlJSOE5kQm9pYm9lLVVrT1ZSamxyNmNTT3dseXVR?oc=5",
+      "source": "The Motley Fool",
+      "sources": [
+        "The Motley Fool"
+      ],
+      "date": "2026-11-07T10:05:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 8.45
+    },
+    {
+      "id": "1673r",
+      "title": "Elon Musk's futuristic dream vehicle to cease production - What went wrong with Tesla's Cybertruck",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOLWZ6YW5FdnlNWTJlZ0NuVGs5WFdkV293eWlyei1GVUlHNnB0aGd1WmlRNmtUM2RabGFyQWpxWWVYVDN5c3BFM2JORXNRWEN4dGRORlc4Tkxmd0Rxd1ZTWUVaQlkxLTJkeWxiOXFGZk9SeDhKSHlXNk9hc3d6bEg3STBFTmRPZTNlTVBzVVA2dVc2VzdveWNoTGlNa3lkblFVeWhLNEN4UnFzanUxZFh6SElOMlJ6ak5pRVItVFRzQ2I1UXBTODdYQkk4YTVLM3BGWnJFZXNJQ3JDbThWN0txVElNY1hveUhNOXhfcC1vQnE1UDJ4ZG5lVkhlM2s1WnFrZUY4VWVqcU9vMWJ2eW56b3N5emFtaG_SAZwCQVVfeXFMT0VmVU16azA3VXRMUm9qWVdwdEtWNkFyYk9Wc25UNjNxMlhXNVhMLTRSZzlHN0NwQnJ3eUV2cUNxaWYtQjliU01qYldyaExoLTNwVmZCcnFrcENSMU5hSXhybFFqbWtDVTYycFI0UGhMTEE5dzZBTTgyd1lVZXdfQjRSUUhTME4wMUFkbXdkMEdndTRmbU1PamNUbDY1WDhwV2VZZEhCQ3BWS1pTaVFnMHlDS0xRaUVnMHBMNjcxeDRqR091N0l5bnNvTW5kRklERUV5TkZGeS1vNUNsNHRReVRSQXRBb29xeUVRVVpSNUd2Q2IxNklWRDhNX01YbHh0YnZ6bzZnN0gwMVB2allBRXNmYkJHbnFucDZ2RnI?oc=5",
+      "source": "The Times of India",
+      "sources": [
+        "The Times of India"
+      ],
+      "date": "2026-11-07T10:00:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 9.43
+    },
+    {
+      "id": "xxs2zv",
+      "title": "Elon Musk Denies Telling Binance Users to Move Their Funds",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT3gxRlQ3Q3BOUWoyVmY4cVo3UHVweGJwV1FoeGc4dUFlQUFqSkVINmVtSm42Z2pFMTREbkpLazRBem02VmtfcHZUWUxBZjgtZnhTQ0Q3TnhuMkNfZ2x1UmY0eWltaVphcVNrb0lyU3ZhYlJjcmlJMXpfUFhQMlMzb1h4NkRWN0dZTjhnQWpWd1FBTDRIVlVXS2VXdFZHVVdxRzhoTmx5RmVwbFpjemZ2eQ?oc=5",
+      "source": "Bitcoin Foundation",
+      "sources": [
+        "Bitcoin Foundation",
+        "BeInCrypto",
+        "Yahoo"
+      ],
+      "date": "2026-11-07T09:59:44.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 13.43
+    },
+    {
+      "id": "2k83id",
+      "title": "DevDroid has taught the NRC to move without Starlink and turn back if the connection is not restored. How does it work?",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0weVRiMFVaaGFlMWE5OEVzODVNRjZmRXVHZVF2M0hOeS1OS2xBUTRFc0pNUDM3Tm5wSFlvRGdhMkpLcS14WXZQNE1yMWZyYjZFR1JLS0FPbXVwejhSXzB1YWZDaEw?oc=5",
+      "source": "Dev.ua",
+      "sources": [
+        "Dev.ua"
+      ],
+      "date": "2026-11-07T09:42:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 8.38
+    },
+    {
+      "id": "mh798d",
+      "title": "Tesla unveils Cybercab at China International Import Expo, Asia's first showcase of a driverless EV",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLVJpS3QtdzVmYm5jQWZReGtHRG0zTE5CRHZLRHBfOWVJT2pkdXJpWW9XakJVZkxBbUgwV3VlMlNORnYyRUphb091blgxWk0ySXUtNzFfa1VfLW05VHdscjZsek5KRzdoNEpwdldHYVV2M2U4MC03cjI4VTNEaEExS0c2Q21kWHZWRmhtWTF6WHNaX05zMVdKU0xfMUJIbTRSbkt6ZWV6VWZQRFp0NDZvUTlCQk0tM2s?oc=5",
+      "source": "KuCoin",
+      "sources": [
+        "KuCoin"
+      ],
+      "date": "2026-11-07T09:35:03.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 10.36
+    },
+    {
+      "id": "xhg6qg",
+      "title": "Paratus Opens Lesotho Operation To Bring Starlink To Businesses",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGVPZ3BsaDE2QUxBVkZrcUR2TUpPa25XTzlkYkxfOWlfbTg5V09ZR3NPbk4zM0NfT3F1V0xGY21HMHlwdWJRd2lBc1p0LUhCNEpEOHdqV0RZR0w3dWc3UVl1Ul82bnJBTTlKX040M1Y2RHdaVHV0SDltUWlzMjg3dktLV0w2Zy04VDc3bUtn?oc=5",
+      "source": "CIO Africa",
+      "sources": [
+        "CIO Africa"
+      ],
+      "date": "2026-11-07T09:29:49.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 8.34
+    },
+    {
+      "id": "1mx15ix",
+      "title": "Paratus targets businesses in Lesotho with Starlink as it extends its connectivity operations across Africa",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zWWNyOHJWSWJRRkhBMWl3Z0hrR3o5SGtfNU1vUTBtb2piWjg4WnNFNzEtWlEyd1hsN1pFSTV3T0ZnQVdtdGh3QzJTMVdJNV8wS3NadWNCQXRKQUNYRVA0aWxpMXlrYkEzTG9RX05GcmJpQk9neGZjQ0thXzY?oc=5",
+      "source": "TechTrendsKE",
+      "sources": [
+        "TechTrendsKE"
+      ],
+      "date": "2026-11-07T09:08:54.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 8.28
+    },
+    {
+      "id": "1vh76v3",
+      "title": "Dario Amodei Or Elon Musk: Who Is The Better Leader For Investors?",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWGN3TklBdTFEQVJzbXloWDFQX083d2FBcVR4OTAxbW80clNlVmloLUNSeEZaNDBmbjl4SHE0NnRPaWVmOUVGdm5yMlROaWNjSlNOMl94NlZCMmpoa0IxQ1pmX2FuSGRpMTBudF9MaFBSNW1QZHZaM0hDREpzcExsTFRWR05HZ3ZFYzU3dEJJQ3V2dGFscXBGS2tOQ1gxa0lMT0xYenM3RnVIVGZ3NzlBZ01RZWtlYTVCOFpENnprd0dSczA?oc=5",
+      "source": "Trefis",
+      "sources": [
+        "Trefis"
+      ],
+      "date": "2026-11-07T09:07:17.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 9.28
+    },
+    {
+      "id": "q2jlrw",
+      "title": "Democrats set sights on Elon Musk probe after midterm wins, but Pritzker draws a surprising line",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVG9XdmZhbVBwQU1MQTFGZWNMVllmWFZ5eHZvZ0RqX0IzOVZXeEprOFhwRWFaSlJZdHNIQ2VoUkhoUmpHeXNhWmNEXzM1TDBHV0h4WXNfb3VkQ2wwY3p5RTd5SDdfOXVaTnM3TXRCSlFKVTE4RVcwOEppczBTazdnZXFuLWplVjFjSnlrWXF2QldWTHM1WXdsX01wanRhOXlVRWs2dFAzbC1QMWxmbktjcDlnMTRsZXhXRjU40gHAAUFVX3lxTE10TGZaUlJfRTBMMXp4OWl2dGQ4MWhid1lMOVAxZFlFcFBtY0hsUlRyNDBjRTV3V1dzR1VUeFgzNWF4UlZmcEtMamtGejRqbEhrcHdsWXVBWlNmbUdVZDlsTGJPcmRRdk5XajlSY0FhQkpWVWxYVHVkdE1GZHhCbG41bkYtNFp3eV8tOVBqQ0hQYnl1YmdFYUVHM3RLSXQyTHowRnJNN2hheGhjYXZURllUOExGRlNLMmRtTG1aWFhmVg?oc=5",
+      "source": "Fox News",
+      "sources": [
+        "Fox News"
+      ],
+      "date": "2026-11-07T09:00:43.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 9.26
+    },
+    {
+      "id": "11vu7eg",
+      "title": "Elon Musk is winding down Cybertruck production in Texas. Here's why",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNWFRBRXM5bmRPeExsYkZ3aFM4T3UtSU1mb09jakFrT3JheDNDWkFJY25EWFl4SkV4Y0d5YktyU2VhYlN2VXVZUlQ5NHZyUnFzQ3lQRmU0NFJ2bVN1cHgtcl9Kc3JxdVVSbVp4cENQTDA0UzVSRmIxakFjOGxtZVBCNzI1MDZEeFBDTUtHM1RybGthTFl1RmdVV2tQemM1bEVnWEJ0TzZOS0kweWVDdEkwV2VPQUxiMVp3Nkh4OXQzNnRhRVYwWmp2UXRzUUtRVkdlelRkdzNFdGZWdHNCQTZjN3lPVHZjOGhhVW52XzFLZnd1Z2hlVE84SDNmb09QV1hqNEVjXzVSTFVPNGsyQ2o2cmlR?oc=5",
+      "source": "KHOU",
+      "sources": [
+        "KHOU"
+      ],
+      "date": "2026-11-07T09:00:24.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 9.26
+    },
+    {
+      "id": "1k1e8b7",
+      "title": "Musk: Optimus Robot May Be Lease-Only, Not for Sale",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ0htZkhIVFVWVURhYnpaNWVzS28wTFVVWDk0bHNQanMwWjIyMzdISnF2aVZvakpxWWo4aTJZaFc1azgyalFrVE9rQm9PblhzZVdubFB5aXA1RlBxM1F0Z1o0LWliSFg5T29fc1NKWFFGUXFidzBNNXQ0UE4zaW1DcWRkVFlhcjgwdjRhMHFNdXE3cGJ6TDlB?oc=5",
+      "source": "富途牛牛",
+      "sources": [
+        "富途牛牛"
+      ],
+      "date": "2026-11-07T08:56:24.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "robotics",
+      "score": 9.25
+    },
+    {
+      "id": "ha51p4",
+      "title": "The Ukrainian Armed Forces may have been offered an alternative to Starlink — hiSky",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbVBJQzJicktYX3QzcUFvRWM0cndvX2NrbVhNLTZRNnRIaUdLYUhQdm1kbFo0QWZKSzE0NjVQdkxVeV9YT2p6MEVWc0lkaml3dGR0NEh2RFpkYktnWC1fUWxkYjNlem4yYW82NG5HcE9nRDNqeHUzZUp6LTUtakU3QlBkMXBBX3M5RjNsOW95WC01cVBh?oc=5",
+      "source": "UkrMedia News",
+      "sources": [
+        "UkrMedia News"
+      ],
+      "date": "2026-11-07T08:24:17.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 8.15
+    },
+    {
+      "id": "83fp3s",
+      "title": "SpaceX has launched a secret US mission: what are they hiding?",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS3FJbEFiZjZSaFF4MGdNR1FXN2pyYjdzYTBSMDJTcThIMzE5S3RZMktISEpjeHVZdXhfTzZHUUxXSHNET1FUSlNuSTdXdWdPb1pRX1pNVWVYejAxMDRXNUJvMlZmWGlnaGV3NnYwM0tUUHlZY2JrRG9IRzJLQnZITnFDRGhkdw?oc=5",
+      "source": "UkrMedia News",
+      "sources": [
+        "UkrMedia News",
+        "Українські Національні Новини (УНН)"
+      ],
+      "date": "2026-11-07T08:10:15.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 12.12
+    },
+    {
+      "id": "8oe8nd",
+      "title": "Tesla Cybertruck faces an uncertain future after Musk reveals factory shift",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2owUUhjdF9jNkU0R3d2X1BhcnhsRU1sbk1qdG1ENDRZVWpHMFFyYzRfYTIzS0FBMXg3UE84UDQ3Rl94MVhFSVhHQmpoNDd2bVJGNDFJcVZpTkQxcWFZWFdjcXJuWlhSejUzOWhTUF9zdWpueDdJSVktLW9fUTdSQjJUeXFPTWhxUkJ6VFlhZzNaNGJ1cFBOeEVBVXd4YWctTWYwVzBrZ1BKVWNQZDdOdU9MNHZwSWpiUWlV?oc=5",
+      "source": "Cleveland.com",
+      "sources": [
+        "Cleveland.com"
+      ],
+      "date": "2026-11-07T08:00:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 9.09
+    },
+    {
+      "id": "xrtmpv",
+      "title": "Starlink used in hiker's emergency distress call to mountain rescue volunteers",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ2pIQW95czZNRFkwLXdFTEF3RmxrSnRoNU9aYmFQb3hOaEVid1dpYVBSYTA4WU1DaU1PUWtCYUtpWjNYQnRrbEdRVDA4clNUVXNnYnRuei1DWUlRdnFMLUJHbjNWZHlSZGRFcEtVbzQzSzdfMXFwMWFRbmxIYVc3WkdpQkRUODVRSy1SNk53TEJrNjJndUJSem1JcDdEQVFh?oc=5",
+      "source": "News & Star",
+      "sources": [
+        "News & Star"
+      ],
+      "date": "2026-11-07T08:00:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 8.09
+    },
+    {
+      "id": "j4lpxl",
+      "title": "Key facts: Tesla Cybertruck Sales Fall 48%; Output to Shift to Cybercab",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaF9VWmlROFdzalJ4cGtnUXgxem1pdkx6ZVphSGRCX2dsanVmZzl4ODl0aGFEWnBEbVFIMFpxeTVkS1RjQkZxeTJMUnc1YUFxVzVzX0U1QzF4S3Fvdk9zNW5CVEVzNURUTUFrakJBQ1RLeUx1VmJUSDlhZ0RkdnFPeVNUbWhGLUtDZDdhanFzRDVOR2UxaE5VeUR0dFN4UGJRMU96RnVrR0dqWFhFMU1WWHNVUnB6RUpjMVRWSXJ0RlFvSUZ5SWNpRFdB?oc=5",
+      "source": "TradingView",
+      "sources": [
+        "TradingView"
+      ],
+      "date": "2026-11-07T08:00:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 8.09
+    },
+    {
+      "id": "h752ee",
+      "title": "SpaceX Chopsticks Catch 71m Super Heavy Booster [2026]",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX2JjUjdHVnY2WXFtaW5OVl96VkZjNE1LLTkwTzhZRWNzNVdVMmxmWVBobWI0aGRNZlB4QlJmVkNzWFBWUlZhWGh5bzA2dTA1bU4xRko1ZjBYUkFucjlBN205TDRaYVpPZlhIeS1wQnpsb3RUcnkwQzdhZW52U2JZdnZiZkl6QjdLb05B?oc=5",
+      "source": "shattered.io",
+      "sources": [
+        "shattered.io"
+      ],
+      "date": "2026-11-07T07:58:34.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 10.08
+    },
+    {
+      "id": "9532kg",
+      "title": "SpaceX Nov 13 trial to catch Starship stages pending approval",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUjJEZm5FYjY4eW9EajVyYk1iaFN2ZHF0amttNkQ2N1hhOHk5RUFVMF9lUTJRbklSWmM1bVRaR2JZRjk4TG5lZjM4VWRiZjh3RFZQS0NhdlpPeVFUeWRIR1NXdWgzamozY25QZDFsWDB5Zk5aVHN5SXFsX1NOODNmNUxfclVGaGdFeDFVSy1HZGowZFI3M2Jvd1FPbnlJcDMxdzdQUVFXbEhVd1h5?oc=5",
+      "source": "NewsBytes",
+      "sources": [
+        "NewsBytes"
+      ],
+      "date": "2026-11-07T07:51:40.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 10.06
+    },
+    {
+      "id": "1dlrhc5",
+      "title": "SpaceX Plans to Catch 2 Starship Stages on Flight 15 [2026]",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZEt2ZmI5alN6NDNheVpOS3RROG1XNUVoZkZqTnNUX2FkemVHSm5pMnhrNEN2TE9JQW1lOUZneUdpZXBpSGJRUUp4WXNBUnlWTHZKM2dmOHJqSXpnSWV3b3hQV2c4SzNCMHN4TmJwUXhVaFdDZEhnMUEyUks4Zjd6T2RBTXY1Y3RKVFNxVmJ3?oc=5",
+      "source": "https://tech-insider.org/",
+      "sources": [
+        "https://tech-insider.org/"
+      ],
+      "date": "2026-11-07T07:49:42.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 10.06
+    },
+    {
+      "id": "1odrqcj",
+      "title": "What did billionaire Elon Musk say about providing Starlink to Ukraine?",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObnNqM1pNOHFYYkgweFJvX0ZVUVZnWjYxTmJzaDYtbWlaYXBibDZpTnlWX2lvZ0s0T19ydmxONU1la01WdEwwMEtxd215anBxb3dzQkpvaXJxZXBnZEZHN0ZKM19YV0xJSG1IRmZvcnR2SzYxbV8xRzIzSms3Y2t0YU5DU0lPYldVMVE?oc=5",
+      "source": "Vietnam.vn",
+      "sources": [
+        "Vietnam.vn"
+      ],
+      "date": "2026-11-07T07:49:15.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 9.06
+    },
+    {
+      "id": "1r8q6an",
+      "title": "SpaceX to catch Starship megarocket using 'chopsticks' on next test flight",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcU5NTFJ5MlJsbHUzTkRmZkdfS05rTm9aMU5QU2w5SUZjT3lJTjRwbFczSS1EVmtFTHlUejVIck9FcUkteHN0c050Wk1GNWtfUjJlUmJiVFJKZ1NPSTNWV1NVeUxjWUlKR0JCZlRLZldYSFJuZ2lJV1BoZFZuUVhZQlNBcnJVR0djVkdtc3JGX2RPZlJuZFo5MWIyeHhaNUYzcEozdDlRLUVOVEFZMVFpbWV2UHJ4Q3UyUklBb3d0ckhLeHpQbU41SEJIdWphaHd4cEs3X2wzaEJBRWRXbGJndW9SeWpJWjA3VE5KSlZlSdIB9AFBVV95cUxNNkhmNWE4X25KZDEzODF6S3NHdmYtQ2RlSFhoWUdYOTJSSmo0bVJMcTg2ZklDRTlHbVZzRk9xOWlURWpaWmpfN0tsWmV4R3lCZ3JhX2dQRTYtbjBGV1VIdlpYb0hvS3pRc2NFaHYzREJ0TGwxekpxcy1QdzZnR3lQZkZTVkVfVHEzWlJadXZtc3l2dFN1RmlLZFB3UU8tTHdzRUEtLWpBQ2NzNTkyQ2lEeURuME1UVm91cWVEUk9hM2xKUUFvZUlHbUhLRkgyRmhmSm0wRjZ2Z2FqM1lXblUxZVFhOTk4OW9JLUlYQXV0UDlVZHFq?oc=5",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "date": "2026-11-07T07:34:22.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 10.01
+    },
+    {
+      "id": "5rrz75",
+      "title": "NASA’s 2028 Moon mission may need 22 refuelling flights for Elon Musk’s Starship",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNUZmb1NEZFVhV3NYVWFob2tZTzRQS0xOSHJ4R2VsUklwZlZVSFVyb096QWJBQ1RTa3JDYXdhTkVWZkNkV2M5cXZxZUN6SjNWOGNzNVlXdWlEeFRoVi1ZeTNWdWVtR0J3R1gtVGxfSDVvOXdEaGRSUnd6M0tXMGQzZHJQVnlYeVVHXzRTb2kwTVJaMUhQbGx6VVRhN2JBSTFzYU5kdE5RMmFTXy05d2pUUmhaZTEyLVNZSldIemZn?oc=5",
+      "source": "New Age BD",
+      "sources": [
+        "New Age BD"
+      ],
+      "date": "2026-11-07T07:31:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 9
+    },
+    {
+      "id": "1uqskjm",
+      "title": "After US$474m gamble flops, what happens now to Elon Musk’s Tesla, SpaceX and China ties?",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU0czNVBONm5pY05BcGFwOW5YX21abXBoT2tlWWpsdkI2NHdFcGtvTXUtdVFmOUs3MjM5b2I2LVFHZFVyclJPeGJESlIyRHBNc1BoZHRlTDVKZjE2NWlMRGNZWEdhX29qbHpLNm84NmQ4QThDVnotVC02TGtETmUza2lVZlpuR2tkd3pUSXBiZWxjS00yZEc1VVNtNWhUYUlKTVYxaGdwRzl0RDdteFRnUEVsdTROaTlpM0RfclBRZ1ZBUjl5X055dDBYTjE1dzRINnh4VUhuQUk3LUtGOUY4bg?oc=5",
+      "source": "The Star",
+      "sources": [
+        "The Star"
+      ],
+      "date": "2026-11-07T07:13:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 8.96
+    },
+    {
+      "id": "v4u9gt",
+      "title": "Russia is already using its Starlink equivalent, \"Rassvet,\" over Ukraine - GUR",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV0x5LXJHRGdVbHFXTVUxME1JNFJOcUdoQjBnM0pFYXlBeFVDWWhPdEVHWEVpdjZJcGZFRnd3RnMyOVFYVW8wNVA4dDBSbmRDNk5pMWJBQ1Zld3didFNyTnZJZ3djb2dkREJMQkRHZ3Q0NUxzSTliaHZNQTlRLTNqTmZ1R1hGOExQUlBlcGtVb3DSAY8BQVVfeXFMTzcybktCdEVQR2FfUkZ6SV9hNDhFTzlQY0tkWDRrM2ZteHZmSEVGQVJwc1JkZTdwbDdRZTQ1V2lTVUJ1VkxEaHVHbVlqX291ZTlPRVl6T2lRcHVJLTduaXVtNHZ6QjJLVTM1S29lYldsaVlxMFZBY1pEZGpuS2hSUndhRU5QOER5YXp2LTNZMVk?oc=5",
+      "source": "Українські Національні Новини (УНН)",
+      "sources": [
+        "Українські Національні Новини (УНН)"
+      ],
+      "date": "2026-11-07T06:59:35.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 7.92
+    },
+    {
+      "id": "113psw1",
+      "title": "Prediction: Tesla’s FSD Attach Rate Will “Trend to 100%.” But Will It Be Enough to Save the Stock?",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSFQ5dXZfUFdPLTdXWmFrZ24xQ3Q3a1piSVBycUFVbWQwemxQZ2xmOTY0eWlvb3ZvZFp2Q0hUUTlyVFFTaDBSM2lrTV9CY1RJVEJLSkpWM2hSS3luVG1hZFVyT0UzR2NRS2swNkpmYWp5MzJDNEM3OFRkdXlNaTUxRC1wemhncmtNcXhfdjA1ZVZTTnczTndJbEJ6RUxPQQ?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "Yahoo Finance",
+        "TIKR.com"
+      ],
+      "date": "2026-11-07T06:49:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 11.39
+    },
+    {
+      "id": "39tbdd",
+      "title": "‘Another Failure For Tesla’: Ross Gerber Slams Elon Musk Amid Cybertruck Shutdown Plans, Gary Black Calls",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVktPUGtUdHREWnJ1SllQeDJ5OTFjM25KMHd3akw5TGRuNGlDR3YyTmk4VTg4aGlBLTQtUnA3Y0liNXFpMnh4NVNHNHN3UWR3VjJrbGh6OVpiNkxnWFdGUGZrc3Y0MjctMHFHSzM0aUpadWtrYTBoWlN5ckRNUjRxZWthanhreTF0NE12V0ZBZEk?oc=5",
+      "source": "Benzinga",
+      "sources": [
+        "Benzinga"
+      ],
+      "date": "2026-11-07T06:31:36.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 8.84
+    },
+    {
+      "id": "7of8e0",
+      "title": "Starlink starts shipping Wi-Fi 7 Router 4 to new residential customers",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQl9qN2VhblgyWkdUQ1lJY1NWamJObVpZUU9IeHFwUko1R3E4eENSUEhNaUNidlYwZlFLcU53dVNpdzRQUFA5RGtMOGtpcFpMU0I1Sl9SdEZ2MHB2aEU4ejhnYVN4NlFBT3Z4UG9YTXUxaENMV2ptME40UGpvUk5GSGtHQWhoaGo2MjFz?oc=5",
+      "source": "Mezha.net",
+      "sources": [
+        "Mezha.net"
+      ],
+      "date": "2026-11-07T06:00:19.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 7.76
+    },
+    {
+      "id": "t1rz92",
+      "title": "Starlink launches Wi-Fi 7 Router 4 with 3,500 sq ft coverage for new residential customers",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQakcxbGJINHM1TDJLdV9abW1MbUgtdTB0M3k5d3VkMDVLOVJGTW9fQUZ1UkZiZHp1algyNmpOdzVXejR4ek03bHd0RWJXS183bFFJNEU1dnZvcWVpU3FlR2dmbjdLU3FoV2wwZGVMTndUWXRwSkYtLW0ycWwxMldPaFRJWE8ybUpaTXVweU1MTXBrS0JMcEdkQ3EyMGdSb2tXWjdCOTJ6cEhVSURocWF1Qjh6czd3YzRfWGNEamNsbTN0YzY4eWM3cjNUVUxCSDVp?oc=5",
+      "source": "Notebookcheck",
+      "sources": [
+        "Notebookcheck"
+      ],
+      "date": "2026-11-07T05:53:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 9.74
+    },
+    {
+      "id": "1o4md3z",
+      "title": "Best AI Chatbots by Budget: $8 Grok to $500 ChatGPT [2026]",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM3dFWU45WF9fSHlSMmhSem1zWFFCZ0owcUM5dlB4U3BmUkJza2pyZlhqLWNaSXdqUTNUTF8xUy1faVlSY3VLSHhvcmV0THZUNzV6Y3ZEVzEzV3R6R2NPaWFzNmJ1b2RuTVp5MGhBTjB6MENyREVwV0t6T0RkQVJMSVNTYW5sZXM2ZFhj?oc=5",
+      "source": "https://tech-insider.org/",
+      "sources": [
+        "https://tech-insider.org/"
+      ],
+      "date": "2026-11-07T05:25:18.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 7.67
+    },
+    {
+      "id": "p5lqfe",
+      "title": "Elon Musk Touts Terafab's Ambitious Goal to Cut Chip Development Time From a Year to a Month: ‘If You Wan",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZ3ZPUXh3RHhGbzdPMTV1Z0hUWU4wb2JKOUNsR01JZHEwWWk1OTJIbDVnYXktVGFHclZQdVRUdmczeGRxNkxDdnhkX0lrWm1wZm1YSzJHN0diRnp2dC1CSGpsRmxzeXlaMFNJQldzYzFKY1lmRmJyOEMtejY4cHd5NTh5OGk1dGdCX013N0hYWUt6NTJTcnQzNW9nUktHVV9kaTNtbC14WUkyemZxMWRhMDN1RVhBdzh5QVVPbUlSZUpmZ3RvakpLcEhmQ2dJWkhfd3VqNzlKMG9NR2tfYVhoeTFkekpJZm1tZTE2Z1RDWTliSFdweFdHU0dNMmFLaFo1SkE?oc=5",
+      "source": "Benzinga",
+      "sources": [
+        "Benzinga"
+      ],
+      "date": "2026-11-07T05:24:55.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 8.66
+    },
+    {
+      "id": "1fcvdqc",
+      "title": "A Retiree Who Bought 1,000 Tesla Shares at $197 Just Watched Musk Kill the Cybertruck",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM29KT25TZmppcHZCWEFUYVdPX0JXejV2Zm9RUi00UkUwS2tUVlE5NzNYTnNqN0hwOEI4RjdNeHJBTWZuN0ZoNmZBSE1zQmNYQjkxQjZvbUg0Q092ZWdWMmFkOVVJTTAxZWtRVElnLTNEYmxTcklRWS1XajI2aFE1eENrV0Q3alZ5RHJnMU0tZWVMOFBtUDJlVG5KTDJjVUp2c29hUnhPaWFfbmUyS0FwZFVJTTc0Zm5kanQxNWR4RVNzQ2E5bUE?oc=5",
+      "source": "24/7 Wall St.",
+      "sources": [
+        "24/7 Wall St."
+      ],
+      "date": "2026-11-07T05:07:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 8.62
+    },
+    {
+      "id": "ntneaa",
+      "title": "GALLERY: SpaceX Falcon 9 launch lights up sky across Chattanooga area and beyond",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcXJWN25LRTUwRUVsMm02R3lRVmtvSmRFbXhrb2VLSTE2T042TVZBaE9xLUpJdDJsR2pDZ3NsZXJGNkFyWGFkU0s2SDV5Z01LMlk3bUF2TnBYZnFNU1VKYTY2Q3B3S0JvcTdzdGFlc2c2b2d5RlZxMmJ2X2xUUlg2aGFrNzlkcFBrbUFfMGlKcWlBUmpNbU1OUVhuZnp3ZUtGek5wVzdlVTIxVFJ5TDd3UEN1S3B3VkdjRWpjWnNQdWM1NDVrVzdGa3N0SFlKZw?oc=5",
+      "source": "WTVC",
+      "sources": [
+        "WTVC"
+      ],
+      "date": "2026-11-07T05:01:32.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 9.6
+    },
+    {
+      "id": "brqnqn",
+      "title": "KVH Narrows 2026 Outlook and Plans Starlink Price Increase Dec. 1",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HZVY5RzlMWHV1azkxNG9lMk15aVFpdDd2R2xLX2hnMDJNMnhGWDBleHRLQmpIZ08za01ENWtuV2xfaFZvQlRyTTVYNnNsRTBMcF9lTks3Z2I?oc=5",
+      "source": "www.tokenpost.com",
+      "sources": [
+        "www.tokenpost.com"
+      ],
+      "date": "2026-11-07T04:37:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 7.54
+    },
+    {
+      "id": "1vo9q4p",
+      "title": "Tesla's Robot Rental Bet Meets a Wall Street Bounce",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ2p2ZGxTYmZ0c29VLXJrLWh6WEVnSlhQd2Y4OEJ6bHRsaU84LWZxQUE1eUZlXzNsY1hUVmZwZm9MZXFrb2tFSkpmOXJMcjVpMWxqOTBpbUtoSmVGYThoQm1NY3ZRTGdaODIwMkh3aTlvNHQ0a1lZNTNUS0ZqXzdNcHFjRy1LXzgzRjVZMEJ3dVFTMUIxVzNxRngxbk5UNC1MMk9JSkdKRUVQZ0Znc0tDY3p3VldUZnE4YTdGa0dGMlo?oc=5",
+      "source": "ad-hoc-news.de",
+      "sources": [
+        "ad-hoc-news.de"
+      ],
+      "date": "2026-11-07T04:32:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 7.53
+    },
+    {
+      "id": "6tlon0",
+      "title": "Elon Musk Hints at 500-Ton Raptor 4 Engine to Boost Starship’s Deep-Space Liftoff Power",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONmsxTnJlZjdkeGhXXzVZS1dualV6TmU1LV9pNi1sa2ZyV2prWjlWYklYN19CenE1VllCdFUwVklHX3BhSzFXWFlQSG5JTHdIM3RtajA5eXRubXVPZXR5clpUZUJqNzBJY0dEV2p3bERPazMzY1JkTGdoazh5UGNJWmd3RDlVRFkwWmM3NGtVU2VURGZCWllVbHIyV3BCeTdGM19Tbi1sRTgxcDZDWXc?oc=5",
+      "source": "Business Upturn",
+      "sources": [
+        "Business Upturn"
+      ],
+      "date": "2026-11-07T04:10:22.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 8.47
+    },
+    {
+      "id": "1a2hrr6",
+      "title": "Anatel’s Starlink spectrum consultation in Brazil",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOGJsTC1pMDVtSkYzN3Y4MFd1Um9mN2I5UmM5WWU5VUx4UzAxaGNoN09LTXp4OVNDQlJfSjloUVdvMkxOTjlRSjBUUDJFazFkMElnYWtxY1pUXzQ2MVJjMnRuWllmRG5QMTZJLTFzTzU5MXpEWjdiVlI1RURSaHJLdjNuR0hqeGVZWEJQYmVNRlBrNFduVWMtZ0JCV2E?oc=5",
+      "source": "NeoTeo",
+      "sources": [
+        "NeoTeo"
+      ],
+      "date": "2026-11-07T03:58:52.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 7.44
+    },
+    {
+      "id": "ueq83k",
+      "title": "Is Grok AI Free in 2026? Free Tier Limits and What You Get",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tLS0wVG02aS1Pem9lTWpocWJtUkhiMUFUNGRMMFZLbm5nU3lnYWlzYWpsbEZDdGhzbWlNYlFvQThoTzgtM3dfdXZsVzc?oc=5",
+      "source": "Fello AI",
+      "sources": [
+        "Fello AI"
+      ],
+      "date": "2026-11-07T03:21:50.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 7.35
+    },
+    {
+      "id": "d1q5md",
+      "title": "Starlink is basically saying: make us a 30-second Super Bowl ad with Grok Imagine and we might actually run it during the BIG game. Writer: Sol @starlink, @grok",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52dDE1ZFI4WjVqWWlJTVFZLVlxeGJlcFNJTnhUQWFEeGlRbjl6WlU2ZXNRYjB5NExCTW96Nk0xOUlMNW1uRkpfQ19YNnV6VjVwelkwMXlMYWZ1NFZMbTJVRzB4OFZtR2NtYlY4RQ?oc=5",
+      "source": "X",
+      "sources": [
+        "X"
+      ],
+      "date": "2026-11-07T03:15:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 7.33
+    },
+    {
+      "id": "1iqo9d3",
+      "title": "Elon Musk Staked His Empire on Texas. Now State Democrats Want to Rein Him In.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVVZsNTNhMFR3RTZST0VkeVNXVm52MndSd1VPbFJIUXlCZVBlQ2JJOUMtOEhxU0x6QXE0T29QaHUyRjkzRXBxRmRFNVhJOE45bVBrWTIxeE14TjFPOTNGRTI1bEpNWVZwQk1tMjIxLWFnV3I4NjZ1Unk5WU51QWZ5eXdoeDc?oc=5",
+      "source": "WSJ",
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-11-07T03:00:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 8.3
+    },
+    {
+      "id": "1933ndc",
+      "title": "SpaceX sets November 13 target for historic feat, Musk highlights 'critical breakthrough'",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcjNuTXJNeWtpdXl0empQRE5mVFBqQUtmcS0tM3VYX2pkajVhcFNTTF9nc2YzeEZYTTF1Vk9qVkRjdWxpUDh0WGVzMmhhODhucDFCbVhhU3BpWFpBUjE0TDJqYTIxMDU2X2RzMkZlV05MeEdUWlFvTlNfM3NGQzE2R2pkdmg3U3huWkwwR1dndWdmb1plYkUzdEhnZTd6X2JIM1gxdFFSdmJzQnlWNFV2ZjZCY3ZNbnhSMU5Ha3M4ZC1lRnpOZnZETVFVamYxazhQWGsyTXVra3UwUmZlbi1MctIB5gFBVV95cUxQS2podHBSek4xWHgxbVBWQkhXVDhPMWhPcWdzaEVVLXRCdUwwckM3dHpycy1JUTFGYnpqVlluRnpQS01Xd2dUbVRCSXVXOTNUeUszY2RwT0F0aWxzenB4V25HbjJYaTQyc2dncVhHcDB6UnZpRHlOVWc4eUtkeWs1bklqN0tfSnNtdU53ZUdGNHhFQ3k0ai1zNXlpY25xNFp3bGV0QllPbFBBUHB2QWZMQmxaUDlEazktTTAxNHFvNlBmWnZOeGl1U3BiVnhmSjVwN09GbDJFanlYLU9KcGJDcVF1SGYwUQ?oc=5",
+      "source": "Business Today",
+      "sources": [
+        "Business Today"
+      ],
+      "date": "2026-11-07T02:49:49.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 8.27
     },
     {
       "id": "2w7mdh",
@@ -30,7 +1933,7 @@
       "image": "",
       "snippet": "",
       "category": "robotics",
-      "score": 12.86
+      "score": 8.14
     },
     {
       "id": "1ob0c1f",
@@ -46,7 +1949,7 @@
       "image": "https://cdn.mos.cms.futurecdn.net/q9Z9sqFyvcTuBggqZ6hKgV-1920-80.jpg",
       "snippet": "SpaceX just launched a classified mission for the U.S. military. A Falcon 9 rocket lifted off from California's Vandenberg Space Force Base this evening (Nov. 6) at 7:48 p.m. EST (4:48 p.m.…",
       "category": "space",
-      "score": 18.81
+      "score": 14.11
     },
     {
       "id": "15kswur",
@@ -61,7 +1964,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.78
+      "score": 9.09
     },
     {
       "id": "1q0rj9h",
@@ -76,7 +1979,22 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.73
+      "score": 9.07
+    },
+    {
+      "id": "nhzh0y",
+      "title": "Starlink V4 Will Have 10 Times V3’s Capability, Elon Musk Says",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yeDUzX0lYZ1EyQW9NWkQxMnN4U19icmJ5N2ZSeFFUai02eW5kM19WenZBUHNwektoY00tQktMUUdqNC1YdHJsejBFdWZvcEF5cTB1ZHlkZ1laN1FpUGViWFk4Z0JycGdXVUZncEowclVIcFBGdm9n?oc=5",
+      "source": "TeslaNorth.com",
+      "sources": [
+        "TeslaNorth.com"
+      ],
+      "date": "2026-11-07T01:22:14.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 8.06
     },
     {
       "id": "yqrcox",
@@ -91,7 +2009,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 11.66
+      "score": 7.03
     },
     {
       "id": "ztgj5o",
@@ -106,7 +2024,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 12.54
+      "score": 7.97
     },
     {
       "id": "14fqf3e",
@@ -121,7 +2039,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 12.52
+      "score": 7.96
     },
     {
       "id": "1834ma",
@@ -136,7 +2054,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.52
+      "score": 8.96
     },
     {
       "id": "4rvgbp",
@@ -151,7 +2069,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 12.46
+      "score": 7.93
     },
     {
       "id": "vxc1hb",
@@ -166,7 +2084,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 12.36
+      "score": 7.87
     },
     {
       "id": "geso87",
@@ -181,7 +2099,22 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 11.33
+      "score": 6.86
+    },
+    {
+      "id": "1qkb1yv",
+      "title": "Elon Musk Says He’s Happy to Cancel Unwanted SpaceX Government Contracts",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tSVFVVVpJd1Bmbm8waFEzVVo5Y0pocUlpZDRyc0V3aGJobVlJZGNJSnVCc2U5bXBrVGFEUzM3eEs3UU9qQ3F5TFlZT21UWnhtdlA0VjNFRE1VaGFsWEV4M1VrdGx2R3hiS1JqdjBjMUpoWEpkWHc?oc=5",
+      "source": "TeslaNorth.com",
+      "sources": [
+        "TeslaNorth.com"
+      ],
+      "date": "2026-11-06T23:47:24.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 7.85
     },
     {
       "id": "1ljl0u",
@@ -196,22 +2129,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 12.3
-    },
-    {
-      "id": "13dfw5v",
-      "title": "Elon Musk says production of Cybertrucks to wind down at Gigafactory in Austin",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdldVLTRLZlRSZ1lBMkhodGhRdnRiOEEySTA3dm5tNUpZOW9rODVtVUI4WVVNVkU3dUxVcXF6QWtGRFZJTHhCZ0d6NkNFeDFySUc4d2F5dms1V0NWaVR6bjhLQXpKdEJad0pjczdmZFY3OGVtWnB1c0dJZldZTUR5ZW1uSXg5R0ZPdWRxYndjclVUbmhxSDdlQ2pOZ3BQWkp4YWlxQ0tERFF0NlZjNGFVVGhHWnZKVTN2aG00TDNNQ0NiMDR1OXFkTFUzOGFMQ1JKN2FhQU9lUDlRbnJ4TjI4c0pqd1hkUQ?oc=5",
-      "source": "WFAA",
-      "sources": [
-        "WFAA"
-      ],
-      "date": "2026-11-06T23:45:29.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 12.29
+      "score": 7.84
     },
     {
       "id": "1d2b8f1",
@@ -226,7 +2144,37 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 12.28
+      "score": 7.83
+    },
+    {
+      "id": "pqco6i",
+      "title": "Starlink Invites US Stores to Apply to Sell Its Internet Kits",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZzRPMEQwNHNVY0ZrUjFiRTA1Y3MyNXV1X3BkV2kyeUhHQUh3UktTM25Ed1oxYlpTVHoxeGdNSU9uMjR0RGxuVHpudWNEdHdNOW40ZFRFcmtGTmdfTmNRVDNjNGVuTTN1dFlPU1BJTEpPR3JES0M1U2c5ZVVaM3FrZlNDa2kyZnZtaTF1MUlZeHhpTm9YbjJ4RElXUGQ?oc=5",
+      "source": "TeslaNorth.com",
+      "sources": [
+        "TeslaNorth.com"
+      ],
+      "date": "2026-11-06T23:29:09.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 6.8
+    },
+    {
+      "id": "tryku",
+      "title": "Elon Musk says Tesla will stop making iconic vehicles",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQk5DQ0NOblFsTFVCcDVuX0VJX0ZKSlVURFJ5VlhEZEhXS1NnTTdlRXhJbXJfT0VGQXhtdG55alZUSjMwX2pNSnFoa056MFU5OGtBMWNoQ1dTT1FwMXNQem5lYmpzMlMwb3U0cGcxMUNHZnBsbWZoQ2hndl9sSG5Ockl3c2RtTlBvVjhXWUF1RQ?oc=5",
+      "source": "TheStreet",
+      "sources": [
+        "TheStreet"
+      ],
+      "date": "2026-11-06T23:10:00.000Z",
+      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 7.76
     },
     {
       "id": "15fzrlr",
@@ -241,7 +2189,7 @@
       "image": "",
       "snippet": "",
       "category": "robotics",
-      "score": 11.04
+      "score": 6.71
     },
     {
       "id": "9kkwfc",
@@ -256,7 +2204,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 13.01
+      "score": 8.69
     },
     {
       "id": "z7yq7l",
@@ -271,7 +2219,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 12
+      "score": 7.69
     },
     {
       "id": "7h84wy",
@@ -286,7 +2234,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 11.99
+      "score": 7.68
     },
     {
       "id": "26qyaw",
@@ -301,7 +2249,7 @@
       "image": "",
       "snippet": "SpaceX announced that Don Harrison, a Google executive, has resigned from the company's board of directors.",
       "category": "space",
-      "score": 10.98
+      "score": 6.68
     },
     {
       "id": "tezcjw",
@@ -316,1953 +2264,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.9
-    },
-    {
-      "id": "1580e0j",
-      "title": "Starlink Has Wiped Out 83% of Viasat's US Subscribers",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaWNpVlhxOVdVR3NSTVp2RlhHOTVSS0xoOFB5R2tBdWkwaXIwYXh0eXEweFhvNmExOTNmQm1KTmJhX1BpYVVoMzE2cm51WC0tMVlEcEtfUmRIREFXdWxjS0Q4UDFzRTNMbHJfYl9rX0JHMmZNQk5KTDEtSTBQYkIxUFYyT2tNSTE5OFJxSVZLTQ?oc=5",
-      "source": "BASENOR - Tesla Accessories",
-      "sources": [
-        "BASENOR - Tesla Accessories"
-      ],
-      "date": "2026-11-06T22:06:48.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 10.88
-    },
-    {
-      "id": "1luktlj",
-      "title": "Falcon 9 launches from California on classified mission for U.S. Space Force",
-      "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
-      "source": "Spaceflight Now",
-      "sources": [
-        "Spaceflight Now"
-      ],
-      "date": "2026-11-06T22:00:39.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106-USSF-432-Launch-Image.jpg",
-      "snippet": "A Falcon 9 rocket lifts off from Vandenberg Space Force Base in California on Nov. 6, 2026 on the USSF-432 mission. Image: SpaceX. SpaceX launched another batch of satellites for a…",
-      "category": "space",
-      "score": 15.85
-    },
-    {
-      "id": "1me2syp",
-      "title": "Elon Musk Offers to Cancel SpaceX Government Contracts: Can the Stock Live Without Them?",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzVlZUNHp5RmZHc1BnRnlvR0lkalFidGtVclJoQ0tpSkxrejBkQmt6TTd4R0VWUV9DOTl5cW0xTkI0akZLOE1EZVM3YkpGWEc3YUI0aTRCOWRGcHBNWkdwcG9EcnZ4SmRxLXF0cmlhZnVxWGhWUU9fYg?oc=5",
-      "source": "BeInCrypto",
-      "sources": [
-        "BeInCrypto"
-      ],
-      "date": "2026-11-06T22:00:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 11.85
-    },
-    {
-      "id": "qc86sr",
-      "title": "Elon Musk once said the Cybertruck would be Tesla’s ‘best product ever.’ Now he’s winding down production",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ2lXTktpTlozT3hmbktnSlluVl9QU3Y3UUY5eG5uRk8xRjVRdm1tOHhac2t4XzZhRkE4dHhMWkpkb1gtQ3I2a2lRb0ZrYi1aS1FhdnBIMkJZYUhDVGUwVFRVRVFHMWt1ZTFSenc1Y3JJNTdVRzV5ZHdjTHA1MEFkN3ZrMEJGNTZVRTZDLTVfNkx6TVFHTzB6MGhZWVhpd3Y0cmdqdWZfRTBEejlpQ2VIbWRWNXZXbHJOMm9Vcnh6aGd0WEt6bVRUVnpkUlRUTE5ISHFILXdMbw?oc=5",
-      "source": "Fortune",
-      "sources": [
-        "Fortune"
-      ],
-      "date": "2026-11-06T21:59:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 13.35
-    },
-    {
-      "id": "15qk4f8",
-      "title": "Senator Gallego Calls on Elon Musk to Testify Over Ukraine Starshield Shutdown",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QZmc2ajdNSTZmOS1sRWUydWM3T3pBS0t6aFptVDNPbkdjQy1WVkl5dWpodmF6UkpPbTRadFlsX3FWVnIzQUVPYVVjYjFnZThxeXdhdHdMMlZlRjVDYU5HZXRR?oc=5",
-      "source": "Forth.News",
-      "sources": [
-        "Forth.News"
-      ],
-      "date": "2026-11-06T21:53:59.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 11.83
-    },
-    {
-      "id": "108bs2l",
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lMWdybVlISnZwQXhjTHZ3c3BFWVJuSG94UWVtd0wtT1NoNlFOSW9GdXliaXNES3lsbXpQaGlYeVcxZU5xRExMblRTNGh5SUJtNThlMnRVdVBjOFU?oc=5",
-      "source": "BBC",
-      "sources": [
-        "BBC"
-      ],
-      "date": "2026-11-06T21:49:50.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 14.81
-    },
-    {
-      "id": "18a50au",
-      "title": "Elon Musk Announces Cybertruck Will Officially Be Discontinued After Years of Controversy, Lawsuits and Low Sales",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbFNCLVI3Y0F0YUhHOHJsZk5qd1RlbTJtWEVfMnNwN1FqalBZenRSMFJCWFlXcEdoa1B2UmYwRC03emduQkE0RnhQZlJpWFgzaDIzS3BFSHlDMXJlQXlwLVAxd0pzSmZ6XzB2bG1kNUc1bGZTeV9uaERCb3JTcHA5d3BRbW5QYUF6VWwyRXZ1Q1prYVBvMG1LMWRn?oc=5",
-      "source": "People.com",
-      "sources": [
-        "People.com"
-      ],
-      "date": "2026-11-06T21:46:42.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 13.8
-    },
-    {
-      "id": "4c356f",
-      "title": "Elon Musk opens the door for a big SpaceX acquisition",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTE9Sc3VRajM0c3ktNUViLWFNVndCQWNNRldQRTNma3I1WDF2emFvcjRJNlNNTldwVFRua3pVa0F0YjM4MFZGeFhDN3o4aG5mdW1rbVRZTGotaWtRNTN2TE1QWWxXeExrY2pJcVFjRFZHeU40MENlRmcxZ1ZORzNBQWtMRGZKUDk4MklQdDJ4TkJOdWg2eHFyWW1jV0w?oc=5",
-      "source": "MarketWatch",
-      "sources": [
-        "MarketWatch"
-      ],
-      "date": "2026-11-06T21:45:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 13.29
-    },
-    {
-      "id": "j34zej",
-      "title": "Why Do They Despise Musk?",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEUDFCTWNDQlByQ0xsQ2daanNQQzhJUjVreXdETHRESE9XMHlPZEtaek9LUjRGMkJ5RXJpNTRoN0pGandQYmVCWnFfQnlMT0pVaWdMMnBFWm4wV3ZTOENzaDlmZnl2ZUR4N2c?oc=5",
-      "source": "texasinsider.org",
-      "sources": [
-        "texasinsider.org"
-      ],
-      "date": "2026-11-06T21:44:10.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 11.79
-    },
-    {
-      "id": "2dsk5x",
-      "title": "Starlink Now Offering Wi-Fi 7 'Router 4' for New Residential Plan Sign-Ups",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWHVqeXByekk5bUNQcW9uandTd01hOE5oQ1REMWQ2cTFhd1Rjb2hWMlY2YU9Ya2kzN3hKMUxOQVNTLUhIZHpIREhKbUptNDZQcmhvdTJNSzRVZWlPMkZlcW41MHZwM1FYZzcwYzBRWTd3QnhOZ1VKWDdkcnpyVTZvSmxwX3RYdlJlVTRibTQtNTFaQXJJa0RjMG80ZUNUZG01Q1VEWG1Sb1k4dFlzeEF6Mw?oc=5",
-      "source": "PCMag UK",
-      "sources": [
-        "PCMag UK"
-      ],
-      "date": "2026-11-06T21:41:52.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 10.78
-    },
-    {
-      "id": "ibnexh",
-      "title": "Elon Musk Is Killing the Cybertruck. What It Means for Tesla Stock.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU1BjRWpvRk9HZ21UWmN4Q3dkcmlOMEktZnpTMmRZYXg3N3pGUlhEaFNXQ1pjeE85QTlidTBlblZja3NPNnE4cTh5VGoxNEVSOTZ4UEJzVTBSNmtLN3ZPOVljVXNvRy10N1ZMZ3NUU29fWTJpb3A4WGZwX0ZEWUlhSFowZFg?oc=5",
-      "source": "Barron's",
-      "sources": [
-        "Barron's"
-      ],
-      "date": "2026-11-06T21:41:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 13.27
-    },
-    {
-      "id": "2klg91",
-      "title": "Elon Musk’s Very Bad, No Good Week Continues; Admits Defeat On The Cybertruck",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZHhBT1RtTFR5cnVHQTV2RUpkdUJTUnZiSm9HczRyR1RaWURCdDdhR21pMDJJVGxVMkFKYS0zSEU1TFkzVWFlWEJhTUNiNnhxLUJMdVFWSm04TnJvN09RUHBVSXVnbjBSbTFfX25tdHhUTWJQSkQ2VjgzUlZkbWFrc214b1JlUE1EeW1vMVRpVQ?oc=5",
-      "source": "BroBible",
-      "sources": [
-        "BroBible"
-      ],
-      "date": "2026-11-06T21:38:39.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 11.76
-    },
-    {
-      "id": "o5n01t",
-      "title": "SpaceX Plans Starship Flight 15 Launch with New Recovery Attempt, Ticker SPCX",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQk5HSV9Kd25WMHZ1cVNRS2RtRTAwTGgyYnlyNUFNUjBOYnZ6SGlGVDh2dmNVT3lmYlBMUkpKUWxVbDkxZXkyYlRrSkVoQzFoN2RrSVdSTnJCNTFWYWVLdWpFSXV2THBoTVBxcnRkMmlPTkJMRU5rOE9DODFIbjFDazFKSXlCTURUbTUxVVZodnR1V2g2bERWQ3c0S3VhYk5WWTgyMjFyUU9HckM4d0dCbFcwdzlQZw?oc=5",
-      "source": "GuruFocus",
-      "sources": [
-        "GuruFocus"
-      ],
-      "date": "2026-11-06T21:36:22.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 12.75
-    },
-    {
-      "id": "1obvmbj",
-      "title": "Elon Musk Says SpaceX Sales Are ‘Exploding’—and Forecasts Revenue Twice Wall Street’s Estimate",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUmNBOVZudDlZREhxOTBldFJEbEI4Wlg4M3ZSdGlPSlNPa25YZDE5UXVoWl9nWU16V3htR2hBcmU3ZVBZaENHbF9QdDcyZFZoVHhpeDFMUll3bURFaUFPd1pIZDlxNjJtZG94WEpCLXpDeFVSdktVZGxrTnJiOTBObzNETDE?oc=5",
-      "source": "Barron's",
-      "sources": [
-        "Barron's"
-      ],
-      "date": "2026-11-06T21:34:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 15.24
-    },
-    {
-      "id": "1hq8r6x",
-      "title": "Tesla will phase out Cybertruck production next year, Musk says",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN3VnSV9tU2NBQnRvOFhDRTdfWTZnZUVLVFlVRkNOdFdmYnp6QmdmcUFHMVV2d2Y2SjhsbjVCeG83dXBhMTdoNG9ReU93aW5JZF91NU1YN181ZUVPVkRYRG13ZGpIYjdUX3UyRVNXZHJhMjZXbWtWS0drUkotLTFVWjAtTG85SURtNnc?oc=5",
-      "source": "AOL.com",
-      "sources": [
-        "AOL.com"
-      ],
-      "date": "2026-11-06T21:32:54.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 11.74
-    },
-    {
-      "id": "1atq147",
-      "title": "Grok Pricing 2026: X Subscription Plans, SuperGrok and API Costs",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAtSjJZQ1VBbFFmVzJUSmhaZDFld1lKS0ZLYmpHYzQtaXpORHJIRG9yWTlyTWlaMUY2bXpiUk9yUUh6SXRLMDVNLQ?oc=5",
-      "source": "Fello AI",
-      "sources": [
-        "Fello AI"
-      ],
-      "date": "2026-11-06T21:30:33.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "ai",
-      "score": 10.73
-    },
-    {
-      "id": "rlhes7",
-      "title": "Tesla Jumped 4% the Morning Musk Killed the Cybertruck, and Investors Know What Replaces It",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOUp6ZXJOWmo2c3FrdnJUUnFfWVhjd21KdG5zTzV0a2gwUWhCRTNleTlITkwtbVFEX1dhQW40dTFBNWJ5QXVZeUJUaUVtUTl3N2xsOTEtTXlaN0ZWOWhrM1lKQ3hUcENSMTFWeW00dEVHaWg3S2NkM3ZseXBTenJ4MzdEY1JPZTUtS01ZOGdNSENnU0ItcWhEVGg5WjJ1OU5wUTZiX3luWmF6RExfenRYblQxa29xQlQ3dWtiZzB1OUxoRTlfOVZhQ2FUWnJadw?oc=5",
-      "source": "24/7 Wall St.",
-      "sources": [
-        "24/7 Wall St."
-      ],
-      "date": "2026-11-06T21:27:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 11.72
-    },
-    {
-      "id": "5c6irk",
-      "title": "SpaceX Land Deal, Tesla Merger Dealt Election Blow. Space Stocks Rebound.",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM2JQek9iNjBJQ1pWRDVQVmtsbGlPcGNHNEp2aWN1UEhQWDdKSWxaNmZta1hUUTZMRU10UjFmaE5PUkdQUERVaktPa3VrYURkVDhRcGZhRmZ2TmkwVDdUYVFFWWYyd19CbVVYdk0yWUxyRDRuVWpHb1NNREFaZ2RSTHpjSTBtZURuazNQX0RVQWN0MG11UDFtZl9BVXB4TDNac2FFbFVzS05nRFNpdmJSX3ZZVVR6VGNLZjZvU0pxOGpPQ0dVNWduZ2JPSTdJT085OG41WndPWUFjYlVpYkVybmV5QQ?oc=5",
-      "source": "Investor's Business Daily",
-      "sources": [
-        "Investor's Business Daily"
-      ],
-      "date": "2026-11-06T21:21:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 12.69
-    },
-    {
-      "id": "1rf87ru",
-      "title": "Elon Musk touts data centers in space at Baron Investment Conference",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcXZMYTVfUDVIb3hFMktJMERRN2JralJjVzZFZi1GbkZYNk1NaC1mNF9hcGdHSHZ1ODBwR0NRaU11NDcyRVpWVzZpV2pRMVgzUVAwWDFqVE1aYThwN0ZFSDNid19PZ3dVWkZiU1U5cFBlZmhQOTdndkdvZDRIZFk4LTc3b1VhVEY0UnVNM09sZ2FSNnRuTUV2NnZzd3pxclNQcEFWWG8xemZwVEk4TjBZd0hBWTl6UQ?oc=5",
-      "source": "InvestmentNews",
-      "sources": [
-        "InvestmentNews"
-      ],
-      "date": "2026-11-06T21:18:42.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "ai",
-      "score": 11.68
-    },
-    {
-      "id": "1weeuhc",
-      "title": "Musk Says Starlink V4 Lasers Could Outcompete Subsea Cables",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGx3VzEwZkZaQ0wzdVZJUUVoaGxDOHNGa2RiMnJJNUV6STUxaTdRcEhKRW5MZkNIWkdQekpGc3FtSldqT0ctS01saTRBcUxLZ0E0SzhMa0xEbW5oelJKTVMyUUVXcHM4dnlLQW9pTm1mVVlnTEFmTWJCbGpPTzhqemJ6SG0xZ1pqUlU5alFsaVI?oc=5",
-      "source": "FourWeekMBA",
-      "sources": [
-        "FourWeekMBA"
-      ],
-      "date": "2026-11-06T21:17:27.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 11.68
-    },
-    {
-      "id": "unro8i",
-      "title": "Cybercab Hits Austin: $30K Price, Cybertruck Out [2026]",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeUFQQkNpdl93OXFXcTNsWUFQeUNwZUR5VHduU21vSlFVS1ZOaU9UOFFsTWRmTzlHQkZMVHk5WjJBUlllN2pHakdCUUFuZFFuTkFlOUFKdlJRQUFQa0RFWGxPeEpNTktqWUdVNGlVSGE0a1RrOUViSjBfQkFGM0J4RlhCQ1lxZnFEX3Jta2pB?oc=5",
-      "source": "https://tech-insider.org/",
-      "sources": [
-        "https://tech-insider.org/"
-      ],
-      "date": "2026-11-06T21:08:56.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 10.64
-    },
-    {
-      "id": "1vxkjys",
-      "title": "How Elon Musk Frittered Away Nearly $500 Million on the Midterm Elections",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT2x1ZWRGRnBiajdleDV0dGYwVEdURk9oSE9JRjhWRVV5aWVoVEdtSFBsU2dzWi1NSUktNXVTV0k5OWlTSzV4bURsNEJBc1ZhTldtamJUUDFQdUctemJPekVZeTA1d25zVl9kdzMzWjZjazNWUG04bGlIR1VNV0hMN0NHOTdUejdENkRMNG1rT0JmUQ?oc=5",
-      "source": "The New York Times",
-      "sources": [
-        "The New York Times"
-      ],
-      "date": "2026-11-06T21:05:42.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 14.63
-    },
-    {
-      "id": "chec8n",
-      "title": "‘Bad week for Elon Musk’: Colin Cowherd piles on after Cybertruck news fand Republican losses",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5saG5LcXVpQW5KUzBWd1B5Z09QWl90Y2VQYTNvTHE3YUlTSmNVRHBhNTAxUFNRUEJFaGRERDBmcnNRNTNTd3B4R21pR1FpTFdyVU1rOTFpVW5oSDA5R0V6M3pjQU1fNVhlR012cTRZYTFkQy1fM0dJYjFPaGstZw?oc=5",
-      "source": "Yahoo Sports",
-      "sources": [
-        "Yahoo Sports"
-      ],
-      "date": "2026-11-06T21:05:18.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 11.63
-    },
-    {
-      "id": "19mvdbz",
-      "title": "We Asked Grok if Ethereum Can Reach $4,000 by 2028",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2lWQy11VXJCTkJpU25WY0JielRkZW03X042UGJteUFUWTlweS05NUVpMVF2UXZKNldQa2xxZG9FV1VQR1FtMGZkN0psYU5ic293SEhLVnNRdVNYQTVSbnBUUFZlWElQaWJ3OGtMajdIMFRGRlBPZmZnUEp6cUs0ZUtWbGVHaVJNRlBZUmFFZVlPVzhmUm9fRWJOb0s5LVI2THYyVVJBS1FsU1U?oc=5",
-      "source": "24/7 Wall St.",
-      "sources": [
-        "24/7 Wall St."
-      ],
-      "date": "2026-11-06T21:01:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "ai",
-      "score": 10.61
-    },
-    {
-      "id": "1uvqv4y",
-      "title": "Tesla’s Cybertruck heads for an exit after years of hype and division",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkdNclU1NURkXzBzcmRNRDZKSDdGaDZTdC1aSThJc09TM2pPcEJTZktIQllOV1ZrX0N6QXk4eEhHR0prbE03QlJjS28wMWp2VVYzMVhUeTlKYzBuRWtiazFEaThCNUhLNUQzUG9rb0xPaEQ1bF9KcFo4dzQ0a2FxSWNEM2JYWEkwQTRLQ2ZCSkk3c2luaWhqUERaZUhkLUVsdFpaQlFR?oc=5",
-      "source": "AP News",
-      "sources": [
-        "Greenwich Time",
-        "Boston Herald",
-        "AP News"
-      ],
-      "date": "2026-11-06T20:59:31.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 17.61
-    },
-    {
-      "id": "18lgr6j",
-      "title": "Critics Slam Tesla's Gamification Of FSD As Driver Hits 25,000-Mile Streak",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55QWFadW5ERDhEVGlMYWFaS0w2Um4xZ2RURHE2TGN3WDVwdldKSVJHZndxZWF0WVd5WUVBOWtqdF96VG5BeTJHUnhXcmhSbTN3Y0JRakF4X25kQWc5djRQMC1aSUd1dTNOT3N5ekRn?oc=5",
-      "source": "InsideEVs",
-      "sources": [
-        "InsideEVs"
-      ],
-      "date": "2026-11-06T20:58:30.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 10.6
-    },
-    {
-      "id": "3edjxa",
-      "title": "See Ya, Cybertruck: Tesla Prepares to Say Goodbye to Its ‘Controversial’ Pickup",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdlhoM1FRb0tJUWJtSHQ0MkptOGRZSXJhYlduYkNVV2Z5UWQ3UHd2Q2RkdGtoeER6QmYwSmk0cG0xaFdVVHg1RVUwNDdSUUZsNkUwb2hDVjlJSTlpb1dTYzdWcGNkTXAzVmhKU0RDam9sRlV5UUUwYTVRV1FVYkROaFRmOGl1M1M5M2U1aF9EREFWQ1NRbkp2ay15Y3dRTXpvVVU1OWJ4eGpEVGpPSkZuaC1OQ3BGVFEtNDB1TnoxOUpkOWZNSDBnMU1mLTVKdw?oc=5",
-      "source": "Investopedia",
-      "sources": [
-        "Investopedia"
-      ],
-      "date": "2026-11-06T20:48:28.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 10.56
-    },
-    {
-      "id": "1fizb2u",
-      "title": "You Can Now Rent A Tesla With FSD On Turo",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWTDUzbHI4bGF6MTdvQjBDdVBjRkpUTWd2LVA5MThQUGFDYTdvMFhoYmVaT3BwU0xRdU01Mm5ReGlYQ09pbjBiZ3UwR1Q4WU1aMlJ0QmFGcnBZUFFrYVRfWTlHOHlXOS12UXc?oc=5",
-      "source": "CarScoops",
-      "sources": [
-        "CarScoops"
-      ],
-      "date": "2026-11-06T20:48:26.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 10.56
-    },
-    {
-      "id": "o3rzzj",
-      "title": "Elon Musk announces end of Cybertruck production as sales continue to plummet",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcXRrelBwOWpkT0JMT0x0N0tKd0FlZ2VvR283VmpXMTdCVkFMZU5KRGlkVURGOXJ5eFFOeUxPa2cwSWk1aTROWEVGXzlfbHpJRzluT1NTZDQycGpmUkEzTTlLbmpQUnNWd1Nza1RxRmtscFdCTzFVZnZTMmwzRGc2bmNxRERXNkRWLTJ3?oc=5",
-      "source": "Yahoo Finance UK",
-      "sources": [
-        "Yahoo Finance UK"
-      ],
-      "date": "2026-11-06T20:42:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 11.54
-    },
-    {
-      "id": "11ikd0l",
-      "title": "80,000 hops per second AD9361 measurement confirm Starlink terminal uplink/downlink channel pairing, and surprisingly big RF radiation",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcXZOMEItVlpFSW5Bb1duc3NZSXhWRlpSdXUzb2h0ci1vY3VHRGpFa0EydndEVzdHTmQ4MmdUR1BSYjZKMHR3UFhRa2F4dVA1SHF0ckxtcUY0MWRVMHVPQTNhSElTRTR4XzZFbUpIMDJpMFBOalZfYjVDTkVXWGlzVGd0b0xlRi1XQUExS3NPTVN6c2RsbHEtS2Ntc2gxUTVXY1VLR2xYdUlmaXduZkdEZEt2YkdlcXc0Z3oxLXdGakpzTVZLV1J1RjVqODYyeUtTWjREcnU0OEFFWlRONEtyWFJWZDROdk8wN3pRWFZpNzRBcnFsTEpMdkIxTHJwaTQ?oc=5",
-      "source": "Adafruit",
-      "sources": [
-        "Adafruit"
-      ],
-      "date": "2026-11-06T20:41:50.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 10.54
-    },
-    {
-      "id": "19863at",
-      "title": "Musk Says SpaceX Will Hit a Revenue Number That Not One of Its 37 Analysts Believes",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN1Z5WHVqZTlWWFdqaGJLbjF4Tk8zbk5zUUM2U2dXeFBIN0VEaUxTTXVpdHJSbEVaRk9tOExjZk5mWDc5a01TREpLYzVJRHhpZmR3MXNiMDROcmV2RG5TNzlJRHAwbkJjYy1NWVJwTXhCZ0U4aGNkRmthdXYtVUs2eTQ3X185am5IQmtycjVXc0NMWUhjeFVfdA?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "date": "2026-11-06T20:26:44.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 12.98
-    },
-    {
-      "id": "y356e2",
-      "title": "Elon Musk Movie Is Now on Digital Today After Abruptly Short Theatrical Run",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUllfeHJuVHNlOG1sRXo4V1Q5Mk5INUpJVkcyM3ZkVWVVVUQyeVZQVXpqYTYyT0l1ZDZxZlhoc3RKZkFmcWhsek5NaENIQ1FUMFRjMV8xbXdQbXFwaV9ZcnY4SXlsZTFRQm1sUTM5UEZfTVNfMmJWM2NSYWUyVWFoZUxiYVV0clBhZGlFZTFCUnhsaHBmZjBzSkJB?oc=5",
-      "source": "Yahoo",
-      "sources": [
-        "Yahoo"
-      ],
-      "date": "2026-11-06T20:25:06.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 11.47
-    },
-    {
-      "id": "1i104cb",
-      "title": "Starlink Rival Viasat Has Lost Over 80% of Its US Satellite Subscribers",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONHc5S3RwWTJSRGhTYlpCMU00emZTVHBveHVnV3VzSEppMUpVcnVsTkVUOUdiQUp4TDlFMlRkUURDaWxmNzJDX0JkRklDVGZ6Ym9kdE5WNzZVdGRtdUpKS3lVenlKZEJ4Tzl3T2Y3T2hJOVdLQXBpenZxcmRpTmZkMnRna0VsQWVfVHpmenUyMVNaVDQzMjdGQnZ0VUlfUQ?oc=5",
-      "source": "PCMag",
-      "sources": [
-        "PCMag"
-      ],
-      "date": "2026-11-06T20:18:11.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 10.44
-    },
-    {
-      "id": "12fa7wf",
-      "title": "SpaceX government revenue to fall below 10% of sales, Musk says",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxZFlycHBlZHFTMVRBbW9TQUtoXzFpenpzbmhvLUNBVTViZFNBV0hWRHpzY2VxWWRNa3g0Sk9KanhLcWNQdm5BSlZnckFEVVpPSnNESHdhYWg3N2E5cndDRXlvYzNyakxLUUVqd0RZQlRQZU5WQ3dHNw?oc=5",
-      "source": "Quartz",
-      "sources": [
-        "Quartz"
-      ],
-      "date": "2026-11-06T20:13:40.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 11.43
-    },
-    {
-      "id": "r42fpx",
-      "title": "News | Tesla shifts Austin factory from Cybertrucks to self-driving Cybercabs",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSVNIR0lSdmdKQUN6bVQ5ang4NnIyR1REak9pbHJzaEpldl9XV3ZYSlZYd2pLY18zRERoTmZ2T2xNc3dGT1pINm9iVnBmT1A0ai10amNQWWNJMEJPVF93SVd6NDliTnNNRl9hXzFGcDhUSE9fR0NjZGoyVEhlZjJKeGdwdVFGZ3dxYm9jS3E2OE8zTEczNTVBX256NjJ2WUJIa2QxbWozeVh4c18wY3ZLVHVB?oc=5",
-      "source": "CoStar",
-      "sources": [
-        "CoStar"
-      ],
-      "date": "2026-11-06T20:09:50.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 10.41
-    },
-    {
-      "id": "11ydlr2",
-      "title": "Musk: Tesla Will Rent Optimus Robots Instead of Selling Them",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVGNpN1oxMGx4My1hVmpNVW1hZVF5eHRBS2g4Y1FFWWFWYzVsQ3drdm8xN3NVREgxSDdfMVdfX2NacDZud05rME52MG4xYXgxSkkwMVdKRFlPUU1jVF8yM1NvbFFLTXMxZnNfRElLSy1mTFlNTkNjbFdqZkk3QldFQXdUUWU4RmROdldHTmtVQjFwUzJGeXl2aFIzVHhJZ3M?oc=5",
-      "source": "Not a Tesla App",
-      "sources": [
-        "Not a Tesla App"
-      ],
-      "date": "2026-11-06T20:09:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "robotics",
-      "score": 11.41
-    },
-    {
-      "id": "1ba29vm",
-      "title": "Starlink Router 4: 6 Details That Matter for New Buyers",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb3RMTUphSlF3aVpKS1ZYUERuWjdLYlctT3lLNXZlU2Zldm1SMVlsSTUtTU55TDVWUUJESVM4aHJyQkRHaXQyZVVXX2ZqaFdZVGJKeV90ek1mQTdiendvNDRkZXJzZl9YTWROaWo2ekw3LUpzYlZONW9jMExUc0ZxWDIyQnNzcFd0ZWptc1l3bFZ5WHc?oc=5",
-      "source": "BASENOR - Tesla Accessories",
-      "sources": [
-        "BASENOR - Tesla Accessories"
-      ],
-      "date": "2026-11-06T20:08:03.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 10.4
-    },
-    {
-      "id": "7dg68",
-      "title": "Grok Bot costs versus revenue: Musk's warning",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWE45ZEh4amF0cWJvY2hEc1NLaURsRjZodjc1OXdWcEYzdGJ4SHJudnJMYmFicXdHM3licXd2LW0wcTZXUmRqV2hxRWxidXo3RVlYNGJMRng5cFVvOVp1aTFreDVtU3VzX3dsc3kwNEF4NHhLenkyeGJhbWVkdW9HNXhtQQ?oc=5",
-      "source": "NeoTeo",
-      "sources": [
-        "NeoTeo"
-      ],
-      "date": "2026-11-06T20:00:36.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "ai",
-      "score": 11.37
-    },
-    {
-      "id": "1xuztpo",
-      "title": "Elon Musk Is Finally Putting The Tesla Cybertruck Out Of Its Misery",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVWs0aEs5NFh6bnZoVDFiQ3hiX3JSNWRYUW5rQ0JsWHdGNDNIdFpacHVXWW9lT2kzXzZCSnc5dkdod2QwdkI0bjlVaE0zbFloSE9BRkFyb3c5bkRnX3d4eWR4X0VSVmw4SXpsR1RpRGxabFZzWkJFT2JTUm0xZ1JyMnhsV3ZFd2RuRzlnMWdhWFhJeTdBdGJvNGtGUzNuUQ?oc=5",
-      "source": "CleanTechnica",
-      "sources": [
-        "CleanTechnica"
-      ],
-      "date": "2026-11-06T19:57:43.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 11.36
-    },
-    {
-      "id": "1gidblb",
-      "title": "The Cybertruck, Elon Musk’s Apocalypse-Ready Vehicle: Dead at 3",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CNGFZdWVDWF9pVGFRbk9KQmIwYlFDNG0xVHR0eXQ5N3pEdk5fb2xvMDBGQ0llenZGQ2pJUWJPOVQteUVWbWotYUtsMVlZZlNaWU5GcHFicUZRRW44eE1kLWplMGVJV1BpbWhiX2JKTQ?oc=5",
-      "source": "Texas Monthly",
-      "sources": [
-        "Texas Monthly"
-      ],
-      "date": "2026-11-06T19:45:31.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 11.32
-    },
-    {
-      "id": "1vu2abt",
-      "title": "The Tesla Cybertruck Is Dead, and We Say Good Riddance",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1WXhCaVprbFl5UG9DaHF2QmppM2g2a0lKUVZOdjJmMGt6dXdrRlcybHI3dTd1UW1rSVpJeV9uWWs5Nk9JOGRXTks3eEk1RFZMQXBsV1djLU95UmR6VXJOdE9uVmV2bjg?oc=5",
-      "source": "GearJunkie",
-      "sources": [
-        "GearJunkie"
-      ],
-      "date": "2026-11-06T19:43:08.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 10.31
-    },
-    {
-      "id": "19w8z6f",
-      "title": "Why SpaceX Chose Qualcomm for Help Competing in Wireless: Industry Analyst Jeff Kagan",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb1l4OGY0YmZRZ19TNnJIbmRwWlQ0eDZXM0xiQmZmY0ZaTGk0Rk5LcmtvSy1DdTJ5ZnctOXFQY282Y19oYmFlT2xhVE44ak41R1pXVTYtZEhqQU1aSjdZdWRhS3FKbE1VcWd1Qjd3amJNamF3YWF6SDZJTjRnUXFvZ0JBV09MRzd2Y3A0bUlRdDJCbXNjXzVaZUhRd0dCOUs4MU5CMTlDLVV2R3QwZldNMlJlV0lhOGEwQXF4QzVlZXBPQV9iOXljQVBqVE1yNHExdUNJ?oc=5",
-      "source": "The Columbus Dispatch",
-      "sources": [
-        "The Columbus Dispatch"
-      ],
-      "date": "2026-11-06T19:38:17.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 10.29
-    },
-    {
-      "id": "ymm3nc",
-      "title": "Elon Musk Pardon Petition Gains Traction With Tesla Influencer Support - Tesla (NASDAQ:TSLA), SpaceX (NAS",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT1dxWlRGSTJRdVJGVUVPcmhRLVhzR0pDcmJndXFOTjR4RzlMejRsVlotaUhPemNITHNWeWRXZWpXX3drMWZFcXFlOUx2WDUyeVhWaHhabGw0aURuSzJxdnFDenVPXzJ2SlFLcUtIYndRR3Q0ODY1aUhSd3dYYkk1ZVpMVnVjc1lyaC11X3NsM1JmUWUxeXZaTm5uY3JndmpUUkdES0VOdmE1aWMxeU95Nm10aUhjeW42NTZJVXM4d0hhVjZyTlhKQ1ZzdEJhRlFVNFZncEw0NzNwYTY3XzY2X2NLejhjQQ?oc=5",
-      "source": "Benzinga",
-      "sources": [
-        "Benzinga"
-      ],
-      "date": "2026-11-06T19:35:50.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 11.28
-    },
-    {
-      "id": "ynkh62",
-      "title": "‘Welcome To The Party’: T-Mobile Boss Tells Elon Musk He’ll Need $200 Billion to Compete With Starlink Mobile",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVzM4ckJjaXllUGw3RlM1U2hrMmliUDlUSVE0TURzMTlTRGR2WEh6REQxSGxrcUpuejYybnppQURhQXpQNUNOaVJ3VGJIRzV2QW04cGwzYm4zR1Nac3J5LXIyR2FnUjZMRXNMVTctQjg0ajgyYW9LQ2c4dEU3S2stTVN4MktZdzVFRjhULUlVYnQ3QQ?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "date": "2026-11-06T19:35:13.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 12.78
-    },
-    {
-      "id": "qucx1m",
-      "title": "Tesla to Cut Cybertruck Production After Sales Plunge: Elon Musk Expected to Sell 250,000 a Year, but Barely Reached 20,000 in 2025",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQT0hiZl9VSHo5V2ZrSGlCODdOV0RGdDk5ei00d21GOTJFeUlSSkMyb3dVZjA4d01TTmdiZ3hKY0NGQXpjdWZUejBkRVU1b2o5MUZrOHJNbzJDNS1wSS12bEpxUWw1VXIwZGVudmFCWmw1Y3dxRnR6LWtGckxfQjR5aTNDT1kzd1JLQnlRaEV5WEFEaUFHbmFvckdFYnlPNXByNGd2WVB0c205Z1FYYnRaYTgzczMtNzZFU2diUzFVd00ySnJKOHVIMHVUMHN1SFd0NXRoUUdUek5VNDVFVUxwNklqdWFzT1E?oc=5",
-      "source": "Revista Merca2.0",
-      "sources": [
-        "Revista Merca2.0"
-      ],
-      "date": "2026-11-06T19:34:15.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 11.27
-    },
-    {
-      "id": "1oe5n62",
-      "title": "Tesla Brand Slips 22%, Loses $474M After Midterms [2026]",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmszSjNuZGZRNVFiN2RRc004SVpyN2hWQi0xQ3ZxRC1LS3cwNHJRSFlBU3RtQXZCYkFTVkEta2paTUtMWUd3eF9faWpPUlV3enBpUWlocHotZHkybXJuZmVZcEZicE04dzl3T3AzVnVVbXozQ3AxRl9xd3BCcHhIcWNLLVc?oc=5",
-      "source": "shattered.io",
-      "sources": [
-        "shattered.io"
-      ],
-      "date": "2026-11-06T19:33:33.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 10.27
-    },
-    {
-      "id": "19vxot7",
-      "title": "Elon Musk's longtime backer exits Tesla after 13-fold gain",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYnp5WlBEaWQzMHhXN1BwdV9TekJzOW84cTdTV2VzOGRFMDlHcG44SzF0MldKbVdmQmNpbUJObWtpd2Rzb2pCRDBQbXR1RmF4RDdGV3ZGMmFRNnlCY080SjRsMjFsbjhFcndIMk9xcGJYT0hvajNRdDhEX3NrR0JyclgzYmdCUTRj?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "sources": [
-        "Yahoo Finance Singapore"
-      ],
-      "date": "2026-11-06T19:27:53.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 11.25
-    },
-    {
-      "id": "j1ijvi",
-      "title": "What Is Terafab? Elon Musk Explains the Name",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV3JuSG9jb0RpWE1DT21mNVpXNE01NnA0V0d0eGJEX1JlN2pYRlVfdWlTQ0hZZzMtLXZRdk5aWlFWUkZzdE9rdHpuYzREQnBFWXVqelAwQWM0VDdFdVpWU1FPYmhxNEIxVUlocmRpbnZVU3g1ekFKSEd1VC1zTWVUNmVFYnU?oc=5",
-      "source": "BASENOR - Tesla Accessories",
-      "sources": [
-        "BASENOR - Tesla Accessories"
-      ],
-      "date": "2026-11-06T19:10:28.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 11.18
-    },
-    {
-      "id": "15qmuvu",
-      "title": "Politics hurt Elon Musk and Tesla before. Could midterm results do it again?",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc0FsN2ZXMmhxWTkyTlpkcXRuZVFxNzdHSmk3UjEyS0RQakRHdE9KZ2VBVGJhQzlLaTJnYTNrbkhvMTJtM2hBZGhPWEd3MmNsWkNfbVA3OWwybndDV0dZemc3T2hzNlFuYkQxNDRkRFlZRHBmUGpsOEFpSWVyYTJjY1ItaXdoZ0J3QUdGMnFSVkQycVdST0kzWjgtNmZQR3I5NjZHLWctRTF6dkpIVWRqNVJ6bklMcjZ3dzFVdHhR?oc=5",
-      "source": "USA Today",
-      "sources": [
-        "USA Today"
-      ],
-      "date": "2026-11-06T19:10:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 11.18
-    },
-    {
-      "id": "1bofyw5",
-      "title": "The Tesla Model Y's Structural Battery Was Nearly Impossible To Repair. The Cybercab Fixes That",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWXhKM0o5WlI2Q1VHTm15RVBlWUxybS1pRlBzMHNYQnIwbVBjTzlyRzlHX2Vyc3JkRUIyVUtlRnctR3B5TEpENVlzdWc3eEtydDVMMDdWMW5GZmlRa1paZ1lkTEM4Z0ctUHVvdHFYeTkybDkwWno0QlFwUjVDX0pXbm9LVFMyelB4SXRZNE83VFg0UU0?oc=5",
-      "source": "InsideEVs",
-      "sources": [
-        "InsideEVs"
-      ],
-      "date": "2026-11-06T19:00:46.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 10.15
-    },
-    {
-      "id": "1mjbsvx",
-      "title": "White House said Starlink donated its service, but tax dollars are funding it",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNUdMbVVxYVNKOUp1LTJfcURWcUtFeDNCYWtnMS1yZ2FBRU5kcnhqaTlfTzNTMDRwQ0pWVTY0VlFTcmRUQ2g5ZUtWZk8yR3FseFM2MUFuSDNoNUhPejdVVjhnUElEaUFOVFJRMEk5TjR5X0NMYkhweU52dEJOR0ZEMzJmbDJjYllDcGkzUllOU2l6RUxMbE1nWlVJdFZfTW5QWWNUczZ1cFNFMWFRbUM5bXA3b3VSTDUwRHZLQjB6NEJGSC1IeDhVOWdB?oc=5",
-      "source": "The Washington Post",
-      "sources": [
-        "The Washington Post"
-      ],
-      "date": "2026-11-06T19:00:01.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 10.14
-    },
-    {
-      "id": "1lpq5es",
-      "title": "Epic SpaceX Starship Splashdown | Buoy & Drone Camera Views",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS0k5Z2djM3BMcjJ4YWlyT2dTSEhUbDZjekFSMi1HUWFYT1VOUVpwbHZYUHBHLW5aenB2OEJYckJRam1yZFBBeE9sN3dGaXVEUWRxdnZBbEJkZUthSV90LWp0Mm1IVUo0Nk9MUFJSN3BUWGtDbzlBTG1vMWYxOG4wdkhQTnYtemppNUxOeE1B?oc=5",
-      "source": "Yahoo",
-      "sources": [
-        "Yahoo"
-      ],
-      "date": "2026-11-06T19:00:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 10.14
-    },
-    {
-      "id": "15i5l52",
-      "title": "Dmitri Medvedev accuses Elon Musk of becoming a participant in the war in Ukraine by providing Starlink services",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaVVBLWwzdE9YNVY1anJCdVpDWURJeEZWS2FxTUlSQk50UmZJUEF1aWdIdlJnOFhrTUNnMWs1S1pua2Nrc2N6WnZyVWZiVnQ0ek9VQWpRZW9xMTd1enlhaWNKcXUyVmljWnVmaEZ1U29YN3hYT0FhRElWcjJpQTI1dExDUVJvYm9UNWo1QW1ZSzF6NG11V0QwTUpYS09ibURJbUtqdw?oc=5",
-      "source": "Informat.ro",
-      "sources": [
-        "Informat.ro"
-      ],
-      "date": "2026-11-06T18:57:47.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 11.13
-    },
-    {
-      "id": "vsiap0",
-      "title": "AST SpaceMobile to Build Its Own Rockets to Catch Up With Starlink Mobile",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDJNM3VXamp2UFNoSTYyZm9xbUVINXMxVEJoWVNnT1MtemdLVDJJTW1PRUdOUDZKUkJYb2E4NzlSRURrQ2YwQWtSUTBfVnNJVWlvVXlrRV9TODQxRkxIQ1RBdWZBZEZtZGtlNzl4TlpsS2VuSl9nUm1ORjY2dVNPN3dxSGRqNnk5ZEJZdlVic0FidkZpT012dnhSRVFENTZtcnc?oc=5",
-      "source": "PCMag",
-      "sources": [
-        "PCMag"
-      ],
-      "date": "2026-11-06T18:55:05.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 12.12
-    },
-    {
-      "id": "f7wnd8",
-      "title": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbldtaE1sSUpuV0ZtdmlfMnJHU3pFYWVmTkhRMGQzbW83NnFzU1U1a25TRHBlbXd3Vm5Ibl9DNmMzVlViQ1N2OVpCdlRNa2s0bkFObndmalQwRHBLdHpaLUthcHN5RVFRVnRTdEhNWldKdHR0elZKMkRTTGhLc1liUV9mNldHMnFEM1dBZ19Ga1VkVlZFaU1IT1pqakU0YnRaeUdJQTl5RnYtLVR3ZG9mVDFXMFRWSFpocWVGWU1ZYm9kUQ?oc=5",
-      "source": "MarketWatch",
-      "sources": [
-        "MarketWatch"
-      ],
-      "date": "2026-11-06T18:54:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 12.62
-    },
-    {
-      "id": "1vn241m",
-      "title": "Tesla Stock Rebounds After Brutal Selloff. Musk Has a New Cybercab Plan",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOFV1WmhRcEp1TWZ1dmQxTVhQd0NTZWRGOWtQRkNNX2VNVlNTbkVIMG1RZmxfSnJLYTVSSmtGZVplS29xNDNpRktDTFI0MnpvVWlma3dlalZNdXhqYi14WlRab3MwT3NkRGxsRnVscTJFTzI3OVZZZm15ZlVpc0xQRElhdUZPeks1UHZMb1pJbGc1OWkzSkJEN2hJWVk3Y1F0alE?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "date": "2026-11-06T18:44:19.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 12.58
-    },
-    {
-      "id": "1gvupuz",
-      "title": "After dabbling in politics, is Elon Musk setting his sights on Hollywood?",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcFN6Um9iLU9lV0laNmttU2JCVGtlSlNicWZIb1lITUxtbUFXSkNRTEZXa2JxQjl3VTdZYkR5a3ZTWjFGOXN6eWRuOEx3SjF5YXpoOUZSczNHUUFrbVNBN0NBZkY5Z1BaQU5lRzZRNVpCeVVzVW02eE9KMVRXWXQ4MWFiVmZ4aEV6Zm9ZV0h0bUxTZHB1M3BaQTRFSHNVQQ?oc=5",
-      "source": "Houston Chronicle",
-      "sources": [
-        "Houston Chronicle"
-      ],
-      "date": "2026-11-06T18:43:52.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 11.08
-    },
-    {
-      "id": "vbqzjx",
-      "title": "Tesla (TSLA) to end Cybertruck production next year, and it’s not just about the Cybercab",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMmhXM1R4Q0xNcnIzajMxeDZqbGNqdmozRUZwZHZzMzRHWnlwQ012TUxMRzh0UGRlMGJFZ3lEMkVJTTdmZVB3U2lMYzExYkEtcXR3Vzg2d3l5NGF0bGhyLW5vaW1BV2xkVmkwOWxoQ0NGYjBZa25sN3JPLVJXeUxzbUMtR1FSRmhVQUFWTkVVV3JwUWF0MWl1bDhBMkFaNkwtakdqdXo4Mk1TeXZiQUxneFVfMkR1Qnc0R2ttdnpqLWZwNms?oc=5",
-      "source": "Tesla Oracle",
-      "sources": [
-        "Tesla Oracle"
-      ],
-      "date": "2026-11-06T18:33:58.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 10.05
-    },
-    {
-      "id": "n59hxc",
-      "title": "Governor-elect Gina Hinojosa requests pause on Elon Musk's potential purchase of Boca Chica State Park",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLThIRmxlTjh5RUszVzNHUGZBRWJFTzdOWnJLQUdjTDcyVnZ4Z19hVFl0STRxa1Q5VjNCVE4ydGoyWl9ZRkZYMk1YNWQ2aTdJb0VnNlhBVGZSLXJyZV9QbFFXNERlOEsyTWhMMU9NSTdIWGdJRGNObVlpLTY4cUpxa3F5MGwwOVlrUmprTDZfVGJ5TExuR0hTc29MN3BTT3k4aXE0emdXMWJZUlRYWmRVVzBVMVhBNlZHRkg4OVZoRE5PVVZOZ3FvSDdFdXF5dw?oc=5",
-      "source": "San Antonio Current",
-      "sources": [
-        "San Antonio Current"
-      ],
-      "date": "2026-11-06T18:21:30.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 11
-    },
-    {
-      "id": "vbejpd",
-      "title": "Key moments from SpaceX’s Starship Documentary Episode 4: BTS of Flight 14",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2Y0VyUFFTWDhNcTZXMWxvMThZbDl3UV9kUnJBRTdNRm9zRU5FeTExeUkzaENzUzdCM3VpM2hpX3I3aVVJZVFUcVMtWDBmUU0yYkxlQjRqZXRlaXUtdEY1dVFqcHRILXRKejJlazZ1WQ?oc=5",
-      "source": "Starlust.org",
-      "sources": [
-        "Starlust.org"
-      ],
-      "date": "2026-11-06T18:19:49.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 9.99
-    },
-    {
-      "id": "1pf8tbg",
-      "title": "Tesla Is Killing The Cybertruck To Make Room For More Robotaxis",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0paSVNoOG12dHVYWXlPbERKNFNXT2xoUFhpdTBHMTMwbzRfZjBTVVJndFVFQ0Vtd04tR3dzSGZPYk5zbkJwT0k5Wk14b1BBSUg1TEVwb0htUklaS0dMU2xxLWs5QUJnU0xZMmY4VUtzalFodk1XYlBqUUR2dTVMU1BvVE4?oc=5",
-      "source": "InsideEVs",
-      "sources": [
-        "InsideEVs"
-      ],
-      "date": "2026-11-06T18:10:45.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.96
-    },
-    {
-      "id": "111w6u0",
-      "title": "Tesla Is Winding Down Cybertruck Production to Make Room for Its Robotaxi Bet",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaUppbDRmRzZHN1ZiRU5Wenl3WXdEU1BQZnV6a29GZ3hGb1lUZGFiZXVtajl0ejBZdUJsaVlfWG0xYVJIWWsxeXBaRmczWUt2M2oyZ2VBTVFuOUJReHd3X1M2WnNvUVloak01UFZQMGItR2RlZnMxbkljb0x2VmZUNzNNOHZqUDc1emY2d2FNZC1VcWtGOE9iOFVPemtDWnNnRVJTX3cxdTFxdw?oc=5",
-      "source": "Gadget Review",
-      "sources": [
-        "Gadget Review"
-      ],
-      "date": "2026-11-06T18:04:28.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.94
-    },
-    {
-      "id": "1uxqvp5",
-      "title": "Elon Musk says production will soon end on controversial, often recalled Tesla vehicle",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWlRyZ2xmNVF1YWdlZ1R6ZnhlVGVRb1pHdTRkRnBQTlZRLVdZQ05vblFXQkZmbk1kOHBRaVpkdkZ0cVhlUXJvcDNZZ2xWN3VudWRReGpHbWJWQUZ3d3NlNWV6T1NBX2dMUC0xNFF2NDhhbGtWQjdyQjV4aExfVDktdk5zUjBmMU5HemlRd2xzVjFtUnFmU19YRC13eHBWMGNmZ1dGaGZETFRicHZUTHZJMnNBcDZoeUtxNFV4Z1poQdIB0wFBVV95cUxNMlZqS2tscTQwWnloUVF4NE83QkRhT044NkdqLTR0Vml4NGZtNm9hY1RGVkdwc3BLYWkzbjVlNzVFVm90QnVkYm5fQWNGa1JsSktYX0p5MndEXzVDcmNFRnZSd25iVWhyWEFBSlk1Vy1VRi1rdDFVaHlNeE9zTDFkVTRkZXNTTmh2SVlIUm9NWWIwdkJmZWR3cmdKSFJtbG1CUlcwSzRkNkd5dHBNdjAwZUlYMHFmZ2pHbXU3TFZ4eWlSVnFScWJwSUtlazZFOW9WdTJR?oc=5",
-      "source": "AL.com",
-      "sources": [
-        "AL.com"
-      ],
-      "date": "2026-11-06T18:04:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 12.93
-    },
-    {
-      "id": "16z9swk",
-      "title": "Elon Musk wants to give stock to kids. What’s the problem?",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jeFVvanhSM1BlTHZvT2ZIZnRTeWotdDkyNHNzb045YXhYbTFkZWlJUFUzSUpOelluUnVjcUd6Q190R3ZQQkd4ZVRreW1xRTg2UC1vYnBjRmp2dDdrSDRGOVljbFpxRTdBcmYyYmNvOUk?oc=5",
-      "source": "Financial Times",
-      "sources": [
-        "Financial Times"
-      ],
-      "date": "2026-11-06T18:00:10.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 13.92
-    },
-    {
-      "id": "f9ktha",
-      "title": "Understanding the Tesla FSD System",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mM01KRUNTMTZMNlZSdXJNQ1JDTXlKYjN1WmZjYnhtUUVZUk81alFHbkpSanV4R3FuZ0NtM084Qkdlb1VCNkxScUdsM2RkVmlFQUU5aHR5SDlZblQ3SHFnQnBFc1ZwNXVvX3dFTzBOdGpXSlpmcnAw?oc=5",
-      "source": "Brake & Front End",
-      "sources": [
-        "Brake & Front End"
-      ],
-      "date": "2026-11-06T18:00:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.92
-    },
-    {
-      "id": "1shclgp",
-      "title": "Fears Starlink, builds one of its own: Russia rushes to scale up Rassvet",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQci1FWVBfd2lYSm5QVGtiOTVpSm96dW1rRTQ0Y0c5VkZqUHI1d3JaUm43OU9tdFhsTzJhNTRVU2o1WU0zNjk3enJwNk5TREF1SjdZLUVvOW5NbTJNeDFVVU5jRVd0NXMteE1iT0RLd01LX2MxeHJySlh1RkkzaXRyalRzc0oxTlV2aVZkVGVaTDUtTGI1SnpQcm5nMDZCSGpfZVBGa3A3VzRfNWxWUU9aMWFFQThfMXhJR2hiZkdBdHUzWGIzSzBURHpFU2xhZTdGd2dTQVFRbE0xTU9sdTR4NnJqZ1R1bzdVY0HSAe8BQVVfeXFMTThucTd1VkhJQjBLQU1xT3hHaG1RWV9iN1dmYXBRaXY2NnVHQmdjNlVUZnRFOVBNYkhTZmlHV245NzVmTDZMQWRYd3NqOWVQUnRPRTdVZ3h4RXppWks0M1RPU09tSEs1WjhhNHRlRXRJZkFVVnVMVXhVU3lzUzFDSzMtVWtHSW1pYnhQWGRIdjRMaHVDZEtVY05wSmZGUUY4cFpfTFpLNHllTjRKd3pzcHJPTG41VEQwci1oQjdhMWc3RlM0OUFTNnZxUTRHNllzQWlURUh2aFluNVNXQ1dGWTV1VkxkU0NHM1hxTXd0emc?oc=5",
-      "source": "The Times of India",
-      "sources": [
-        "The Times of India"
-      ],
-      "date": "2026-11-06T17:48:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 9.88
-    },
-    {
-      "id": "18m5wre",
-      "title": "SpaceX prepares for November Starship flight 15: what to know",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUVA3UEZtelVyT0pEdVRlcVdnY3BKMG5aYk1wUm95TjdCVm9XbnloOV9TZ3lUcHFmWWVmR1N0RTNBOUVROHBLUDRUdGlHOEs0U2ZnQTI1ZDUwc2xxNEJ0YjgxWGFzbFlvZmd1Slp2RnMxb3h6Z2VYZWJqUjJPNHRVbktMWDZvM0I3NkNOeVNjdV8xc2lTR242YVdJYnV1anRibmtpUNIBoAFBVV95cUxOSF9Td0hTV3lFbkFHb2lrbW1QSGVKMi1Gb1g2NVotSnZMM3BDTHRDQ2ZIakxyRWFnLTRqUzJrUnBsQUhsVEp6RTgyUFU5RzQxM3BvR0tfRmtaVkdNMFN0YTYzNG8yTkFiVmhlb1ktenBleUdDaWVCdnlKdXlXU0VhdjlXdk1mVnhjUDd6cjdLdE9EdUh3N1I4SnJWMFdkOTVf?oc=5",
-      "source": "The News International",
-      "sources": [
-        "The News International"
-      ],
-      "date": "2026-11-06T17:46:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 9.87
-    },
-    {
-      "id": "1slmf23",
-      "title": "Elon Musk’s AI ‘Grok’ Officially Arrives on iPhone CarPlay",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaURsZWl5cHZETElmRVBZams2dlpFNEZ4SjlWMm1BR1A4VktqZVVYS0ZVU01xRWQxengzQzNUV1diMlNIRlZPTGFIeHZjUzhIaUZtRWh1cTNTWmhsdWpIUVZob2x4aHB3UDRDUTVURUstY0NRdG96LXBudmNHWkVlTmhrWWI4S29rRkY0UGhzV1d0eFhoMGVaRUpQNUF2d1lLMkpvODJPOXNDQQ?oc=5",
-      "source": "آي-فون إسلام",
-      "sources": [
-        "آي-فون إسلام"
-      ],
-      "date": "2026-11-06T17:39:17.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "ai",
-      "score": 10.84
-    },
-    {
-      "id": "4p8csp",
-      "title": "Democrats have the power to hold Elon Musk accountable for his DOGE carnage. Here’s how",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBZkxHWk5fOEtUQzFjNDJ5dEVqOFZmVmJIcmtjX1ZXTmRlaF9tOHRpeWo3S1U2WjZ3ejY5YndvaTdMOTBvYzRKNEhNekJNdHRwWmhDLVhOMEVKMnptWEN0NmdzWVFCOUNYNzFUQXZiamhYN1NoVFFncFUyUm1YUQ?oc=5",
-      "source": "Fast Company",
-      "sources": [
-        "Fast Company"
-      ],
-      "date": "2026-11-06T17:37:09.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 10.84
-    },
-    {
-      "id": "pyffn",
-      "title": "Elon Musk plans ‘profound’ Starship launch on Friday 13",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOUpwLWxybUlpZHhta2RGY3lGbjBDMnc2NllSYk9IVk9VNTdUaDNjXzRLVkdsbERMTGJEamlIRHdPQm9xT1pjLXVvN1dQMkMyNjNJdFBQLTZSTFhxdEdVVlpZTDlzMC03eUo0ejJQTm5LRjN1aEgyNjAwbnlnemw3WVZsa0ZVWU0?oc=5",
-      "source": "The Independent",
-      "sources": [
-        "The Independent"
-      ],
-      "date": "2026-11-06T17:36:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 12.83
-    },
-    {
-      "id": "7rqsuk",
-      "title": "Canadian YouTuber Linus Tech Tips Tests Tesla FSD",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZVZaT1Q4X0NlakJzTnFkTGdqTmFPM3pDbFZPUnBYVVNrVzFxMlpZQ3VaTEJFUmJrNVpjMmZ5RVphUDE4WURNT0x4NkhnN01LdTdzSEVnS2NUNkROams2cnNzNkpnalhWcDVuckhETUtxaDZrSHNXTXhKYUlpN2dPTlZn?oc=5",
-      "source": "Drive Tesla Canada",
-      "sources": [
-        "Drive Tesla Canada"
-      ],
-      "date": "2026-11-06T17:32:01.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.82
-    },
-    {
-      "id": "1nvw9bq",
-      "title": "Elon Musk Is Killing the Cybertruck. Its Ghost Will Live on in a Controversial New Vehicle",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNV9OaDExeTM0M3A3VzNRRy0xbmJuWG1CVFRocXZmYk45VDhwaW4wQ1JZOVpGanVqcGFIMFpqZ0tWeDhuWE5jaW11NnJOUXlZVFpPd1ZienZTM1VYZ21vYTlKYy1panh3dW82V2REZkZBQ2VBLWdOdmoxM0d3TmxtUzVOUFRaVl9IN2tRODc1SVBxOUhJNEJIZjdRSUhEc3RmdmExQy1pR3JrTUFaRUltdHM4bEc5eERwTjY3WGo0b3NWcDJOQ0E4?oc=5",
-      "source": "Inc.com",
-      "sources": [
-        "Inc.com"
-      ],
-      "date": "2026-11-06T17:31:48.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 10.82
-    },
-    {
-      "id": "1w3oxcf",
-      "title": "Russia uses Starlink rival for military communications over Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZzVsaklWYVVfa3hSZUp1cmxIQVU0Y3dpWFlJb3VYWUw0M1Q4UDNzOHVwNlR4dmhSS1lWSmxMOHVYTHhtQlhLV2xHY1RZb2FSeHR6bVhoNUNrYU5mSFB0VVFQV0VORnFjQUwtUEpvVUluSzhFZE9ybkN6OGlpUWNYb04yeXRqYkhCb3U5TE1HMkJidw?oc=5",
-      "source": "Latest news from Azerbaijan",
-      "sources": [
-        "Latest news from Azerbaijan"
-      ],
-      "date": "2026-11-06T17:26:32.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 9.8
-    },
-    {
-      "id": "pndj05",
-      "title": "Tesla IPO investors turned $1,000 into $242,000: Can its $1.52 trillion valuation deliver another big payd",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOLVpxZXVnWHJNZ296d0d5cFlzN1Y5RDVub0U5STNsU2J1WUFUenBNSlNZdzRkZk1oQ3gydGt2cXlSMnp0OUpoTjBfdjhkSWdiVzh2emd4NUJ5WjJmTnlHV1NjcHp3cGU5dXFhLWlFNUtYLV9QZ21scE9hcllVUFZjZFRoYTVFV1dJVUFodE1NazJuSlFsUmEwZ1ZrcHlWVGhpYTlRQWdDZ3hfUlFPcDdUMEx5WU1mVG1xVW5wcF84Rkhfc0R2SV8xaXJ3SkpXdE84UUxBclVNVkNvd3lhMDVCaEQycGY4b01Zb0F3d3BIMzRXMXpWSjE4b09RYzRvM3VGaU9IWUJVaGdJSkxaalHSAZMCQVVfeXFMTzRYU0RmaHg1MFEtTTlHVDJldTlIdFVwOXp2aGZXMlJ2eWIzektoMEtEZkdiQ1IxbE90d2t1RGZjYUZzaEMzVzFURzkxLThycW8ybXBfVEduQnlzNTdnS2FfMWJKY3B6UjFuTWJaWngxenc4eXFsek5IYVh2VDZnZHlnaXBzbGZTRmlwOTczdGJScFhYNkVTMDVXWVpCVFo5bUp1M3hSU0FWMmFsemNqckU4M2tBQ1BIWFY4TUdrSHZSdm01MnRRblhHekpfbmVval9KSkhXc0xBMEtYVnJaRFZWN0FUY25iaXczOVV0NGFHUnhmYkJQbXBWTnZobDVxMmxrY3ZKclpzOUh3RkFIaVVIZUU?oc=5",
-      "source": "The Economic Times",
-      "sources": [
-        "The Economic Times"
-      ],
-      "date": "2026-11-06T17:17:08.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 11.76
-    },
-    {
-      "id": "w56lhs",
-      "title": "Can Starlink keep Lebanon connected in the event of another war?",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2lBMi0xdXRpeENuSFl0NWs4eXlkQTZzUk01TnVKcEgzemhlQmJPOEcwRElQdXFVMzhQMVNmZGk2NnV5Uy1FQUZFcXJGQ0hKMXVFajllZlQ1M3hBdFIwTFBZdlVEZmp1dUtUaHlBVVJPdHVKdW8tNk1Ib0hfZElVUzdQX3JPc05KaGxtSDRrVQ?oc=5",
-      "source": "The New Arab",
-      "sources": [
-        "The New Arab"
-      ],
-      "date": "2026-11-06T17:15:39.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 9.76
-    },
-    {
-      "id": "189g4kq",
-      "title": "'Welcome to the party': T-Mobile chairman goes full John McClane in defiant dig at Elon Musk and Starlink Mobile — but says they need $200 billion to 'play' in the industry",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQSzRDMWVpd21KZmZPTjR1T0VTSkJMaDhrdVhFM0dLVFVsazlCZnJaaTNIOV9NSDdiQW8tQ2FHMXpKc1JfeFVGbEJqNkhHemlRczZwMWdtQ3BMUnVuOF82UnFCUHoxaUtUQlJFQU9FVzN4cHE5NXJzN3BGM3RXdWNHb3Z4RU8yWGJKT000RWpkbzFhaXdhWjJzdDEwbUlHVWlnR2sxWlA0cTkwSGNqaFlMVXZhUmpZMUo2a1hlbl9iSGlBQ2ZmMjRZN1gzUU5aRkxheWNnYXJhR3NVQ2NjZWE2bWRVbUZpQ0swQjVsd3NkQ0dmb1g0MFgzUGZJMkNPYWZ2Z3d3bXV3NGEzQmYycDIzdS1RS1FrTk8xNEJCWVhjY2wwM1ZPVGFDMS02Q0w5RU1rMC0zMm1vaWxIZlJkNExZ?oc=5",
-      "source": "TechRadar",
-      "sources": [
-        "TechRadar"
-      ],
-      "date": "2026-11-06T17:10:11.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 10.74
-    },
-    {
-      "id": "1envkxg",
-      "title": "Tesla Stocks Rise 3% as Musk Sets Cybertruck Wind-Down for Cybercab",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zb1BESUhkWnJTZjhHeC1ITW5JbEU5M2lfUElGS0l3Y0ZhR0wza2tfTzBGNlZ1eTBTdzR4d3IzcnA3Q0xvQXIzby1UcWpYX2VXWmo4NFFTVDc2MzdLQUd4Zm9tcVVYZlFKakFwSUp2TVMzVUh4WURMcWxRMG1lQQ?oc=5",
-      "source": "Yahoo Finance UK",
-      "sources": [
-        "Yahoo Finance UK"
-      ],
-      "date": "2026-11-06T17:09:29.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 10.74
-    },
-    {
-      "id": "v97qhx",
-      "title": "Elon Musk’s Tesla and SpaceX Hit by Post-Election Selloff",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWERDLXRFRGI1VVZmaktqLVlnSnB0VlE0TTJJMTNMUU9DeTU0cjBLdEx1Mm9qQnlOY1RzMWEzSGs3TTVIVGV3N0haRUVvcVJOWnJtVFowWi1xc1BJdjV3UlNmQXdVUml1RnEzdHRTMnppRHFfU0ktMUN1TVIwOW5GamIwemhrSjJXQlpJRzVlM2Q?oc=5",
-      "source": "Cheddar",
-      "sources": [
-        "Cheddar"
-      ],
-      "date": "2026-11-06T17:08:13.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 10.73
-    },
-    {
-      "id": "1hii3jk",
-      "title": "Tesla: Cybertruck Production Will End in Favor of Autonomous Cybercab",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVEVpUDRSS01LT1Z4UWMySzktTUthRFZYZ2g0S09lQ2laaUV6cGNEX1dFaGp4dFFJdzd0eDFnMEZHOGp6STlPZ1Bqak52V0lTY3hkYjF4UzIxOHh3dFJOQjFZMDNWcTNST2E1UjU2bnVZQ0w2NXRfNFJ2SmJnOUFvY1h5SkVEOURWNEdGTXVXVURwZXlKa0Rjdzl6TUNpdw?oc=5",
-      "source": "Morningstar",
-      "sources": [
-        "Morningstar"
-      ],
-      "date": "2026-11-06T17:07:33.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.73
-    },
-    {
-      "id": "3l9a8w",
-      "title": "Tesla FSD and Senior Mobility: Your Questions Answered",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeUVJRlNEdUZlOGFiZFIwSE85dHJoMkRYVVJuREJMOFU5SVZ1SVVFX0doUmJpQ0FHa0taWmdOUDdKeUpfSjhLTG9wdkdvLWRXTHJxem56dWIybnRrVVI1Z0dfR0JNQXZzdkFFVkl6eW91TWIzeTdGcGtXTWxDM2gxdVdvdGstZ1N3eXVEMFpnSGxFZw?oc=5",
-      "source": "BASENOR - Tesla Accessories",
-      "sources": [
-        "BASENOR - Tesla Accessories"
-      ],
-      "date": "2026-11-06T17:05:30.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.72
-    },
-    {
-      "id": "dgznpd",
-      "title": "Rocket launch tracker: Keep up with latest on next SpaceX launch in CA",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0hfV0x3Mm9QRHE5bXNMTjVtWFBZVjFsUlVxZ0VHWW1BeDFBclNzZFVYa3lETTc2bWZxU0hQVktYVWpsOW0ydWEwUUlLUzdjeFdtN3RjY0ZuWmx5aHQzT0diOTNyc2JkUmlUeWJjdXo2RlhoTWp1cDVQS0RNYTRqYXpBWTlGYjlUc0J4YmVUYV9TT1pEY0FTbjdwWnZYY1NJc1VWQ0U4Y1V2ZHhzbFlSU1JDQ2lUOElYUGc?oc=5",
-      "source": "Ventura County Star",
-      "sources": [
-        "Ventura County Star"
-      ],
-      "date": "2026-11-06T17:00:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 11.7
-    },
-    {
-      "id": "1ri6vg6",
-      "title": "Musk reposts tweet calling Starlink service for Ukraine 'mistake'",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYXBScHo1cHNSa0o5RWlsQlRaYmQwZG9DSWY1a1g1ZU9kZUFyZGF3X3kyeHFxVWhhWW5jWnIySnU4MmE3bXUxcGxETWlvdHYxQlN0UzFra1J4Z2pObjQtVkxuT0RPOVJIV3MxVzM5V0RKNzB5YkZ4ZnBYSXpPVjBVbHBqNUxudGR5MmRWX1ZGSFU1Nkl1dVlj?oc=5",
-      "source": "The Kyiv Independent",
-      "sources": [
-        "The Kyiv Independent",
-        "Around Prague"
-      ],
-      "date": "2026-11-06T16:57:43.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 12.69
-    },
-    {
-      "id": "g4mhyq",
-      "title": "Nio Climbs 6%, Tesla and Lucid Rise 5% as EV Stocks Rebound From Election Sell-Off",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdVNIWUxvcVRqbU9IX201Uktoc2FteGxuVmtOSElpcDhPUV9ueXltX1Z0NE16cGsyOXNyeWswSkVkMDVuVzEtV2JhY3czS3I1Rm9jNVFrcEdQckNfTUlZRzV2RGlGR2xmSFVmSERTUlpJZzl1dFFGTTZvRjNfU3ZjRng2dHg0T1pIRi03RmVDektFVG8tc0dRMEpUWnJ5YU81SkZxZFZPa0JsVkhrRzhKUC1QT3hlaDlQYWdwWkxlODU?oc=5",
-      "source": "24/7 Wall St.",
-      "sources": [
-        "24/7 Wall St."
-      ],
-      "date": "2026-11-06T16:57:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.69
-    },
-    {
-      "id": "1o6c3yd",
-      "title": "Tesla Swears Cybercab Meets Federal Safety Standards, But Doesn't Want You To Know How",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRExlZ1MyRURlbjVqY1lJZDVmbV9kMVBFa3BiNWtaS3FnUWNrVk84ZDY0WEhzZjMwVnlKQnNFR0RxYWF1d2REZTdjTlBxc29nT3RzNG90VkJzNFhnbHRBVmZTZ0tGYVFLNjFQazNicHlfXzBzTkNOWEZ6ejVodVl2bmRjT2hGdw?oc=5",
-      "source": "CarScoops",
-      "sources": [
-        "CarScoops"
-      ],
-      "date": "2026-11-06T16:46:59.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.66
-    },
-    {
-      "id": "z0aedj",
-      "title": "How Starship’s Heat Shield Works, and What Flight 13 Showed",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZnNFRmZBdkIwVmhCelUxRnJIc0d4dlNWcFJlUFVsQ3g1ZTU0WE8wMWl1NS01QUg1YVhMb3MxWkEwZ0RZcEVMc0RPeFk5c1ExQXV5TV8xVFBzb2Zrb0hnZFF2c3lkZ1l3X0ZjZTFhRm9Jd0VWZzUyMzAwNGNvZGRXanZvY1pUSEE?oc=5",
-      "source": "MiGFlug",
-      "sources": [
-        "MiGFlug"
-      ],
-      "date": "2026-11-06T16:34:01.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 9.61
-    },
-    {
-      "id": "1laur50",
-      "title": "The White House said Elon Musk’s Starlink donated its services to the government. Trump paid him $1.2M",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVDB2QXA4Ry1hdG9NQVFrWmlYc2ltaFZLZ1RBdjlpTno4aXpmTlVmbjRKN0tTWEpuaEd2SGV2cllGQXMzWHRfZ3NRTWZZQTVWYTkwY1JPZ21vY3VlaFp2VzUtemN0a2lRTEl5UE9pWWR2clM3TEs5aTVUU2ZOY3J5NDdpRTgzUTVlRVhCTTh4azlHTlZFT1NUNEY4Nmp5eGgyTmRrZmZOdllycEdkZ1FGVFBoZzJqNjJVZFVj?oc=5",
-      "source": "The Independent",
-      "sources": [
-        "The Independent"
-      ],
-      "date": "2026-11-06T16:32:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 10.6
-    },
-    {
-      "id": "hb8a1g",
-      "title": "SpaceX's Rebound Masks a Harder Question: Can It Convert Interest Into Booked Business?",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTWZrdWFBUmRMck95QThfUkhnMXFiMU9CNlZGYUwzSmdpWUFONWtLM1M1TnJzRDVKU2prTFRRbmlZbVhXMlVJNUl1Ym9PX2dzTmxwSmg3eGsybW5WYjhILWZhaUZkby1UbnRaOEFrRi1kS3FLNEhkWENWdW8wOGo0VFpETW9NMnVTelZYb0I2R2JTLTJOUjVCZzB3YVVaWFdIYmtTSUlTa3RMalNEZGE5d2Z3bWlDazJvaGhmQ1JpMEc3WWh5dlJxZkVjRFFzbDkxaHJ6RnlpbkFDbENrV3czcXdTcWxiMlFaVGdtcUln?oc=5",
-      "source": "ad-hoc-news.de",
-      "sources": [
-        "ad-hoc-news.de"
-      ],
-      "date": "2026-11-06T16:31:16.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 9.6
-    },
-    {
-      "id": "1gjaxls",
-      "title": "Tucker Carlson warns of Trump nuking Iran; Scott Galloway calls Elon Musk a 'traitor' | RISING",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdFRkbERuNkx6Vy1YZDhDbW5tTHBaUjNfSU4tYnlQNGVEbHh2dkNMb3NGMVdQX2NQbG1RQV91bUNqY1ZfOUlyTUdLTHBBRE5NamU3aVlzcFdFZWNmNmNrZ1dBVUhQcFY1cDBsdzU5c1RFdWVya0c0RHlfc2R5M0JuMHRleVdoSGJya0tjUEJlUTJpQmYxbzVrcXlpQ1h2WEFfejVNc0d0LWpHQkI2NEtETU02VzFDUzR5S3NCYU9keEowbkk?oc=5",
-      "source": "The Hill",
-      "sources": [
-        "The Hill"
-      ],
-      "date": "2026-11-06T16:28:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 10.59
-    },
-    {
-      "id": "1j758ax",
-      "title": "‘Musk’ Doc Gets International Release Dates",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc1RSOGMxMm9BelhMSGllcVhSdWwwOW1XQWZMX193YktWcm1Zc0lSN1dMeGQwZlVlUGNQNGhPS3RXRXNlVE5obXgzX29sZko0U3BLM0xCWFRhWldnTUhfYkpfcmF6OUpwQmwxN3hJTVNaRWdqYkVOYXplZnZHSXpfSzVIWGNkTGVuRlJqUkRFZThwLXhvQXBMTU1XNA?oc=5",
-      "source": "Variety",
-      "sources": [
-        "Variety"
-      ],
-      "date": "2026-11-06T16:28:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 10.59
-    },
-    {
-      "id": "1ns7si6",
-      "title": "Musk bids farewell to Cybertruck as Tesla bets on robots and self-driving",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOelNJSDFOR0xNbkI3MjJLdlh2WFpzS2VFNEJ0QjcwTllGeVpOVm1ORTF4bE1WMldSX1dxNDhiMFhadGJrdUE0eC1xZmhiRDVqSHpvZzJWWUJlOHNDb2ZLc05HNVp1cDVPQ245OHNXNTVLNi1mamFidVFSYm5WSFNHYjRJT0ZyeXMyVS1vbVlEOVIwSXNNZ0c3Um9INEw0RjRhdVUwWGszTkI1QWxfTno5V3l1TkFDM1VVZnl2X05rRko5cTk3YWJnQW4zVVRrc1gwVDZB?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "date": "2026-11-06T16:22:59.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 12.07
-    },
-    {
-      "id": "1nbhf0q",
-      "title": "Apple, Meta, Elon Musk’s companies reportedly in the crosshairs of congressional investigation",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84NnZWcGI1dnkxSENrYUw1WXRCUzhYMG5Zb01XMGFJZHpFSVVWaWJzWXZ6Zm9tXzZvbV9ZVkNkRVloWmpjUGY3SlhaRkpBUnZoVS02VE9uaFV2aldfR2cxQXFNX3gxRGVKZ2p6UTZkc0FzUQ?oc=5",
-      "source": "Mashable",
-      "sources": [
-        "Mashable"
-      ],
-      "date": "2026-11-06T16:19:58.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 10.56
-    },
-    {
-      "id": "6q7uyk",
-      "title": "'I Feel Like I Lost a Child' — Mix of Disappointment From Diehard Fans and Online Mockery as Elon Musk All but Ends the Cybertruck",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUE16Q05jN1djZUdqeUptVjc4WXJKckE4YnV0V2RTX1MxTmMzMl8wZXg5NnRkVFpUUVNTNXo0YS1PTm1iTjVKaXB5LW5MaDNTU0hnSXp6VTZRaEwwZzZWS1V0NHk2YWNWZ0U4TlZRaFZQYjc5WXZNMWdlQ3BXUG5XSGw3N0RUeG10VFprR3NxU19FRVBCVHVEQU1yWXhOSUQzTm5sVEVnS2l2ODdVeThMQ1JRRE5QbDRSTXQ1d0NxR2JibC1mYTJnWGJPMnByOHM?oc=5",
-      "source": "IGN",
-      "sources": [
-        "IGN"
-      ],
-      "date": "2026-11-06T16:04:37.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 10.51
-    },
-    {
-      "id": "1d9l57o",
-      "title": "Russia has called Starlink a threat to national sovereignty",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR1Fvb2FzOWdBZjZBRVYwcmNFV0t0UjU1NlVGX0dNdXI0US1hYjMtNDFPNnFjeE9vWm55dUNWTlA1ZmFMWm8xRWV1czhxSnROcDBEUndEdU96Vm51LXFiOXJYUG52TUNONUloLVZJcWQ0c0RPRTRHVGptdjZkaFdIakJqbFRENWh0NXNfWmZZWGkyZw?oc=5",
-      "source": "UA.NEWS",
-      "sources": [
-        "UA.NEWS"
-      ],
-      "date": "2026-11-06T16:01:13.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 9.5
-    },
-    {
-      "id": "1wykvbw",
-      "title": "Russian Security Council Calls for Rapid Deployment of Starlink Rival Satellites",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWTFiaWJiSzhHdVl2anJwN3dZNC1lLVJIMjZMd1JpOFJfTW5NQlJCUWp6NUM1RGpLVE1YN1o0MGVVMzhyaHRwTjc3SVVlWlMxOXB2UFJOdEtINFpMQ2l6bkpka2M2Z0ctNmtVem0yeTFNT196SjExLTlDOW1GSWNtMnVlMU1ydVlfS1gxTEZfc0tTMFp4MnBVdFhKbjg2WU9TcXV3cWsxWFVTdW1YdVpPXzg2SHF5RDNaa3VCMDNudUMtWU02bFdhaA?oc=5",
-      "source": "The Moscow Times",
-      "sources": [
-        "The Moscow Times"
-      ],
-      "date": "2026-11-06T15:59:10.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 9.49
-    },
-    {
-      "id": "o6itom",
-      "title": "SpaceX Releases ‘Go For Orbit’ on Starship Flight 14",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1La1o0OXRTd21NUmlKN1RKLWJKMTVQTXJUdDZQanRSZWEwdWg1Y1BUQkRLdzljNFBIOXFHZnpfQU5wSHlheWRmcXl4V3lYWFRqMFh1dW5SX01jZ0xJeHBhdGpGS0prRzhiR1dpcmQ1WGRuZw?oc=5",
-      "source": "TeslaNorth.com",
-      "sources": [
-        "TeslaNorth.com"
-      ],
-      "date": "2026-11-06T15:58:13.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 11.49
-    },
-    {
-      "id": "12rxan",
-      "title": "AST SpaceMobile to Build Own Rocket to Compete With SpaceX",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTkwtOWdYVFphNTVBWDRIZ0hFZUcxVkxjZFBQRGhEZXppeG8zRFp3RjdwRi1ReWs2LUlkM1pLNmxxR3E1QV9RN0ZqTEd2Y3ZJWU5qU1BkcWJiSFdkSzFiMnUxN1U2dWN1WGZtcENsVDlJUG04T3AzZGFqWWZScmtwWENOYmlxSEctYjdpMUMtU0JDRldHNnpUVzVKUGtrSC1UTFF3MmRrTmREYk9aWGc?oc=5",
-      "source": "Bloomberg.com",
-      "sources": [
-        "Bloomberg.com"
-      ],
-      "date": "2026-11-06T15:57:50.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 9.48
-    },
-    {
-      "id": "19vqnoa",
-      "title": "Tesla Cybertruck dead: Controversial pickup axed for Cybercab",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xWmQxLWJFU1ZYd05vbXF0LWg4d2hiOWFna1QzNDVkeUtEMENHZWtJQWNOSFBmdm9nZ0UtZGJTOHBVeTRjdlRSTXlVLUFIUWFtRmc4NW1VWjZKdlJxRFpYWWtjT21ic1V6TEVfRVpCbFFoeDNWYkJ2eGtFSklPZkU?oc=5",
-      "source": "Pickup Truck +SUV Talk",
-      "sources": [
-        "Pickup Truck +SUV Talk"
-      ],
-      "date": "2026-11-06T15:52:41.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.47
-    },
-    {
-      "id": "1urabey",
-      "title": "Tesla to Wind Down Cybertruck Production in 2027 as Cybercab Takes Priority",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaDNpV29FVWtiX3RfMUFMZng5TDZvcDJ6RjFxT2JINGtxaTVvY0twa3VLZldBS29XUUNPTkd2QVBXR0VOMS1PODhYVDNzOTF4Zm5zUDd2M2syWUpGaFBzQjhxM0VNa2FNaXdhUDBlNXY3dGNQQ1g0VW9raDZIOHNqbHN4YWI1SW53eFZ3OG9tOENWZw?oc=5",
-      "source": "Electric Cars Report",
-      "sources": [
-        "Electric Cars Report",
-        "Hindustan Times"
-      ],
-      "date": "2026-11-06T15:48:47.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 11.45
-    },
-    {
-      "id": "1koxml0",
-      "title": "See How Tesla Tore Down The Model S Factory To Build Robots Instead",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xTkhlWGc5ZzJDSG9WR3QwS3RNN3pGSkR3UVlpM0Z5UFFVUGRhWVBBam96UzVkRGtLNE8zM3NJU20wb1QycWIwTXhKVWdpS3hFN1cwUU9pTTNETThtX0VOWWNpRlMwYU43c0xSdVkyVXBYakhhRVFSOUNjOE9SUQ?oc=5",
-      "source": "InsideEVs",
-      "sources": [
-        "InsideEVs"
-      ],
-      "date": "2026-11-06T15:45:39.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.44
-    },
-    {
-      "id": "s9d55m",
-      "title": "Tesla will stop Cybertruck production in Texas - Musk announced the timeline",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX3hkTUFMaU1YUDdXekdZOWdqZUUyd3l5YU1jRFpzWV9WLTJDLUpBbmZPZW1TZy1lU0xwZUtXU3NtbkRVZEFlSlozMHFBTjdIWU9vSWdWRnZvY29nWHozOXRqVk85d2xHelRwZEFpblVwVmptRHhSaFNoQjR0b1ltczJRSlROTWtsV0Vrb3RIaWlhZGFJNTV6VllsNkhBQdIBnAFBVV95cUxQTUFhVUJheVAyaFk4WGdTR3ZQZ2NHclBfNy1xRkxoRG5NV2EtS3N1cnEtYmJXWVhHX0JyazRIbklIenBfX2trWVpRcGRKd0NRVkMyclc2LUNFTmRFWWR4MVRKeXVzUjBXOWhNZkJQNFFpTnl1LTZ5aS1IeXZfdWNHeDdDcElfSy00MHVvdnFzUk1sZUVSVEVjdUJJMG4?oc=5",
-      "source": "Українські Національні Новини (УНН)",
-      "sources": [
-        "Українські Національні Новини (УНН)"
-      ],
-      "date": "2026-11-06T15:42:14.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 10.43
-    },
-    {
-      "id": "em77yi",
-      "title": "How Did Elon Musk Make His Money? From Zip2 to Tesla and SpaceX",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KLXpHWEU0d1dOV0dicm9sU2pWZ2dteEoxNkp3SnExUzRNMkUxMXNEWGg1a1pVWVRxMFRvdHYxdFIyazdBcVBBYk0yUFhWTGg3cUx6OFAzWk5BdHRYOHI3VVh0T0MyR3Rfbml5dnVSSWVILVJXQ2RF?oc=5",
-      "source": "HowStuffWorks",
-      "sources": [
-        "HowStuffWorks"
-      ],
-      "date": "2026-11-06T15:42:01.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 10.43
-    },
-    {
-      "id": "iatzem",
-      "title": "Tesla winds down production of struggling Cybertruck",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55SVAzdVUxTUxTQVBxUkNDZ1V5Tm1QemlxWm1iektRQXE0cFFhV3dtbFRsRm1jQXFzdE5uMFlBb2hTOHROMWxtcU1KQnhlMW5xZDFNcDJoSmc?oc=5",
-      "source": "TRT World",
-      "sources": [
-        "TRT World"
-      ],
-      "date": "2026-11-06T15:40:49.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.43
-    },
-    {
-      "id": "1jf9rif",
-      "title": "Everything at Tesla Leads to Optimus Domination and Unboxed Manufacturing Transformation",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWm85bmpYZWNsOEhpYjJIa0J1VE14ZDhka2E0Mzk2a0NXMlJwT0VQRTJpUV9sSnhtc2N5V29FSUcweUgxcDJFa3YteHVibDMwY2JaMW9DWUJUT193XzZabkVKVDdJR3hIM281cVpPdzlmWmgtRTZGTW1Namd2eS1mVnIyZ2hzaTJqZDhGSWtleFR6NmpTMkUxMFBaUXFrR0hiRkUwY2c0Z0lxSl9wWmtNYzRsYTg3TVZUdXBJeWd2M3RJU0prYlU1XzJ3?oc=5",
-      "source": "NextBigFuture.com",
-      "sources": [
-        "NextBigFuture.com"
-      ],
-      "date": "2026-11-06T15:38:02.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "robotics",
-      "score": 9.42
-    },
-    {
-      "id": "1leoad8",
-      "title": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
-      "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
-      "source": "NASASpaceflight",
-      "sources": [
-        "NASASpaceflight"
-      ],
-      "date": "2026-11-06T15:31:51.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-15-16-17-030.jpg",
-      "snippet": "Booster 22 and Ship 42 are in final checkouts for a no-earlier-than 13 November launch that would attempt to catch both stages at Starbase Pad 2. The date has slipped by only one day, with…",
-      "category": "space",
-      "score": 14.39
-    },
-    {
-      "id": "177on4k",
-      "title": "Why Elon Musk is killing the Tesla Cybertruck",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkay1lMW1sRUJGRVZKbVkyeVF3UVZlYi1hVDJnUFhjU0ZvaWdNendJT1R6QkRfME9ZMkFVTTVHYVZYdTNCcXFSaGNCR0NiS2hxTldpZHZwdEl0RG9jQWdxWl9FVkFubXllYmxlTEJnc2haMGUyb1BJWXhFeXY5d1E?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "San Francisco Chronicle",
-        "Yahoo Finance"
-      ],
-      "date": "2026-11-06T15:30:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 13.89
-    },
-    {
-      "id": "fojen5",
-      "title": "Tesla Is Quietly Killing The Cybertruck By 2027",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rOFVzdjY4N095TjM5cU9vdmhNVVRUdXpVTS1XaHVyUDdzZndpX18wSy1HWHFwNnliY3BURjYtVFhNZkZhSW9RWUEtaXViMnZQTURKNHl1NmxIVjdtdXR4M0NZNVJ5NmNXN2FWVWp1dVpvOU0?oc=5",
-      "source": "Top Speed",
-      "sources": [
-        "Top Speed"
-      ],
-      "date": "2026-11-06T15:24:37.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.37
-    },
-    {
-      "id": "1kxlp3m",
-      "title": "Cybertruck to end production after 3 years on market, Elon Musk says",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObVJWSWVWNGN2Yk5JZW1PWUhhYk5KTEdPYkxIaktGd0N1dEdrMU53VkVvRVh2cVl4QXNlNG1ZTTdLbDF0dEIzZ1VTOFM1VzYxRnNxTGdUWGNNa044M3lCUi1IMkQ4UUlTc0Q1a1hRWUNnb2s3WHRnYTBuUk9mN3k1aVZQNjc1Q0hLVFplbHAyaVBPdUM1UFdLbQ?oc=5",
-      "source": "LiveNOW from FOX",
-      "sources": [
-        "LiveNOW from FOX"
-      ],
-      "date": "2026-11-06T15:22:55.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 10.36
-    },
-    {
-      "id": "146ue0h",
-      "title": "Starship Flight 14: 6 Details That Defined the Mission",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkRodGJPLTJPeEQxQmV3OFhzS3huMzFRcUswdVJkVzFKdmRabnJac2EzcF9MS3NyQlNPcDZseWhaQlJlemZjRG9iblBOY0ZqaDIzay02NlRwT2NRb1NHOTZ5ZC1Qa3FfbE5QRGZKT0RWZDlMdzJfcVdXaHFyazVTSXl3NC03cjVJdGR2d0JPTkc0UQ?oc=5",
-      "source": "BASENOR - Tesla Accessories",
-      "sources": [
-        "BASENOR - Tesla Accessories"
-      ],
-      "date": "2026-11-06T15:12:44.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 9.33
-    },
-    {
-      "id": "1ww7cmb",
-      "title": "Moscow: Starlink and OneWeb could be a tool of political destabilization",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQblhuTElYa1lFRUFVRlN6WFdKR2F3d08zVnl6WExVYVZUR01weFpjdDlWbGl5V1gzSlFhLVE5Q0VENGFVSkxkZU5oVTN2WURFV0wwaVJScERfMUZTU3J2eXFEdmxQUzhVUGZVUUhmSVpmaVhEUnVPU29paEphOC1mS0VQTlMyNkkxOVJSeFNqeVdpWC0ybVF4bFc2MFM4c3M2TEZWU0tYMC1ISnNhUW9PT19uamk4d9IBpwFBVV95cUxPUTlHTFRxdm9ROGhRSXVIdnE4ajdtdTBFXzg4QUZHME1TaWZla3l5OW5WQXNYR3BZMEt6N3dHclNROV9aaWM5eFdRWF8yel83NVR4T0t2QmFwMURhcVB1VkI4Nk5sNVIzX29tSDhyWG5UcVpZQWVmRWh6enB6clNBbk5Za09OTmlMQjdLRHJDenJ4QTdJdG1kWWdaVG5vR1FtX1ZlQllCZw?oc=5",
-      "source": "vijesti.me",
-      "sources": [
-        "vijesti.me"
-      ],
-      "date": "2026-11-06T15:11:15.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 9.32
-    },
-    {
-      "id": "19qdcix",
-      "title": "The Vodia PBX Now Supports Grok",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR1V0cFpzR21veDJWajBsamVGRFFyVjBqcVRsdk1JOHBUS3V1c05xU0twVENrdFhBa0pjcWJyTmxxc2pQeng1S2xVcmF0a085UVpMbTFRZHJlTF9rSUhNZ0toSWdjNzByd0k3NlU5UjZXQzdMNWNTTlZ1dEt3eFZjWNIBgAFBVV95cUxQR1V0cFpzR21veDJWajBsamVGRFFyVjBqcVRsdk1JOHBUS3V1c05xU0twVENrdFhBa0pjcWJyTmxxc2pQeng1S2xVcmF0a085UVpMbTFRZHJlTF9rSUhNZ0toSWdjNzByd0k3NlU5UjZXQzdMNWNTTlZ1dEt3eFZjWA?oc=5",
-      "source": "Telecom Reseller / Technology Reseller News",
-      "sources": [
-        "Telecom Reseller / Technology Reseller News"
-      ],
-      "date": "2026-11-06T15:10:46.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "ai",
-      "score": 9.32
-    },
-    {
-      "id": "toztzy",
-      "title": "Russia’s Answer to Starlink Is Already Operating Over Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLUhITkhSS3puSHhsZ2o0XzYwR0FhVk5QRThmTnRNV3I2d0xkbmFrbTIzbkp1eFNkdkJzQXh3ckV6bExlQVFIVS00ZDV6RDNKSHVXRm1tSUZ6S2t6REEwT1p2TkZfWmxsNy11MzU4RVR5Ukh3ZFVOd29LaDJxZXZ2eWx1NVN0NGY0NTZKNHFTWkswb24weVBGekxlSEJWMTNt?oc=5",
-      "source": "Modern Diplomacy",
-      "sources": [
-        "Modern Diplomacy"
-      ],
-      "date": "2026-11-06T15:04:29.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 9.3
-    },
-    {
-      "id": "ohoany",
-      "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01OXJBb3hrcVh3UllRemVuOUJyOTh2clpDdnRoN2RvUDJFVnNGU2dYVkpkX2FNSDREMWRqUE44Q3JMeS04MnpodmJTdU9BWkEzcmZLVHVWblo?oc=5",
-      "source": "BBC",
-      "sources": [
-        "BBC"
-      ],
-      "date": "2026-11-06T15:02:03.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 12.29
-    },
-    {
-      "id": "bzbq5l",
-      "title": "AST SpaceMobile Will Use Firefly in Bold Move to Build Its Starlink Competitor",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWlCSllyUlFHMElpR0taQWdvSzlzRmIxOURuM095ZmVQaFcxbENJNXp6ZXZHNWMtQU1vdThPRzBGTWZ1OXIxWUloVGxLMGZyQzc1WS1PVG93UEFzV1k0Z0JTdzFDQXM3UHdjQ3diOXBPaHd6b3hlZ0ZlblNDejdxRGZDZ1o0YzNHMUhHUk5NNzE2Vjh2SWxBTGNtOWw?oc=5",
-      "source": "Barron's",
-      "sources": [
-        "Barron's"
-      ],
-      "date": "2026-11-06T15:00:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 10.79
-    },
-    {
-      "id": "1327dmy",
-      "title": "SpaceX Rises 4% as Tech Stocks Rebound From Post-Election Rout; AST SpaceMobile Sinks 8%, Rocket Lab Gains 2%",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONU9pZjFXbFhJZU11TU9ISm5Cb2M2SGFYYzdwQS03TUVlTXJBWWJQN0hQeDR5YkNRNmhkNHEybXJOMmhEZlhkbWo3cXhBNkxfZzduWFlyd1hDMWJWV0RIaHN0WG96OHhyV0cwOXRyeVdmYVlyTmw4eW5WNnBHeXpZWElCR1dDbGlqZW1TTmMta2tlYnY4ODJXLW9hck9hQjdGWnprTDg1WmxiMDRNY1k0bzNZdmVBcEpuZUcyVnFzSDdwdVVUaVRoSTdGRzU4WXduVk1qZFhfcEFlVWlPUzdnT1pn?oc=5",
-      "source": "24/7 Wall St.",
-      "sources": [
-        "24/7 Wall St."
-      ],
-      "date": "2026-11-06T14:56:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 9.27
-    },
-    {
-      "id": "dcsbpr",
-      "title": "Tesla to Halt Cybertruck Production in Texas for Autonomous Taxis",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY0V0OFNUSWt0UVpRZXp4alNob09tUEVaeV9EaWdlbWhPbnpUeWo4WElabWF3dkVJMjc5QlNfaUY1ajdKY3ZhMVZPX1JBMHlzaHIxMVY4dXN1akFtZHZlOXJMUDh2NElSSjluVnNIY1dDUGxpRVF1V3lYamRkNW1oVHdNdVBYZ1dkWl9EZnItaEE3Q2M?oc=5",
-      "source": "ForkLog",
-      "sources": [
-        "ForkLog"
-      ],
-      "date": "2026-11-06T14:52:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.26
-    },
-    {
-      "id": "jymwcu",
-      "title": "Medvedev called on Musk to repent for helping Ukraine through Starlink",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVBWUl9kN2Y2ZC04T3k1RkExWmVRVFgwVUEwX2U5dTFPV2h6aEpmYkFhWkpfOEtaaE9OdlU1MlIxcXNQOERrWTlreF9kcG5KcmwtaHgzUFh5eWxlRnBWMEtvdmFKRjlDZUdRQUFWaDNkbkJwWmdBVWQ1NndkVzcyWXBfR3pDRnAzZXVuanBoRzlQc1lERjl1Qmh0U1I3b2F3bjlzcA?oc=5",
-      "source": "UA.NEWS",
-      "sources": [
-        "UA.NEWS"
-      ],
-      "date": "2026-11-06T14:50:44.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 10.26
-    },
-    {
-      "id": "1btln7f",
-      "title": "Tesla Cybertruck production to wind down as allure escapes most potential buyers",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPejhkdnhTYUlMU3owd0MybU1zc0RRcUhPY2JUc3d6Si0zWFQ4dTRJeGZoZktMZVpxNWxBbFh3U1JnWHhaRWRPbV9KbG14Mi1tZVFlQkpyQ2xSNXF3RGZIUU5TZEZwaWg2RnJaaXcxSEJUQTJScHhmdnVGbnZiUk81QQ?oc=5",
-      "source": "Chicago Tribune",
-      "sources": [
-        "Chicago Tribune",
-        "The Tribune-Democrat"
-      ],
-      "date": "2026-11-06T14:50:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 11.25
-    },
-    {
-      "id": "yoi350",
-      "title": "Questions Emerge Over White House Use of Starlink Service",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM2IwdDNSRUY4N3B1R0NnU3ltT1lWREwxSDc4eXVDekk1UmZsaTc2d0NsT3FPX2ZfUExYcllvZ0xZOHpPWDNsTDBhQlAtRDBDUk93LVhJVzA5aENlaUM4bGMxcWdabFYzVTNYSnNhY3BXaXVlQU9PS3Y3ZVVmZjBMc0lWbmxyOXlsVFRtbnk3Q1lvQ3Jmcjlmbg?oc=5",
-      "source": "Yahoo",
-      "sources": [
-        "Yahoo"
-      ],
-      "date": "2026-11-06T14:47:33.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 9.24
-    },
-    {
-      "id": "1ikg99c",
-      "title": "‘Get in your rocket and go’: Texans turn on Elon Musk after midterms rout",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYTZDUWNYOVE1U3ZNT3Q0MmVlUVNaazIzT3lrczhNcnY4TXpTYlNTTk9uX01kZUNQS1A1elZRTkc3VnlTWWlqZ250ZjZVUER4aTV2Y2s3UGJKZU1FY1IwRnctam94OFMxU1RCR2xaSHNweFhlTDFpbFNjS05ZbjVaeElOenRrTHlPMG81R1JWbnlzVl9HLUxZV29HSlRnakdBREE0WkczM2xaeVA2VzU5dA?oc=5",
-      "source": "The Times",
-      "sources": [
-        "The Times"
-      ],
-      "date": "2026-11-06T14:45:54.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 10.24
-    },
-    {
-      "id": "akdqw8",
-      "title": "Musk's futuristic Cybertruck rolls toward exit",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTlBQRnZxS0Uzb1pOdGZWbXd1emd6Qy1BNFhmX2RBNExfZE1jbFJEOWFVWFZiS2MzVnRzOEdTMGNVNkhQNGxITTRJcURqMW5ud1g4N1QydE1iRWFrbTBpakVKU3JZOFhnV2F1TDgyWlVMUVFKVk5ZZWhTTnNIYUF1cnNTZTRZemY4bjlINVpqLWxFX3RKOVBkLWlzSlJnVUktSXNV?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "date": "2026-11-06T14:39:48.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 11.72
-    },
-    {
-      "id": "16fygkd",
-      "title": "How Elon Musk's SpaceX, Tesla lost $420B in market value this week",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPekxBLTNYUGtqU2JWdU1OdHk5dzRRVXFQdzhhMVJzSThTYkd1UEdtWHhNMG1SRW0tSmFPUHI1VU5jZ0pjSHlHb3AtMTlxRjJGZS1JTU5vbHd5NFU0RzdvR25RVU4tZHR4QnVTMC1CU1lrbVZvc2N6ai1HUDdpaWxQNDhTaVkzN2VZOUt1eWpLNVdEMjRGUXpUUlUxLVRrU29sRWw4TldXb0w2Wm56eVM0?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "date": "2026-11-06T14:32:45.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 11.69
-    },
-    {
-      "id": "3g9qwc",
-      "title": "Tesla To End Cybertruck Production; Shares Inch Up After Election Rout",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY3p6NkpwQzRSWW83RTNlUkwzSVFCbUZtUnZGUmRiRWVqV1pYc3prRmxFQVllZHRtUXEtRkFVajNlZzFsaHpNOHMxZzZFZTVhR25takFNZk54NkpndjFUT1BibUxkek83YVdrR0gtQVdZUkoyX2QwQTFHSjlJRkR0dFF3?oc=5",
-      "source": "Investor's Business Daily",
-      "sources": [
-        "Investor's Business Daily"
-      ],
-      "date": "2026-11-06T14:32:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.19
-    },
-    {
-      "id": "fcgjzz",
-      "title": "Cybertruck's Days Are Numbered. Here's What Tesla Has Planned.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTNsN0hRZlYtMVJKYVBPaklIZk9acEtjeDNnWFN4R1JMTGRLUnV2ajFrR0ZRZzJlZUpMNWNKWVpMdWxTOFQzZXJuakNkVmJjbmpxeHVMYUszaDFQeGw3ckZnYzhNdDFBa2pYa1p6WGdaYktjd3B4T1VIaGpZU0ZCWURfZE5CYmZScVVWbFNkNm9vM0FlVTZObDdpSVgzaDJBN3pmbkZ3?oc=5",
-      "source": "The Motley Fool",
-      "sources": [
-        "The Motley Fool"
-      ],
-      "date": "2026-11-06T14:31:00.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.19
-    },
-    {
-      "id": "f3pc4z",
-      "title": "Russia using own version of Starlink for military comms over Ukraine, Kyiv says",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ1dZdi15b2M2dnJjdnlIVmFTclRLVE12aDlKQWdsWVJiWV9QcTd5NlNCby1YQUNSbGk4RmZ6X0ROMnJzcEoyVjh4dlhxXzd3aTU2T0otcEhWSzVYcmFPcEhkRDgycHl0bmUzZ3JfOW12ZmZnc1Z6VkZsb3VVdGVXd0hSc3pndThoY2FXUEp0MXJQVlVfaUFnT1FEX01DZkxQeWRGMEhrOEFmTTQxYkFFYVVOYzdjUQ?oc=5",
-      "source": "Reuters",
-      "sources": [
-        "Reuters",
-        "Latest news from Azerbaijan",
-        "ThePrint",
-        "Internazionale"
-      ],
-      "date": "2026-11-06T14:30:30.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 18.19
-    },
-    {
-      "id": "1yln690",
-      "title": "Elon Musk Has Found a Convenient Excuse to Kill the Cybertruck",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeGhwdTNqYXZGU1RoRnZndTQ0dTdpYlNwQk5hVTFHSkhkSnowS0ViSUNrb1RGZXN4MU9rZ3BQYkYyai11UTlEN0hqeHJ6Ml8tdUFTWWlwY1VUQzdvT0dMaVJVdEhGVG1UYVEzLUFleUN5Q0k3VFF1REVseWtDOXpZaHQxMEFubWJGSEE5QzNLWVdvdnRuRmU0OQ?oc=5",
-      "source": "Gizmodo",
-      "sources": [
-        "Gizmodo"
-      ],
-      "date": "2026-11-06T14:25:12.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 10.17
-    },
-    {
-      "id": "1j5ghtv",
-      "title": "Elon Musk Claims SoftBank Is Defaulting on Turbine Orders",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS1B1ZmsyTkxJdjM4XzlsbUs4NGN0ODFtN20wMzZDRU5nMEZCX3M2SWlkY3dPazdFY2hVbmdNdHpTV3VTSUZPbl9hQ1ZxSG9CU2hybU42VVRsVWdfNy01WW04UDk1d053WE1POC1WWE5paW5KdmExUDRvaEp2ZDZDZEhfM1poelBCdVRvQWNYMU1BZzRJdkpOXzh1Y3Y2U0Z3Snc?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance",
-        "Billionaires.Africa"
-      ],
-      "date": "2026-11-06T14:25:09.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 13.67
-    },
-    {
-      "id": "ms3nyo",
-      "title": "SpaceX’s White House Starlink “Donation” Actually Funded By Taxpayer Money: Report",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYnJ5eXdxdVQ3QjZLN204ZWVnREtTWlVmMWg0ekZLNUg2VHVQT1BiUkpSQUJuOGtSRzNrU2pnUG1tNTdNOVpwTVRub0tya1g4OGZDeXRFY3BScHVVMFpxS3VTMmRxeW9RY0FEbGNlUjRLOGMwbEZob3Mta1loalNWRmVaaklSOGZ3QUtBMl9uWFZIOGFiX3I5OGh6Zmh6cjQw?oc=5",
-      "source": "CoinGape",
-      "sources": [
-        "CoinGape"
-      ],
-      "date": "2026-11-06T14:21:32.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 9.16
-    },
-    {
-      "id": "14tk8m0",
-      "title": "Tesla CEO Elon Musk says company will be 'winding down' Cybertruck production at Austin Gigafactory",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZDBkTVFoRjBQTWdfYzY3NG5rcF9ScVFaMWJFZDhubC1tUl9oZWZrSk5ULUxRTUhQdXRXd0dmZGVEUzdjNlFMZ3lucjNUdGZCdTlUX3k5NVpsMnhzdG9KTUV4YmZQaWEzUkFfOU5zX2JjYnI4M2t6aWhXWWNOLUthUmw2M3R6Nk5WQWpIOWYyQ0NIZXhIRUtiZmRlTlY4V1pJNS1abTVtd1ZjbTUyRW4yejRTRWpnMG1wbGNHX0dtbUpaQlZMQUtkNGowZE1hNm8xeXJQUWF4QmtFV3ZUZHpXRGtaTUpGZWt6SjM3TmlFZ1ZOQ0dkLTRaa0xicGhHTTlLSlJVeWpDSUV5dw?oc=5",
-      "source": "KVUE",
-      "sources": [
-        "KVUE",
-        "Open Magazine"
-      ],
-      "date": "2026-11-06T14:09:19.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 12.12
-    },
-    {
-      "id": "uq69we",
-      "title": "Tesla Skeptic Tries FSD, Then an Intersection Scare Has Him Hitting the Brake",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcnFqX3VCTHBhZFJZYThvc1B6UmtWQlNZM1pPM0xUcFJKX25aR1ctazdJdHFHT01JSGtpdno3cWF1eWlicGExRjFYUVcxa1BFSXdPNEctRUFPMHp3emVpTGs5WXM3V1FyOFYxdDlORzA0MTJoazA2TTl6Y2ZGU0NNSWVDOWgydmEtLXBhanN0bU0tV0NZVmJUQkFycw?oc=5",
-      "source": "Yahoo Autos",
-      "sources": [
-        "Yahoo Autos"
-      ],
-      "date": "2026-11-06T14:04:27.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.1
+      "score": 7.64
     }
   ]
 }
