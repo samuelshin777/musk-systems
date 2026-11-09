@@ -172,8 +172,19 @@
       "robotics": 3
     },
     "2026-11-08": {
-      "total": 5,
-      "mobility": 3,
+      "total": 129,
+      "ai": 9,
+      "connectivity": 31,
+      "mobility": 35,
+      "business": 31,
+      "space": 21,
+      "robotics": 2
+    },
+    "2026-11-09": {
+      "total": 11,
+      "business": 5,
+      "mobility": 1,
+      "space": 3,
       "connectivity": 2
     }
   }

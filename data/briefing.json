@@ -1,142 +1,137 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "windowLabel": "LAST 24H",
-  "total": 128,
+  "total": 130,
   "counts": {
-    "mobility": 38,
-    "connectivity": 24,
-    "business": 20,
-    "ai": 11,
-    "space": 30,
-    "neuro": 2,
-    "robotics": 3
+    "business": 35,
+    "mobility": 32,
+    "space": 23,
+    "connectivity": 30,
+    "ai": 9,
+    "robotics": 1
   },
   "topStory": {
-    "id": "11tkx6n",
-    "title": "Elon Musk Is Winding Down Cybertruck Production to Build Cybercabs. The Model S and Model X Already Gave Up Their Factory Space to Robots.",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbHVUWEprb3ZLSU5wTlVwNDFMcDJPM3Z0X1pSSF9FNkxPbjFlQmxlY3hIbHhuT2hmOUluMFI2bHZCTGNfU1cyNk5ManFZS202NHlZdmdPbzJTd2pkbW5BVkZONFdha2o1ZHc1V1VCUEFUc1RFZnRuX2pxaHhtVks1SWJFaXVaTGRjYXAzSktRQm5vVTVJSmNpa25SaEh5NFk?oc=5",
-    "source": "Yahoo Finance",
+    "id": "1irdd2f",
+    "title": "Democrats plan probes of Musk, Miller, corporate America after midterm rout",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbWFGX05UdDR5UEFldE1ZWU5JTEpqczV4ZkFvZFRROWlvLWdsMlpocDZaY0R4eU1FSkJONjlVMGtDOFRVVjJHeWp3X3VWVWREMGdqQWN5WDdFamtYR2VBb0h3b3BrZTlUQlpGTDRzdVd6ZWowSDJoQnJ1eVFvX3B5SVZ5N0h2X0EwMWhYdGhHUzFHd0VUTEdLVW9OVFh6UUFLb09ZWF9BWQ?oc=5",
+    "source": "Reuters",
     "sources": [
-      "Yahoo Finance",
-      "The Motley Fool",
-      "The Globe and Mail"
+      "Reuters",
+      "The Economic Times",
+      "Rappler",
+      "The Hindu"
     ],
-    "date": "2026-11-07T21:41:00.000Z",
-    "firstSeen": "2026-11-08T01:52:36.108Z",
+    "date": "2026-11-08T17:41:49.000Z",
+    "firstSeen": "2026-11-09T02:01:45.110Z",
     "image": "",
     "snippet": "",
-    "category": "mobility",
-    "score": 17.4
+    "category": "business",
+    "score": 19.93
   },
   "topList": [
     {
-      "id": "1vhwwyp",
-      "title": "SpaceX sets Nov. 13 date for Starship launch and catch",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYU9PTEhzZ2JJdHZMVk9WN2dQakRIODEtUDBNVVhSZFJVbV9DS2JvU244TDRqeEJNbFl1ZnpCREtCOHh6c2FhOGNzcUZXRkdfdkdPb2xYOWN2VDVEVnItWXQwR0lVdDNyNFdYaVVPbTZ1QjdJSXYwLW5sLTZNVkRId1RR?oc=5",
-      "source": "SpaceNews",
+      "id": "y2vo46",
+      "title": "Musk's Terafab Asks Japanese Equipment Makers for Delivery 'Within Months'…Pushes Ahead With 2028 Mass Production",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MX0hiejJ2ei0yZ0xiMWt0VmZWaERWOEpVWG55ZlpNSkg3aW9zd2FqUzd6TWVTazZXMzhEc2lXNjIxcFpjT202MDlYY25KNFR4MEdqWnd3MnJjR2hKV1hxS1ZWaWR4ZE9TakFsTW1UVXlCeGVxS0E?oc=5",
+      "source": "BigGo Finance",
       "sources": [
-        "SpaceNews",
-        "KRGV"
+        "BigGo Finance"
       ],
-      "date": "2026-11-07T17:25:48.000Z",
-      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "date": "2026-11-09T00:56:00.000Z",
+      "firstSeen": "2026-11-09T02:01:45.110Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 14.7
+    },
+    {
+      "id": "1iibnxp",
+      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+      "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+      "source": "TechCrunch",
+      "sources": [
+        "TechCrunch",
+        "The Hollywood Reporter"
+      ],
+      "date": "2026-11-08T06:59:05.000Z",
+      "firstSeen": "2026-11-09T02:01:45.110Z",
+      "image": "",
+      "snippet": "SNL seems to have its knives out for tech executives.",
+      "category": "business",
+      "score": 13.89
+    },
+    {
+      "id": "j7caf3",
+      "title": "SpaceX's Starlink Could Build a Nationwide Cell Network. Here's What Investors Need to Know",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcEw3eFdFN3RWOTJUcm5xMjhiTHpZNmotbFk2Nndva2RaeUN0RTRBYVBsYlF1eld1dkNnaWJWRElOX1F5ZGdoUzZGWl9tTEhYblplS2RqSFRXa3V6NXVUZ1pFbEpOa29JZExWTEdiVTEwMTlvckJpX1ZkRFQ2cXJzNnZNa0VXMkdfZmN4NmFadmt2ZWxWTUpWVw?oc=5",
+      "source": "The Motley Fool",
+      "sources": [
+        "The Motley Fool",
+        "AOL.com"
+      ],
+      "date": "2026-11-09T01:00:00.000Z",
+      "firstSeen": "2026-11-09T02:01:45.110Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 13.72
+    },
+    {
+      "id": "i70m0k",
+      "title": "SpaceX Schedules Starship Test 15. This Is the Cool Part.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hQWhkdllHY0Q1dGhyX2dmbnE1OHNKd0FzRDZVc2I1MkhfQ0dwYmtfWHdnd3NDWHVNTHRrYU1TcGVNeTJ5eTVYYjFqQ0h2NHpoRDhZQzFlSzFNazE4OUdSM2xnS25TNVZ0cWQ5Z0gxYnZ5ODJpbV9iSjBXcFg?oc=5",
+      "source": "Barron's",
+      "sources": [
+        "Livemint",
+        "Barron's"
+      ],
+      "date": "2026-11-08T17:51:00.000Z",
+      "firstSeen": "2026-11-09T02:01:45.110Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 16.91
+      "score": 13.47
     },
     {
-      "id": "19tdwlo",
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "source": "TechCrunch",
-      "sources": [
-        "TechCrunch"
-      ],
-      "date": "2026-11-07T22:07:22.000Z",
-      "firstSeen": "2026-11-08T01:52:36.108Z",
-      "image": "",
-      "snippet": "On Equity, we unpacked what the midterms mean for the tech industry.",
-      "category": "ai",
-      "score": 15.01
-    },
-    {
-      "id": "1izenau",
-      "title": "Elon Musk and Elizabeth Holmes share a 'superpower,' says director who made films about both",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkZOdnctNTN5VlBfcDk0bjR3Z0NyRUQxUXJvbWVpaVlrbkMxY28weVNqd0V1MzBEWG9VOHIzM3J4U1pCSjdpNF96RHFzWGZmQS1La21VMFB2bXBKcExpVDZlRS1GNFV1dUt2TlFtM09tVzB3bGpMa2hZMTFHTk1sV1piWkVXZnRydFdKMUZVR2dXVENMVEE?oc=5",
-      "source": "Business Insider",
-      "sources": [
-        "Business Insider",
-        "Business Insider Africa"
-      ],
-      "date": "2026-11-07T17:16:00.000Z",
-      "firstSeen": "2026-11-08T01:52:36.108Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 14.37
-    },
-    {
-      "id": "n9l0ve",
-      "title": "Musk Says His Terafab Chip Plant Could Cost $1 Trillion",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcFduWHVXMHo0VktuaFhwbWNhSEVXc0g3d1J5aDJqWjZuU21GaFRiQklqX3FRV0xoU25yamEwYWNFeE9zVFk5QldRV3h4czlXWmtaTlZjUExpbE5oMkF0LVlnbV84T2V4aFd1S3BGMTFsOWZkWWRxZF80YnFFS2xUTW1qTkJObnlfU3ZjUVRiYXRXZm8?oc=5",
+      "id": "jmbahe",
+      "title": "Mark Cuban Says Elon Musk Is Amazing and the ‘Best Entrepreneur of Our Lifetime,’ But He’s a Salesman — ‘He’s Gotta Sell What He’s Got to Sell’",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdWRZU1JxNDU5UklueWZFRU1UN2ZrSGt2TmhaYmJCbDFyc2locUR4MTlwMVVDbElRNHhlNndLUmgzeV81NU53UUQzb1FnZmFzbVdaT2JMTkhrMFdZc0otWHl2bS1zVEpmOFd0dUV4WjgtQmREZlBwclZPdmxXVmQ1WGFCUHgwYUtOYzZMX3hnNVZqdmY3?oc=5",
       "source": "Yahoo Finance",
       "sources": [
-        "24/7 Wall St.",
         "Yahoo Finance"
       ],
-      "date": "2026-11-07T17:16:00.000Z",
-      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "date": "2026-11-08T21:30:06.000Z",
+      "firstSeen": "2026-11-09T02:01:45.110Z",
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 14.37
+      "score": 13.32
     },
     {
-      "id": "1i0oiy6",
-      "title": "Tesla to add Cybertruck shift to clear orders before dismantling line next year",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRUhMT1JwanVVTTN4eGhvcXBNTHo3UV80QXFDU2hMWTRuUGppME9ab3RkNVkwZnFOWXh6VEZ5WUNHaHcwclAtOEZFb09CLWwteW5pN0JMY1lydFVhbzV2OVE4a0FqY1lJRGhIeEN6SVNnSTBfTTBuZm5GeGJFYjdMMUVTVFVFcGNlQ2x0RnF0allhVDV5MlQ4MlV6b1luV21tOVdNQTBzNG1RaHJBU3IxSlBGV25fRm5KTUEza0I4M2xRYnZwZFVIR29vMEY0bXBBaGMtWGJNOEw2Z1VjVXc?oc=5",
-      "source": "Reuters",
+      "id": "nqosa",
+      "title": "Tesla FSD’s New Safety Trick: It Can Grab Control To Dodge A Crash",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NZS13elFhalRlUkZjYm1KYXl3QjBPcXZIN1h4YnJ6NThtOWFDZTZydGR4QUstV3VrT1NMSXJhck1vMnFwYldzank4OXZVSkZrRlVmNEJPaGM0dHdJVUd1MDVGb1dwaHdQYWhKWFZwbDQ1eG4zTDZyZmliTnN4UQ?oc=5",
+      "source": "Motor1.com",
       "sources": [
-        "Reuters"
+        "Motor1.com"
       ],
-      "date": "2026-11-07T22:45:57.000Z",
-      "firstSeen": "2026-11-08T01:52:36.108Z",
+      "date": "2026-11-08T23:20:59.000Z",
+      "firstSeen": "2026-11-09T02:01:45.110Z",
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 14.17
-    },
-    {
-      "id": "1ob0c1f",
-      "title": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (photos)",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432",
-      "source": "Space.com",
-      "sources": [
-        "Space",
-        "Space.com"
-      ],
-      "date": "2026-11-07T01:41:58.000Z",
-      "firstSeen": "2026-11-07T02:23:49.527Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/q9Z9sqFyvcTuBggqZ6hKgV-1920-80.jpg",
-      "snippet": "SpaceX just launched a classified mission for the U.S. military. A Falcon 9 rocket lifted off from California's Vandenberg Space Force Base this evening (Nov. 6) at 7:48 p.m. EST (4:48 p.m.…",
-      "category": "space",
-      "score": 14.11
+      "score": 13.28
     }
   ],
   "trending": [
-    "Tesla",
     "Starlink",
     "SpaceX",
-    "Cybertruck",
+    "Tesla",
     "Cybercab",
-    "Starship"
+    "Starship",
+    "Cybertruck"
   ],
   "spark": [
-    {
-      "date": "2026-10-26",
-      "total": 142
-    },
     {
       "date": "2026-10-27",
       "total": 143
@@ -187,9 +182,13 @@
     },
     {
       "date": "2026-11-08",
-      "total": 5
+      "total": 129
+    },
+    {
+      "date": "2026-11-09",
+      "total": 11
     }
   ],
-  "summary": "128 stories (last 24h). Most active frontier: Tesla. Top story: Elon Musk Is Winding Down Cybertruck Production to Build Cybercabs. The Model S and Model X Already Gave Up Their Factory Space to Robots..",
+  "summary": "130 stories (last 24h). Most active frontier: Business. Top story: Democrats plan probes of Musk, Miller, corporate America after midterm rout.",
   "editor": null
 }
