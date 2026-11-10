@@ -1,141 +1,136 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "windowLabel": "LAST 24H",
-  "total": 130,
+  "total": 150,
   "counts": {
-    "business": 35,
-    "mobility": 32,
-    "space": 23,
-    "connectivity": 30,
-    "ai": 9,
-    "robotics": 1
+    "connectivity": 25,
+    "space": 31,
+    "mobility": 57,
+    "ai": 16,
+    "robotics": 1,
+    "business": 20
   },
   "topStory": {
-    "id": "1irdd2f",
-    "title": "Democrats plan probes of Musk, Miller, corporate America after midterm rout",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbWFGX05UdDR5UEFldE1ZWU5JTEpqczV4ZkFvZFRROWlvLWdsMlpocDZaY0R4eU1FSkJONjlVMGtDOFRVVjJHeWp3X3VWVWREMGdqQWN5WDdFamtYR2VBb0h3b3BrZTlUQlpGTDRzdVd6ZWowSDJoQnJ1eVFvX3B5SVZ5N0h2X0EwMWhYdGhHUzFHd0VUTEdLVW9OVFh6UUFLb09ZWF9BWQ?oc=5",
-    "source": "Reuters",
+    "id": "13gbuds",
+    "title": "Elon Musk Just Gave the Top End of His SpaceX Revenue Forecast About a 2% Chance. His Best Guess Sits at the Bottom End.",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcG5XeDR2MW1LVG44R0F4QVBqak9yNVo0T1lEa3FsRV9WOUJUSW9hdWptTXpCMTdsdUl1cm1Vb3B3Z1dvNTRvQkpEVndFdHZlWWJxbWdOZWpEU0J2YXR3R19TX3F6a0R5OWZ0QVVoWTV4MDhBZUMxakNRbW02c01Ma2FOMFJHLXl5STJHLTJrcTNyQQ?oc=5",
+    "source": "Yahoo Finance",
     "sources": [
-      "Reuters",
-      "The Economic Times",
-      "Rappler",
-      "The Hindu"
+      "Yahoo Finance",
+      "The Motley Fool",
+      "The Globe and Mail"
     ],
-    "date": "2026-11-08T17:41:49.000Z",
-    "firstSeen": "2026-11-09T02:01:45.110Z",
+    "date": "2026-11-10T00:23:00.000Z",
+    "firstSeen": "2026-11-10T04:21:35.903Z",
     "image": "",
     "snippet": "",
-    "category": "business",
-    "score": 19.93
+    "category": "space",
+    "score": 17.45
   },
   "topList": [
     {
-      "id": "y2vo46",
-      "title": "Musk's Terafab Asks Japanese Equipment Makers for Delivery 'Within Months'…Pushes Ahead With 2028 Mass Production",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MX0hiejJ2ei0yZ0xiMWt0VmZWaERWOEpVWG55ZlpNSkg3aW9zd2FqUzd6TWVTazZXMzhEc2lXNjIxcFpjT202MDlYY25KNFR4MEdqWnd3MnJjR2hKV1hxS1ZWaWR4ZE9TakFsTW1UVXlCeGVxS0E?oc=5",
-      "source": "BigGo Finance",
-      "sources": [
-        "BigGo Finance"
-      ],
-      "date": "2026-11-09T00:56:00.000Z",
-      "firstSeen": "2026-11-09T02:01:45.110Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 14.7
-    },
-    {
-      "id": "1iibnxp",
-      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
-      "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
-      "source": "TechCrunch",
-      "sources": [
-        "TechCrunch",
-        "The Hollywood Reporter"
-      ],
-      "date": "2026-11-08T06:59:05.000Z",
-      "firstSeen": "2026-11-09T02:01:45.110Z",
-      "image": "",
-      "snippet": "SNL seems to have its knives out for tech executives.",
-      "category": "business",
-      "score": 13.89
-    },
-    {
-      "id": "j7caf3",
-      "title": "SpaceX's Starlink Could Build a Nationwide Cell Network. Here's What Investors Need to Know",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcEw3eFdFN3RWOTJUcm5xMjhiTHpZNmotbFk2Nndva2RaeUN0RTRBYVBsYlF1eld1dkNnaWJWRElOX1F5ZGdoUzZGWl9tTEhYblplS2RqSFRXa3V6NXVUZ1pFbEpOa29JZExWTEdiVTEwMTlvckJpX1ZkRFQ2cXJzNnZNa0VXMkdfZmN4NmFadmt2ZWxWTUpWVw?oc=5",
-      "source": "The Motley Fool",
-      "sources": [
-        "The Motley Fool",
-        "AOL.com"
-      ],
-      "date": "2026-11-09T01:00:00.000Z",
-      "firstSeen": "2026-11-09T02:01:45.110Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 13.72
-    },
-    {
-      "id": "i70m0k",
-      "title": "SpaceX Schedules Starship Test 15. This Is the Cool Part.",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hQWhkdllHY0Q1dGhyX2dmbnE1OHNKd0FzRDZVc2I1MkhfQ0dwYmtfWHdnd3NDWHVNTHRrYU1TcGVNeTJ5eTVYYjFqQ0h2NHpoRDhZQzFlSzFNazE4OUdSM2xnS25TNVZ0cWQ5Z0gxYnZ5ODJpbV9iSjBXcFg?oc=5",
-      "source": "Barron's",
-      "sources": [
-        "Livemint",
-        "Barron's"
-      ],
-      "date": "2026-11-08T17:51:00.000Z",
-      "firstSeen": "2026-11-09T02:01:45.110Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 13.47
-    },
-    {
-      "id": "jmbahe",
-      "title": "Mark Cuban Says Elon Musk Is Amazing and the ‘Best Entrepreneur of Our Lifetime,’ But He’s a Salesman — ‘He’s Gotta Sell What He’s Got to Sell’",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdWRZU1JxNDU5UklueWZFRU1UN2ZrSGt2TmhaYmJCbDFyc2locUR4MTlwMVVDbElRNHhlNndLUmgzeV81NU53UUQzb1FnZmFzbVdaT2JMTkhrMFdZc0otWHl2bS1zVEpmOFd0dUV4WjgtQmREZlBwclZPdmxXVmQ1WGFCUHgwYUtOYzZMX3hnNVZqdmY3?oc=5",
+      "id": "bmu7se",
+      "title": "Tesla Rises 5% Despite Musk’s Cybertruck Refund Warning, Lucid Jumps 8% Ahead of Earnings; Rivian Climbs 2%",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOWNjaFlhYmV3ZFZJd04tTUtPdEVzRHdYRmtjTEJiR1R5QmZjX0pLMWx2QkwyczkyVmEzSkU1M3FLME9lWWo5Rnh4YVk2RmNBYlVmd0gxMVJWaVhQXzg5b0V5WXF3NTMzN1lNQXR5V0JURzlPRml4MHRkSHhTdGd1Z21RRC0xWEZmVGc2OXhvOTZXb0x1aHc?oc=5",
       "source": "Yahoo Finance",
       "sources": [
-        "Yahoo Finance"
+        "Yahoo Finance",
+        "24/7 Wall St."
       ],
-      "date": "2026-11-08T21:30:06.000Z",
-      "firstSeen": "2026-11-09T02:01:45.110Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 13.32
-    },
-    {
-      "id": "nqosa",
-      "title": "Tesla FSD’s New Safety Trick: It Can Grab Control To Dodge A Crash",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NZS13elFhalRlUkZjYm1KYXl3QjBPcXZIN1h4YnJ6NThtOWFDZTZydGR4QUstV3VrT1NMSXJhck1vMnFwYldzank4OXZVSkZrRlVmNEJPaGM0dHdJVUd1MDVGb1dwaHdQYWhKWFZwbDQ1eG4zTDZyZmliTnN4UQ?oc=5",
-      "source": "Motor1.com",
-      "sources": [
-        "Motor1.com"
-      ],
-      "date": "2026-11-08T23:20:59.000Z",
-      "firstSeen": "2026-11-09T02:01:45.110Z",
+      "date": "2026-11-09T19:04:00.000Z",
+      "firstSeen": "2026-11-10T04:21:35.903Z",
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 13.28
+      "score": 16.22
+    },
+    {
+      "id": "410xw1",
+      "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
+      "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
+      "source": "NASASpaceflight",
+      "sources": [
+        "NASASpaceflight"
+      ],
+      "date": "2026-11-09T22:37:05.000Z",
+      "firstSeen": "2026-11-10T04:21:35.903Z",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3.jpg",
+      "snippet": "Seven rockets from four countries are set to launch this week. Starship is set to attempt its most consequential mission yet, while Falcon 9 is set to launch a pair of classified payloads…",
+      "category": "space",
+      "score": 15.53
+    },
+    {
+      "id": "e6niqy",
+      "title": "Elon Musk forced to bring Cybertruck production to a conclusion",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hT3dQQTcyYWtTeTN2dVVSR2VEbTJ5eThyNjhHc2VoQnhFU3RGWkZfR0l3aWQ4YWhQRFBQSlN6VzR2Umpxd01KY2tWMkZVZUpIZ0pmbl9ablJNRUdtZUZwWE5LTnFZMHI3RHVQRzM2Y0o?oc=5",
+      "source": "Financial Times",
+      "sources": [
+        "Financial Times"
+      ],
+      "date": "2026-11-10T00:30:07.000Z",
+      "firstSeen": "2026-11-10T04:21:35.903Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 14.98
+    },
+    {
+      "id": "1dw4n35",
+      "title": "Cathie Wood's ARK Invest Says Tesla's Robotaxi Cash Flow Could Bankroll SpaceX's AI Ambitions, Backing a Potential Merger of Elon Musk's Two Companies. Is This the Thesis That Finally Reprices Tesla Stock?",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM3ktWHhMOWxVdF9zWXc3cThySWRYR0g5aVdlVHFFZlh3Slctb19NTmgyTWxDZHo1TzByYmN0Nm8zYUxscm04OENOVjkxNThyNUNmX1BlV29kMi1ubjRoNURKOTNlNkxjcWFUYXVGYVc5djVjOFNWNnFIbmlBSTJxTkFmR1NKZ3ZtRzR5dWJwcE1QRl9DTlM0?oc=5",
+      "source": "The Motley Fool",
+      "sources": [
+        "The Motley Fool",
+        "The Globe and Mail"
+      ],
+      "date": "2026-11-09T20:05:00.000Z",
+      "firstSeen": "2026-11-10T04:21:35.903Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 14.95
+    },
+    {
+      "id": "10vpoa",
+      "title": "Elon Musk Confirms Tesla Is Killing the Cybertruck, Some Buyers Are Getting Their Money Back",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWJpNHR5ZUxMWC0xV2pMZzNYQWFfS3FfYjU1TTE4cHVWVkl3UmJHT0dieVdtLXRXZTZiakVhYmhKUXFZU1B4WHNLQklSS1YzWmU0ZjB4TS0weGJnX19OV1BmdkRma29lQXlvV1loa2R6RzZOaVdoT2NXVkJlNlhxQXZTQ25sTGtRTGh3cFNVR0xwOWJ1cEhsZTU3NnlPdw?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "Yahoo Finance",
+        "Gadget Review"
+      ],
+      "date": "2026-11-09T19:36:18.000Z",
+      "firstSeen": "2026-11-10T04:21:35.903Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 14.34
+    },
+    {
+      "id": "5tj8km",
+      "title": "Musk unveils another bold target: SpaceX's annualized revenue will reach $500 billion next year, Starlink computers will launch in sync, and TeraFab chip production capacity is set to hit one terawatt.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRDJTOHQ3d2FoN1hsaEdQZzBoVU5telkxQXVrOHJHU2FYYkV2dWl5RWhMeUp6UnN6dkhkck8tU09pLXhyaGFJRHpQNmphUlZRV1RiVHQ1dkxuSnpQQkNXZ2w5bGxiOU9CT3dlWjVaMFRiaHBNemh4VVhVRnZBQ0pLejZac2FVcTk2bDhEcDQwRXQwN3FGTFpMSHQ2Q3Z6dm1wMHJDQUlTTlZRTkd3?oc=5",
+      "source": "富途牛牛",
+      "sources": [
+        "富途牛牛"
+      ],
+      "date": "2026-11-10T00:53:10.000Z",
+      "firstSeen": "2026-11-10T04:21:35.903Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 14.08
     }
   ],
   "trending": [
-    "Starlink",
-    "SpaceX",
     "Tesla",
-    "Cybercab",
-    "Starship",
-    "Cybertruck"
+    "SpaceX",
+    "Cybertruck",
+    "Starlink",
+    "Robotics",
+    "Robotaxi"
   ],
   "spark": [
-    {
-      "date": "2026-10-27",
-      "total": 143
-    },
     {
       "date": "2026-10-28",
       "total": 138
@@ -186,9 +181,13 @@
     },
     {
       "date": "2026-11-09",
-      "total": 11
+      "total": 129
+    },
+    {
+      "date": "2026-11-10",
+      "total": 21
     }
   ],
-  "summary": "130 stories (last 24h). Most active frontier: Business. Top story: Democrats plan probes of Musk, Miller, corporate America after midterm rout.",
+  "summary": "150 stories (last 24h). Most active frontier: Tesla. Top story: Elon Musk Just Gave the Top End of His SpaceX Revenue Forecast About a 2% Chance. His Best Guess Sits at the Bottom End..",
   "editor": null
 }
