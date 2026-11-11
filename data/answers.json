@@ -1,105 +1,105 @@
 {
-  "updated": "2026-11-10T04:21:35.903Z",
+  "updated": "2026-11-11T02:17:34.678Z",
   "answers": [
     {
       "q": "What is the latest Elon Musk news today?",
-      "a": "As of 10 Nov 2026: 150 stories (last 24h). Most active frontier: Tesla. Top story: Elon Musk Just Gave the Top End of His SpaceX Revenue Forecast About a 2% Chance. His Best Guess Sits at the Bottom End..",
+      "a": "As of 11 Nov 2026: 150 stories (last 24h). Most active frontier: Starlink. Top story: SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic double-catch attempt (photos).",
       "links": [
         {
-          "title": "Elon Musk Just Gave the Top End of His SpaceX Revenue Forecast About a 2% Chance. His Best Guess Sits at the Bottom End.",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcG5XeDR2MW1LVG44R0F4QVBqak9yNVo0T1lEa3FsRV9WOUJUSW9hdWptTXpCMTdsdUl1cm1Vb3B3Z1dvNTRvQkpEVndFdHZlWWJxbWdOZWpEU0J2YXR3R19TX3F6a0R5OWZ0QVVoWTV4MDhBZUMxakNRbW02c01Ma2FOMFJHLXl5STJHLTJrcTNyQQ?oc=5",
-          "source": "Yahoo Finance",
-          "date": "2026-11-10T00:23:00.000Z"
+          "title": "SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic double-catch attempt (photos)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-flight-15-booster-to-launch-pad-for-squeeze-test-ahead-of-epic-double-catch-attempt-photos",
+          "source": "Space.com",
+          "date": "2026-11-10T22:09:39.000Z"
         },
         {
-          "title": "Tesla Rises 5% Despite Musk’s Cybertruck Refund Warning, Lucid Jumps 8% Ahead of Earnings; Rivian Climbs 2%",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOWNjaFlhYmV3ZFZJd04tTUtPdEVzRHdYRmtjTEJiR1R5QmZjX0pLMWx2QkwyczkyVmEzSkU1M3FLME9lWWo5Rnh4YVk2RmNBYlVmd0gxMVJWaVhQXzg5b0V5WXF3NTMzN1lNQXR5V0JURzlPRml4MHRkSHhTdGd1Z21RRC0xWEZmVGc2OXhvOTZXb0x1aHc?oc=5",
-          "source": "Yahoo Finance",
-          "date": "2026-11-09T19:04:00.000Z"
+          "title": "SpaceX Starship Flight 15 live updates: Super Heavy rocket moved to launch pad for 1st Starship double landing test",
+          "url": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-10-2026-starship-first-double-landing-attempt",
+          "source": "Space.com",
+          "date": "2026-11-10T19:46:21.000Z"
         },
         {
-          "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
-          "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
-          "source": "NASASpaceflight",
-          "date": "2026-11-09T22:37:05.000Z"
+          "title": "Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSXpmLTRvZy1lUm1ySWZqbG11MDl1LVlfaGprYWxld09nd01HNkxOVTlMSnhuUEhEcVRyQkl4Y3dxLWZZeURRc1dXTkI3TEotdGlwbEV0Q0NKbTc4MElCV0xkbWs1T3l3d0hwMElnYjlQQjg5MVR6QWx3ZkUtQlJWRXJVRVZBTkplaEZGRy1n?oc=5",
+          "source": "Decrypt",
+          "date": "2026-11-10T19:46:02.000Z"
         }
       ]
     },
     {
       "q": "What is SpaceX working on right now?",
-      "a": "Starship: Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate. Starlink: 10,000+ satellites; V3 satellites now flying on Starship. Latest: Transcom Instruments buys satellite-nav tester for $133M amid Starlink-era race (Dealroom, 10 Nov 2026); SpaceX Targets Historic Dual Starship Catch to Unlock Military Rocket Reuse (The SOFX Report, 10 Nov 2026).",
+      "a": "Starship: Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate. Starlink: 10,000+ satellites; V3 satellites now flying on Starship. Latest: Elon Musk Receives Second Proposal from Colombia to Build a SpaceX Base (ColombiaOne.com, 11 Nov 2026); ‘Musk’ Director Alex Gibney Accuses Elon Musk of Using Starlink to Intercept Voting Results Early: ‘Means of Surveillance and Control’ (AOL.com, 11 Nov 2026).",
       "links": [
         {
-          "title": "Transcom Instruments buys satellite-nav tester for $133M amid Starlink-era race",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTkZkandtVGtQeU1yNThVdll3bHFzb0tjTXRuSjRCdGpJU3p0T0UyM0pZd3B1alRwNFl6dmdDUF9LS0lWeXhDTFJBbW9IcE10M0M2QkJOMzhrMFozazFxQkNfWXU0SnVkOVNBM2RJc19fT3BkcmNjYVlteXdKZ1VWMDB2S2tmUXJkZi0zY1BLcllyekREYUZtamg3OWRYUzBZUnNMaEhJT0tBZ29QTDdLZ1JR?oc=5",
-          "source": "Dealroom",
-          "date": "2026-11-10T04:14:14.000Z"
+          "title": "Elon Musk Receives Second Proposal from Colombia to Build a SpaceX Base",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmJDeUZydENRemVhV2VNdmNOSU1nV2dHRl9sbFNDNVUtYlM2RTZRU2R2cFpPRzJzTXRCTHhHWmJXcnk0dWdfbXZETGJuMmhKVWgtdkszRUU5VzJXWDZaZFpHeDExdl9fakNja3JlNTVuaXZGcEROcHdNRWhjRHQzVTZ0aGdGVlA4MWtsYkZJQ0s2WmZHbWpWbHVoeUVPbUxPYV9SVkJhZ3pOYVE?oc=5",
+          "source": "ColombiaOne.com",
+          "date": "2026-11-11T01:34:00.000Z"
         },
         {
-          "title": "SpaceX Targets Historic Dual Starship Catch to Unlock Military Rocket Reuse",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWVZsZUxjLUhFTFl1aUF5LW14UjJ5a0M0WXp6U1hZQU8teTByUnQ3VU9PaVZLZ2NKb1hJUFZFdnpYcTNMWTFXZmdwd0hNV3NDTWxhLUh5eDNQenpHOFVDR0NaSW4xMFpTckd0dzlwVWRadXpuRlZHWURZM2pVajhqOG5fUGpRV01rbWw4NDBCSnhJQVpPaXRVX2FrSWk0Zw?oc=5",
-          "source": "The SOFX Report",
-          "date": "2026-11-10T04:07:14.000Z"
+          "title": "‘Musk’ Director Alex Gibney Accuses Elon Musk of Using Starlink to Intercept Voting Results Early: ‘Means of Surveillance and Control’",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT2U1WW1UZk1XRm9jR2lPRkVXYngyQkNXT0EzclJfNF9RZVBrdUdpNkxjaS1wM0tVTk15WThBMnRHSkxnQXgyZUZxazhwMVJUS2ZHdUZIeWlvZkFheG5FTldjMVNOakxDeTd0M3NWRHRoNFlWZ2hyYmh5RWViSlZPZWIyUQ?oc=5",
+          "source": "AOL.com",
+          "date": "2026-11-11T00:54:00.000Z"
         },
         {
-          "title": "SpaceX Starship Flight 15: How the 22-hour mission and double tower catch will work",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY1JvMjFDdERUNzJLSjVpUFBia2F5M2VCVTd5Y0Fsa1Z1d05oOGs5ejdIMHVydWg3dXFuYTZuNlJnb3lLTkU1NlYzYlNlWUllQ2hpeUFtaEZfRVppUndVVE9meVNTVllDV1Z1OWVxSWNDMXNqeWppdGRPcHpmaWgwWFpYeXhWZmFDZllXRWdqQ04?oc=5",
-          "source": "Starlust.org",
-          "date": "2026-11-10T03:27:02.000Z"
+          "title": "SpaceX Loses Bid to Force Fired Workers Into Arbitration",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLMDA1bzFZNjBNenVWQXk1V2FyeWxxc0xEZlJ5c29pQks0WTdETTg1VkQtUG1JNnMyZ2ZFNTRlX08xQzlrWWRsN0NDVGRyaVlZeVdGVHdMQ3MzLXlLTWtnUlRQXy1qTmZvcUVIMTNqX05ROGV3WXhQSU4wOTVSMXc?oc=5",
+          "source": "TeslaNorth.com",
+          "date": "2026-11-11T00:39:44.000Z"
         }
       ]
     },
     {
       "q": "What is Tesla working on right now?",
-      "a": "Cybercab and Robotaxi: First Cybercab rides reported alongside Q3 2026 results. Optimus: Output targeted toward the end of 2026. Latest: Tesla 2026.38.4.5 Is Out: FSD v14.2 Lite and What to Do (BASENOR - Tesla Accessories, 10 Nov 2026); Cybertruck Exits: Is Tesla Starting to Cut Its Losses? (Gasgoo, 10 Nov 2026).",
+      "a": "Cybercab and Robotaxi: First Cybercab rides reported alongside Q3 2026 results. Optimus: Output targeted toward the end of 2026. Latest: Elon Musk’s Cybertruck decision could change Tesla’s next chapter (TheStreet, 11 Nov 2026); Tesla tuner Unplugged offers to take over Cybertruck production (Electrek, 11 Nov 2026).",
       "links": [
         {
-          "title": "Tesla 2026.38.4.5 Is Out: FSD v14.2 Lite and What to Do",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ha2pCV0VmbTNxTllKa2hZcUlsU2U2V2Jma0Z5TUZGS2REM2pRQ3piOVdCa3huNFVDU0FCUE44emtlRlNpcGxoTkQwdThZTjRqaURERG8xRGd2N0NoN0JNVjZyd0ZXUFVQQ3R3?oc=5",
-          "source": "BASENOR - Tesla Accessories",
-          "date": "2026-11-10T04:06:16.000Z"
+          "title": "Elon Musk’s Cybertruck decision could change Tesla’s next chapter",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUnRnVjZZcnl6LUVfWFpUbnJsRnVVOWFzTHVfTDAtNjJWOHEwcnN5TmN6di1XaHVYcEtfTlJGOTRkcWlVZy1ITkRLYlpPaDVwWlBaNlN5MXBQSFgxekpwdVF2akRfT1AxTUI5aklubDdRM2JsN19aVEsxajIwb3ZYU2t1ZktPQ2JVRUsydlVXclQ2cDZsY2M3VjFfYVNySm5CQWs2Z1Yzd2ZqZw?oc=5",
+          "source": "TheStreet",
+          "date": "2026-11-11T02:03:00.000Z"
         },
         {
-          "title": "Cybertruck Exits: Is Tesla Starting to Cut Its Losses?",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkpMVHNEbW5xWnctTFQ3MGk1U21zU1NuWVJpSGc2dHpVbUFnOTVKbVlISTR2MEs0WEhTNlRieVhBNnFadXVkWTF4U0hldlQtX3AwY1hPZzY5NEp6V05SRWVpT3M1b1otcHE4ZlhBMnJsbXdVeXNfWThYV1F4UkRuQ1dHdkQzSGVuUFg5SjBQQnRhLWF0WTVaRzBXbWpGNkxCNndiRm9abHhzemRFTW9sMkpkMnc?oc=5",
-          "source": "Gasgoo",
-          "date": "2026-11-10T03:41:01.000Z"
+          "title": "Tesla tuner Unplugged offers to take over Cybertruck production",
+          "url": "https://electrek.co/2026/11/10/unplugged-performance-offers-take-over-tesla-cybertruck-production/",
+          "source": "Electrek",
+          "date": "2026-11-11T01:48:00.000Z"
         },
         {
-          "title": "Tesla exec hints at a wild fix for Robotaxi’s biggest weather problem",
-          "url": "https://www.teslarati.com/tesla-lars-moravy-robotaxi-laser-windshield/",
-          "source": "Teslarati",
-          "date": "2026-11-10T03:12:07.000Z"
+          "title": "BREAKING! A Company Offers To Take Over The Cybertruck Line, And Makes Tesla 4 Promises To Save It",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjVfaUhWeEw5anQyempKZ2VZbHpWYXlSdDUtQXlDbUZNZHdJVjVGUllzaHVKZTFuWXg0YlZRaE90R0RUanFEUEpYNzdIRFpCQ1ZFR1lpV0Q0WWMtSjZjaDFLUnpZbUEyQnVqMDBvUThjZmxHcEtJZmx4T3d5eC1zeGhwcXdIMWI2ZV9iZjVIRDNneFVNdVdRQ1hscElzUlZQM1dodktTSVZ2Q2tIRGpwdWhaUQ?oc=5",
+          "source": "Torque News",
+          "date": "2026-11-11T01:14:39.000Z"
         }
       ]
     },
     {
       "q": "What are xAI and Neuralink doing now?",
-      "a": "xAI and Grok: $40B in debt closed for GPUs arriving in 2027; Grok releasing an AI-generated video series. Neuralink: Next-generation implant with more channels unveiled in October. Latest: SpaceX to invest 24 billion dollars in Texas AI power and supercomputing plan (Chosunbiz, 10 Nov 2026); Grok hits 99.9% accuracy spotting rocket debris for SpaceX (Crypto Briefing, 10 Nov 2026).",
+      "a": "xAI and Grok: $40B in debt closed for GPUs arriving in 2027; Grok releasing an AI-generated video series. Neuralink: Next-generation implant with more channels unveiled in October. Latest: How to Check Grok Bot Usage and What’s Eating Your Limit (TeslaNorth.com, 11 Nov 2026); Grok Build’s App Sharing Puts Private Data at Risk, Researchers Say (TeslaNorth.com, 11 Nov 2026).",
       "links": [
         {
-          "title": "SpaceX to invest 24 billion dollars in Texas AI power and supercomputing plan",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53cURReW00MzI4Y09scWtUQ2Z1NDJHVjNuMnphaTlmdjRMRk5RX1lzQVFub3NJUGVRczE4OFJtRGpEblBkUmJ1QmRqTUxUZTBVX0NNVF8xUnVnc3drSmZaNnZMVDdodE9nYVhZVUQ5Q2tNVF9aQ2U1N2x30gGOAUFVX3lxTE1DdWJ5ZE5SNDhpZVZtWnljYWw1blBZRGJ0aUt4RzctYm1Jak5tTG5GcGNIZl9ISjVTZGpEVlc0RzI1VkJRbFEwQ09MVkFuUHFzN3FwQmVwTFhwcjl1VDdoV19hd1lpaF94YzI3X196VjA2elpQVXNBV0tmNnpUWml4cUtsVkttbnM2eFUyT2c?oc=5",
-          "source": "Chosunbiz",
-          "date": "2026-11-10T03:14:00.000Z"
+          "title": "How to Check Grok Bot Usage and What’s Eating Your Limit",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jRlJUeXBtdTBQblNYUGQ0LTJoc3NfT3BVNG9WZ0pQWUtxaXpGQlNSakQ1VUFodDdNblJaOGxkWnd3ZVFrdFBySFpydE5ReUo0ZlNHVGJ3czNhdTIwMXJhRDlNMUl5VVM2c1ZOVURvMA?oc=5",
+          "source": "TeslaNorth.com",
+          "date": "2026-11-11T01:57:43.000Z"
         },
         {
-          "title": "Grok hits 99.9% accuracy spotting rocket debris for SpaceX",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYX1JrN3NfSnhaWGtodjB0U0trLXZxaTlJcHFJM0xoRDVLbmNVeF91ZER2MlMxM1ZGaHFvWUYwSEVhY0VZVG1uUkpmY3dJS2oyWXlsUUY0SVJST0FrMmZ0UWdjMm50LWdiYjBTRmFoQWFEMGtZblY3RWNwUQ?oc=5",
-          "source": "Crypto Briefing",
-          "date": "2026-11-10T03:08:25.000Z"
+          "title": "Grok Build’s App Sharing Puts Private Data at Risk, Researchers Say",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41Q0NvZm5tcTNqc2NKa2pLVG5Za3VTSlJDc2FvODZXN0s2TTBBNU1SRlZhMGluNnFxU2FxVEtQRGpaNllROWFMSUFPYllNTzNVcnFWTGNLWjNTMzVwUUlsVFl2VXhoaW5XbEdfU2cxN204TmdOanZyQ1Fn?oc=5",
+          "source": "TeslaNorth.com",
+          "date": "2026-11-11T00:42:33.000Z"
         },
         {
-          "title": "Elon Musk Grok AI Predicts a Wild DOGE Price: can it go this high?",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYSVlVVS1jRGhYUV9YQ3prRWpPVHIyTER3YVdqOTJnbGJQOU5pVTQ0N1RBRXpLQXptSHA0QlFkT0pObGdQSFdwbTFOc1R0OGFMWnJWUWRvbGtQLThTMDlNMldCbzVMWDkxRkxodDR6TkFJTTBZbmJBOFZNbw?oc=5",
-          "source": "Cryptonews",
-          "date": "2026-11-10T01:10:31.000Z"
+          "title": "Space AI Accelerates Preparations: SpaceX Orders Solar Production Line, Starship Attempts First \"Dual Recovery\"",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb24tTU1tUFg2bktfdU56SS13UG9fOXBxNFhjLV82Um9XLTlnc21ya0pCVWFJbzNTU1ZZRW01SmM3UTJOSUoxTEVrMG9kLUxsYUUybklnWGFJeHAzRnNBbnliTTF3aWlsSmpJUlU2LVZWRmZMNzljTHNwZXp1MXZ3VWtqQ0VEY3ZVczF5cjNEbUd5SnUtei0xQUhoMzlxMHp4X0NXNzduMG9TZzhBTVZDbVZqXzZScWZiUTRSYlh3?oc=5",
+          "source": "富途牛牛",
+          "date": "2026-11-10T23:52:56.000Z"
         }
       ]
     },
     {
       "q": "How often is Musk Systems updated?",
-      "a": "A new edition is built automatically every day at 07:47 KST (22:47 UTC). This edition was built on 10 Nov 2026 from 17 sources and holds 150 stories, each linked to its original publisher.",
+      "a": "A new edition is built automatically every day at 07:47 KST (22:47 UTC). This edition was built on 11 Nov 2026 from 17 sources and holds 150 stories, each linked to its original publisher.",
       "links": []
     },
     {
