@@ -1,146 +1,137 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "robotics": 3,
-    "business": 12,
-    "space": 37,
-    "mobility": 46,
-    "connectivity": 30,
-    "ai": 22
+    "business": 16,
+    "ai": 14,
+    "connectivity": 47,
+    "space": 40,
+    "mobility": 31,
+    "robotics": 2
   },
   "topStory": {
-    "id": "187y680",
-    "title": "Elon Musk says he would hire Jensen Huang",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOWlwd0MtRlZrZkpjTGdqVDItLW5RNTVDMGsxOGFRc3dtaUFpd0tTZlB1bTZkUzFEeXZTX1ljVjQwNHVpdE5PT1dkSk53VHUwbmFzMms3eGZGWnV6SDhoNjUyWEJ0N25aMUVPRjhpN3p4eUcybjNwTnBTNDdPVXpRR2RxeEJRcHhVRVk0Y0xmZ1hWT2wtRU9VTw?oc=5",
-    "source": "Business Insider",
+    "id": "1hgu0gp",
+    "title": "SpaceX, Tesla merger talks progress, Bloomberg News reports",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSDRsb3FNV0VLZW5Hb01MamhyMnpOS3NEZl9jT2czVGFTQ3JOdjF0WXdQNHh3SVFJVmhKTVBIb3hhT0UxTlBlOG9lY1AzVnVTY1hjZlItN1Q4X1YzVjMwVTVyVF9keUh4UnRGTnBWeGItejZObzU4QVVOeEF2ZGxuTmFfSDVyQllsRlJNNXV3N1V3ai1sMWx2RTEzR3pNNXpVRWtOTjJDQzg5YVJjT3FBM1BhRQ?oc=5",
+    "source": "Reuters",
     "sources": [
-      "Business Insider",
-      "TradingView",
-      "Breakingthenews.net",
-      "India Today"
+      "Bloomberg.com",
+      "Reuters"
     ],
-    "date": "2026-11-12T01:51:00.000Z",
-    "firstSeen": "2026-11-12T03:24:39.845Z",
+    "date": "2026-11-12T20:22:35.000Z",
+    "firstSeen": "2026-11-13T02:56:57.952Z",
     "image": "",
     "snippet": "",
-    "category": "business",
-    "score": 20.08
+    "category": "space",
+    "score": 17.33
   },
   "topList": [
     {
-      "id": "igm4ey",
-      "title": "Elon Musk says Tesla will extend Cybertruck production through end of summer",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeWxMUzhLbndqVUdNbTRQbl85VWJOS1BEWGJoSjQ5SlJZWFpDbXNWZmNCOFdULW93MkI0b2x3UWxMZWVlQTY5LTVmeVgzVER1ZEQxLWpHQ3paYV9XOVJyYl91ZTRNTzdCYmhyRk4tVnJhU3ZLVkNERTdhSjItQ1ZCX3Q3Ykg2RnlOOE9WRVhfTQ?oc=5",
-      "source": "Business Insider",
+      "id": "zb1nbc",
+      "title": "SpaceX's Starship megarocket will launch to orbit on Nov. 13. Will you be able to spot it in the night sky?",
+      "url": "https://www.space.com/stargazing/spacexs-starship-megarocket-will-launch-to-orbit-on-nov-13-will-you-be-able-to-spot-it-in-the-night-sky",
+      "source": "Space.com",
       "sources": [
-        "CBS News",
-        "Business Insider",
-        "LinkedIn",
-        "Seeking Alpha"
+        "Space",
+        "Space.com"
       ],
-      "date": "2026-11-11T17:30:15.000Z",
-      "firstSeen": "2026-11-12T03:24:39.845Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 18.09
+      "date": "2026-11-12T20:00:00.000Z",
+      "firstSeen": "2026-11-13T02:56:57.952Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/358cZ8fgTVudyA6vaGY7Ze-1920-80.jpg",
+      "snippet": "SpaceX's Starship megarocket is slated to launch on its ambitious 15th flight test as soon as this Friday (Nov. 13). Will you be able to spot its leviathan upper stage, known as Ship, or…",
+      "category": "space",
+      "score": 17.24
     },
     {
-      "id": "12tvl17",
-      "title": "Elon Musk Aims for Historic 'Double Catch' Friday",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYndSRURMYUxyMHJ3QmdiamkzbTRSZ0NHTFpYMmV1ZnFpb3g0eHVkUmFmbHZnUHFSY096R0w4R1Z3ek1vVWFTaTRCUjdpMkxFaGFrN2RuWkRZWnNYVDdvOHktaEJ1eWd4LVlfb2tjQVRkT0dSSzJVYVRNV1dJUjRjZ2lJZUFSMWxOYXZQaEgtMF9keVQ0Rnc?oc=5",
-      "source": "Yahoo Finance",
+      "id": "1i3dh1z",
+      "title": "SpaceX could announce $1.5 trillion Tesla merger in December: report",
+      "url": "https://electrek.co/2026/11/12/spacex-tesla-merger-announcement-december-report/",
+      "source": "Electrek",
       "sources": [
-        "Benzinga",
-        "Yahoo Finance"
-      ],
-      "date": "2026-11-11T13:50:42.000Z",
-      "firstSeen": "2026-11-12T03:24:39.845Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 15.36
-    },
-    {
-      "id": "mung8i",
-      "title": "Verizon, AT&T and T-Mobile shut out Elon Musk’s phone service. Now the FCC is reviewing SpaceX’s plan to build its own",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVzJFZFlzQmplRmxxcEtrRmlSUjk4anJsbUlBVlhjYURlZUQ2WmVmZm12dmgyd0lEdHVSakItcHZwM2pYQ3AtTTkxSER0cWRndEg5b3VBOUM2WXRyYWpVR0UwMGxBeWZwenRidWVrby15cFVfVGg2RVBQcjJrSHRWVk9jM2J5V0xzRDdGSw?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
+        "Investor's Business Daily",
         "Yahoo Finance",
-        "MoneyWise.com"
+        "Electrek"
       ],
-      "date": "2026-11-11T22:08:27.000Z",
-      "firstSeen": "2026-11-12T03:24:39.845Z",
-      "image": "",
-      "snippet": "",
+      "date": "2026-11-12T14:48:18.000Z",
+      "firstSeen": "2026-11-13T02:56:57.952Z",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/01/Elon-Musk-self-dealing-Tesla-Spa.jpg?quality=82&strip=all&w=1600",
+      "snippet": "Elon Musk’s companies are moving faster than expected on a Tesla-SpaceX combination. A deal could be announced as soon as December, which would make it the largest merger ever, according to…",
       "category": "space",
-      "score": 15.14
+      "score": 16.64
     },
     {
-      "id": "nme0hi",
-      "title": "Ahead of This Week's Starship Launch, FUTURE of SPACE Co-Founder Daniel Fox Makes the Case for Why We Go to Space",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQaHE1QlNIQnE4bkNfRGphcHQxdkswOWRvOHdMd3ptd1dVZnc5VUFVbjBPUEtTQTY1Um4tRFdRRURUR0pUaVNFYWNmUWViVkVKbzZnOUFJQ2Fxdk5IcmNYRjJTaHQ4TzI2NDJKNnJUcFFIZ2VKb3o2dTRnZUltWWViRFloUmg5ZXlVWVJqTmJsbVhNTlI0QTBZazhMS1RnUU93UHpWMEYzdWhvNVN0emU4R1lLdmNkSVpCVUVLRGtjZFp4VURiYmlydVFQQnBqX3JHdl84RHVDMzNVNFo4N25lb1dFSjFvdXNRU296UENZWXZxT3hsWjhMbmZaNGZtUQ?oc=5",
-      "source": "StreetInsider",
-      "sources": [
-        "StreetInsider",
-        "PR Newswire"
-      ],
-      "date": "2026-11-11T20:00:00.000Z",
-      "firstSeen": "2026-11-12T03:24:39.845Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 14.14
-    },
-    {
-      "id": "lmtanx",
-      "title": "Stock Market Today, Nov. 11: SpaceX Shares Slip Amid Upcoming Starship Test Flight Jitters",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbmpVa1pTRXRtaGlTaG94WS0zM2tTWWg3QVlXOHdOalF4Z2ZNUk1BbDZPeG1tVEdpaGpuaW9YRk5JV09mWnp0TTVHX3ZEWUJaN3B5VkxyWTNnLVp4SnVOckVoampfOVZOVzhObHlnOXc2TWRRX253UVY4ZmJ5MG1HWlR1V0U0WGMxSkNVazVIY3R4YXZs?oc=5",
+      "id": "1xfq0k5",
+      "title": "Elon Musk's SpaceX Shares Soared 50% After IPO. Analysts Say Anthropic Could Be Next",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXdLM0hNSWdoQ0lCUlM3MGt2WFFzNEpEVVdhN1BQSWxMbDA2ZGNHTnMzNU14OEpIeTBQWUNERW5VSXlxNEtWUUFVcnZqR2YxMy1Xc2JoTlB3a0w0RUhHbWJRZ2d0T1dmejhOOHJQdnpPM2ZpRHYyUURpaWhVYmtVT1FCMVp6ckVqLTZ0NDJweFI2NDBEVkJEQ0lSaVY?oc=5",
       "source": "Yahoo Finance",
       "sources": [
-        "The Motley Fool",
         "Yahoo Finance"
       ],
-      "date": "2026-11-11T22:03:00.000Z",
-      "firstSeen": "2026-11-12T03:24:39.845Z",
+      "date": "2026-11-12T22:00:08.000Z",
+      "firstSeen": "2026-11-13T02:56:57.952Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 14.12
+      "score": 15.22
     },
     {
-      "id": "cyj7t1",
-      "title": "Tesla extends Cybertruck production as Musk concedes ‘sentimentality’",
-      "url": "https://www.teslarati.com/tesla-extends-cybertruck-production-slightly-handle-order-log/",
-      "source": "Teslarati",
+      "id": "yyzk6t",
+      "title": "SpaceX Plans $74 Billion Investment to Build Data Centers in Texas and Arizona",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50Ym5PVmtVcmozcmwzTDBvSVZuSUVuanV6R3FNY0lrQm5GZ3pYZk1TQThWd2xERm9xUWs0NEdpTnpmSEFsOG9NT1hxdHVOb2xUSVNjeWhCckR3eGxoLTlSN2VyTV9EQXJ5VDJsM3Vxalp2NF9oTFE?oc=5",
+      "source": "The New York Times",
       "sources": [
-        "Teslarati",
-        "Electric Vehicles"
+        "NTD News",
+        "The New York Times"
       ],
-      "date": "2026-11-11T17:36:00.000Z",
-      "firstSeen": "2026-11-12T03:24:39.845Z",
+      "date": "2026-11-12T19:45:26.000Z",
+      "firstSeen": "2026-11-13T02:56:57.952Z",
       "image": "",
-      "snippet": "Tesla CEO Elon Musk announced that the company will extend Cybertruck production slightly to handle its extensive order backlog. On Wednesday, Musk announced that “In order to work through…",
+      "snippet": "",
+      "category": "ai",
+      "score": 15.19
+    },
+    {
+      "id": "1wuny0q",
+      "title": "SpaceX Starship Launch",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWWMzVVJmeTFXanlCVXhPSnNiWWtFczV2S0dndXlseEl4NGlLSDh1cEZOeHVTUkp1b0xhajlRclpYWUNGYVFkdHpWU3ZhNzBNQ3JSNlFHT2hodFRMMlA3VndiWG5UUWZXSVprQVI5Vnc1Z29semFsTld0bGN1d25Zcm1Xb3EteVJXLWh2Zlpsc0lHbHRYXzVIM0kxWDlPd0ZfUUw3dXU1UHU1SFVBbXd6dk9oRmQ5YTg?oc=5",
+      "source": "chronicleonline.com",
+      "sources": [
+        "chronicleonline.com",
+        "NewsBytes"
+      ],
+      "date": "2026-11-12T20:11:37.000Z",
+      "firstSeen": "2026-11-13T02:56:57.952Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 14.29
+    },
+    {
+      "id": "wdbkec",
+      "title": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWXVaLWpCZ3R1RkVQOWF5QWtXeUNzYnotX2R6aTFyMjdxOGxrRlRXNUd3UTFQRnRmdmRLaG9LWGc2T0pNQkN1Nk85TDlMdW5QOGsxNm82NHJ2Y2EtV3ZpRWpIWTNQQkcyNjBCOVAyOU1LVlJMZ1hfUEV4QlBtZFBZSlp4SEFKekhkVDQxMTlyRkM3eHNvRW5BelRabmw?oc=5",
+      "source": "The Verge",
+      "sources": [
+        "The Verge"
+      ],
+      "date": "2026-11-12T17:00:17.000Z",
+      "firstSeen": "2026-11-13T02:56:57.952Z",
+      "image": "",
+      "snippet": "",
       "category": "mobility",
-      "score": 14.11
+      "score": 13.59
     }
   ],
   "trending": [
-    "Tesla",
     "SpaceX",
     "Starlink",
+    "Tesla",
     "Starship",
-    "Grok",
-    "Cybertruck"
+    "Robotics",
+    "Robotaxi"
   ],
   "spark": [
-    {
-      "date": "2026-10-30",
-      "total": 145
-    },
     {
       "date": "2026-10-31",
       "total": 139
@@ -191,9 +182,13 @@
     },
     {
       "date": "2026-11-12",
-      "total": 12
+      "total": 142
+    },
+    {
+      "date": "2026-11-13",
+      "total": 8
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: Tesla. Top story: Elon Musk says he would hire Jensen Huang.",
+  "summary": "150 stories (last 24h). Most active frontier: Starlink. Top story: SpaceX, Tesla merger talks progress, Bloomberg News reports.",
   "editor": null
 }

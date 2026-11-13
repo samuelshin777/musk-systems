@@ -1,105 +1,105 @@
 {
-  "updated": "2026-11-12T03:24:39.845Z",
+  "updated": "2026-11-13T02:56:57.952Z",
   "answers": [
     {
       "q": "What is the latest Elon Musk news today?",
-      "a": "As of 12 Nov 2026: 150 stories (last 24h). Most active frontier: Tesla. Top story: Elon Musk says he would hire Jensen Huang.",
+      "a": "As of 13 Nov 2026: 150 stories (last 24h). Most active frontier: Starlink. Top story: SpaceX, Tesla merger talks progress, Bloomberg News reports.",
       "links": [
         {
-          "title": "Elon Musk says he would hire Jensen Huang",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOWlwd0MtRlZrZkpjTGdqVDItLW5RNTVDMGsxOGFRc3dtaUFpd0tTZlB1bTZkUzFEeXZTX1ljVjQwNHVpdE5PT1dkSk53VHUwbmFzMms3eGZGWnV6SDhoNjUyWEJ0N25aMUVPRjhpN3p4eUcybjNwTnBTNDdPVXpRR2RxeEJRcHhVRVk0Y0xmZ1hWT2wtRU9VTw?oc=5",
-          "source": "Business Insider",
-          "date": "2026-11-12T01:51:00.000Z"
+          "title": "SpaceX, Tesla merger talks progress, Bloomberg News reports",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSDRsb3FNV0VLZW5Hb01MamhyMnpOS3NEZl9jT2czVGFTQ3JOdjF0WXdQNHh3SVFJVmhKTVBIb3hhT0UxTlBlOG9lY1AzVnVTY1hjZlItN1Q4X1YzVjMwVTVyVF9keUh4UnRGTnBWeGItejZObzU4QVVOeEF2ZGxuTmFfSDVyQllsRlJNNXV3N1V3ai1sMWx2RTEzR3pNNXpVRWtOTjJDQzg5YVJjT3FBM1BhRQ?oc=5",
+          "source": "Reuters",
+          "date": "2026-11-12T20:22:35.000Z"
         },
         {
-          "title": "Elon Musk says Tesla will extend Cybertruck production through end of summer",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeWxMUzhLbndqVUdNbTRQbl85VWJOS1BEWGJoSjQ5SlJZWFpDbXNWZmNCOFdULW93MkI0b2x3UWxMZWVlQTY5LTVmeVgzVER1ZEQxLWpHQ3paYV9XOVJyYl91ZTRNTzdCYmhyRk4tVnJhU3ZLVkNERTdhSjItQ1ZCX3Q3Ykg2RnlOOE9WRVhfTQ?oc=5",
-          "source": "Business Insider",
-          "date": "2026-11-11T17:30:15.000Z"
+          "title": "SpaceX's Starship megarocket will launch to orbit on Nov. 13. Will you be able to spot it in the night sky?",
+          "url": "https://www.space.com/stargazing/spacexs-starship-megarocket-will-launch-to-orbit-on-nov-13-will-you-be-able-to-spot-it-in-the-night-sky",
+          "source": "Space.com",
+          "date": "2026-11-12T20:00:00.000Z"
         },
         {
-          "title": "Elon Musk Aims for Historic 'Double Catch' Friday",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYndSRURMYUxyMHJ3QmdiamkzbTRSZ0NHTFpYMmV1ZnFpb3g0eHVkUmFmbHZnUHFSY096R0w4R1Z3ek1vVWFTaTRCUjdpMkxFaGFrN2RuWkRZWnNYVDdvOHktaEJ1eWd4LVlfb2tjQVRkT0dSSzJVYVRNV1dJUjRjZ2lJZUFSMWxOYXZQaEgtMF9keVQ0Rnc?oc=5",
-          "source": "Yahoo Finance",
-          "date": "2026-11-11T13:50:42.000Z"
+          "title": "SpaceX could announce $1.5 trillion Tesla merger in December: report",
+          "url": "https://electrek.co/2026/11/12/spacex-tesla-merger-announcement-december-report/",
+          "source": "Electrek",
+          "date": "2026-11-12T14:48:18.000Z"
         }
       ]
     },
     {
       "q": "What is SpaceX working on right now?",
-      "a": "Starship: Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate. Starlink: 10,000+ satellites; V3 satellites now flying on Starship. Latest: SpaceX Pushes Space Development Agency Satellite Mesh to 83% Complete After Nine-Month Technical Pause (Tech Times, 12 Nov 2026); SpaceX Loses Appeal to Force Sexual Harassment Lawsuit Into Private Arbitration (Gizmodo, 12 Nov 2026).",
+      "a": "Starship: Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate. Starlink: 10,000+ satellites; V3 satellites now flying on Starship. Latest: Starlink’s Mini 2 Ditches the Power Bank With a 4.5-Hour Quick-Swap Battery (HiConsumption, 13 Nov 2026); SOUTHWEST AIRLINES BRINGS LIVE GAMING TO 35,000 FEET, POWERED BY STARLINK (PR Newswire, 13 Nov 2026).",
       "links": [
         {
-          "title": "SpaceX Pushes Space Development Agency Satellite Mesh to 83% Complete After Nine-Month Technical Pause",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNa1J6UzBqWlFUcnlzVjNkSkZkZ1RDZ2FnNVRrek1zLTQ2VE5JTHpHV3U2bXBoQzY2QWRZQWZDalBhRU55ZWl2dmFXNkhseWF5eC1Fa3BzMDJ0NkVBVElpclFPajNaUVFZb2pnU1A3WHdua3A0M2I0Nk8ydGotR3Y4Um1kTW9fZFhIcC1SM2MxUzVlcFVtMkFlQ1VKdnRzenYxN2FfR0MyVDN1bk1yUUZ6b09qZ0VLcUhkMWtKbjQ1ZURtYXpaWnBWZVI3ZmpKUWx5YU51RXY5WFBITmNhVHhBODB5djBsZEQx?oc=5",
-          "source": "Tech Times",
-          "date": "2026-11-12T02:52:48.000Z"
+          "title": "Starlink’s Mini 2 Ditches the Power Bank With a 4.5-Hour Quick-Swap Battery",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YUlB0Z2swV1h3YWZhMnRQZlJJeUZLZHVNcmF2VnFzajZMYk9Xcks2WEpsNjBNUGRtemVJNGZUdzZCc1NhczlKS2xWSFBqWklSdG1BNGxjSzczZnBGMlpsZUhGWmk?oc=5",
+          "source": "HiConsumption",
+          "date": "2026-11-13T01:36:24.000Z"
         },
         {
-          "title": "SpaceX Loses Appeal to Force Sexual Harassment Lawsuit Into Private Arbitration",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZUVCY2x5TzVKcV9GRi1NREpSMnpEZ01hcXVHTXdNVXBvbXhQdURtR2pZN2dPeHQ1RjJwbWN0YWI1a0pnYmRiZmRESklRYVlEck5jR2FUSTB4eklobTBBR284UWh2VlRtSWpBVzZqVVlwcUNKRTBtS0gwQ0JxaHc4eWFHeWk2cWtRN0tVRVZHT3VIMHRUZENJdVZzdU5nRlJWWVlCY3pGeGhUTXN2eFpZ?oc=5",
-          "source": "Gizmodo",
-          "date": "2026-11-12T02:52:24.000Z"
+          "title": "SOUTHWEST AIRLINES BRINGS LIVE GAMING TO 35,000 FEET, POWERED BY STARLINK",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNckMwQWVPQUtKWGc0cVJ0UWRlTWFiMVhSU1otU0hNM1lUaUtpMnIzTmYyQnlVV1ZOLU15N1lHZk1BbTRuWW9VaHZ3cW9samVSaExVYUJma1ZwMDNrdjNrVHA0MnRUSVZHY3NmRVNtRTlBNjMwbnA2b01mWWtLbHEyOEpYMEhJQWM2NmZQcGdjanVjUDdwWG94TnVQLXFCYVVQQUQ5OFVZZnI3QjFyc2tZU1c3UkJrM1pHeUxYOG5Xai0zRmNLdlVJ?oc=5",
+          "source": "PR Newswire",
+          "date": "2026-11-13T01:33:00.000Z"
         },
         {
-          "title": "Starlink launches Mini 2 portable antenna with detachable battery for up to 4.5 hours",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPamN4U09Na2tERDMxT2d3Q0NleDFpMlYtTGotN2FGTzRuS1dLQWpUUTFLSjFULU1fdmVRRjFEVkQtSWtUNEgwbWJ4eUM2Y0taMUk2ZnBuNUVVT2FBZVlhaXRYcmJxazh6Z2YxcnJiczhHTEV0dWJxNkFDRXhTdkl1V2NFbFFtaGdUd3A0NTM5Z1VxQU01UDBCeWlLVzVxaDd2YmRtNWJTaUxndVVyMmNYVmt6QWVHOWdodGozZ3JVLTdMRDRSeU5fQ3BVbw?oc=5",
-          "source": "디지털투데이",
-          "date": "2026-11-12T01:57:20.000Z"
+          "title": "SpaceX is preparing for a potential 15th Starship test flight on Friday, November 13. Here’s what to know: • Launch window opens at 4:45 p.m. and runs through 6:00 p.m. CST • Sonic Booms may be heard in Brownsville, South Padre Island, and Port Isabel Sta",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNDBfQm1OTk9YYVZqeUs3Y3NNZTJkSWNJa0FwMWNmMG5tU0ZCX1N4bkJiVjd2d0FYd1BiWFlpa3l5aXdEQkJIZzcwb3FYQWZmUzlqTVhnRFFXekF4MFNfSjluOGNHYm1XX3R3cTdncWFJTEhWMFFjeGZkNFRaSS1CWVIwTHlzRDFQVFNTd3cwemlhUmVVeHFCRFo0bFF1aVFwZHhCYTdfamE2ZWJDemVlMFFuZVZlZUFpRlk3cUtCbG5wbjlmWDJaX1JzM0kzNnlOUkE?oc=5",
+          "source": "Facebook",
+          "date": "2026-11-13T00:30:01.000Z"
         }
       ]
     },
     {
       "q": "What is Tesla working on right now?",
-      "a": "Cybercab and Robotaxi: First Cybercab rides reported alongside Q3 2026 results. Optimus: Output targeted toward the end of 2026. Latest: Tesla Optimus: 5 Details That Matter Right Now (BASENOR - Tesla Accessories, 12 Nov 2026); Tesla Cybercab Arrives in Korea for Four-Day Public Display (TeslaNorth.com, 12 Nov 2026).",
+      "a": "Cybercab and Robotaxi: First Cybercab rides reported alongside Q3 2026 results. Optimus: Output targeted toward the end of 2026. Latest: Tesla FSD Supervised at NZ Expo: 5 Details That Matter (BASENOR - Tesla Accessories, 13 Nov 2026); Musk Extends Cybertruck Production, Calls It Sentiment Over Profit (EVXL.co, 12 Nov 2026).",
       "links": [
         {
-          "title": "Tesla Optimus: 5 Details That Matter Right Now",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUHBTdWEtV2JhOUFNMnphMmEtb3ZyM3ZKQnJwdGQ2N1ZTMURIbmw1alNtMmVpd2pIQ3Mxa25uT1F5bDBSNUhKVm93Nmhta253Z3JTc3ZlNi1xTTMxdklEb3JQOTJhN000a3AyeHRtbF85cUZnRGhzUG9zOWJBbVJYdDRmY2pQVXc?oc=5",
+          "title": "Tesla FSD Supervised at NZ Expo: 5 Details That Matter",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbWdIQVhfNS1GRnhnRkltVjlPQ2NnMWpWSDNJYkloZzg2Z183aVBncTZIdlVvcWx4bFZlamRzRW1zUU93RmFOYk44OFpMVkF2MktoSXAwaWlqWXBUVWx1M1VKbEFEZV9OVV8xcDJKYVVTSGh2OWVaZUJ5ZDA5ZGVjME56WjhSQkdfU3FpUnNETlZwUQ?oc=5",
           "source": "BASENOR - Tesla Accessories",
-          "date": "2026-11-12T03:03:50.000Z"
+          "date": "2026-11-13T00:05:11.000Z"
         },
         {
-          "title": "Tesla Cybercab Arrives in Korea for Four-Day Public Display",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zVlNKQnpSbmx4S1M3U0R0MGV2RHZscThSdmJZUFB3UFhGUGFSMFJGU0h1Rk5HUTZfelVXX2lhQk44Um9EMl9qYWNXN0tkejJZN3VuTzZtVERPU0QydnFobWZ0UFNscVJEZU9mS3ppZG1FQzkydmMzSnQ4WQ?oc=5",
-          "source": "TeslaNorth.com",
-          "date": "2026-11-12T02:52:42.000Z"
+          "title": "Musk Extends Cybertruck Production, Calls It Sentiment Over Profit",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV2E2TTdNQWpsMlNsWkt5aXJfSzBncnBldWhMWElBLTdxNG85R1p4OG9xemFxTGIzTVF3MUpQSlBTNDkyamFCejA0VUhsaDRlS1JyQW1NN3Z3Y2lOVnhxX0pOVGtWRmFSRDZ1OHJIM3hyb1h3TTVVTDRtWVNqNm9nYTV1WEUwV21XaU5fM1dUSVVWNkM2TUNQWnVEY00?oc=5",
+          "source": "EVXL.co",
+          "date": "2026-11-12T22:25:00.000Z"
         },
         {
-          "title": "Once Hailed as Tesla’s “Best Product Ever”! Elon Musk Announces Change to Cybertruck Production Timeline",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTkVXX2RodHZnOUVZUW94T2d4X2ZJT21OUDJWUjJXME85M2czS1Nsb1NPQ0RvLXd4TGUzUXZFUFlLSUo4TmdackNaNXVQdGRpSk9hd1psVVd4TzZHOE1KN0pDT1NzR2dOQ3RrZFBSbHRTVWtMMjZTbFAtNXZLa3RpVTBtODBkamRkeVl2LVh3VmFxTHdGel9PNGtR?oc=5",
-          "source": "Moomoo",
-          "date": "2026-11-12T01:37:38.000Z"
+          "title": "Musk: It Takes “20 to 30 Million Robots” to Match America’s Output. That’s Optimus’ Market",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQWxpbkxheTA4Zko2a1lGSWQySmVxU0JzREVHUndwVGp5WTc0d2lSWGRYZF9lUFlMSE10ZVJzNVJSTGlFdkxDRWw2elFfVHFRc2RsZEN2S3ZuOGNlNEFVcndGNHJQcjA4SmdxZjJxcHhwTDl1OTlmTzkxWV9pMk5lQ2N0SWFRUWVwT3ZzSkJZM2ZuQQ?oc=5",
+          "source": "Yahoo Finance",
+          "date": "2026-11-12T22:19:29.000Z"
         }
       ]
     },
     {
       "q": "What are xAI and Neuralink doing now?",
-      "a": "xAI and Grok: $40B in debt closed for GPUs arriving in 2027; Grok releasing an AI-generated video series. Neuralink: Next-generation implant with more channels unveiled in October. Latest: SpaceX’s $24 billion data center outside Texas city would circumvent moratorium (Washington Examiner, 11 Nov 2026); Musk Expects Grok 5 to Surpass Claude Opus 5.5 in Two to Three Months (www.tokenpost.com, 11 Nov 2026).",
+      "a": "xAI and Grok: $40B in debt closed for GPUs arriving in 2027; Grok releasing an AI-generated video series. Neuralink: Next-generation implant with more channels unveiled in October. Latest: Elon Musk’s $24B Texas project comes as Gina Hinojosa weighs data center limits (Houston Chronicle, 13 Nov 2026); Kiro Adds Grok 4.7 to Four Paid Plans for AI-Assisted Coding (www.tokenpost.com, 13 Nov 2026).",
       "links": [
         {
-          "title": "SpaceX’s $24 billion data center outside Texas city would circumvent moratorium",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaURPQmFHdVZvWUh2aU5iZzFqeHVLcFVCNUJ5SDVlODFRLXZvdTRSeTVOSThfVm4wc2ZJRjI1Nk8tTUZoQU5yLUp6Z2p1SWNtY184MV9PcklXZHhkdnpwU1AxSUhxUDlsSzNaUGE3NGNuazkySFgyYmsyem9MRlcwWXF5T3RHNURxb2NNNktDdHFIVl9zaHdFMjB1R09CZw?oc=5",
-          "source": "Washington Examiner",
-          "date": "2026-11-11T23:36:24.000Z"
+          "title": "Elon Musk’s $24B Texas project comes as Gina Hinojosa weighs data center limits",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTFRsa1hyc2tQOHZaMVhLN0FYOXRYQUhYUWdmb1puR1BXb3VfT3RVaW9iZ1FRcTQwXy1RV0NlajBXRkFxNkJ2b0NpeklfY2VhYlZWN1Q3OU9rNHE4eDFJYTl2WmxIWko4cFowNGxiSzFtTk1NZnFoXzFTUEVRMmFlazVyTnRFakxBSFdtR0NtV3VLV2VKQ0FTS3Z6SUNuWU8xNjBMYnJac0x6cUpLdklpN3Zydw?oc=5",
+          "source": "Houston Chronicle",
+          "date": "2026-11-13T02:24:27.000Z"
         },
         {
-          "title": "Musk Expects Grok 5 to Surpass Claude Opus 5.5 in Two to Three Months",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zekZIUS1sbW45YWIxeFJGRjFvZFhqSXJLYkFkUGhEVlB5dEhlYy16ZFhTRHg0M1pNNG8xYUdubnBqMi1QUEdCRm1FY3gxRllNaWRtbUIwbkR2eVk?oc=5",
+          "title": "Kiro Adds Grok 4.7 to Four Paid Plans for AI-Assisted Coding",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMRlRWSEhXeERSV0JxN0lPQjdESXVYcE5SVHctTlZ5Sk1ZUXhra2N5ald0a29JOTRaNDkzMkwyaVQ2UEpNdW9NTG9MTUdjRHdiNlJjdkVKcGJOSlk?oc=5",
           "source": "www.tokenpost.com",
-          "date": "2026-11-11T21:55:48.000Z"
+          "date": "2026-11-13T00:05:00.000Z"
         },
         {
-          "title": "Amazon’s Computing Boss Says Space Data Centers Won’t Be “Feasible Or Practical” For A Decade Even As Musk Believes In 1,300W/m² Heat Dissipation For AI Satellites",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNa0dWUzM5ZF9hclZDQllDeC0wSlA2ZGRsbk52T205Und6SGplVzJJYzdfSm1lQUJ0QlpwYTIxc0x0aENTVC10a09Wd0VSNVFrOHB0c1ktMmxKRFl3YTJsblRKd0g4YTAxTlVHcEk4UDFPcXRvQy00QUtjVk1wWU80SHFydWtBT0VVQkxscGdQX0kzOGpmLUlneWhqOHNtSnJUNlNId19fV0tGcm9fOExnRVQ3U2NHN2tzMjdIdFZUS2pIamxvOHRmN1VsNEpSQ3JyRXpMYWl3N0ktbGd6dkE3ZWN0ZUM2YUsxZ0ppY2xpREotT3JaeGRjcG0wOW1mZUx5SFhWRXl6UjlOcDlFNG5RMXBOMNIBmAJBVV95cUxOMDBMZUlhYlZJalZ1QVJjU1FlODd5eGFEbkhIWWQ5eHBMMFVnZkc4Y1luZDJFTFVkYWZQTzZIQ3JQNkdEbVltNUxGa1ZMcXpFdFpQcDNCZnB6alQxLWtfSGVKQXhsdGpYTk1CcFpsZms5MUtaSmpxUHJqRk54VHV1MFI0emQzcmZ0blB4RXpKT2FOQ191YXViTDlhbVZFM3RsbXJJcjN0eW5SLWlXd3ZQR1ZPM2xiUTZrSm1ITFhZM0hXZk9WRkJoMEZGRE85aUJ0UjJYcEdacWNEZ3B5VmFGRk9wQUV6NFJLcFlYWUVEWDVZcTNpdFNneGI4VFBoOWZqeFp3aE1Cc08tazVWMk02UzdEY2JYcnRH?oc=5",
-          "source": "Wccftech",
-          "date": "2026-11-11T21:48:56.000Z"
+          "title": "Kiro adds xAI’s Grok 4.7 to its AI coding platform",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JTEV2NFdFeVcwQ0RXalNma3BKbDQtNDNIMHZhYi02ZnNHUlhObEkzbnE1RVcxSWREb1VoWEtwejFoak9KQ0FPNVZJMWwwWXVWa0t1cEp4aTl6dElnLVloMTdtUFpzOFdV?oc=5",
+          "source": "Crypto Briefing",
+          "date": "2026-11-12T23:06:47.000Z"
         }
       ]
     },
     {
       "q": "How often is Musk Systems updated?",
-      "a": "A new edition is built automatically every day at 07:47 KST (22:47 UTC). This edition was built on 12 Nov 2026 from 17 sources and holds 150 stories, each linked to its original publisher.",
+      "a": "A new edition is built automatically every day at 07:47 KST (22:47 UTC). This edition was built on 13 Nov 2026 from 17 sources and holds 150 stories, each linked to its original publisher.",
       "links": []
     },
     {

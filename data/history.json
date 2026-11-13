@@ -206,12 +206,21 @@
       "business": 10
     },
     "2026-11-12": {
-      "total": 12,
-      "robotics": 1,
-      "business": 2,
-      "space": 3,
-      "mobility": 4,
-      "connectivity": 2
+      "total": 142,
+      "space": 38,
+      "ai": 12,
+      "connectivity": 45,
+      "business": 15,
+      "mobility": 30,
+      "robotics": 2
+    },
+    "2026-11-13": {
+      "total": 8,
+      "business": 1,
+      "ai": 2,
+      "connectivity": 2,
+      "space": 2,
+      "mobility": 1
     }
   }
 }
