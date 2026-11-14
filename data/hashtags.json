@@ -1,48 +1,52 @@
 {
-  "updated": "2026-11-13T02:56:57.952Z",
+  "updated": "2026-11-14T02:42:43.572Z",
   "hashtags": [
     {
       "tag": "#SpaceX",
-      "score": 65
-    },
-    {
-      "tag": "#Tesla",
-      "score": 38
-    },
-    {
-      "tag": "#ElonMusk",
-      "score": 37
-    },
-    {
-      "tag": "#Starlink",
-      "score": 31
+      "score": 53
     },
     {
       "tag": "#Starship",
-      "score": 22
+      "score": 48
     },
     {
-      "tag": "#Robotics",
-      "score": 14
+      "tag": "#Tesla",
+      "score": 48
+    },
+    {
+      "tag": "#Cybercab",
+      "score": 39
+    },
+    {
+      "tag": "#ElonMusk",
+      "score": 25
+    },
+    {
+      "tag": "#Starlink",
+      "score": 25
+    },
+    {
+      "tag": "#TowerCatch",
+      "score": 17
+    },
+    {
+      "tag": "#SpaceExploration",
+      "score": 15
+    },
+    {
+      "tag": "#SatelliteInternet",
+      "score": 11
     },
     {
       "tag": "#xAI",
-      "score": 12
+      "score": 10
     },
     {
       "tag": "#Neuralink",
       "score": 9
     },
     {
-      "tag": "#Grok",
-      "score": 9
-    },
-    {
-      "tag": "#Optimus",
-      "score": 8
-    },
-    {
-      "tag": "#Robotaxi",
+      "tag": "#Robotics",
       "score": 8
     },
     {
@@ -50,27 +54,27 @@
       "score": 7
     },
     {
-      "tag": "#SpaceExploration",
-      "score": 7
+      "tag": "#Robotaxi",
+      "score": 6
     },
     {
-      "tag": "#SpaceXIPO",
-      "score": 5
-    },
-    {
-      "tag": "#SatelliteInternet",
-      "score": 5
+      "tag": "#Optimus",
+      "score": 4
     },
     {
       "tag": "#Nasdaq",
       "score": 4
     },
     {
-      "tag": "#OrbitalDataCenters",
+      "tag": "#ReusableRockets",
       "score": 4
     },
     {
-      "tag": "#Cybercab",
+      "tag": "#Grok",
+      "score": 3
+    },
+    {
+      "tag": "#Falcon9",
       "score": 3
     },
     {
@@ -78,19 +82,11 @@
       "score": 3
     },
     {
-      "tag": "#BoringCompany",
+      "tag": "#Starbase",
       "score": 3
     },
     {
-      "tag": "#TSLA",
-      "score": 3
-    },
-    {
-      "tag": "#FutureTech",
-      "score": 3
-    },
-    {
-      "tag": "#TowerCatch",
+      "tag": "#SpaceXIPO",
       "score": 3
     },
     {
@@ -106,27 +102,11 @@
       "score": 3
     },
     {
-      "tag": "#Moon",
-      "score": 2
-    },
-    {
-      "tag": "#NASA",
-      "score": 2
-    },
-    {
       "tag": "#PayPal",
       "score": 2
     },
     {
       "tag": "#SPCX",
-      "score": 2
-    },
-    {
-      "tag": "#Cybertruck",
-      "score": 2
-    },
-    {
-      "tag": "#ReusableRockets",
       "score": 2
     },
     {
@@ -142,10 +122,6 @@
       "score": 1
     },
     {
-      "tag": "#Falcon9",
-      "score": 1
-    },
-    {
       "tag": "#FalconHeavy",
       "score": 1
     },
@@ -154,39 +130,63 @@
       "score": 1
     },
     {
-      "tag": "#Starbase",
+      "tag": "#BoringCompany",
       "score": 1
     },
     {
       "tag": "#Zip2",
       "score": 1
+    },
+    {
+      "tag": "#TSLA",
+      "score": 1
+    },
+    {
+      "tag": "#Megapack",
+      "score": 1
+    },
+    {
+      "tag": "#ArtificialIntelligence",
+      "score": 1
+    },
+    {
+      "tag": "#ElectricVehicles",
+      "score": 1
+    },
+    {
+      "tag": "#Multiplanetary",
+      "score": 1
+    },
+    {
+      "tag": "#CleanEnergy",
+      "score": 1
     }
   ],
   "keywords": [
     "SpaceX",
+    "Starship",
     "Tesla",
+    "Cybercab",
     "Elon Musk",
     "Starlink",
-    "Starship",
-    "Robotics",
+    "Tower Catch",
+    "Space Exploration",
+    "Satellite Internet",
     "xAI",
     "Neuralink",
-    "Grok",
-    "Optimus",
-    "Robotaxi",
+    "Robotics",
     "Full Self-Driving",
-    "Space Exploration",
-    "IPO",
-    "Satellite Internet",
+    "Robotaxi",
+    "Optimus",
     "Nasdaq",
-    "Orbital Data Centers",
-    "Cybercab",
+    "Reusable Rockets",
+    "Grok",
+    "Falcon 9",
     "Dragon",
-    "Boring Company",
-    "TSLA",
-    "Future Tech",
-    "Tower Catch",
+    "Starbase",
+    "IPO",
     "Musk Systems",
-    "Future Technology"
+    "Future Technology",
+    "Systems Thinking"
   ]
 }

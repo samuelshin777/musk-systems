@@ -1,141 +1,161 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "business": 16,
-    "ai": 14,
-    "connectivity": 47,
-    "space": 40,
-    "mobility": 31,
-    "robotics": 2
+    "connectivity": 25,
+    "mobility": 33,
+    "space": 68,
+    "business": 13,
+    "ai": 11
   },
   "topStory": {
-    "id": "1hgu0gp",
-    "title": "SpaceX, Tesla merger talks progress, Bloomberg News reports",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSDRsb3FNV0VLZW5Hb01MamhyMnpOS3NEZl9jT2czVGFTQ3JOdjF0WXdQNHh3SVFJVmhKTVBIb3hhT0UxTlBlOG9lY1AzVnVTY1hjZlItN1Q4X1YzVjMwVTVyVF9keUh4UnRGTnBWeGItejZObzU4QVVOeEF2ZGxuTmFfSDVyQllsRlJNNXV3N1V3ai1sMWx2RTEzR3pNNXpVRWtOTjJDQzg5YVJjT3FBM1BhRQ?oc=5",
+    "id": "5c2qiw",
+    "title": "Democratic senators order Musk to preserve records over Ukraine Starlink access, WSJ reports",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX25Kck55T1o2eEtVLW5rSlBkRzM0MnR4OWpYTGNYcHFJc0I4dW1UaTc5VEtJUzZGT1EtVGdSd2FQdm1iNEl4YzE0eFRDc1VPUFR4NmR6RjR1cW1veHpEZVowQlFMV1JpWGRpZUdOaTBiQ0R6MEdUQW1HdEZtWFhWdHBaZGlvaHZJRlZOLXFHWUU0aUkxQ01rdkwwN3JiZGgxNWZiZG9pTmM3eDRjQkhJYkhwQkw2VFdseG82U0tsWlNQQnVCaEg3eWdGYTJ5Ync?oc=5",
     "source": "Reuters",
     "sources": [
-      "Bloomberg.com",
-      "Reuters"
+      "Reuters",
+      "WSJ",
+      "Central Oregon Daily",
+      "Forth.News",
+      "TradingView",
+      "Investing.com"
     ],
-    "date": "2026-11-12T20:22:35.000Z",
-    "firstSeen": "2026-11-13T02:56:57.952Z",
+    "date": "2026-11-13T23:33:00.000Z",
+    "firstSeen": "2026-11-14T02:42:43.572Z",
     "image": "",
     "snippet": "",
-    "category": "space",
-    "score": 17.33
+    "category": "connectivity",
+    "score": 27.16
   },
   "topList": [
     {
-      "id": "zb1nbc",
-      "title": "SpaceX's Starship megarocket will launch to orbit on Nov. 13. Will you be able to spot it in the night sky?",
-      "url": "https://www.space.com/stargazing/spacexs-starship-megarocket-will-launch-to-orbit-on-nov-13-will-you-be-able-to-spot-it-in-the-night-sky",
+      "id": "pasu2o",
+      "title": "SpaceX’s Starship soars into orbit after double catch thwarted by booster’s water landing",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbEJSd3lrcThXUUdyRWY1M1JSVzRrdG9OcFVQTUVRRXItcjlnN19uSFdqV1BJdEVFelI3anBNZm9lZkpsREYyTXNUVG5ndU5tZmlGY0ZtaGs5RHpQX0pVSllTV0M4RnlMeTFubXBydjVqN0k1V3VpeEZ1SEtVSUwtVkNIOWw5RDU4bWpJWmdwaHR2R2s0a0hR?oc=5",
+      "source": "AP News",
+      "sources": [
+        "PBS",
+        "AP News",
+        "News-Press NOW",
+        "upi",
+        "Marietta Daily Journal",
+        "The News-Item",
+        "The Bakersfield Californian",
+        "Cherokee Tribune",
+        "Ottumwa Courier",
+        "Kokomo Tribune",
+        "Orange County Register"
+      ],
+      "date": "2026-11-13T17:30:02.000Z",
+      "firstSeen": "2026-11-14T02:42:43.572Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 24.74
+    },
+    {
+      "id": "lvbnan",
+      "title": "Can Elon Musk Bring Jensen Huang Back as Nvidia CEO?",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONEtyRXhGWFZvMWswbUZ1bzRvQ0FvNTBzR2dZZ1c5Z19wcktIQllKdzhIR1RXSGFCVlpDel84MjM4YVU1VTVQVzFlNlQ3THdGWHpRd1ZIenVUUFU1bXpJeDdLUmtHTVQ5dmU0aVlaUXFuNUk1dEg1bUVNVHpaUldWVEVmY1RZUmJKMF96Y0hzQWpoU1hlVzl0eQ?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "Yahoo Finance",
+        "Interesting Engineering",
+        "Cryptonews.net",
+        "BeInCrypto",
+        "CoinGape",
+        "India Today"
+      ],
+      "date": "2026-11-13T16:32:23.000Z",
+      "firstSeen": "2026-11-14T02:42:43.572Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 22.04
+    },
+    {
+      "id": "1pvd7p6",
+      "title": "Trump is taking Elon Musk on his Asia trip, but he plans to avoid talking about Nvidia scandal",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONEVBa0UyNnBfM3NMaUloWmJmU2ZhNWZ1XzR5Tmo3X0dxZ3FEekoyamswZ3NwV3dJcFVqek9jS05JdXhmeFRKUVFOalFmRkpQd0FUOV9LU1NNOVRSWkxPbTdzZ09jMGY2Sk1BbzVyYm9SNWJoVkJ3bll0VjZKc3VuWG8xdldibnFZeFdUNHBXZF9TUy1oMDVoOUxwaTRnRWszcVlhM0VpVlR5anZoNkhvSnhUVk5NZlR4T2Y3elJPdGdjcDJWczBFWXEwVmR3LW02b0N5bUtuM1lHUjFOZHgweTRkdFRibnNwd2RXeHRkeDQ1bjIyXzJNMDVoZkhaYnYwMGFUWA?oc=5",
+      "source": "Bozeman Daily Chronicle",
+      "sources": [
+        "Bozeman Daily Chronicle",
+        "WGN Radio 720",
+        "Traverse City Record-Eagle",
+        "Stamford Advocate",
+        "The Spec"
+      ],
+      "date": "2026-11-14T02:19:19.000Z",
+      "firstSeen": "2026-11-14T02:42:43.572Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 20.89
+    },
+    {
+      "id": "r7ostw",
+      "title": "SpaceX aborts attempt to catch Starship booster rocket",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWNnWFZjVm4xQnc4N1VLS2pwTjUtNGlIM1hGLW1xeDVnLUZJaFhfSXlneFhrel9kRFB5eU1fZURhSEMyWml0SWx3NVZJTi12WVluY01BdWRpLUU3NlV1a3liaHk4V0dDbm1EdldPS2JielZPTTlUMEhmRlJYbVRIeTJyTUc?oc=5",
+      "source": "Financial Times",
+      "sources": [
+        "Financial Times",
+        "The New York Times",
+        "WOAI"
+      ],
+      "date": "2026-11-13T23:43:09.000Z",
+      "firstSeen": "2026-11-14T02:42:43.572Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 20.2
+    },
+    {
+      "id": "rsy5i0",
+      "title": "Tesla Opens Cybercab Orders To 'Select Customers' At $29,990 Plus $299 Per Month",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pSWJ3bEQ2TDlJcExpUUQzWlAwb2pnV3g0ZHAyMEpjcmZTN3dEckZHRXFGREVBc3NvZ2ZsYk5UNTR6TVlqd2pTR0g1VlZtZm5vQWNua1dtenZxSGpvNHRfQVR6cGljY1JZakltNnd0YVJ6dVV6NnpuTmNTQzFoQQ?oc=5",
+      "source": "InsideEVs",
+      "sources": [
+        "InsideEVs",
+        "Zecar",
+        "Yahoo Autos",
+        "Mezha.net",
+        "FourWeekMBA"
+      ],
+      "date": "2026-11-14T00:06:00.000Z",
+      "firstSeen": "2026-11-14T02:42:43.572Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 19.3
+    },
+    {
+      "id": "17bcg47",
+      "title": "SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video)",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship",
       "source": "Space.com",
       "sources": [
         "Space",
         "Space.com"
       ],
-      "date": "2026-11-12T20:00:00.000Z",
-      "firstSeen": "2026-11-13T02:56:57.952Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/358cZ8fgTVudyA6vaGY7Ze-1920-80.jpg",
-      "snippet": "SpaceX's Starship megarocket is slated to launch on its ambitious 15th flight test as soon as this Friday (Nov. 13). Will you be able to spot its leviathan upper stage, known as Ship, or…",
+      "date": "2026-11-13T23:20:03.000Z",
+      "firstSeen": "2026-11-14T02:42:43.572Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/uCdUUu68WhwxWsXFvArEZS-1920-80.jpg",
+      "snippet": "STARBASE, Texas — SpaceX launched the 15th test flight of its massive Starship rocket today (Nov. 13) and is preparing the vehicle's upper stage for its first-ever return to the launch site…",
       "category": "space",
-      "score": 17.24
-    },
-    {
-      "id": "1i3dh1z",
-      "title": "SpaceX could announce $1.5 trillion Tesla merger in December: report",
-      "url": "https://electrek.co/2026/11/12/spacex-tesla-merger-announcement-december-report/",
-      "source": "Electrek",
-      "sources": [
-        "Investor's Business Daily",
-        "Yahoo Finance",
-        "Electrek"
-      ],
-      "date": "2026-11-12T14:48:18.000Z",
-      "firstSeen": "2026-11-13T02:56:57.952Z",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/01/Elon-Musk-self-dealing-Tesla-Spa.jpg?quality=82&strip=all&w=1600",
-      "snippet": "Elon Musk’s companies are moving faster than expected on a Tesla-SpaceX combination. A deal could be announced as soon as December, which would make it the largest merger ever, according to…",
-      "category": "space",
-      "score": 16.64
-    },
-    {
-      "id": "1xfq0k5",
-      "title": "Elon Musk's SpaceX Shares Soared 50% After IPO. Analysts Say Anthropic Could Be Next",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXdLM0hNSWdoQ0lCUlM3MGt2WFFzNEpEVVdhN1BQSWxMbDA2ZGNHTnMzNU14OEpIeTBQWUNERW5VSXlxNEtWUUFVcnZqR2YxMy1Xc2JoTlB3a0w0RUhHbWJRZ2d0T1dmejhOOHJQdnpPM2ZpRHYyUURpaWhVYmtVT1FCMVp6ckVqLTZ0NDJweFI2NDBEVkJEQ0lSaVY?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "date": "2026-11-12T22:00:08.000Z",
-      "firstSeen": "2026-11-13T02:56:57.952Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 15.22
-    },
-    {
-      "id": "yyzk6t",
-      "title": "SpaceX Plans $74 Billion Investment to Build Data Centers in Texas and Arizona",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50Ym5PVmtVcmozcmwzTDBvSVZuSUVuanV6R3FNY0lrQm5GZ3pYZk1TQThWd2xERm9xUWs0NEdpTnpmSEFsOG9NT1hxdHVOb2xUSVNjeWhCckR3eGxoLTlSN2VyTV9EQXJ5VDJsM3Vxalp2NF9oTFE?oc=5",
-      "source": "The New York Times",
-      "sources": [
-        "NTD News",
-        "The New York Times"
-      ],
-      "date": "2026-11-12T19:45:26.000Z",
-      "firstSeen": "2026-11-13T02:56:57.952Z",
-      "image": "",
-      "snippet": "",
-      "category": "ai",
-      "score": 15.19
-    },
-    {
-      "id": "1wuny0q",
-      "title": "SpaceX Starship Launch",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWWMzVVJmeTFXanlCVXhPSnNiWWtFczV2S0dndXlseEl4NGlLSDh1cEZOeHVTUkp1b0xhajlRclpYWUNGYVFkdHpWU3ZhNzBNQ3JSNlFHT2hodFRMMlA3VndiWG5UUWZXSVprQVI5Vnc1Z29semFsTld0bGN1d25Zcm1Xb3EteVJXLWh2Zlpsc0lHbHRYXzVIM0kxWDlPd0ZfUUw3dXU1UHU1SFVBbXd6dk9oRmQ5YTg?oc=5",
-      "source": "chronicleonline.com",
-      "sources": [
-        "chronicleonline.com",
-        "NewsBytes"
-      ],
-      "date": "2026-11-12T20:11:37.000Z",
-      "firstSeen": "2026-11-13T02:56:57.952Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 14.29
-    },
-    {
-      "id": "wdbkec",
-      "title": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWXVaLWpCZ3R1RkVQOWF5QWtXeUNzYnotX2R6aTFyMjdxOGxrRlRXNUd3UTFQRnRmdmRLaG9LWGc2T0pNQkN1Nk85TDlMdW5QOGsxNm82NHJ2Y2EtV3ZpRWpIWTNQQkcyNjBCOVAyOU1LVlJMZ1hfUEV4QlBtZFBZSlp4SEFKekhkVDQxMTlyRkM3eHNvRW5BelRabmw?oc=5",
-      "source": "The Verge",
-      "sources": [
-        "The Verge"
-      ],
-      "date": "2026-11-12T17:00:17.000Z",
-      "firstSeen": "2026-11-13T02:56:57.952Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 13.59
+      "score": 18.1
     }
   ],
   "trending": [
     "SpaceX",
-    "Starlink",
-    "Tesla",
     "Starship",
-    "Robotics",
-    "Robotaxi"
+    "Tesla",
+    "Starlink",
+    "TowerCatch",
+    "Cybercab"
   ],
   "spark": [
-    {
-      "date": "2026-10-31",
-      "total": 139
-    },
     {
       "date": "2026-11-01",
       "total": 139
@@ -186,9 +206,13 @@
     },
     {
       "date": "2026-11-13",
-      "total": 8
+      "total": 103
+    },
+    {
+      "date": "2026-11-14",
+      "total": 47
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: Starlink. Top story: SpaceX, Tesla merger talks progress, Bloomberg News reports.",
+  "summary": "150 stories (last 24h). Most active frontier: Space. Top story: Democratic senators order Musk to preserve records over Ukraine Starlink access, WSJ reports.",
   "editor": null
 }
