@@ -1,165 +1,165 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "connectivity": 25,
-    "mobility": 33,
-    "space": 68,
-    "business": 13,
-    "ai": 11
+    "mobility": 43,
+    "space": 61,
+    "connectivity": 20,
+    "ai": 7,
+    "business": 17,
+    "robotics": 2
   },
   "topStory": {
-    "id": "5c2qiw",
-    "title": "Democratic senators order Musk to preserve records over Ukraine Starlink access, WSJ reports",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX25Kck55T1o2eEtVLW5rSlBkRzM0MnR4OWpYTGNYcHFJc0I4dW1UaTc5VEtJUzZGT1EtVGdSd2FQdm1iNEl4YzE0eFRDc1VPUFR4NmR6RjR1cW1veHpEZVowQlFMV1JpWGRpZUdOaTBiQ0R6MEdUQW1HdEZtWFhWdHBaZGlvaHZJRlZOLXFHWUU0aUkxQ01rdkwwN3JiZGgxNWZiZG9pTmM3eDRjQkhJYkhwQkw2VFdseG82U0tsWlNQQnVCaEg3eWdGYTJ5Ync?oc=5",
-    "source": "Reuters",
+    "id": "5hjllk",
+    "title": "SpaceX’s Starship returns to Earth in dramatic catch by launch pad arms, in photos",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcEh0VnVya3BHaU9jSHEyZ081bW5xN1dHTURidUEtZ1VXTHlZcmtxc0JTODlFenFTaTBwbE1yUmNRdW84alpLVmJ0dEtLa1RMS19qRzFaZkRVaUVRRmVvS05faHBXMmpSV3pQRFVKb0JmNXhGcUxWSEN5X2N3UWVuMHRqQkdQOEVza013eWtxLWstNUhHa3RSUWpSb1lpQlBZU2dyWjN4TElQOGY5YUtBWHNYYUJlSGVYcXBuc0hXUHMzU3pMdElMUFkwYzgxZw?oc=5",
+    "source": "AP News",
     "sources": [
-      "Reuters",
-      "WSJ",
-      "Central Oregon Daily",
-      "Forth.News",
-      "TradingView",
-      "Investing.com"
+      "Yakima Herald-Republic",
+      "WTOP News",
+      "Springfield News-Sun",
+      "AP News",
+      "CT Insider",
+      "The Northern Virginia Daily",
+      "chronicleonline.com",
+      "Beloit Daily News"
     ],
-    "date": "2026-11-13T23:33:00.000Z",
-    "firstSeen": "2026-11-14T02:42:43.572Z",
+    "date": "2026-11-14T22:10:24.000Z",
+    "firstSeen": "2026-11-15T02:10:17.172Z",
     "image": "",
     "snippet": "",
-    "category": "connectivity",
-    "score": 27.16
+    "category": "space",
+    "score": 25.95
   },
   "topList": [
     {
-      "id": "pasu2o",
-      "title": "SpaceX’s Starship soars into orbit after double catch thwarted by booster’s water landing",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbEJSd3lrcThXUUdyRWY1M1JSVzRrdG9OcFVQTUVRRXItcjlnN19uSFdqV1BJdEVFelI3anBNZm9lZkpsREYyTXNUVG5ndU5tZmlGY0ZtaGs5RHpQX0pVSllTV0M4RnlMeTFubXBydjVqN0k1V3VpeEZ1SEtVSUwtVkNIOWw5RDU4bWpJWmdwaHR2R2s0a0hR?oc=5",
-      "source": "AP News",
+      "id": "4tfv6i",
+      "title": "SpaceX catches upper stage of Starship rocket in historic first",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGFvOUM3TDc1a3hvVXppS0tjbklLX3MyS094bGRNVFh2dGxVbGRLRFRJZmxpS0VHa2hQRHNBMHJqZ2Fxd2wzMzBOazZPQzJ2dEJtRThqYW9yV0VzTUVrVWFDbmtVYUVjTElyUnB4U3pOaG5qaTdGOUxSWTJscUpOMzBmeWUybXFWc25WdU9tT2JUOF9qZGpid0I0S0hrR1pyWVlZcUpB0gGrAUFVX3lxTE16S1ZpTnRzaHp5LS04QlVFOXNLNmJhNHk3SXZsendHTHJacURRcjFFWVUxT3d2UDhpa0tVeTRXMXdUcGNIV0VacUZDbHdYR0U5MmVtSzlKZnVyNFpRQ3I5Q2RuOFBzLWNJQ1VXVHVYNlNfQVZYVTdJVVdqaFotNEF1MG1rN3ZPaW1DVEZ2dWlIQ0QtOFBrYllrU3NTekpDNVh2Nm5UUE9xTXd6QQ?oc=5",
+      "source": "CNBC",
       "sources": [
+        "CNBC",
+        "Barron's",
+        "SpaceNews",
+        "Houston Chronicle",
+        "CNBC Technology"
+      ],
+      "date": "2026-11-14T21:14:46.000Z",
+      "firstSeen": "2026-11-15T02:10:17.172Z",
+      "image": "",
+      "snippet": "Starship Test Flight 15 marked the first time Elon Musk's company tried to catch both the booster and upper stage of the rocket.",
+      "category": "space",
+      "score": 23.72
+    },
+    {
+      "id": "1wc4woi",
+      "title": "Musk says Nvidia will lose 'critical' deals without Jensen Huang",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5",
+      "source": "Reuters",
+      "sources": [
+        "Reuters",
+        "The Hill",
+        "CTech",
+        "The Times",
+        "The Jerusalem Post",
+        "The Korea Times",
+        "Global Banking & Finance Review",
+        "Forbes Middle East",
+        "GV Wire",
+        "NDTV",
+        "Moneycontrol.com"
+      ],
+      "date": "2026-11-14T15:06:17.000Z",
+      "firstSeen": "2026-11-15T02:10:17.172Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 23.35
+    },
+    {
+      "id": "vg8pfj",
+      "title": "SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3BNak83bkJ3N2NOejJudW5NdDlHQl9tTmZ1OUFSak9iRTZmMlo1OFAyWVJnU25GdjRLbVNOSllnekdvdm1tcFlxbnJRY2RnRks4WG4ybjZlX3dnNE1HQ3E5S0dpVGxwNDZqLTVwM3JlLWJmMDYtNjhZVXgycFJjbzFPME50Z0ViRHNWTDhYSmdfeW80UDl4NlduZGdLR0R5ZmpIa05B?oc=5",
+      "source": "Reuters",
+      "sources": [
+        "Reuters",
+        "The Lufkin Daily News",
+        "TradingView",
+        "The Straits Times"
+      ],
+      "date": "2026-11-14T21:40:00.000Z",
+      "firstSeen": "2026-11-15T02:10:17.172Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 21.82
+    },
+    {
+      "id": "haevg7",
+      "title": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTWNvcDREbHZiSXNEQkpxS1dFb3NzcldSd1BDdDY1aTdBSWtDaXZOSWc0WU01XzJwQU5EWU5iVGVfeGVXUW8zYm0zaVJSeHgxN0FUXzBJOWFLR2pmTElZdnJFbVdqZDktSk5ySmZzQzEtclhobmYwenUxanhjSU5vampR?oc=5",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian",
         "PBS",
-        "AP News",
-        "News-Press NOW",
-        "upi",
-        "Marietta Daily Journal",
-        "The News-Item",
-        "The Bakersfield Californian",
-        "Cherokee Tribune",
-        "Ottumwa Courier",
-        "Kokomo Tribune",
-        "Orange County Register"
+        "Durango Herald",
+        "Nine.com.au",
+        "The Independent"
       ],
-      "date": "2026-11-13T17:30:02.000Z",
-      "firstSeen": "2026-11-14T02:42:43.572Z",
+      "date": "2026-11-14T21:32:00.000Z",
+      "firstSeen": "2026-11-15T02:10:17.172Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 24.74
+      "score": 20.79
     },
     {
-      "id": "lvbnan",
-      "title": "Can Elon Musk Bring Jensen Huang Back as Nvidia CEO?",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONEtyRXhGWFZvMWswbUZ1bzRvQ0FvNTBzR2dZZ1c5Z19wcktIQllKdzhIR1RXSGFCVlpDel84MjM4YVU1VTVQVzFlNlQ3THdGWHpRd1ZIenVUUFU1bXpJeDdLUmtHTVQ5dmU0aVlaUXFuNUk1dEg1bUVNVHpaUldWVEVmY1RZUmJKMF96Y0hzQWpoU1hlVzl0eQ?oc=5",
-      "source": "Yahoo Finance",
+      "id": "19wwj3z",
+      "title": "SpaceX Starship historic landing",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRm04T2xLXy12ZUpFb2RFT0E4ZmF2LVBCdVl2azZ5LXItdVd3Z2tyOVczdmJ3QkUwa3RQWEJTUUN5djJkd2tPRnN0akhlYktsQnVpbURrQnd2T2RWWm1GcXJBMUlpZUZldHRLQjhKZlpHdC1uY2EzckViWW54RjViZXNxN21xNWEydC1YWmp4YXN5bHFSQjFrbUZIejRvdVJiY1dkeTJB?oc=5",
+      "source": "CNN",
       "sources": [
-        "Yahoo Finance",
+        "Fox Business",
+        "CNN",
+        "Al Jazeera",
+        "Modern Ghana"
+      ],
+      "date": "2026-11-14T23:05:00.000Z",
+      "firstSeen": "2026-11-15T02:10:17.172Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 20.68
+    },
+    {
+      "id": "12nsxm7",
+      "title": "SpaceX Successfully Catches Starship After Launch For The First Time",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2x2U255WVhZdHVMR0d4VElLSGw4R05zSjFOOUFiald1RkV6UUw5dnpmb3JrOTBZbk9meEhGNjZnTG1Hdm1kcFBHcFVnNDRRZmw0LWJkeWJNUWliU0hmdHdsYTR2Z2lYTjMweDNmUldIRWQyWG9CWjF1QkluZ3gzYnJ1eGk3bHF1ZEpKMnhhWElYTnJ1MVFqSVZDcTRnT0pwdGt2T1c3M0VGTE0?oc=5",
+      "source": "Engadget",
+      "sources": [
+        "Florida Today",
+        "The Jerusalem Post",
         "Interesting Engineering",
-        "Cryptonews.net",
-        "BeInCrypto",
-        "CoinGape",
-        "India Today"
+        "Engadget"
       ],
-      "date": "2026-11-13T16:32:23.000Z",
-      "firstSeen": "2026-11-14T02:42:43.572Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 22.04
-    },
-    {
-      "id": "1pvd7p6",
-      "title": "Trump is taking Elon Musk on his Asia trip, but he plans to avoid talking about Nvidia scandal",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONEVBa0UyNnBfM3NMaUloWmJmU2ZhNWZ1XzR5Tmo3X0dxZ3FEekoyamswZ3NwV3dJcFVqek9jS05JdXhmeFRKUVFOalFmRkpQd0FUOV9LU1NNOVRSWkxPbTdzZ09jMGY2Sk1BbzVyYm9SNWJoVkJ3bll0VjZKc3VuWG8xdldibnFZeFdUNHBXZF9TUy1oMDVoOUxwaTRnRWszcVlhM0VpVlR5anZoNkhvSnhUVk5NZlR4T2Y3elJPdGdjcDJWczBFWXEwVmR3LW02b0N5bUtuM1lHUjFOZHgweTRkdFRibnNwd2RXeHRkeDQ1bjIyXzJNMDVoZkhaYnYwMGFUWA?oc=5",
-      "source": "Bozeman Daily Chronicle",
-      "sources": [
-        "Bozeman Daily Chronicle",
-        "WGN Radio 720",
-        "Traverse City Record-Eagle",
-        "Stamford Advocate",
-        "The Spec"
-      ],
-      "date": "2026-11-14T02:19:19.000Z",
-      "firstSeen": "2026-11-14T02:42:43.572Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 20.89
-    },
-    {
-      "id": "r7ostw",
-      "title": "SpaceX aborts attempt to catch Starship booster rocket",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWNnWFZjVm4xQnc4N1VLS2pwTjUtNGlIM1hGLW1xeDVnLUZJaFhfSXlneFhrel9kRFB5eU1fZURhSEMyWml0SWx3NVZJTi12WVluY01BdWRpLUU3NlV1a3liaHk4V0dDbm1EdldPS2JielZPTTlUMEhmRlJYbVRIeTJyTUc?oc=5",
-      "source": "Financial Times",
-      "sources": [
-        "Financial Times",
-        "The New York Times",
-        "WOAI"
-      ],
-      "date": "2026-11-13T23:43:09.000Z",
-      "firstSeen": "2026-11-14T02:42:43.572Z",
+      "date": "2026-11-14T21:31:40.000Z",
+      "firstSeen": "2026-11-15T02:10:17.172Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 20.2
-    },
-    {
-      "id": "rsy5i0",
-      "title": "Tesla Opens Cybercab Orders To 'Select Customers' At $29,990 Plus $299 Per Month",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pSWJ3bEQ2TDlJcExpUUQzWlAwb2pnV3g0ZHAyMEpjcmZTN3dEckZHRXFGREVBc3NvZ2ZsYk5UNTR6TVlqd2pTR0g1VlZtZm5vQWNua1dtenZxSGpvNHRfQVR6cGljY1JZakltNnd0YVJ6dVV6NnpuTmNTQzFoQQ?oc=5",
-      "source": "InsideEVs",
-      "sources": [
-        "InsideEVs",
-        "Zecar",
-        "Yahoo Autos",
-        "Mezha.net",
-        "FourWeekMBA"
-      ],
-      "date": "2026-11-14T00:06:00.000Z",
-      "firstSeen": "2026-11-14T02:42:43.572Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 19.3
-    },
-    {
-      "id": "17bcg47",
-      "title": "SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video)",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship",
-      "source": "Space.com",
-      "sources": [
-        "Space",
-        "Space.com"
-      ],
-      "date": "2026-11-13T23:20:03.000Z",
-      "firstSeen": "2026-11-14T02:42:43.572Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/uCdUUu68WhwxWsXFvArEZS-1920-80.jpg",
-      "snippet": "STARBASE, Texas — SpaceX launched the 15th test flight of its massive Starship rocket today (Nov. 13) and is preparing the vehicle's upper stage for its first-ever return to the launch site…",
-      "category": "space",
-      "score": 18.1
+      "score": 20.29
     }
   ],
   "trending": [
     "SpaceX",
     "Starship",
     "Tesla",
-    "Starlink",
+    "Cybercab",
     "TowerCatch",
-    "Cybercab"
+    "SpaceExploration"
   ],
   "spark": [
-    {
-      "date": "2026-11-01",
-      "total": 139
-    },
     {
       "date": "2026-11-02",
       "total": 135
@@ -210,9 +210,13 @@
     },
     {
       "date": "2026-11-14",
-      "total": 47
+      "total": 135
+    },
+    {
+      "date": "2026-11-15",
+      "total": 15
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: Space. Top story: Democratic senators order Musk to preserve records over Ukraine Starlink access, WSJ reports.",
+  "summary": "150 stories (last 24h). Most active frontier: Space. Top story: SpaceX’s Starship returns to Earth in dramatic catch by launch pad arms, in photos.",
   "editor": null
 }

@@ -223,11 +223,19 @@
       "ai": 11
     },
     "2026-11-14": {
-      "total": 47,
-      "connectivity": 6,
-      "mobility": 15,
-      "space": 19,
-      "business": 7
+      "total": 135,
+      "space": 51,
+      "ai": 7,
+      "business": 17,
+      "mobility": 41,
+      "connectivity": 17,
+      "robotics": 2
+    },
+    "2026-11-15": {
+      "total": 15,
+      "mobility": 2,
+      "space": 10,
+      "connectivity": 3
     }
   }
 }
