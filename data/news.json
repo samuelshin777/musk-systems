@@ -1,6 +1,1754 @@
 {
-  "updated": "2026-11-15T02:10:17.172Z",
+  "updated": "2026-11-16T02:24:37.451Z",
   "items": [
+    {
+      "id": "vwfzy0",
+      "title": "South Korean automakers join forces to counter foreign robotaxis",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EMEQ2bFFKQzBXUnpweTAwalFfT2FCeEJMY0JTUUp0QlcyWVlrZ3VCSU9BbTlOTU5zTzQwZGtSWFFIVWxZcC1fblBySzFsSjZJYnY1WVJB?oc=5",
+      "source": "mkbn.mk.co.kr",
+      "sources": [
+        "mkbn.mk.co.kr"
+      ],
+      "date": "2026-11-16T01:58:21.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 11.88
+    },
+    {
+      "id": "yk51f8",
+      "title": "Is SpaceX now the only option for US military launches? For now, mostly yes after Vulcan's failure",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVUxjZ3hzWlFPYWtWeW1WWHpwLWlTVlpmT2NacHB0Vkp5YUdUekJzWV9uS3FBZ3NfV3VyTzdFRExiMUUwenBSNUk4c1JwR3lObm42VGgzVlJnQkYwSHltb2Q2NjUtczhaS1RuM3JCS0RIZ2ZWVWtpVWNMRkZWaDdVbDhtNm5Bbl9NZXROeUE0ZjR0Z2RXZFVPTmdBUElsQjhBcTctR2t2Z0E2VnZmc2xMazNVVms?oc=5",
+      "source": "Nacionale",
+      "sources": [
+        "Nacionale"
+      ],
+      "date": "2026-11-16T01:42:12.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 13.81
+    },
+    {
+      "id": "523fui",
+      "title": "SpaceX Starship Tower Catch Succeeds After 14 Orbits, but Booster Is Lost to Fuel Shortfall",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbm50VTJTZzNXRnBrNEdnai0xb3BWLTZKTUpNelQ4LXg1S3piOHg4Yms2UnFjc193dVB2bk5EemNFR09yQlZzLUV0ZHFWUW5lcDlLZzVpazVHajFuWVA2VDh4cjFLWmVIVmJVRG9Wd20tbm9GbjJkZjRlcGk3SFJOVGNMM0Rlc0ZGYVhsWDZ4eThPdXRnUU9HNkpWR0dWLXBrWHpJRnk1bE1HRzdwVGs1S1BZNzhrWnpmeHdERkg3dW4zREhHUHB1UGd5QUttSU5B?oc=5",
+      "source": "Tech Times",
+      "sources": [
+        "Tech Times"
+      ],
+      "date": "2026-11-16T01:36:18.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 13.78
+    },
+    {
+      "id": "1m2jphb",
+      "title": "Samsung Eyes $1.9 Billion Texas Expansion for Starlink Chips",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xOUVOZy00MS1UcjdRN3JScFgzZVh2QjJ6WngtbF94Q00yUlRCOXo5bWU5by0tcXNIbjhyX2s1ZTFmZ1VQTnlLRVpCcFd1OUc0SVQwUzZDaGJlM0h4V2FmR3BLaS1sVVBvVzRkQXBJSFRRWVBxSnJtMWh4MnRqOHc?oc=5",
+      "source": "TeslaNorth.com",
+      "sources": [
+        "TeslaNorth.com"
+      ],
+      "date": "2026-11-16T01:31:07.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 11.76
+    },
+    {
+      "id": "9hlyin",
+      "title": "How Starlink Is Reshaping Rural Education Worldwide",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOGZLUzhEU1JhZi15NHlHOVNGajJZVUdwZGhpM1lQalpDRF9pOWNicDBPdlI1UVZ4ZjFYYWEwRS1iUHhWLVFOcUJVQ0doNmJCa0ZJOVRqZjVXOFZiakh1UndsdW1kRUgxYU9jX1B0OEFEdEcybGE0NC1qZnhLZWxHTWhmWWNCVDZEOFozc29kVQ?oc=5",
+      "source": "BASENOR - Tesla Accessories",
+      "sources": [
+        "BASENOR - Tesla Accessories"
+      ],
+      "date": "2026-11-16T01:03:47.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 11.63
+    },
+    {
+      "id": "ul16po",
+      "title": "'Heavily dependent on SpaceX': Meridian Space CEO talks launch crunch, satellite ownership and more",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbnBlQ29UZkYtS1UyblBmdUFhMFJieEZ1cllXaVdEUG9BTzFLUWZ3c0c3UWFpTThxM3dITmlOemF2TFJwdmNLSTB2YTlYdjQzTjRzcGpUaWRVcXAzTlM1OTdPcE44bVlveW1sV2Z6dHhpUXVLcXlIc3hwM1lMQ0R3WjRlekRtV0NFM0dDYUZoREJ2a18wcWk4M2F6dDNSZERsOUR6VU5nNDlSQVljeHBaYW44MEt2WFNP?oc=5",
+      "source": "Starlust.org",
+      "sources": [
+        "Starlust.org"
+      ],
+      "date": "2026-11-16T01:01:38.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 13.62
+    },
+    {
+      "id": "nu742g",
+      "title": "SpaceX Completes 15th Starship Flight Test, Spacecraft Caught by Launch Tower for 1st Time",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMDhCbVc2eXhsclYzUWtmbzExWnFFeXZzWkN3MFJYZmRXUVRIQ3gzTmowMjBMeXJCSWFIZ0pzTTI3bUxKZ0x2Nm50aTRCdDJTR0VScFVFY01hRUo4aWFsS1N5YUVKZks4WU5tWGRHRDV1ZEd4S0h4dndMOGZCWEE0Mm1ORHlwdFozRkREdmZablAtVTNqZEZTMnFTSS1nMjMwVlRKc3g2QVZCNDlDeDBZS29teW02b0h1NW9YUFFWMUZEQQ?oc=5",
+      "source": "The Financial World",
+      "sources": [
+        "The Financial World"
+      ],
+      "date": "2026-11-16T00:57:26.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 13.6
+    },
+    {
+      "id": "15fvwts",
+      "title": "SpaceX Stock Trades 116% Below Morgan Stanley's $300 Target as Starship Booster Failure Tests Bull Case",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OMlZFWFlxaTFoQmNyUWMzelcwUVoxb0xMU1F1dzk0NnUyWXdmampaZzl6dTdiTmNPRkdtb3kySTZtT3lfWXBWTHM0OVRRTlJZNEgyaVhXQ3FYTnJ5b1NrYjlzLW94T0dmTTZ5VzhVdVZvbUVGWWc?oc=5",
+      "source": "BigGo Finance",
+      "sources": [
+        "BigGo Finance"
+      ],
+      "date": "2026-11-16T00:27:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 11.47
+    },
+    {
+      "id": "jrlnd5",
+      "title": "Starlink Saves Lives: 5 Real Cases That Prove It",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdTN0Q05YZkwtYklIdlA3eVhNN2JjVS1jWXNZcmo0dk5OSWtBZ2ZNc1FDb2JmVkp0ZW1pMTJ3LXppLXI5SEsyaklGd0MzUlBSa2Zad2ZGQUJHaHV2SUhPd3VGUExRQlJBZU1sbU9oRDJ5cm5rd2ZIUHVGWG9GbmwxeF82NXI0NDNfR0E?oc=5",
+      "source": "BASENOR - Tesla Accessories",
+      "sources": [
+        "BASENOR - Tesla Accessories"
+      ],
+      "date": "2026-11-16T00:07:40.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 11.39
+    },
+    {
+      "id": "ym3r3n",
+      "title": "Samsung's $1.9B Austin Bet Is Built Around Starlink",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa3IycEU5QzJxWGFCSlp1N1RzOFk0eGNGbWdELUtnTzBGOFRha3ZRRkVlQzdwLWdLeDFaSjV6WkRjbEVPc2tWaEk0ZXdLWGtKaEJIeEdOWjZoVlpRNjVTQnd6U0JvUlJDLURTSnVuU3lCbGlIVlI5VTlONVFzRmZsTHF6SkdxbzV3dk9EbQ?oc=5",
+      "source": "BASENOR - Tesla Accessories",
+      "sources": [
+        "BASENOR - Tesla Accessories"
+      ],
+      "date": "2026-11-16T00:06:13.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 11.38
+    },
+    {
+      "id": "9noacw",
+      "title": "SpaceX Starship booster explodes after launch",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSy1EekJZNUs0N3VjRlhXdzdmVmNNeUMwQjEzaEFNWkRXRmowQ24xMXEzOTFndDYtUGd3YmVQblU4TVVPeGVDWUhuYS1xMXdGM1VGQXg3X0dTcURwVG5mU2FTeVViazNPWEdBUUVXOXpJanJzb19FV1RkdHdzNkdxN2hmTkVSVHBCV01OMGdfaDBseUdfQ3h3VHpHdw?oc=5",
+      "source": "NBC News",
+      "sources": [
+        "NBC News"
+      ],
+      "date": "2026-11-16T00:02:25.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 13.36
+    },
+    {
+      "id": "14cot14",
+      "title": "SpaceX’s attempt for a Starship double catch is thwarted when the booster ends up in Gulf of Mexico",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSFFwZ3dkYXE5eDAwOXBUTEJRSkdfRl92ZDdib2hNWVE1dUZrZzNmWDBBTzAzZWhJdm8zTkxHa2NSOEEzMWctUUV3b2x5bzRVVUo5dkt0ZTJZNGVQVWtZU1N1MHhKUFlyY0hOSTh2ZjkyMmpTOTg2VXNrbDhmU3ZEOURUNVlvQmhrMEVZRHZtUTJYTGs4YkczbXI5TXhYVkJaREJNMW5hZFdWem1CVWdWQWtfVFdSYmIwQjFpeGI5VQ?oc=5",
+      "source": "WXXV News 25",
+      "sources": [
+        "WXXV News 25"
+      ],
+      "date": "2026-11-16T00:01:01.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 13.36
+    },
+    {
+      "id": "1n6xi0q",
+      "title": "Greece Uses Starlink to Carry Live Train Safety Data",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXNxUDRZTWIwQzJrdmJPckQyaWFyYUYtWVRVQUdlWXpVRVpJYVNoajRXYWx5NGNMQkt3b3lxa01ZUGhQWHgwaHVfQktNWG1SSEFpRHE1elBGMzhCc1JHSExhZ3dobHhVYmtHOEpiTE1lZk5RWW5yME5TNHZwN2U2ZzhzRmM?oc=5",
+      "source": "Greek City Times",
+      "sources": [
+        "Greek City Times"
+      ],
+      "date": "2026-11-15T23:54:58.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 11.33
+    },
+    {
+      "id": "16zv6cr",
+      "title": "SpaceX plans 3 rocket launches from California in one week, warns of sonic booms",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcVJtSHQwNzZVS3o1VW1QTl9XSU1DMS1KMDlnY3cya09RRmtsVWhzb1p2Wm1mWUVHcHNFSDVuVFNha0lTeDBCM0lDMGZPLVJGQmh5dVpWSHAwa1NvM2NJRTBmZ01USVl6Ml9vY1VCUlBpdXAzaXh1ekgzVjAwV3BSVHlqMUJDSEY4cDluNXN3MzdVdVliWVBWLXNHNnpIT2NCRFN4SENaRzdrbC1PM2JVNzhNZ9IBuAFBVV95cUxPVDZ6a01FcV95ZlFIcnF3UXNLTWRjazRoMkxtMWdvX1I4SzhsVE54Rk9hMFlidFkwUnhXT3FMd2xpNWVVczBqYXZNUDdmRDAzcmplT2lwZ0d1YVRRRjRONzNTUzhvM3BiaW83NDFVUmpGd29qcWtVajczM1pSeTBVVEpjUEV5UWd5d0dnNUdDYzFfU2MxaFVYZ0VMSWxHUVd5V2tlNm4wVWplOGEtYUU4akVmMExDNkky?oc=5",
+      "source": "KTLA",
+      "sources": [
+        "KTLA"
+      ],
+      "date": "2026-11-15T23:52:27.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 13.32
+    },
+    {
+      "id": "1dqijd0",
+      "title": "‘Smoking crack’: Tesla savaged over new car",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWlFWWTMzOF9aU2dsSmh3LW5qV09IWndGUk1haDFmWXM1bjJsMHYtYUNVcGdKZUR3X1FZczROZzVWU2txeUZ1RGhPUmVPNnJPMDBOMVJzbDJtNE5mdGJlVlQwNGtZRjlZYkdjMU03Q0NHclZUNjBhV3o3eEtSWXBvRWo0cEtacTlJcnAxMll2alh3clFqVTlPcDNUZ3NQQm5VWkNFdHdrMGxuZHFqaUd6U19ZdVVpODhOZzBCRy1QUUo3TXc1UVVsY0Q4SE1KNVc4YXF3NDRRRkhFSm_SAeABQVVfeXFMUHhrWjU1SV9LSkZETlRkcXBONEtITDBiV2pmTklVXzJoN0lZRDNIbDVzNVBaV0x6WGUxcTRua2JQeG1ZWERVeUVqWHg2OE1uRnZaZGMxdFIwWXU1dFB3Xzl0V29zdm9rSHUtTzhkaVVfWTlJMlVMY3lwSHhNMVp0M2hYTE5SX3NRNWo5TkRzSDRMczRpTzJDT2gyZDlZTVhaXzBvUGJfNXpkMmFBTUs2REphRlpBeGhHa3lUSVR4bDdLcmtWaThMQWgtSmZULUNGYUJncGJiUEsxLVJ3ZVlNOHE?oc=5",
+      "source": "News.com.au",
+      "sources": [
+        "News.com.au"
+      ],
+      "date": "2026-11-15T23:46:28.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 11.29
+    },
+    {
+      "id": "1s1h4iy",
+      "title": "Pentagon Rocket Provider Hit by Failure While SpaceX Soars",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYjFiUTduZWFLVmlUemd4SmlPYUpnSG9QLWpycTFfbmxpMEwtd1MxbnJpVU1vYnNoMlYtSG8xOEJjOThHQnI3NWQ0NVlybzAtbG5XbnJfR1o0d3M5ZjJaMTA4RVNrdVlmR2duc0ljd2VYTl80ajAyME1HMjU5VWRrb2hkSGdPdzNHc0JHRnktMG5tc29aTjAwN09OSUpSLU1KNTM3ZlllUFZJOHNrRkE?oc=5",
+      "source": "Bloomberg",
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-11-15T23:15:39.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 14.16
+    },
+    {
+      "id": "10v80nw",
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUxOYm5OblhQZDVfeDdldl90VHBYZ2VkUlFRT2J6a0Etc2NuM3B1RkgyUUpjSUFHNmNaMl9TN1dudUg1VDVjdUhGTzN2UFU1d2x0UGJWUGlhb1IwZWdOUzJtaDVhMG4ySmZEV2dtblhuaTVoRUNGNnNqZV9raDdaS0pYZjlpVElSRzlYWDNkQmppSFA5VDBCNXRtREQyUHEycjRIZEd0SkUxLUppN3ZpR2wxMA?oc=5",
+      "source": "Ars Technica",
+      "sources": [
+        "Ars Technica"
+      ],
+      "date": "2026-11-15T23:11:54.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 16.15
+    },
+    {
+      "id": "193blmj",
+      "title": "SpaceX makes history by catching spacecraft",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRl9vVW80MmVHcTM4ZUIyYXdYSEdkMzBQSjhCdkctSW00VmpGcU5GOXdVODJWSDdpTjd4V1o3TjBIQnB5enY5dTFVaG9GZDJGS0tKemFtcG9jYTJlT0tqSTRucXZVSk05MmlxNUZMYTBwSGk2UFFOakxFMkRIT0lOdGNIRQ?oc=5",
+      "source": "Semafor",
+      "sources": [
+        "Semafor"
+      ],
+      "date": "2026-11-15T22:36:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 13
+    },
+    {
+      "id": "1nzvxk1",
+      "title": "Samsung Plans Austin Production of Chips for SpaceX’s Starlink",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KUExwSjNQZEZLNVlLZF9sQngyeks1TVI4ODBfN2g5T1dvWW0wUkVzc2kxeGwwM25hX0I4enFWRW1CNEJrYlNid05uYlF1ZjhoZkpZQ2hRTTFMOEU?oc=5",
+      "source": "www.tokenpost.com",
+      "sources": [
+        "www.tokenpost.com"
+      ],
+      "date": "2026-11-15T22:18:16.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 10.92
+    },
+    {
+      "id": "1uhxl3i",
+      "title": "Why did Tesla step forward to sell ‘the $30,000 Cybercab’… is the answer ‘subscriptions’?",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGdGdrM1kzZHg4N0M5YXcweEpiMG5EaGk5NTZndVdUZU5KLWNTa2pyMlpoQVlHal9oSHJzaUVoaHNJTFVTMV9EaHlTdnhCeGdJMXBrUWhRaF8xVTlheHc?oc=5",
+      "source": "경향신문",
+      "sources": [
+        "경향신문"
+      ],
+      "date": "2026-11-15T22:17:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 10.92
+    },
+    {
+      "id": "1il9hoe",
+      "title": "Qatar Executive delivers Starlink Connectivity",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXRnMGJxSm9CNUV1dTlrakMyUm10S2xDdVd3b2QwZXBqc2l5UDRJdlJYRHh0OEtxVDY5bVppQk5kdzBpazdGOWpZVVBmcElPbEdYWGxOem5GMlZGbGxndmF6a2c0ZDZqUC01OERuYmFvTGtuNmNNc29zVkJCMS0yYmpZWm04aTVMalNTRDdpSQ?oc=5",
+      "source": "TTR Weekly",
+      "sources": [
+        "TTR Weekly"
+      ],
+      "date": "2026-11-15T22:15:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 12.91
+    },
+    {
+      "id": "1w9wa4x",
+      "title": "Indian telecom billionaire Sunil Mittal says India must control Starlink's kill switch",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNODBVdl9MMWN1Yl9idlM1MGxoVTJ3aW9ySUZmQkZ6MlBYMFFodDNNekdfNmVpVUtsM1hjc3JrdW1Idy1XRlZabXp3VmJMWWF4X29Hblk4WW55SFAwUjRSeWNZZi1YOG1Ecm1DWWY4U09qb2RPTlNqTjl0WGIxY3pzeXFaeXFzUW9JY1FwdVlURTVkTzRaaW9MdTVLOEFmMl9lTUFhbVBDcnFaclJTTUs3N0lIczlYRU40ZFVURDh0dW9RcU1GQzdhdw?oc=5",
+      "source": "Billionaires.Africa",
+      "sources": [
+        "Billionaires.Africa"
+      ],
+      "date": "2026-11-15T22:12:26.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 10.9
+    },
+    {
+      "id": "k6yzql",
+      "title": "Tesla quietly drops the cheapest all-wheel drive Model Y in the US - ArenaEV",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSDl5S1BEb3FnTFBfYmFvNnZ6S2F6eko1LW1nNGxsUEp2ZS1HRkprMEFkWHB1ZDZidzYzclZuSXEwXzQwSFBRSDB2d25RLXFYZFE3dlp0THBOMUdxRjJKcFVPQjNGanBXOVkyY2pOQlA2em1MeWpFSm4wVEExemVSRnFOOXB0R21NNDRzVGVTY2RjRW14U1930gGTAUFVX3lxTE1QUlA5TGFDUzJhZXE1LVJGN2QwamxQUGNUUTBlU2VwcE9wLTNNdDJ3R1lCVmkwODVHenRsckIxVnpPWkt2Z09udENkSjlmdmR2THEwcWVyZFJKajNqUTBMY1d3dmhnX0RVR1NIcWtmNE1FbXFSWndpQjBLT3B4Ny02TVF1MXhZSm11SFdiNTN4a05BQQ?oc=5",
+      "source": "ArenaEV",
+      "sources": [
+        "ArenaEV"
+      ],
+      "date": "2026-11-15T22:11:01.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 10.89
+    },
+    {
+      "id": "5itdj6",
+      "title": "Samsung to produce SpaceX Starlink satellite chips at its Austin, Texas fab",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04SjNBN1YzMFBoNG5QbllOQ2VMTktSaVV2Y0tGZEotUU5RckZmdDMtOXJIWEpITlIwQTVuU21GcjRYZ0xNWThnRkg4eW8wRGpFaWpqSURvT1lnME5QSUlka2NJUGVqSFBGTnF6dHd5SnV5RFVjWF9GMEtR?oc=5",
+      "source": "Crypto Briefing",
+      "sources": [
+        "Crypto Briefing"
+      ],
+      "date": "2026-11-15T22:09:34.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 10.89
+    },
+    {
+      "id": "j9b070",
+      "title": "SpaceX Is Quietly Reshaping the Starlink Constellation",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNzN0S2F6dEtNdkRhUXRBTi0tQnJOM2J0WUZIYndJLUtDbnJ4b1dMNFBYekkyUDFyV3ZFbFI4VHJJbVZoYWFnYk1mQzdNNWhZQVZveVlmcUVEOTI0VkJmNmtUbVN0S0lhZ01uUGl4dlpXU0xncTE2VzJzT0dLWlZoN0ZST3ltTFg1ZUFqbGRwemI2aUE?oc=5",
+      "source": "BASENOR - Tesla Accessories",
+      "sources": [
+        "BASENOR - Tesla Accessories"
+      ],
+      "date": "2026-11-15T22:03:41.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 10.86
+    },
+    {
+      "id": "1nl5pt7",
+      "title": "SNU’s STARLINC AI Filters SpaceX Starlink Trails from Telescope Data",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xR1pIcm1ubElDNzRSTXdlamxrN0JMRTkwYUdFY2FtRzRkdzcyc3dWQ0JFWHN3Qm0xd1dQWjJBcEY3SFFOMWlvd0dnS3M2dGw5VXlJOA?oc=5",
+      "source": "DongA Science",
+      "sources": [
+        "DongA Science"
+      ],
+      "date": "2026-11-15T22:00:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 10.85
+    },
+    {
+      "id": "81v8q4",
+      "title": "Tesla Buy, Hold or Sell? 0 Buys in 4 SA Calls",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNazNycDlYS2o3eTYxQXlOS0hid09BTFJUaDJsbjVrcmZfb2d2TnJtU0Z2R3k4Z1ZHbUtBTzY4TmlfSmFkUlM0UG04akRTT2o2YnAzdDVhdndNR19sX3g2YUdpVk51S05PVXIxYk1UWlNNcDFyUjc5eG1TeG5WY1o1ckJUUi1PUQ?oc=5",
+      "source": "shattered.io",
+      "sources": [
+        "shattered.io",
+        "TradingView"
+      ],
+      "date": "2026-11-15T21:35:14.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 12.75
+    },
+    {
+      "id": "ijzrb",
+      "title": "Zelensky Says Starlink Speed Limits Hamper Ukraine’s Drone Defense",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT0xWSnc4OGlibmJnZnFoRGVQbG4ybGtONFdXdm1xdDVkRXRYTzR5bWFTOTdmbDRqMV8zb0xsX2dlOEdBQmw3RGxwazItV19yMEFwRmdQd3pFclpVeW1ZeXF1NmU4RVVGRlBtOEpFc08wUWhhaWRoNm5sMENmZEM5aTZZQzd6UmYyZFpiVzJRSFRJYVF1czItNXRSdw?oc=5",
+      "source": "JournalArta",
+      "sources": [
+        "JournalArta"
+      ],
+      "date": "2026-11-15T21:31:06.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 10.73
+    },
+    {
+      "id": "16j7288",
+      "title": "Analysts Question Tesla’s Valuation as Robotaxi and Optimus Face Hurdles",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kcnFRM0tQZXo1OHBubG8yVFNuQkYxdVltQkFzYTlmckVoZS03VV9peTVtT1d1SXN2XzBhbjY2VjU5NTJNbks3NURXTEhFTllFV2tCeXBMTy0?oc=5",
+      "source": "www.tokenpost.com",
+      "sources": [
+        "www.tokenpost.com"
+      ],
+      "date": "2026-11-15T21:24:24.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "robotics",
+      "score": 10.7
+    },
+    {
+      "id": "er78ui",
+      "title": "WATCH: SpaceX Starship caught by launch pad arms",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16WTBsRnVVLXV5NHZIRTY2NDlOeXVrSktjZlVXbFNiV3ZCZkJZQ3RtN2R0U0VST0JyMGVzc0U1VmFfdHV4MkY1RmdLWWdhd2dFUTdEZFk3ZjdRcTYtQVNmMm5sRm15ZERyV3NvcWRnUHN1R1NETDFfdQ?oc=5",
+      "source": "KVNU News Talk",
+      "sources": [
+        "KVNU News Talk"
+      ],
+      "date": "2026-11-15T21:09:30.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 12.64
+    },
+    {
+      "id": "3f5uts",
+      "title": "Agility lists on Nasdaq and Tesla kicks off Optimus: the humanoid form stays on stage",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2tnWDhERHN4NHd4YnU3Sl9KaGFJNjdmal9qM0JVU09Fclp0M2RXZ3U0dUVfcUlwS1prRmYxZUdmcGViX2RuUmlSTWt1SklLdm1uVlBIRmxFUkNkTkVsVlZiRktrOTdnZlR1N1ZIVjJ4X3VZaVJveTQwbXdiUGFjaGM1SzdwLTh5RnZDN3A0alRHZlF4LVNaY25CdnpnOE5rWEN5TVltNWVsWnVhbDI0RnB3?oc=5",
+      "source": "Foro3D",
+      "sources": [
+        "Foro3D"
+      ],
+      "date": "2026-11-15T20:56:29.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "robotics",
+      "score": 10.59
+    },
+    {
+      "id": "1jlx857",
+      "title": "Call from Zelensky to Elon Musk for Starlink! UAVs lose connection at 161 km/h speed",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVTB2bFV3UWdLRVB6YnFSMnhqYUhFeldvQ18yaktZOVRpSG9FMUQxODVzQlhIQWhNdXZESWRVYlQxc2c2M091YWFYVHNCZXR2VjA0amt3Wmw0NmVGSFl2aE9HbURIT1NQczZla2wzOXVMTGxtOG0wVjVUYkRKNkx6bjlXVXVFYWw2SlE?oc=5",
+      "source": "Haberler.com",
+      "sources": [
+        "Haberler.com"
+      ],
+      "date": "2026-11-15T20:54:06.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 11.58
+    },
+    {
+      "id": "ouj4ap",
+      "title": "GALLERY: Anglers rise to the challenge on Day 1 of the Starlink Team Series Challenge Cup",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWmpjcHE2WEJjVFRzQTNtU2VrVG1HT1d6dWE5TXVwRmdneXhwSUh1c0N6dkU5SG5kZV9SdkdscGZISkM3Zzl0ZkNGVUtseWtyVFV1dFdlNDAwUGNVa0wzNEpQY3lZd08zTmVhUUNVZVN6QmpaZ2c2UW9kbmxjSG9rSGViSEVoMXhHZnlROFZVWXFZUnVicGdOVUo5bngxRXgwUmtid3dKZXZuOWhQYUIwTDZWc1NSWV8xTlF5WGNOa2FvTjlIbk93ME9aanY?oc=5",
+      "source": "Major League Fishing",
+      "sources": [
+        "Major League Fishing"
+      ],
+      "date": "2026-11-15T20:49:34.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 10.56
+    },
+    {
+      "id": "zw9ub4",
+      "title": "tesla-cybercab-sale-online",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNazByeHJZUHNxZjdUN2dkZUlSTXctZWVhQldldExXak91eTl2amJhZkJTNnh3ZjdtWm9OSlVCc2Z6SkR6ZGxCZVFnUzloR0w4WXF6WXVCdGxPdy15TEcwSkt2SENOc1ZtZFNjSnJMTTk3djV1TFJHamlGVU5FcnozOVlJVWhrcTg5enhDeXByUDhwbldBemlyaTR3?oc=5",
+      "source": "Teslarati",
+      "sources": [
+        "Teslarati"
+      ],
+      "date": "2026-11-15T20:18:28.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 11.94
+    },
+    {
+      "id": "zxeghe",
+      "title": "SpaceX attributes speed restrictions on Starlink in Ukraine to \"technical issues\"",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd2xpY2lSNWh3aHdTMEoxVmxIOTdOMXFyT1FKb1ZxbHNKdVVleElVbUxvUU1IV285U0ItWlRGTUw2MkdHQ1RmaDVfZG5MNWh2WW1xSFJIMjhvNVpkb21TR2dJWGZpSGxsOXE0bDN3RUJBWUN3ckJqU3FNTV9aOFhCUXNBdUlCZ0NvNkpTWlhFVU4wckd3UEZhVGRxdjByaVkzd3dYMkRsS3gyUV9UaGxMUUJCTU1JbjVFNnRGRtIBwgFBVV95cUxNcjMxZHpuZ1pIR3VqODlBOWRNWms1TGRDeHNjSkc2REVuZnlRSWk3T2ZtMW9mX0JPS0hlZnp3Vk9SY2t1SDBMdE83OTVQS29mUGw1OVVUampJS3lMU2Q0aE5od3JiVzNoZTJhb1RuWnMwcGYzVUltU25HZW5OUkI0N2hubFlYM2l5blprYjVJaEZ2aC1yZFdocHozc25iUDJPWFM1TDBVM0g4RTlXeWRTSVlGRkU5dHFEQi1YX2tDaGhPQQ?oc=5",
+      "source": "Ukrainian News Agency",
+      "sources": [
+        "Ukrainian News Agency"
+      ],
+      "date": "2026-11-15T20:14:24.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 10.42
+    },
+    {
+      "id": "1sav4n2",
+      "title": "SpaceX ‘chopsticks’ catch Starship in world first",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZFgyUjZFRkE5MWNVT19UVlFSaVpERFlsZEdkUHE4d1ZZRUhNQ01UNjVRTl9HTGlqY3A3Q3VJVnVNN3U0ekdQbHAwRTZKaXJFTVZTNmwwMnNUU3FBZEw2QjhtMVozejRRNUVTWmdsVXJVSXJreVUzTjd3c2Q1YmpjN3BwZWdNYS1ZRllhVVlFSEdURDE3VE1JR2x2MA?oc=5",
+      "source": "The Times",
+      "sources": [
+        "The Times"
+      ],
+      "date": "2026-11-15T19:40:30.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 12.29
+    },
+    {
+      "id": "wlcj0h",
+      "title": "SpaceX says Starship Ship 42 became the first upper stage caught mid-air after returning from orbit",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQekZTb1RHUUhBX0ZtRWZmX2xlZXV5cllwXy0zSVFTYW9UeGUtaF9kR3MwZDYtWHZHUGIwRU5neHJUTmx5NmN0N3VnYllQRy1nYTBuZTdQUWU0RkNxUnlzZnBTM2F2MlNkUl9JWHVMenc5QTI1b1NZTVZJdHlwWEJObkFBVm1qZw?oc=5",
+      "source": "Latin Times",
+      "sources": [
+        "Latin Times"
+      ],
+      "date": "2026-11-15T19:38:28.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 12.29
+    },
+    {
+      "id": "rcrh1y",
+      "title": "Grok Sees 35% Odds of XRP Sliding to $0.80, but $1.05 Year-End Remains Base Case",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vV20weF9LQTljUWpLWkVGdnJfSFdURlBWaXFRWGlzV3Z4MTdBUHFCX09GY2gzdHdfWnkxdE9RR0xDN0g1XzAyS3dVT2tfVHNDdnppRFAwWnYwQmZCZzhSWVRQWGxmTjFGTTBPeGViN2lYd3dtZkE?oc=5",
+      "source": "BigGo Finance",
+      "sources": [
+        "BigGo Finance"
+      ],
+      "date": "2026-11-15T19:35:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 10.27
+    },
+    {
+      "id": "1nf0p5k",
+      "title": "SpaceX restrictions give Russian drones new advantage near front line — diplomat",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSXZwZVJ5ZFdJRWhtRERBT3IyekdJTHdTQXpSaHdiSkM2elIxejZrRTBXWXd1My1UcFdVNG0tSEVUVEd1a3JhczltS3MySzBQVDZEMFVnSXotMndMZGpRdFRNZkp6b00yOHY4WFZkQ2hiQWVnV3V0b1ZWSjZUbkpaQWh0TnE3MGtIZ0FKWnNSSWNNd2ZWeUR5dE43MFY2UGxkdG8zY2RCWVlKZFJsUHhHQWpOajJZd0liQjlhRHdtaGJwbTQ0ZDFtQlZaLVRnNmhkbHBTRzUzZ9IBzAFBVV95cUxOQjdkNTVYSzlpQXFlcVNnTGNSMEozRFozMkxmUE5nWlVIWldOeldvTTNwbl81eDNDU2Y2SXhhTWdhVVBJeDQ3ckZrc08zcTBPOExhMU1LV0p0Wjg0c21kUGpjcm5DWnRxWEljVFoxYWxFNlRfQVVhSjZUeFdGeC1CcHZGQWxyWFltX2JOLXNGODM0Tkt1Q2FoY1NoUXpSbWd3YVRPQzY0Y3FDT2ZxSG11TmZTZWpVTEFIMkw5eHdGczZpQ2ZpZEhoUkgwMHA?oc=5",
+      "source": "The New Voice of Ukraine",
+      "sources": [
+        "The New Voice of Ukraine"
+      ],
+      "date": "2026-11-15T18:40:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 10.06
+    },
+    {
+      "id": "1g09fd7",
+      "title": "The Silicon Battlefield: How GPS Spoofing, Drone Microchips, and Starlink Reshape US-Iran Conflict",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT3BJcVFGbmZabTcyMFpqWTYwYlI1am9ZNUY3YTIySG96QWFSNEFEaVU5YkJXdFlCaU5kS1Vvd0NueFYtVm5yWjh3SXRtWU02RUdsSWZDam52ZTZqTkg0R3REcVQtUGplcDJtRjVVZGVyZHNQb29adjRXXzZUcEM3bzUxT1ZiZC1XanQtYzVVTzNvWWQwQnZDcU9ZQk9DNmY5QnkwQVpyNkoxQjRvUF9ReTJ6WHLSAboBQVVfeXFMT2dMbHFLdWlhLW9UNnpGMmE2LTlHX3FUdk9MMDloZ1NyUmJzZk1qcUFvWGpnLWh2dkNsNzJQa1ZrTkJtaTMxdUVsOVJIRXBqWUFaY3BHZmlHQlRCYk1rdkhBa29qM2xtMmM2TFB0WVBsWjZacF9kbU5tSnZuZHVoUEJwR05iRjRWUEhiVXhvRW1OblFvTXBnckt3MkRrZUFnUzlnSjRiWFhZVmNpQXRZYjNfb19PVlJPc25B?oc=5",
+      "source": "PaidFreeDroid",
+      "sources": [
+        "PaidFreeDroid"
+      ],
+      "date": "2026-11-15T18:34:04.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 10.04
+    },
+    {
+      "id": "1ev3pzd",
+      "title": "SpaceX caught Starship from orbit with ‘robot chopsticks’ in a world 1st — but lost its booster in the Gulf of Mexico",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHc2Umd3dWo3UUQyTHo3amFEVTdobVJQTzlMNV9PZFlGQUdjS1RtazVlNFdRMG5DYW5ocEV0TVp2Qk5fVFFCZnEwZjFaTXNhY0NINWdwVUxyS00wUmFZbGFMeEZFU0NIQk9YOFFtWHV5a2pIZGI5NFppZTQ0WWU3aU5mc2g1ZXZyQmNIckJCVnNtSXBpbVJaZUdmZjVKTGFf?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "date": "2026-11-15T18:05:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 13.43
+    },
+    {
+      "id": "n7wx5v",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBWUw2MG5NVUhnUkZqMkZmNzJGQi1xSmtXUHdfenVpLWd3QmJUMHNiNzJMRmp1R2g5bXdvSjI5MVlRblBnWFJ5T2t5cks4US0tNUwzSndiZVluM3YtbXc?oc=5",
+      "source": "BBC",
+      "sources": [
+        "BBC",
+        "KOHA JONË",
+        "The Journal",
+        "cedarnews.net",
+        "Gazeta Express"
+      ],
+      "date": "2026-11-15T17:57:09.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 21.91
+    },
+    {
+      "id": "1ik3z8s",
+      "title": "Drive Tesla Download: Top Stories for November 9-15",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqZFlDZHBjR0Vnb2lsTlh5dlg5bDJjMU9rMVpXcmlFclZlUVhwczZaRzliRm9VeE01Q3hDV19sMUNUOW1wSjJDTzAtM2xCY1BmUHZ1TFUxUHlibHF3UXFHX3ZxQ0oxSzNjNm82a1U1MVdLWWFqUjNZ?oc=5",
+      "source": "Drive Tesla Canada",
+      "sources": [
+        "Drive Tesla Canada"
+      ],
+      "date": "2026-11-15T17:55:24.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 9.9
+    },
+    {
+      "id": "1qxz2jr",
+      "title": "Week of crossed headlines: NVIDIA, GTA 6, Amazon and Starlink",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQjl2aHNzMnd4eVZEdWxYaldrRDdLMWxscHJjazFGZEhFNWZkc3V6ZGxseVBScXRqNkRFck44VWliWk9vU0pHSWsxemZGVmM3SDMwY3ZOdTVLbEtBTHBKTTNCckZ4ck9XekFVdXNpNU9IQ19hY3dZMWJaSTBfZTRjUGFxRmctYmJ1UXNWeW9pM0h1QTc3RWo1U0ppVmRWVHJTeVJr?oc=5",
+      "source": "Foro3D",
+      "sources": [
+        "Foro3D"
+      ],
+      "date": "2026-11-15T17:29:19.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 9.8
+    },
+    {
+      "id": "zz4rz4",
+      "title": "Elon Musk and Marquees Brownlee feud over Cybercab bet",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQamM4dlJyeUEyMllCb1VyUTNsTUtQNFgweXQ2cTJNT1NQNWV6akl6X2tXQ0Z6Y2drcmtFTk8wZE1zRTF6YWZuR3VObVQtN2h3UEtFZjVINFZlUnppd2pJN2lrNGFYc3FGWGRZdnhiMldfTFJPLUd1Z0Q1dnROVWR1TjRGVHdGUnM?oc=5",
+      "source": "Mashable",
+      "sources": [
+        "Mashable"
+      ],
+      "date": "2026-11-15T17:26:13.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 10.79
+    },
+    {
+      "id": "144p27n",
+      "title": "MKBHD just ordered the Tesla Cybercab with his hair on the line",
+      "url": "https://www.teslarati.com/mkbhd-tesla-cybercab-bet/",
+      "source": "Teslarati",
+      "sources": [
+        "Teslarati"
+      ],
+      "date": "2026-11-15T17:25:07.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "Marques Brownlee spent two years betting his hair that Tesla would never sell a Cybercab to regular buyers for under $30,000 before 2027. On Friday, he posted on X that he had been invited…",
+      "category": "mobility",
+      "score": 11.29
+    },
+    {
+      "id": "wtt0wj",
+      "title": "SpaceX Just Did Something It's Never Done Before. Here's the Bull Case for SPCX Stock in 2027",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb2ctOWtoMUo1Vm13LXN1RDhMZ2x5aFZVT01OaHIybk01d0ZkU0ZMWl8yZWt0SGdvOUZCa1VUem52UHFLcXEtYkplT3hhS1FnUkxRSHM5OEpBbXVreWpDbnlJVWtMU0hSeXUyUjdzLU00b2l3SzhYQlBPS2FrbHFJanowQ3JNQmNPbVY3Q1VfSGxyODRNRmFfOEZ1WGpGYXY2OTZUbmhtblZyVGpqb0FyUlhHLXRTREpPRUlxbkctdDh3S1hoa1dtYmd2VmV0R2s?oc=5",
+      "source": "24/7 Wall St.",
+      "sources": [
+        "24/7 Wall St."
+      ],
+      "date": "2026-11-15T17:24:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 9.79
+    },
+    {
+      "id": "cwr553",
+      "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
+      "url": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/",
+      "source": "Electrek",
+      "sources": [
+        "Electrek"
+      ],
+      "date": "2026-11-15T16:31:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/MKBHD-Tesla-Cybercan-Elon-Musk.jpg?quality=82&strip=all&w=1600",
+      "snippet": "Elon Musk called YouTuber Marques Brownlee “a chicken” early Saturday, hours after Tesla opened invite-only Cybercab orders at $29,990 and Brownlee argued that his famous head-shaving bet…",
+      "category": "mobility",
+      "score": 11.1
+    },
+    {
+      "id": "bdkhwv",
+      "title": "SpaceX starship lands successfully",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYml4QWotV19hakdST1lsMWxVbHBDSjdXbHlvUldNdEdMVHFOZmxxX29uNDVwR0tWZDZ5MEdvZnhhQTIxaWg5ODlBU29Yb09mVk10R0VPV2ZHei0yZm0zSTFzeDNOV1Y4Q0NBamhxWW5CYVppb3dIM1R6dlBmSEdNMmZ1TnV6X3JodUpVR0pyWkJyR1JGanl6eDRqLTlzTFNKb1M0akhxdW9Hem1ZeEdNZHI2WE9nZw?oc=5",
+      "source": "WFAA",
+      "sources": [
+        "WFAA"
+      ],
+      "date": "2026-11-15T16:30:34.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 9.6
+    },
+    {
+      "id": "wzye4m",
+      "title": "The US Needs Musk and SpaceX — for Better and Worse",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdXRET1RjR2M1Z0pLWEdZWXNNNDgxNS1qenY4U0VhZWxOSWt3SVZKMmloRnpVWDVHdW95RndnT3dnZFNTZnNKaklwS2NrcTVJR2wwSzJwbEo5dm1jdzIxSm9QZmZocFlodVQ4UmRiUUhNOGhJVjNuTWt1NDlFSjB1Nm9wLWI5RGVvM0lrZDQwcXNQajVFaUt5UjdHVFhNUVVZakVN?oc=5",
+      "source": "Bloomberg",
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-11-15T16:17:27.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 13.55
+    },
+    {
+      "id": "1uqhnsi",
+      "title": "Zelensky Demands Lifting of Starlink Restrictions Before Winter",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZjZLN25SdlRucGlhRXlDNnByTHdFWU8xaC1oWFFCQkQtdzhLbFV1b1ZQWFFvd28zZFY5LTJPTzFCU0xzazJHc1IzZ0JUYnpEdTlQWXRkM2s5bXRMS3JZVnFTMWtXel9aanZIbEs3S2RJWDJaUXNFbDU0QTRETkRrWmxtZmZUMkxGT0s2T0NDN2NkdHkxTkZ3UGVB?oc=5",
+      "source": "Daily Beirut",
+      "sources": [
+        "Daily Beirut"
+      ],
+      "date": "2026-11-15T16:15:56.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 9.54
+    },
+    {
+      "id": "39ddme",
+      "title": "SpaceX Starship Catch: What It Means For U.S. AI And Defense - SpaceX (NASDAQ:SPCX)",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVFJrMHBVNEhhVDJzeFhzaFFpamtQZzl3UkFqcnJuREZQUGZSZ3NNS1JUMWloTFc2QmxXMWtrX3ltWEtCYzhJY0RwTmFQbWtFeW1PV0lkMFE5RWhmOEJVcXRqWTgtQW9SenhhWl9jdXpUVDAxZlJUWERlY1VVQzJOeDhaYlFoR3FSN3dJYkxwZFkyMlU5eTZJQUJ3akZjRWNGQnJNbW9MZkdZdnB5blV1Y2Z6NGhJLWpLQkxKeU5FR2lFcDJWa0JGRl96OXR5U202VmQwc2hUdTBDZw?oc=5",
+      "source": "Benzinga",
+      "sources": [
+        "Benzinga"
+      ],
+      "date": "2026-11-15T16:01:07.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 11.49
+    },
+    {
+      "id": "4egf54",
+      "title": "Zelensky: Starlink restrictions enabled wave of Russian strikes",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUkw3RWR1UE5xdzZpSXZxTG1PSDh2QS1IYVloWE1uY0JfWl9VUFNrdjVwby1XcDRCeDFCejRQRWN4WloxUEVMeFVPaWlVZ3ZMZ211NW85ajdWbnA2TVc0LWZ1WHdCZ2tObGVoSFlzMHlvak8ydlc0TzJJZlFldEV4TVFRZG8tOGlYRDdqMGpoZlA5ZVlrV1lTOUsxcDdWSlNua2Zrckp4cEJkbTk3TU1N?oc=5",
+      "source": "The Telegraph",
+      "sources": [
+        "The Telegraph"
+      ],
+      "date": "2026-11-15T15:59:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 9.49
+    },
+    {
+      "id": "17ps55q",
+      "title": "Ukraine President Zelenskyy makes another Starlink complaint; says: 'Detected speed restrictions on Stars",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPRTlsX0dZNXZyVHFHOFotQ2JVUnEzZkJQNkhRNlp1aHhQSVY1MmpNOHFWdEpkZ3RZczFQZ0R3M0o1bU8xaFdpUEh5NU9Wa0t1SmpQRjVqZnBDUjZHQThSdC16Y0FVeEhqa2J0YlBFMnQ1UFFrREczRTc3S0dNU2xPU0JId0tRSHQ3QmFQdHRlWjUyeEZGdUw4TGlTakY4amdnSG15LWRUQUMwaVRTQ0swUmtDcTNXVWVhakE5YUZTckMzQ3dxOWR2S0d5WV9KRkdnR0x1VUcyTVhJVHhZZVZ5QjFJd1ZkWXhIbk5oaHdBRU13OFkyLUxTTkFCZTN5WEJfeklGVFFvY1J6R0d5bmwySnk5UjFpUGdndllNSDZPV0VMbHZKdDdTWUJycDVVUzDSAbQCQVVfeXFMTk1ReXQzWG9qQlRrSmd5YUs0Tlc0QlluS1kxVHVzWkFFS3A3VXppMUo1XzktWl9QNnZjMkFQeE1PS01uZzFVZVZjQmZ2Q3Qyb0JIbVJ3VlFUamZ3ZHRqZkV5eWxtalprbjI3TU1yNGQ0bFV6VVRHdGpWdXdSNG14VHZ5WVBNNlZPMFJwSjQ0SXFKM2hGWUx3cXdVSDZNdjJDb01MaVVPeTZXR2lELXJlQVJkblViaWY3cFl3c0xkN1g3X0tHUHhuY0d5dG1ZZVY5TVMwdXZfNXZReFVrM09BUWVkamRWeFBGanZ2dWEzdnpqbjZ1SVFQa1B0T01vdE5CMzdHZTliVkV1TnNCMWFMR3ZyNk5Ea3FCOGRXOTE4cnV1RTdCRlN2bnAzSWtsNTZheDlaMXI?oc=5",
+      "source": "The Times of India",
+      "sources": [
+        "The Times of India"
+      ],
+      "date": "2026-11-15T15:59:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 9.49
+    },
+    {
+      "id": "pohuyn",
+      "title": "Tesla Sells Driverless Cybercab to U.S. Individuals",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWZjMUpfR01XQmpvOVhWVzM3SzctY1ZSRkVCWF81V3Z3WVBxbmRrY2ZZWkt1MHdEUnBVeFJ3RjdsTDRWMkNQTzZFem5ocnd3UHI4Z2ZzNF8xdHAxQVQ4ak55S2gxdUEwLUV1MG9VZll4WW9lU3JBTEpWS2VadVVlWEwtcDdUaVRG?oc=5",
+      "source": "조선일보",
+      "sources": [
+        "조선일보"
+      ],
+      "date": "2026-11-15T15:36:37.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 9.41
+    },
+    {
+      "id": "2mv57x",
+      "title": "SpaceX explains Starshield speed restrictions imposed on Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVjZqNURRQkZFRmdRTkZ2QTc2bTAxQUR2TWJqVEd6VmlibXhTSWk0RlRIcENzMThXSXdfWU5zVHpZalJMaTVZc3F5aHQ3SkVHR2RBQmFMNVNYMWUtM0xaZ29yVkNaREthdGEtUzdTZjh5ZGo1d1c0emxtcFc2dENtbFhTckdBMTNQcExXOVRBaF9yNFhBTGpWUA?oc=5",
+      "source": "RBC-Ukraine",
+      "sources": [
+        "RBC-Ukraine"
+      ],
+      "date": "2026-11-15T15:30:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 9.39
+    },
+    {
+      "id": "1vsakaz",
+      "title": "Elon Musks shares POV footage of Starship after the catch",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTkdRTjhfOVVaRXJGcW9qNmhoQUdET19jT0dZU0RZb2d6SGJxWmlhS25jbjNibnl4eGdzb1A2U3RsVks0SXp2UVN6ZktKek1iWFJOLVlNdGt0LV9DbnB0RHJFVVU4d2pnQ2M4UnJyWlU0dVJWY2hRWWtPSmVGZUUyUHdHdUNlRGQ2dER0amln?oc=5",
+      "source": "Mashable",
+      "sources": [
+        "Mashable"
+      ],
+      "date": "2026-11-15T14:56:16.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 12.27
+    },
+    {
+      "id": "1hpccgm",
+      "title": "Elon Musk's Tesla and SpaceX Lost Over $420B in Two Days After US Midterms as Probe Fears Mount",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaTRab1kyd0dreUpJdHI5TlplWmw5emd2UDdPd0RTSVVITHphNWNLVTJ5dGxTT3Rvb3FqRFUxazdXRDNHQmlGMmwzNkVuUUFWZEF0d1NoNWVrenhodTdVUGpaZ3Q0bHFqM2NLNmZ3MEZXNFUtSjdCSlo4d3lVSVVsZGpLazlTbVk3aTRmcnhSZ2NfTk1EMFBuN2d1SFh4X1duNWw3ZlJPNHh0dm1UeDFuajM3cXYzNDFfclBj?oc=5",
+      "source": "inkl",
+      "sources": [
+        "inkl"
+      ],
+      "date": "2026-11-15T14:27:21.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 10.17
+    },
+    {
+      "id": "1witdzz",
+      "title": "SpaceX Starship Flight 15 recap: Liftoff, Super Heavy’s offshore splashdown and first-ever upper stage catch",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kdFozZWhOZ0wwQXMzaFJYa2NmT05OcWdtRHlLSC1ZY2FucVBYODE1NlJiWTdZR3psd2dHWTBWdlpULXlSNkR5RXpsMHFMZmRlWVNkMDdndTNhV1FnbFNyLWlyeXRaY2hnM2dvSjFUOWkzenY3eXdGYw?oc=5",
+      "source": "Starlust.org",
+      "sources": [
+        "Starlust.org"
+      ],
+      "date": "2026-11-15T14:20:38.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 11.15
+    },
+    {
+      "id": "yd5k06",
+      "title": "‘Almost magic’ as SpaceX craft caught mid-air: Why it matters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaFNid3VPdnB4UVFhY28wVVZ1dklCQXVfT21YRGZQZ3ZUU2tWeEJaVG5RazdTOVExeDlxV1BraDdCTDhWQUVldlYzN09sTTdtdDliSzg0SjNiSmhmVXd0d1JtRE1BRVJmQXZ3MnRPYXotTEhiNVlpc3lKM0twMGs4V1pCQUxFWFBZYW9seXBvNUN4RXNHYWkyNGhxcVBVZEM1UEHSAacBQVVfeXFMT0dNTVpzWnJqaEJ1N2lfbVZmYl9INXpua3k3SEJwZkt0RllKYm5lOWxJelRSNzh1OTI4SDVkVWxxSTNDdTVEVnRWWGJJZDBMUHVMdUd6Q1QxZy1DX29ZRFBqNDk1MkNuUjh4OVJrYmNjTlc1MjNLeF9nTnBBelZqcFo5VnFRQ29HT2pMc2MtUmNxVkh1U3RZeTBoNHJ3b3JuOHptN29IYk0?oc=5",
+      "source": "Al Jazeera",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "date": "2026-11-15T14:14:58.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 10.63
+    },
+    {
+      "id": "ca8tja",
+      "title": "This Week in TSLA: 24/7 Robotaxis, Cybertruck-Based SUV, $10 Billion Solar Bet and More",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV19fNFdHUXVLeWFDNjE2M19ONjUwS2o4VjJxNW5ieFZRTl9GVVB1eGp2OTlnYjdLZjJ3MXZkMFd2UHdLRGdVajgyZUpUZGI5Vko0dXo3NG4ycnpYQnlDOG5ObkpkVlc4QU9WVlBrLVBRZHZ3eW91YTBkVmZDZHhGYXRrUWNfX1puM09kN2JicktSQ1B6REJGeExKWHhmYmRGUV9BOUVnQTVQMkc0R2N0RjNUVkNLTG5zREhuVGkwb0NmX2pVejhHdDZ6eFJmVVN6X0E?oc=5",
+      "source": "Benzinga",
+      "sources": [
+        "Benzinga"
+      ],
+      "date": "2026-11-15T13:59:15.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 9.08
+    },
+    {
+      "id": "1vfwvrl",
+      "title": "What tasks could Tesla's humanoid robots perform on Mars? | SpaceX Mars cargo missions may begin in 2028 | Inshorts",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNTN1S25ObTJfVnV1YkdYUmZfLXJ5TDZESTdVZTRVTnJ5cW11NktmMzh6WFR5Q2NWWnNHeEdNT01xR2hmNmpxWWFOdDFmZEdldFlhVmlQNWtxSmkyRUF2R0NwVEdVOEFCQXJQYmF6SXd2VElXNE53MG9BTEllLVZVN3ppcU5wdXozM25iZEVnbmJudk5QOHlYb1AtdC1XTjdOWFFoa1JmQdIBpwFBVV95cUxPNTN1S25ObTJfVnV1YkdYUmZfLXJ5TDZESTdVZTRVTnJ5cW11NktmMzh6WFR5Q2NWWnNHeEdNT01xR2hmNmpxWWFOdDFmZEdldFlhVmlQNWtxSmkyRUF2R0NwVEdVOEFCQXJQYmF6SXd2VElXNE53MG9BTEllLVZVN3ppcU5wdXozM25iZEVnbmJudk5QOHlYb1AtdC1XTjdOWFFoa1JmQQ?oc=5",
+      "source": "Inshorts",
+      "sources": [
+        "Inshorts"
+      ],
+      "date": "2026-11-15T13:58:26.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "robotics",
+      "score": 9.08
+    },
+    {
+      "id": "1lievml",
+      "title": "Tesla Is Down 13% in 2026 While the S&P 500 Is Up. Here’s the 1 Catalyst Left This Year That Could Flip That.",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbnVwUFZiWFU3N25BZGRjdVlqTzYwV01YS2FVSlFTY05NM25mRG1Kd3dSck1PUC1CbEN6UWp1cjRmMV9VQ202M0lCR3p4ZXBOQXc1cjBKSGpTbzBiNmhCWFFzaXpuMGg3dlpYdDkwRFllaG1TcHpLcWJHTkJOOW02ZTVvbzBZX3hEUmh3bVotMmpOcWlBNE5xWWtGb0RnOVFLZGdfNXJqa3FVZ2pSV3JoTFVxTzNsX3BmalF2eDNRcmpEOHFFQmVYNkMycGczQ2JjWDJQNDhoWV9GTFNvQndLdg?oc=5",
+      "source": "The Motley Fool",
+      "sources": [
+        "The Motley Fool"
+      ],
+      "date": "2026-11-15T13:55:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 9.07
+    },
+    {
+      "id": "lohamp",
+      "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcUc1Wld1UGN2cHpoOXhsZlduejh0SXF3S2JDd3NBT0FyX1pyVW95bDlQS3RHbW9LS1M3aDZ5ZzQ1VWREQ25TWkN5b0tYSjUydUljV3k2bThmallacU02MHlfX1RycVNuV1c2R0hZU0pNMFlhclUwOUlJQVRpelFEcTI4WGx0WVVDbzY0NmRuajR4a29idWRCd3lDV0NJcVRlYnZtSFRZNkNhR2dfYU1Ed0J1TmHSAboBQVVfeXFMTXgwZ1U0dFVMUDY2dVR4ZDA2MmZpYmxIZlBqdzdLcjJwUU9oTFVnb0pGUmY4eF9uTnl2cDRKZFd0UnB1WDR5S195ZXVfZmFpSUQzNzIxZS0zMjNQM0l0Y2FBVU5qZWxjb3ZVaDQwaVJZYzFQaVJrcXJwZDZFVmlvT3B1N05aLUN1aHoyMEVhb2FHUUdDX09reFBpRFV4cWcydzVkejBCd3VHUFozMDV0SjZpNVBoR28wcG1R?oc=5",
+      "source": "Al Jazeera",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "date": "2026-11-15T13:46:11.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 10.54
+    },
+    {
+      "id": "mzsrgs",
+      "title": "The epic story of Flight 15 Starship: ~22 hours in space and a precise landing catch",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOG5TZmJUcTc3R3ItT2dkczAxalh1T1BCbXZhUGowdjVwVWRNUlRkdFJnb0pWdzByUUhwek1JdjRuWTR6TmxqMk5RTVhOUHNocXZoRWQ3NnFnNW5CUFNjQkJsWmJSZkI0V2xkQTBUay1oRENqT3NLaGhXQXJicUZlR2FYRHIzQ3BpOUNYdVA5TkhZV3BxeXR5QVNyTm5kYmFOWEJicmQycDVBVDl1Tm43ZkFRbC1NZ0xJQW81RXVJRQ?oc=5",
+      "source": "Tesla Oracle",
+      "sources": [
+        "Tesla Oracle"
+      ],
+      "date": "2026-11-15T13:34:24.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 11
+    },
+    {
+      "id": "gsjicq",
+      "title": "Tesla’s Cybercab goes on sale for ‘personal use’ but Elon Musk admits the monthly cost of ownership is ‘too high",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOa19faWVxQ0pyMGVfTGdRREJUS3lsb1ZFU25qMXNEMFAyUVpUQktETEtPRERWMDg4ejlNNUJFYXItYVFZZ3YtRkp3Rm94TmQyNldCeG9pcXJUeXcya3BiNVBUVEJ0akhmYUszSHVYMEduZDI4Skthb2JDWThSaTZ6TkVzV3psQnlhY1NUVFlRd0NZMGNWc1pmTTkzSUVFWUh4S0NuVTFHeTFyYzZ5RUlvakxqb0tickJ5aWFZcWFVUllNbkdCY2JqWE5saXhSeXFiREwyWDNYREJjUGZEWWpMUE5leWZOYWFOeFFBbkVaTzZOTGZGbHFrcUZfNUgtZw?oc=5",
+      "source": "TechRadar",
+      "sources": [
+        "TechRadar"
+      ],
+      "date": "2026-11-15T13:30:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 9.99
+    },
+    {
+      "id": "5s47jx",
+      "title": "SpaceX Catches Starship From Orbit for the First Time. Here’s What It Means for Starlink’s Costs",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZUxEbmpFVnAzM3EzQVhTdGtoY1ZpUFZ4VlMyaW9Zc1BhTVZ4eUNVZ3NPdktMdTNVTVZxY2NMU3JQbktqVFlnR2Q5UVpQSktVM1pPcHJJR0ZRS1lscDNJZUhyd2piSTJ3ZnNfVG9PRExBSWt6X2hSbEt4M2QyMTBZMWx2NWVsQmhFYzgxaUttRFlCQTB2R3RuazhfNXdSM3JjYWc?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "date": "2026-11-15T13:21:24.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 12.46
+    },
+    {
+      "id": "jvvffa",
+      "title": "Watch: Arsonists fling Molotov cocktails at Starlink site",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPazIySERzUlJjamhqT1NoVVNtZjBwNFBUdzZJN3R5UlNhQUlibnY4TFlZOXREOU1pWnczRmdPUlUwdUpnUExvcHMwbmlnNlJZMExqQWhwandHZWY3V09YNFI3cmJKUG5VeVBnem1xODdHdFI2emhXTGZtMTFyd242VVR6Unh1c2RYcEtr?oc=5",
+      "source": "AOL.com",
+      "sources": [
+        "AOL.com"
+      ],
+      "date": "2026-11-15T13:18:46.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 8.95
+    },
+    {
+      "id": "bsfngh",
+      "title": "SpaceX Starship successfully caught during historic test flight",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwV1pKc2JSVGhWUDhXbmhqUV9HcDhGcTJtYUMtNEE2R2xYaFFBUzdWNWRua2w0ZnBlMnJnMnY1djh6dHdVeExFcmhvMVROUy0wX01KQ0xB?oc=5",
+      "source": "Fox News",
+      "sources": [
+        "Fox News"
+      ],
+      "date": "2026-11-15T13:14:09.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 8.94
+    },
+    {
+      "id": "13al1vm",
+      "title": "ASTS, RKLB, SPCX, LUNR Chase An August Win: What SpaceX’s Falcon 9 Wind-Down Means For Space Stocks",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN3RzdGhhS1IzODVybnlaOGNidF9uYVlfaWxjbXNNSkpVMUJZcUp5UGhSVFhTZDRzZ0tYQWN1X1NYZFJndDQtdUp3S0RLR01VaWR0bWVHVG4zMUxBMFpFQkJ1aGlzUFBhUnVHSkJUOWRkODdMNzk0aFp0anhfWkdscnRQbmRsNUFidzJFVV9IVjRrT0k5UmljUy1tUTZaSWxXVktkVVdaQkczWlVEVzNLdElFaFZhVzhVVnBmeE5QcFNkQnVoc1AzQ295UHFCdw?oc=5",
+      "source": "Stocktwits",
+      "sources": [
+        "Stocktwits"
+      ],
+      "date": "2026-11-15T13:01:31.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 8.89
+    },
+    {
+      "id": "v6v13x",
+      "title": "SpaceX Starship makes first pinpoint landing at launch pad in Texas",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOR1R1Y1FKeHpacUxTUW12ZzlQX2xCRFo0dThOLWlLeFlTUGdYTG5xN2xJME5iaGlHeHBrU2RMcWFyc0lHaEk3WVl0R0RNUEg3TUh4aFM4NVlEb3Z6Q3MwRUllZnFUUXItU3BuX0ZZdjN2WHRaOUp2LVNOd2tkbnN6UGZGeUZ2OXoyemhDWjJ5OVgxbUc3ajAzNU1EZW1WeXVHWEwyaExUaWZDd3B5bDVjd2d5M3BVQlpDMWU3RHZ3YUdMdmRJR1d1UklqYW5paW9jUV90d2hhY2MtQUdfOWRrcXJ3?oc=5",
+      "source": "WBIR",
+      "sources": [
+        "WBIR"
+      ],
+      "date": "2026-11-15T13:01:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 10.89
+    },
+    {
+      "id": "5f9bao",
+      "title": "SpaceX Starship makes first-ever landing in Mechazilla launch tower arms",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5POEJqMTdLYUxPYl9pQ2tvV3hNUlJ0VE05UGZ5d1NLM19pQmw5dTJxaERLSFFVeEdwUzF5eU5VY0l6OVo1YWRZQmdDUkR3RUthN0VwZQ?oc=5",
+      "source": "AzerNews",
+      "sources": [
+        "AzerNews"
+      ],
+      "date": "2026-11-15T13:00:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 10.89
+    },
+    {
+      "id": "162ewd",
+      "title": "SpaceX Stock Tests $154 as Starlink and AI Growth Support SPCX",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVV8yaHlxVXdMdmkyVG5lUkxtUS1nbk1QMDBwODFnN0pXVkdualRhdS1IM2tKb1YxWk92QUlkZjVtSDk1TUo1dHZxYm9GU2Z6WEpWUm5YZ2JHMXhsdkRmWlZZX0s3S3FBT1VjdkxfcjhNb2FkNHdoSEdONGtJT3lLN0JLX0xYRmdXMXlNSWNZZXZyOEl1T1E4MlZMV2M2YnVjSjE5cEhpT3Y3UDgwOGp2T3JCaGFWZjg?oc=5",
+      "source": "TradingKey",
+      "sources": [
+        "TradingKey"
+      ],
+      "date": "2026-11-15T12:38:25.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 8.82
+    },
+    {
+      "id": "6wumkl",
+      "title": "SpaceX’s Starship successfully captured by the launch tower arms",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZdFdDcXB4QTk2bUdEUG1lb1RlX1JiZUg0V3RaWjJMZmhrbXFXTWxLaTFZZWx4dlN1MlQ4Si14ZTg2bU8zU0luMXp4Q21GZFBGekNkeDl1YzYxbXJKalBDWUhR?oc=5",
+      "source": "Global Times",
+      "sources": [
+        "Global Times"
+      ],
+      "date": "2026-11-15T12:28:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 10.79
+    },
+    {
+      "id": "1528yxt",
+      "title": "SpaceX achieves another historic first",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS1ZrSG9jcU9OamNRSTQ2ZFNrOU04NlhMSm1QczdrdlhNTzJUaDE1WnAwVHVCbmJudVlMVUxKRXV1T1dGUXhfZXBvaUNnTjZWRXlWd2h4TERSUTJuM3pzcGo1VVdNMlctX2N4OHBCZFlsdXh5TDBfbnBOZmNZNm9IdzNkQWlVVHVaMWMzdlZOWjdZY0thSW5YT256c0E3RXc?oc=5",
+      "source": "The Economist",
+      "sources": [
+        "The Economist"
+      ],
+      "date": "2026-11-15T11:33:37.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 10.62
+    },
+    {
+      "id": "1xgjrv5",
+      "title": "What Elon Musk’s SpaceX Starship Catch Means for Moon Missions",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRE9Lb1RTeTBDbDIwN1RDVk9wWXhNRGRFMndTcG9XRmNSdlhfbzlYYXhGQ1owYm1YZy0tTndyTC1VNndkaUZGMGlIb1ZYOTVnNFlLbWZEUkpxcWpla0RBckxZUHluTTZXRlZ5N0FwVkZFTDlKTjBmd0JRblNCMGsxOUduMHZGRDFLWkp3bXpaU0owTURyb1hoQlFmZw?oc=5",
+      "source": "Newsweek",
+      "sources": [
+        "Newsweek"
+      ],
+      "date": "2026-11-15T11:25:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 11.59
+    },
+    {
+      "id": "13iavng",
+      "title": "What's next for SpaceX's Starship after epic Flight 15 chopsticks catch?",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-epic-flight-15-chopsticks-catch",
+      "source": "Space.com",
+      "sources": [
+        "Space",
+        "Space.com"
+      ],
+      "date": "2026-11-15T11:00:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/T38fmGMPT8J5XSbVo6Ud9L-1920-80.jpg",
+      "snippet": "Starship may have just made history, but it still has some work to do to get fully up and running. The megarocket launched on its 15th test flight on Friday (Nov. 13), aiming to pull off a…",
+      "category": "space",
+      "score": 15.52
+    },
+    {
+      "id": "znm5ug",
+      "title": "SpaceX readies Tesla's Optimus robots for Mars uncrewed Starship mission",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYUJjWkhCRC1oc2diTEM4Z3o3Y1B4Yld0MDNvUGlWU0V1SUtJWk1jbEh6TUtOSWFaVkw0bDF0TTlKS2JaeUNJdXNzS1I4RDFJYktIWFdvYVZFLUVTOVFzRm1uN2t5VU1hTHlKWVYyS2xYU3VidW9wUzVsOGlOSEJ2N1ZQVzRqTTZSc3pUSzEzUU1CRTFNUVlWX01LNWdrTGxtNmFtb0FBRE5jNEFKMFl0RERiTVl5clNzV3c?oc=5",
+      "source": "NewsBytes",
+      "sources": [
+        "NewsBytes"
+      ],
+      "date": "2026-11-15T10:55:09.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "robotics",
+      "score": 8.5
+    },
+    {
+      "id": "1n23fb6",
+      "title": "After Starlink disruptions, Ukraine turns to Israeli tech to keep drones flying deep inside Russia",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMTNmR3R0X0dBOExyR0Y2bzBUV3JabklrVnFGQ2pvZWdtNWp2RlFSY01qN0JkenMwQWtmbFlUUWZGVmNobU1mWHBrTWZwNVZmRGlfLTZRWWhGWE9KUnFDMnhEMzIzc19JY29KTlVCU1BpcnJpMVZvT1NsQndncG9YYmVfeENJclU4N1RNZ3drVldLSW9PNlNYMGkzVXFudVRJd3ZEbDcwMUF3eWV5YW1kVXN2V1R5LXBNY0l4RE1mSHJIYlBkNEItbW16UFRmN1c5Y0o1VkNCYUJHRlJORGZMRW1qbWxLXzlQX2tCdkpPeWhTbzd4ZGJpZEwwcFYyckhEYnfSAYcCQVVfeXFMT1FjLWl6Y1ZicE5EZVdwTUlaTkprVGJPMjE4dDlacEg3Rmt1WVNKakhWdS1wSFQxZEJQZ1ZreVQ1TVZVNXZ6ZjJTeFJ1VXVMNXZYT0NoaHF1WjZKYkYyRmU2WmZ6NmxielBONXlfSmVWeEQyUUdtZmFTT2d2Mzh3RUlKZGpVV2NyM0NQQTNTQlVOV2kzbU1uUVpsbmtzUmpDYUREcnZteEx6ZEVzYy04azFKSktCSXczeC10SUpHbzRLUGpPVmxncWRwQ0lhZTYzamxRSGplclptTHMtRVJYNzVTdmhCY2RGdzEtUkRpSWd1Rk5xeXBQTjdHMDZ1b1dtTm41YVJUS0U?oc=5",
+      "source": "The Times of India",
+      "sources": [
+        "The Times of India"
+      ],
+      "date": "2026-11-15T10:46:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 8.48
+    },
+    {
+      "id": "23iyra",
+      "title": "Tesla Cybercab for sale: Price, restrictions and delivery",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZmJORXZCWnF3b2ZBYVpSa1ltNS1neVV5cUJYRzNvaC1PQnB4LW81NVZQazloQ2xlM25Ibm15Vk1xaVZQRy1Wc2xKUjIzTE5JdDctbDVXWUtBRUpiNnpxS0tvZm54OWNtb3ItSWt4MmZhdzMzV2RraHlheHBvZ0ZyZEZkWkE3dlJlQlowUk9uQldWN29pa05vZ0NQY0JObjFSZEZvQw?oc=5",
+      "source": "Kursiv Media Узбекистан",
+      "sources": [
+        "Kursiv Media Узбекистан"
+      ],
+      "date": "2026-11-15T10:42:53.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 10.47
+    },
+    {
+      "id": "r2hfwa",
+      "title": "Who will be aboard SpaceX's first Mars-bound starship? Meet Optimus, Elon Musk's humanoid robot",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPS1R5OWRac3RzdHRQMWtsbGFJbVAwTEt4dnlydlRWX2V4anl6RVlxbjZGUTFoN3RoY3FSZjhYTUhfcmlDTXhUd1g5X0tjUDNEUVdna1N2M0Q5amNPeVhSOEJIajJHNlptYlRqeU1XR2piS241OGt4bHZ0d0pqQmdWZ3JqMmhTOGxxaDBlR0tQcm1uSmdwN1VDcVlJM3JUS1ZsYnctM0xqcWR6N0dkby1zalRhd1g2QUpaTHZaNDladGFGWUxxNElCSFRDMzNUUkRMdndTRkwtZFFpbjVTUFlaR0ZTNFFnVE3SAewBQVVfeXFMUENrY3FwcEpXbVAxQ2VDVGZtdmxUZms4T3cyQWszcGNlZG0wZHlfcVVlekE2dnNkQXloZnVyaDdMRGZxdEhoeTMyaTdndWtNRUJPOURhbDdXNnhQbElsbTNRWVVubkRQd2xGNnRiZ0ZhM2R3NThzbm51M3VVLTYzbDNNN1ZOa01YdGZDSU1PeDlLTW56N29xSkpkajFaTnVDQ1pmbjlqc3dhUS1zTy15djg2M19JRFdGRVk1akltOXdjSjNub3hLSmROb3lRczRoN1ZMZEc2Q0ZWZWhfcWFWdGhScVZLYlFDLWpyM2s?oc=5",
+      "source": "Moneycontrol.com",
+      "sources": [
+        "Moneycontrol.com"
+      ],
+      "date": "2026-11-15T10:39:02.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "robotics",
+      "score": 11.45
+    },
+    {
+      "id": "mctfgk",
+      "title": "Qatar Executive Equips Gulfstream G700 and G650ER Fleet With Starlink Wi-Fi - News and Statistics",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRkZoRUZlM2U4eU16a0ZhVWJ4SWNDTF9jYUxSclNoTVItWS1MRDNZbE9TRGZyVXhyR3JrcWYyLU9TMHl4czNibS02ZTBSSWd6ejZVTVZETVZGbkRyTloxNlFSeW9DS05NdVlrYWZDY3NtQzJRYmwzV0hoMjRsMHpqcnpFN1hsdmxuN1lJR3pCM2ozUjRUNzZab1N5dGx2WVdJVzdvZGR4WlRGdDVf?oc=5",
+      "source": "IndexBox",
+      "sources": [
+        "IndexBox"
+      ],
+      "date": "2026-11-15T10:11:33.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 8.37
+    },
+    {
+      "id": "by8fxn",
+      "title": "SpaceX Starship returning from orbit caught by launch pad in dramatic first",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVkNCSmk0elczMXA0TTNRWExwYncxQ1RlYUlaYzkxSFp6NEl5U3dvZXFLSm5vVkZCdDNQMkFQR1NmeU9mN0xoa3dVOFdGdC1jRHFMZ1ZvdVN0RUx5S3U3S2kxN0NfdGRnN3M4d1ZjbVpCMFRyTjBkakgwaFdyUmpDUkVZb2FISmtBSElXZVN2LS0?oc=5",
+      "source": "Yahoo",
+      "sources": [
+        "Yahoo"
+      ],
+      "date": "2026-11-15T10:08:37.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 10.36
+    },
+    {
+      "id": "1c52l7p",
+      "title": "Video. Watch: SpaceX catches Starship in midair on return to launch tower",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVms5RU1feU9qbTBsamJ1MjZ6eExLeHBRY0tiRERJZGtGLWVKWFZ5b29EeXVReGFjR3J5cmEtMnhyQ3pqamVjRjhSenkxTlBfNnFJZU14REkxYTZ2X2VOLVhmR1ZLUnJwYzc0ZFZ4TzlTR3p4ejVpVmw0cUJCcHlVMlB1dFFLZGJhX09acjhmSGR6WnF5SDVoLVdhN2JvaEwwU0VKOXV3RnB4d28?oc=5",
+      "source": "Euronews",
+      "sources": [
+        "Euronews"
+      ],
+      "date": "2026-11-15T10:05:49.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 10.36
+    },
+    {
+      "id": "1pugm6d",
+      "title": "SpaceX Starship Launch Makes History With First Orbital Ship Catch, Despite Booster Failure",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMG16Q3Y3b1hzeS1oUExoUTI4RklnYk1XX0xlSVNKbDdvM3Y2b3VRYnR1djdKR1phdWoxNWI2X25aZ0FEclRtX3MtU2loNWpETGlTUTVsaDJscW53eGVFYk1mdWRZQThsZXBJV0pXNG5uVWxGWExGMS1wNEpMTHRwbWFaNXZYUFRlcnpQTTYzREt1aklEZzZYRg?oc=5",
+      "source": "Aktualita.co",
+      "sources": [
+        "Aktualita.co"
+      ],
+      "date": "2026-11-15T10:00:30.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 10.34
+    },
+    {
+      "id": "2otq30",
+      "title": "Political Roundup: Zelensky, Data Center Moratorium, Iran War Costs and Trump’s Wealth - SpaceX (NASDAQ:S",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQlpnVVA4ZDZDTGVOd09scDJOTFd5ZHhDbjV6SWExWFdEX2FjZmI3UEtKYUhrWVFJWWRIWld1dF9sMWNXUGlUQkt1bG1TUTkza3NXdFNaQ3ZDYnk4akVoNUNYMVZxeWxiT1BjQlRJYXlVSjBJR1RhXzBBenBUUTRRcnJGWjVnWFJXUzg2Z2JLSnhVQ3k1ZXBUTWQyMFI0X3hpd2FwcTlFVHNaNjBzSmk4V05ZUDU2bkhFZWdmb2FEYXZHUQ?oc=5",
+      "source": "Benzinga",
+      "sources": [
+        "Benzinga"
+      ],
+      "date": "2026-11-15T10:00:07.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 8.34
+    },
+    {
+      "id": "1we38mv",
+      "title": "Grok AI Sees a 35% Chance XRP Drops to $0.80, but Still Bets on a $1.05 Year-End",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTHJic3kwNkJNVm9vWWt1RnFCMGVyRHRZMnJ1WEphb2o0ZUUwQk9rV1dXLVQ2Q3N4VUdHbk9yQ1dSVDF6ZUZ5cUloRWNJQ3lpcVhlU3o1aWExaUdybVB6OGt0eTc0RkhrbTBNZkIzbWxzSVJiY1V3WVl0V2dVTW4yWnpibGxWTUVCVnozNHFCWEhYcHF5dGgyTkUwWHFQenlSSzJPZHVvUWJvNTFLNnVZ?oc=5",
+      "source": "CryptoDaily",
+      "sources": [
+        "CryptoDaily"
+      ],
+      "date": "2026-11-15T10:00:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 8.34
+    },
+    {
+      "id": "1neif53",
+      "title": "Starship capture thrills space fans! And SpaceX makes spaceflight history (again)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWTZ2cTlhM1gtMW1kcmVwOGt3Z2oxU2Rma3lXcV9ibFhFQ0d1a0hDU0xpMGFDNUhqZTBpdlBLLTI3WTdsY3RLb0xxRTBBdFpLYU1TNkxyLUZIcFZuekZ0YU9TUWJIMkZXZTk4cTljZ0owb2MwNEZmV0t1R2w1UlR1UkhMSjM5UlkzU2tvWUpOdkZuTENYV1dN?oc=5",
+      "source": "EarthSky",
+      "sources": [
+        "EarthSky"
+      ],
+      "date": "2026-11-15T09:59:06.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 8.34
+    },
+    {
+      "id": "e74vlm",
+      "title": "Samsung Foundry to Make Starlink Satellite Chips in Texas",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZEQ2eFlDVWFUaTlhWFFXdEpqQTV3ejJoY2Y0LURGZG1Nck1DUTBIdjhWeXh4NklEc3BvZElwUzg5Z1NtbV9taGhWdWFCWU1xRHQ1NXZhWTZnYnVFU19aYTkzYm9NUnhCbW1qeG5sZFVZTi02X211dzhwVjhJTG8ydldEeUdrZkRUbERrUkJqQnRBbWxOcmFYaS1nOGRzMURzRUE?oc=5",
+      "source": "Seoul Economic Daily",
+      "sources": [
+        "Seoul Economic Daily",
+        "BigGo Finance"
+      ],
+      "date": "2026-11-15T09:55:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 10.32
+    },
+    {
+      "id": "130k20i",
+      "title": "SpaceX's Starship successfully returned from orbit to the landing pad",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRXBiUEZScHlDel9wbHNQN0cwZDVmSm9fNl84QWNEcEh6VFZTSnF0WkJuZmpKMjlyVlg3Y2RUeW14Vm8tYXdKeGdlVGg5R0VyODMxRDQ2M2pvR1pPaF9YMEpldmVrSEg0WU4zbllrMWp1RTJ4MzYyVjYwSWZ4dE1LaG53N3lXZEtWY19Wb0RDYnRxSFZZTkHSAZQBQVVfeXFMT0NhUXl5azVpTGZETExIQWIwcmg1cW13WFY3X2phTUE0SDZ6V092Y0YxQS1sN2ctUHNPeGlDY2dkanFwVUxmM1dwRG1LWmV3Vm9Mbi1YSzdOZUFPbS1tVEhPb1RkaGZJWlNvWDlxaEFQV25ndEt3bzBaUmNUTmZ2RTZlTTh2b1ptbzNDZnhrN2cyazFOcw?oc=5",
+      "source": "Українські Національні Новини (УНН)",
+      "sources": [
+        "Українські Національні Новини (УНН)"
+      ],
+      "date": "2026-11-15T09:48:03.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 10.3
+    },
+    {
+      "id": "1ogen07",
+      "title": "Next Falcon 9 Launch and the Missions Behind Its Launch Cadence",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01bXFoRGpOTFA0dlQ1UGY3anFCcVhUWDBnYTdubk1JVWJhM3BXTE1yRExFcHV6eFVnR1lacWNiemV1UHMyamxjNVZZRTVTZVo1OFFvSDhGYzZRN3ZmUmhscUZoNG1wQnR4?oc=5",
+      "source": "KeepTrack",
+      "sources": [
+        "KeepTrack"
+      ],
+      "date": "2026-11-15T09:38:24.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 10.28
+    },
+    {
+      "id": "1tdg15k",
+      "title": "SpaceX makes rocketry history by recapturing massive reusable rocketship",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNekdEUzQxSnp2UC1QTzFoZjBKQUxveFhzR2FPcXIxcjA3aEtHWTZtNXJWaU1kVmNzSG1lZnVfOW1DdXVWT25oUWRJZHhlSm1leWZzbTNIQUlqYXNWYzIyRHl0Mk1GYmpNRWJ6eWZZdHd2RG9EdXNzaF85VmdIbzlZTHRqRmJlaFVuN3pWTHFPZWtRZjNWdEhicmFHSkhmek9WU0E?oc=5",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "date": "2026-11-15T09:32:47.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 8.26
+    },
+    {
+      "id": "159nmp5",
+      "title": "Starship Flight 15 Reaches Orbit, Misses Booster Catch",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45VWJrTjY3VW9tUGd1bDJCU08xb1VpZ0ZvNjl6dXZWZnhWMmE2YkN0N2tadmo0MUFvM0sxdWEzbDBaT19hSUhDRXloRFZjWV9QNUtlanFOak5CQ3VFREdQdnNvS1M3TmlNd09aMWNNVGszZw?oc=5",
+      "source": "KeepTrack",
+      "sources": [
+        "KeepTrack"
+      ],
+      "date": "2026-11-15T09:23:12.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 10.23
+    },
+    {
+      "id": "fvbz12",
+      "title": "The Tesla Cybercab sounds like the ultimate subscription trap",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON0dhbVV2a0JycEpKeXgtNGgxQmFWRVByVUNZRlVfN1ZWNnpxd3ZrdWY1V1VHNC1MT0MxUlp2R1JWeG1Lb2J1alJ5NWxVeEZRZFplWXl4RFBXZkxMSmxfczluQ1dzbXpzUXphbVUxbmM4aDBVSHUyS3BBTTlRQkt2QmVJWnd6REdwTlVqdDRjZnF4R0tMNXg3ZGxUVQ?oc=5",
+      "source": "Creative Bloq",
+      "sources": [
+        "Creative Bloq"
+      ],
+      "date": "2026-11-15T09:00:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 8.17
+    },
+    {
+      "id": "d6rs85",
+      "title": "Hands-on with the Tesla Cybercab in Melbourne, a preview of the future with no steering wheel, pedals, or mirrors",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSVI5SDgyUTJFODVlR1h6VHMwVU05SmUzVkJNcUt5THJuRFFFcF9EbFo1UFZDc2ZLRkl3QXU3cGtzVm5LYXVXYnJ3ZERpQkNpYlVEVlRDbFFVaTAxLWJfdGNkUk9mU3c5ajl2aHVNNUdjVnJLckcwVWl0UV8wb3hGMVllSF96N1hXOHhQWExJUnlYZEpaU0Y1MUlNRjFVLUdCQ2RFWDBMWXFwa0VlQk5oSzBjdGFxNi1IVU9kdXloZlpmR1VwR0x6WVplZTlidw?oc=5",
+      "source": "tech AU",
+      "sources": [
+        "tech AU"
+      ],
+      "date": "2026-11-15T08:21:29.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 8.06
+    },
+    {
+      "id": "v9y7h0",
+      "title": "Tesla offers Cybercab to private customers for $29,990, plus $299 per month for autonomous driving",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYnd3MmJ6ZlJJQ1hiQmY0WF80NS00TGtPeVdGRXdtRUZGSnBxazdNUVo1ZWRoemwtQnJVR1hFWnR5SnFsek5MdHItNDlpcDN0WGdQeTg4WFB3cVdNYVV6S291b2FGUllTUnBod1FvRjYzeGIzY0xvT2pZV2l5NFRtTzBLeTNzVmJiVzJtZzVUVXJjdw?oc=5",
+      "source": "Informat.ro",
+      "sources": [
+        "Informat.ro"
+      ],
+      "date": "2026-11-15T08:14:41.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 8.04
+    },
+    {
+      "id": "118pnfo",
+      "title": "Cybercab Delivery: December Window, 0 Wider Dates",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZlFTeVhVVHBWbllWUUlfQk1KS1ZKWUpuMEQ3VzVoTnowNVBSX0k1RTFnZnF1YUN0emJ2ZkhtbVhocGRBczZIZEJmN3l4SUpoX1hTa3RjWWthYW16WERBc2VsU2U4T1d5SEpoNWlPOHFoWTdSSDRFcXJNVU1qMnVFY0hfYjNFZUhQck45REszVThJZjgxaEZ3?oc=5",
+      "source": "shattered.io",
+      "sources": [
+        "shattered.io"
+      ],
+      "date": "2026-11-15T08:04:24.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 10.01
+    },
+    {
+      "id": "po327z",
+      "title": "Tesla Robotaxi: 5 Details That Matter Right Now",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOWUwTldvMGEtc01XeFhTMWNiaW1DLS01MU9laXEzNWlfdGttZlNXa21LbERkclRGTkpBeTljQ3dDaXhXZFRWMEZtRnJwSEdKZmM1Wks4NnF0cUJpTVZKRFVuSDYtYXVCc2x5U1lNWndGMU1UN0Iyc0N0M3BIanExQWFVRE14Q1hM?oc=5",
+      "source": "BASENOR - Tesla Accessories",
+      "sources": [
+        "BASENOR - Tesla Accessories"
+      ],
+      "date": "2026-11-15T08:03:56.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 8.01
+    },
+    {
+      "id": "ix2zup",
+      "title": "Key facts: Tesla Merger Talks; $29,990 Cybercab Offer; S&P 500 Impact",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZlZNMUZoTUszUmkwQkNtcC1XVkVndklQbHhKR01hMm12cy05Wmo5TUx1V0NYSThwMVZzNmJfNkJuUFJwZjh6X1RqLVZEc3JYcXlUaFRVX0V2aGsyd0s1eVRMNlRaUWt5QjBCclR0WVhzRUk5alVhbHo3ek1fS3F1RlY4Z2hJU2tPYURXYjhPZGVoTnFDY3d2Q2lNdnVnNi14aFFGTzJUOWVKaWJWRlEyVzhad0dUUFVIQVJsSzJkb0w3MFVEbnc?oc=5",
+      "source": "TradingView",
+      "sources": [
+        "TradingView"
+      ],
+      "date": "2026-11-15T08:00:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 10
+    },
+    {
+      "id": "cpikps",
+      "title": "Tesla sells the Cybercab privately, but keeps control of the car",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NY0taZTJ0QklMRmUxRmIxWTU0NU11X0JLYVhjX3RnTWt0bm9YbVFQMnYxc2FaVjRNeVhBNUpfTHpGR0tnRzJacWN2aGd6R0I4MXAzUUQycDZNZzBqVDhnNE1qdnVOWFBDS0phVUI0NmJwRVZ0djdORw?oc=5",
+      "source": "AutoNext.co",
+      "sources": [
+        "AutoNext.co"
+      ],
+      "date": "2026-11-15T07:48:52.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 7.97
+    },
+    {
+      "id": "170e7e",
+      "title": "How SpaceX Succeeded With Reusable Starship adn More SpaceX Starship 42 Catch Photos",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaWVqRGZ0TjNQMHdTeEk1VDFWSnd5bXJoTjgyMXN0N3JXamV0QXN5XzBBYVFuQmMwM19PeldiOFZGX2owcWw2U1BzT1ZKQ2Rsc1U1enktdVk1eHRCOUdfTnBETzF3alp6dF8zWFNRR1FNZjd2NktEdWo5YXZ1ekhoX2FHYzRFUQ?oc=5",
+      "source": "NextBigFuture.com",
+      "sources": [
+        "NextBigFuture.com"
+      ],
+      "date": "2026-11-15T07:33:50.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 9.92
+    },
+    {
+      "id": "c97vw6",
+      "title": "Tesla Cybercab — Driverless Robotaxi Available for Personal Purchase at $29,990",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96QXJDblp4di1zdko0SDdYOV80ZENpbHdCTFp1ZFllVTlzMU5tNHU2bkFqOFhMOGtEV0dORnBzbGpsUzNJTjF1WlZidXFjUUJONTB6dzBUQkJuc2ZWOEVpcUwtb2NySEhZM1NlVWRhaG82VkE?oc=5",
+      "source": "The Korea Daily",
+      "sources": [
+        "The Korea Daily"
+      ],
+      "date": "2026-11-15T07:11:59.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 7.86
+    },
+    {
+      "id": "1gexlu6",
+      "title": "Tesla's Steering-Wheel-Free Cybercab Now Available to U.S. Buyers",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON3Mtd1hTRzdJRnE3bm1vc1BBQmVKSTZ3NU5nUmd3bnItWTBfMUUzSXBKQmRxZkhXZVNCRmphdFUyZzR3WFlZMnNqc1c0NFMwRUlWUWdpeEtNRDl6R0tKNUYzdWk1OHJQTzZrSDNycDZGLTU3c0lhVzhzcGF6ZDFnWnNyS1dCYnEz?oc=5",
+      "source": "조선일보",
+      "sources": [
+        "조선일보"
+      ],
+      "date": "2026-11-15T06:45:47.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 7.79
+    },
+    {
+      "id": "jjref4",
+      "title": "SpaceX Starship Successfully Lands On Launch Site: 10 Historic Firsts That Changed Space Travel And What's Next",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNY3FLMDBEM0NiS2ZqYlphYmFwUm16ald3UFNDbmNsN2JWaWU3TXg3RmtEaWVRanEzTTBaYzRhLUVlQW5kRXM0OEF4bUlGdVg2dk1sYmI4X1B6NzM3TGFZXzJKVjhab1h4aFdKTXNmdlVESkt1MTV1OGtNLWJlbU5qR255ZDB2RE45QUVQV29mZE1VTEJTUm9XYW9JX2gzTmRFc3M4QWQwbVZwUWwxNTI0OF84aWtoRlRGWF9vemQ4TEE0cEZPX2JMTm9SVGFlMjRkU3R5MVdNdm9zcDRGd29DbThnU0hGUdIB7gFBVV95cUxOaUlsWmtxdW13Nk5BRDhUS1hMLWNyMVhfd2dvWWJYOXlOVXNIR3NHVTBJaVpwWlowZy1QY1l6RnA0ZHlCa3l5N1BwSGFrWHozRTFaUWFsdDVmQzdfeDhfb3BOVEw0MHR2YlRhZmFleTNKSHE2X24yTG9MeFZTd1FkVXVNRzFoc1BlMk9ZVWhsSGpDMVo2X0NuVGNIaXlyRnVycU9OYUtVY1lobmRueUhLTHBHM2lHMEpCZGI1U05WR2VQd195SmFVbzRoQTBUN29pcW05ODVsLWVlbFVHRVgwR3lyTldMWUl6a3RKZVp3?oc=5",
+      "source": "NDTV Profit",
+      "sources": [
+        "NDTV Profit"
+      ],
+      "date": "2026-11-15T06:39:13.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 9.78
+    },
+    {
+      "id": "kmr5t8",
+      "title": "New dispute between Kyiv and SpaceX over Starlink disruptions on the battlefronts",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQamZtZFVuaVFhVW10Z1BBZkpjT1BEUjRrQnRJUFQxUXdETV9tbEQ4RVNsTHRxRkRoMlpHZzE4YzFwUk1XUV95VFBYVkZ3UHRGMzlfWlVhNVZOLUNZRUhGUERJQW1yb194VUlfVVplU3MwbkdReHNHR1oxVm4xX0xZOUR3aEJvaUZacnBPdTR1ZlJMWTFKbUxwcUJOV3ZtUEdEOEozbkdaRzR3SGlSWjQtZTFpYmt1TTBHeGJKb3Y0TDgxdnBkNWhIVE1TMDVMajU0dmRJ?oc=5",
+      "source": "صوت الإمارات",
+      "sources": [
+        "صوت الإمارات"
+      ],
+      "date": "2026-11-15T06:28:43.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 7.75
+    },
+    {
+      "id": "1djvg6e",
+      "title": "SpaceX Starship Catch Draws Praise From Musk, NASA Chief, Hegseth and Political Leaders - SpaceX (NASDAQ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTV9oa3cwMjB3MEQ3eHBDMDhYX3RXTFYzblJOZ1lDMjJ4UHJIbWl6RHdjV0ZHMGNYVktRWnIzOU4tU2p0UFNpZEczUzBCRjdaSWlnaVhqSExVc1JsWTZjWk5yZXU4dExRc2VLQzRIQUJMQ1ZycHZpUTRZMWExN1FEbGdBSGpWdlNydjdkMnFmZjBkeDV3dGZoZzFVRURIRkE4MUlvZTFGWVQzSDNG?oc=5",
+      "source": "Benzinga",
+      "sources": [
+        "Benzinga"
+      ],
+      "date": "2026-11-15T06:14:59.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 10.71
+    },
+    {
+      "id": "10g92j1",
+      "title": "Grok Bot: 5 Real-World Tasks It Can Handle Beyond Chat",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zcTY4RzFObkZlUHFIa3dYeEx5UFJSYk90NWZWaUlQVktac1o1SjhLUFpTYlZWYmFtOU5DWjlGTjVhOGE0ZmZiREtaUkp2WHE3R1lhcGNyWk1vRjhQdlJidkViUU5Ocm83VDlwWDhjMTV6MS1WTS11SG5uSEdpQQ?oc=5",
+      "source": "thedigitalbriefnews.com",
+      "sources": [
+        "thedigitalbriefnews.com"
+      ],
+      "date": "2026-11-15T06:05:30.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 7.69
+    },
+    {
+      "id": "1396ye4",
+      "title": "Tesla opens Cybercab sales to private buyers: No steering wheel or pedals",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSlBTdmktTVpUSmlXZmgtdHlPYkEwc05ZckVOeThwUDhnUzlMOFlGSldKWFFaXzdDR2VPMG5sS2I1aVA1dWY0cXE0YWNBOFRIemhoQjY5UDRpN0VUOUlqWDVxRmI4NFdHZ2QtWDVZRjliMkg4blRBTFVsTjY3TjZ2c1c4QmFsYVE3UTl1OVNPY3ZlTDQwdGo4SURTRkZhcjI5QS1LM0M0dC1pOHRr?oc=5",
+      "source": "Newswire",
+      "sources": [
+        "Newswire"
+      ],
+      "date": "2026-11-15T05:23:03.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 7.58
+    },
+    {
+      "id": "1btncih",
+      "title": "SpaceX successfully recovers Starship upper stage in world first",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR09yaWR4LWI1cVZTMEFqYmhETWpOem91UWlXRzZxUFpGai0zck1GQmZGcV9GSV8wdmdHelh1NE5sZFJidjloWlZxYkxUMG4yOTlQaHFOZkR5UUdreTFNMWtZVmhMeDNDZ3FtN0ZpYy1SMmJ0SEMyLU5JdGdac1hxNTVaZjlKTGh3dFdiNWk4WjhMalZQSmZMN1pTeUtuMlhr0gGmAUFVX3lxTE9oVnFpOEh5UmNpYXhSOWEzZ0F3LXJ5R3A5aFhfd1lrNENsQmY0dDd4aEswYTgwSllPUTVCdUdBM2RTZi1XUnI4bzhwVTMweXNCX1JicktodkZCS1Q4RlFidWFsSDVmMDZTQ0kxSTVXajVjVDdQdDhjeVYtdXdmUk1XYUJDRVNaNkdWRElVV2V2QVAwdVFrNEVsT3RKTXprNDB4Q2RCdmc?oc=5",
+      "source": "AeroTime",
+      "sources": [
+        "AeroTime",
+        "KFI AM 640"
+      ],
+      "date": "2026-11-15T04:54:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 11.5
+    },
+    {
+      "id": "1b2cp1a",
+      "title": "Google Could Buy Uber to Win the Robotaxi Wars, Reuters Columnist Argues",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORnl3dlhUNEpWSVczMlVtSDhhOU92Szk2b1ZEWHJ3UW1haEtvU01xSTVnbnJMemlfY1Y4b1AzUVVleHRmSTY1ZUE5YlpyeklLMTRXS1JicE1IaUdOcnJ3SllDREVLYkkwck92SlVCRV9JX1VHRXhoQ2QxSF9yR3BmaFR3Ny1iSG5aYkNUaG4yWQ?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "date": "2026-11-15T04:42:50.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 8.97
+    },
+    {
+      "id": "1wk7seh",
+      "title": "Tesla Cybercab Now Orderable for Personal Use: $29,990 Price, $299 Monthly Subscription - News and Statistics",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS25QbFhCZEJ1UTNhcC1ENFgyOXBqenBnbGpCcDJscHpwZEFuaEhoNVV5VS1UaTZJOUtzenBaMjY3UTJ1YXRVNWRDbXRKMHU3bVpucGtyTW1NZG9Qbk16SFhlVkU3WTNFS1JXajJ5ZWNJajNVTVJOU3J1U0hmR3Q4eFVMVWFWUHdDMlJselZYZ1UwRWdjVjhnbl9yUXZkanJQc2taM2UwZFphQkYtVk9RWGhMZGFMdDBKMWw4bXRwVFl4RU0?oc=5",
+      "source": "IndexBox",
+      "sources": [
+        "IndexBox"
+      ],
+      "date": "2026-11-15T04:00:41.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 7.37
+    },
+    {
+      "id": "1741atf",
+      "title": "Tesla is inviting select customers to buy a Cybercab for personal use at $29,990 plus a $299-a-month autonomy subscription, with first deliveries listed for Austin and no steering wheel or pedals in the car",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VZDlCYk5HZXJSU0N5NDRWam9SR3hpU2pFZC02bGJuekdfcDd2SzN6R0JWaTBKTEVxSDhiWDlUb3V6a3JXM2xHY0FHOVBja0Q5d182S1YwUW1JWXhLVk5Td213cy1CVWlCQ0FfXzgwaWpKQQ?oc=5",
+      "source": "Make Tech Easier",
+      "sources": [
+        "Make Tech Easier"
+      ],
+      "date": "2026-11-15T03:29:18.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 9.29
+    },
+    {
+      "id": "2hnkhw",
+      "title": "Five things to know about Starlink Mini before buying",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KQmNnc2pZWnJSMzZ2TzgyNFIyLXNGTUJod0RucTMtUFlGVjBkUlRLQ2RsQnZjaXU3UF9yZ2FNSzFPajk4Rm5NQWZIMm1KVkE3QXV6QWZJcXFRWWpacVNtUWR0ekpudUcxeHc?oc=5",
+      "source": "RVtravel",
+      "sources": [
+        "RVtravel"
+      ],
+      "date": "2026-11-15T02:49:28.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 7.19
+    },
+    {
+      "id": "16jqecz",
+      "title": "Cybercab Ownership: $1,000 Deposit, $299 Plan, Geofence",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1h4eU1aRTREdjlQQUQxSmRJQ0NFRzZCbHRWZzNPaWMzUFV5RFZvZDI2Q1pzRUxyYWVYc3E2MmJ6d3hhN0hseV8zdDhoZ25SZ3lGRkJJSXBEaHpKMjJJelhnSUhhckJ6VXZ2N0JlYXRiMFEwbTVTMkgzSnlZWVpFUjNZd1lIaGNLTFgtQmZxVTJCei1HZ3p5UW42NXpqb3NkdzNQanlBS08?oc=5",
+      "source": "shattered.io",
+      "sources": [
+        "shattered.io"
+      ],
+      "date": "2026-11-15T02:45:25.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 7.18
+    },
+    {
+      "id": "v4fwmy",
+      "title": "Zelenskyy Criticizes Starlink Speed Limits Over Ukraine Drone Defense Concerns - SpaceX (NASDAQ:SPCX)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdEROUVR2QU1CVk5FNldtOEV2UEdXWThZUkpIeDNTZ2VSOWg4SV8waEszdHRJSlhJUmtSdTJualBqclJCNE5mLW9TenJJQkZNUjM2dGxCR1FZNDlsbndXQVpsM0NNOTlLczVSWjlLcl9vRHZwSXVVUnc2T0pRWkFlclhYQzdldWJMQ1ZIdnFsN01yWXJUaVBCYkNqdnBPVUdzcU9LQ0RjWjFxYmJ3NXFFSXF3?oc=5",
+      "source": "Benzinga",
+      "sources": [
+        "Benzinga"
+      ],
+      "date": "2026-11-15T02:10:21.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 7.1
+    },
+    {
+      "id": "l6pjbj",
+      "title": "Setback for SpaceX reusable rocket system despite successful launch",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdC1nQTZfeS1mN3Bkd0g4MlpYMGdhNW0wTTdDWjQzbWJ4ODF3ZF9hMFJLV2JSUWNiZ3ZzN2Z4YVR3eTJnNGVUX1pYeG9sN3NqN2FRcDNTdWx5Wkt2SFZmQWR1ODdMTGw1ZTM3VDJWTU55MHpSUFJ6NU8zZ3BoTVRXaTl1d3NZRGhkYkp2a0N2WVluVTTSAZMBQVVfeXFMUDcySjViSFFIUW5hd1NFNGtnN1VlNHVfZFVENURud3ZBbEhLVTQ2cGpmVy1iNGRLd2Fyb1k5NWtGMjkyeFdGMXBFa2xYeDdIdjhyVFJpZzNJaVIxaEN0ejlqN2dvTXF3QUVPMnRxcmRuRmxzeWI3VGs0U1lvdllySXh3aTN0SHZCdHM2YVZmOURyTG5z?oc=5",
+      "source": "DW.com",
+      "sources": [
+        "DW.com"
+      ],
+      "date": "2026-11-15T01:57:29.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 9.07
+    },
     {
       "id": "5tpwov",
       "title": "Tesla makes major Cybercab announcement as driverless vehicle goes on sale",
@@ -14,7 +1762,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.9
+      "score": 7.05
     },
     {
       "id": "102cboy",
@@ -29,7 +1777,23 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.86
+      "score": 9.03
+    },
+    {
+      "id": "6ijw8f",
+      "title": "SpaceX’s Starship nails a smooth return with historic catch",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOekVhZ2JMdGFrNnFIYWJzZ2RvQXJHRDBUS1RUSFg2UEJHaklrbTlmbVdSNVFGRnBuXzFuSXZCdFloNDJLMmJILVhlbDNOQ1RrSkVqRFY3dnlCR3kxQUE2X1k4SWhWNnMyaHIxNFZ0ZEsyYmJzaHpPUjBYakp4YmZ2bjNkT3R6ejEwT3ZaQnZQd3dYOFNqcFpfeC1BdEFLdWZQZHRONGdVTWl3YUE10gGyAUFVX3lxTE1tS0V5ekxXYjFVd2JZMk5GM3BzOGlSVmU5V2lCQldVQWRiM2p5Q2JQY2h0cmV3OURWZzB6MWZpSUliWmhuOGJCSmdWOEpCYVVCWUgtWC02VHVNYUNEaTVNQ1J5UDdZTlFpNW10WU5hRHZXbTFnUjQ3dk9lNUZrbEY0Mml5bEtlWjQ3WklpcGttNDJEb0VoVlBzYTJBcnNPbmN4c2JaV0VDRV9sRGFKZVFvV1E?oc=5",
+      "source": "Al Jazeera",
+      "sources": [
+        "Al Jazeera",
+        "WKYC"
+      ],
+      "date": "2026-11-15T01:32:33.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 12.51
     },
     {
       "id": "1x0orfr",
@@ -44,37 +1808,22 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.76
+      "score": 8.98
     },
     {
-      "id": "1ssju2i",
-      "title": "SpaceX Successfully Catches the Starship Upper Stage Returning From a Record Orbital Flight",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcFBUbDh0c0xaOXluMjlDVG5RV1c3aElTeGtuQzBsX3YzT3NsYmV4NWtINzVoMU84MEdRM01JTTA2N3RzLWhyd0lnWUhTazREb011c0xJQV9xeEZYYllEbzJWYjcxTzJHYTNVcmk3OGxjWjRoRENfdUJlekRPVEQ5eEV4aw?oc=5",
-      "source": "TechEBlog -",
+      "id": "135lm4r",
+      "title": "Watch: SpaceX rocket returns from orbit, caught midair by launch arms",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZHhoMlFjcDBONGhudTFWLXlqNVNiMHY5X2hRV1l5djZab0sweGNWV2xLc1lhdzUyS3hST2xJemVOM3VJMXNCVmIySG9hWi1tWXVfRWxDYUY4RDcxRVM0OVptZndwaXhJVTdFV0Zkei1zZUxIVGdONno3UERDREQwYlRucC04WnVvZVBodUowU0F4VHprRUQ1akFTcXNGRXRxR2ttX1ZR?oc=5",
+      "source": "1News",
       "sources": [
-        "TechEBlog -"
+        "1News"
       ],
-      "date": "2026-11-15T01:16:34.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
+      "date": "2026-11-15T01:02:50.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.75
-    },
-    {
-      "id": "nabuub",
-      "title": "Tesla opens $29,990 Cybercab orders, but owners face $299 monthly fee to drive",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZVpSNmZncVVBVUlQR1JpNjNuby1vUG9pQXRLakNjYjFjR20xaXRuQlUxZ3BLcGxEVV9XcmZtU3FsMnlqc0djZG14UExxalZGWUhDd2p4TjNqV3BqeDVlU0VZY2taV25LRUg5d1R6N0dUX2JHT2I1LTZpTm80ZWk1dmRPSXZTOXN1SDRkMl9XSG42bENHWUlZLVluaE1XVkFORHhQZmZ0V0JCOXdWb1dLSUJFclhCN2NuUXlDbw?oc=5",
-      "source": "Notebookcheck",
-      "sources": [
-        "Notebookcheck"
-      ],
-      "date": "2026-11-15T01:07:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 11.71
+      "score": 8.94
     },
     {
       "id": "vrm9e6",
@@ -89,7 +1838,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.61
+      "score": 8.9
     },
     {
       "id": "rhsgwm",
@@ -104,7 +1853,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 16.59
+      "score": 11.89
     },
     {
       "id": "9jv2ap",
@@ -119,37 +1868,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 14.59
-    },
-    {
-      "id": "ynn213",
-      "title": "SpaceX Makes History With Successful Rocket Catch in Texas",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbVlRV21FMHRaYk1jOFJ1M2lId2dOaVgyb292em1yUFlLcjJiQnlEOHhzVHVFZzh4TjczMm5aeURpYTZid3FFdS1mQURxRDhGRlVxQWs2UVZ2NEhBS1dvaTdVbDMySTVLeEx3dDhSMEZpWHluWHJtak1kVWFuWHdzTw?oc=5",
-      "source": "The New York Times",
-      "sources": [
-        "The New York Times"
-      ],
-      "date": "2026-11-15T00:36:32.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 16.58
-    },
-    {
-      "id": "1ecmwm2",
-      "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZEdoRGR6OUJ5NkF1MVNUc1M0Zmdtd0xFTWhuREp5ZWNnSnVGa0RpUGp4LTJUN3lCTFJpTkNrakxzUm9lVUdWQktBV1RpSzJhUVMwLTB5b1ZQbXRRUVlodEp5VFBqSjZoZmtrT2pZYmczTjlFSE5qODNrOURnNnZzbzVrS3RDWFktQkRmMVpvOHUwSy11QmFkREdtaEZlTkJfVmFTUGF0dk9nR1ZDMzVzR25oTTZtWDVmX2N1R1N5bDdhNWRhWGc?oc=5",
-      "source": "MarketWatch",
-      "sources": [
-        "MarketWatch"
-      ],
-      "date": "2026-11-15T00:33:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 15.06
+      "score": 9.89
     },
     {
       "id": "1rrinfc",
@@ -164,7 +1883,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 11.51
+      "score": 6.85
     },
     {
       "id": "vq3bj5",
@@ -179,7 +1898,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 11.51
+      "score": 6.85
     },
     {
       "id": "o02u9m",
@@ -194,22 +1913,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 12.98
-    },
-    {
-      "id": "apbucu",
-      "title": "Highlights From the Starship Landing",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BT093OUoycHhZN0JnemhHbHlvQWZQNWVoX1NKcUZ6WThOcm1FWVNkQVlGSHNua1RtMGIwbE4xX2NtY3BJYUh1WVdqdDNvcG53WWxZM2VVal9MYzA5VG1hUkVZMTNyVDd0MmFBRlQ2aVF2c2gwVmxZU1Nn?oc=5",
-      "source": "The New York Times",
-      "sources": [
-        "The New York Times"
-      ],
-      "date": "2026-11-15T00:15:24.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 16.48
+      "score": 8.34
     },
     {
       "id": "1bcsdao",
@@ -224,7 +1928,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 13.45
+      "score": 8.82
     },
     {
       "id": "1f6ifb8",
@@ -239,7 +1943,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.34
+      "score": 8.76
     },
     {
       "id": "reie3r",
@@ -254,23 +1958,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.33
-    },
-    {
-      "id": "cly67a",
-      "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ3pDcjZESTJxUDB0bndxZWtKSUhKa3praWV6SFFuT2htZEhlWmJuZGVkME9obTRWUTc4cW5xLXpzQUw5bldDazlSMXljLXh0Y1J3LWNhTHBkSXg1bjlqQlhTZ0MzcTFDUXc2cE9FUGRjT0Y2VUZ0ZVJLOXB4R3ZWemRMNHQ4Y29feTFXMnY2RmFqQ3B5WnRVRnlfMXhXTjNQdjEyaC1B?oc=5",
-      "source": "Al Jazeera",
-      "sources": [
-        "Al Jazeera",
-        "Salina Post"
-      ],
-      "date": "2026-11-14T23:32:29.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 16.8
+      "score": 8.76
     },
     {
       "id": "bz6wmc",
@@ -286,7 +1974,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 15.27
+      "score": 10.73
     },
     {
       "id": "18c945w",
@@ -301,7 +1989,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 11.26
+      "score": 6.73
     },
     {
       "id": "1m1ebsr",
@@ -316,7 +2004,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 12.25
+      "score": 7.72
     },
     {
       "id": "1szz6hl",
@@ -331,7 +2019,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.25
+      "score": 6.72
     },
     {
       "id": "1pfygpr",
@@ -346,7 +2034,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.19
+      "score": 8.69
     },
     {
       "id": "1to5j7p",
@@ -354,14 +2042,15 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS3Vpa01ONGhSQ0dUdTRTVlJwOURkb3BTRmpFRmZEN3pObE1kdnp4RnJ1UDdwWTBmd0k3T0Z1cHM4b3VFOFFzZk1XdVBPSGFnS19NR2g1WkRqTjNCeDRVSTA3NzNiNW1tUkQtbG9QY0ltX05MSnFkbkdHV0hKNENOd3Znc3lWcklHbkZIMThnOHdNLWlQRDVfdEpNTnVQM0Z3TkJpendkYU1PTUdpbnlYZ1c1QnpXT2pRcDNVWHZhcGJ3QjZ0b0x6ZDFpQU80dVk?oc=5",
       "source": "The National Desk",
       "sources": [
-        "The National Desk"
+        "The National Desk",
+        "Houston Chronicle"
       ],
       "date": "2026-11-14T23:06:29.000Z",
       "firstSeen": "2026-11-15T02:10:17.172Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.18
+      "score": 10.68
     },
     {
       "id": "19wwj3z",
@@ -379,7 +2068,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 20.68
+      "score": 16.18
     },
     {
       "id": "vpcnuw",
@@ -390,29 +2079,45 @@
         "The Japan Times",
         "Le Monde.fr",
         "AFP.com",
-        "NDTV"
+        "NDTV",
+        "Taipei Times"
       ],
       "date": "2026-11-14T23:04:20.000Z",
       "firstSeen": "2026-11-15T02:10:17.172Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 19.18
+      "score": 16.68
     },
     {
-      "id": "1htu6m9",
-      "title": "SpaceX carries out first-ever spaceship capture",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVG5kQzFndkNIZlhDbmNHS05ZU3FRbjBFbHVOSzkzaDgtQzN5Yl9CWXZpNHpyM0xBZHV3SFdBMGpqZVlCQjhsVjU4T3VhMG1Eakd5T0p2MEotbWt6eng3TVV3bmFhUjlldmpWY1owOUxNa20tRER3N0ZpaGRPbmVBU09odDBPMDjSAYcBQVVfeXFMTWZZR0JnSHpMdGpsNzhDR3dlM1UyZHZHenVLODBlWFpHelN3dWZ4ZFc3QjI0cjhMdzBSNzRCdkhkZVNOVjlCUHV4TjM4dHlodTlLWFRUTEp0VTBDN0hXWjhxMTc0dloxakNFZnRZMzBESFhSN0lERFBZMGFSdVFZallsRUVzRjlF?oc=5",
-      "source": "DW.com",
+      "id": "18eyfi7",
+      "title": "SpaceX Catches Starship After Early Setback",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc0h5Z2ZOZ3hGRDU2d0RaMk5ocV84cmVmTXhBOWl2dFgzVWhQN3hTNTVuNGhfcFJJbDJhZnZ3aVJFT1I1SnFSdUZGUW9tNFZrZ1ZkQlpXVXlaNDBqQUh0eWxZVU1jM3hSZ01hNEYwV1R1a3p2N2NJOThfTk9TbUNmUmFkZ2RkeTJMRVB6ZVdqeEhVQ0o1ZVozRmRHYVMydlZCWjBKVS1vTDNpZEtIWHpoVGxlUWc?oc=5",
+      "source": "WSJ",
       "sources": [
-        "DW.com"
+        "WSJ"
       ],
-      "date": "2026-11-14T22:59:57.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
+      "date": "2026-11-14T22:58:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.16
+      "score": 8.67
+    },
+    {
+      "id": "12grmyq",
+      "title": "Pentagon filing says Elon Musk's Grok helped enable 2,000-plus munitions in four days",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNczVnem95QTE1c0xWVFlLMzhJMlppY0prQURNbU9Gb2F1ZDlNSmZmenRrcTdZQy1OWkF0cVlYSERiaXdmOUVORGFjUkJHY2FtRDdQVjBEVXdfM1BSaldiMFlFa24yRFMwMnpOU1NQUHB1amF2OWozUWJNOVJLaWRQNmJJbmY0NHJxZy1ya0hkd1FGZw?oc=5",
+      "source": "Briefs Finance",
+      "sources": [
+        "Briefs Finance"
+      ],
+      "date": "2026-11-14T22:57:47.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 7.67
     },
     {
       "id": "1hvggyu",
@@ -420,14 +2125,15 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLUxwM1o2TnNIdDVPdVFrMlpqUHgydXMxNFd3bjdYZXFVZ0RrdHp6bWNQVHVhUlk3VUMtU0hxSnliVURZc2V4eEIyV1oyeV9xS0NjSWg3Tmt4bVdMUFEtLXc0M0F6ZThCdTJZckd6eC1nQ09FRlBuenNPTmZOOW8xN0xndEEzZWZWWkZudW44Z24?oc=5",
       "source": "The New York Times",
       "sources": [
-        "The New York Times"
+        "The New York Times",
+        "NBC News"
       ],
       "date": "2026-11-14T22:56:48.000Z",
       "firstSeen": "2026-11-15T02:10:17.172Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 14.14
+      "score": 11.66
     },
     {
       "id": "5nh2tm",
@@ -442,7 +2148,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.13
+      "score": 8.66
     },
     {
       "id": "ezya3s",
@@ -457,23 +2163,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.12
-    },
-    {
-      "id": "12n8upl",
-      "title": "Baby, She's Back! SpaceX Catches a Starship From Orbit for First Time",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdTlmVnREemMteS02Tmg0QlJ3Q0Zuc052MW9MeUIyTEhaT3hwSnRUN1Z4Q0xsU01GY1ptTXlPMkZ0cTByYVpQWVFJMGI5ZkpvYkNlMEF0Q1lsa1E4XzNOWkNxNnhQWUdzLW1Zd3R6TC1EYjItMXk3YlpWZTdPNmhMbFpPZ3FvVFlCeDQzVzRQeUs5aDN6ZVBpN0xVNGYwY3BFZHBpVVBhSUg?oc=5",
-      "source": "Universe Today",
-      "sources": [
-        "Universe Today",
-        "SMH.com.au"
-      ],
-      "date": "2026-11-14T22:51:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 15.12
+      "score": 8.65
     },
     {
       "id": "1pan4ol",
@@ -488,7 +2178,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.09
+      "score": 8.64
     },
     {
       "id": "1pz3hiu",
@@ -503,7 +2193,23 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 12.07
+      "score": 7.63
+    },
+    {
+      "id": "ynn213",
+      "title": "SpaceX Makes History With Successful Rocket Catch in Texas",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbVlRV21FMHRaYk1jOFJ1M2lId2dOaVgyb292em1yUFlLcjJiQnlEOHhzVHVFZzh4TjczMm5aeURpYTZid3FFdS1mQURxRDhGRlVxQWs2UVZ2NEhBS1dvaTdVbDMySTVLeEx3dDhSMEZpWHluWHJtak1kVWFuWHdzTw?oc=5",
+      "source": "The New York Times",
+      "sources": [
+        "The New York Times",
+        "NPR"
+      ],
+      "date": "2026-11-14T22:31:41.000Z",
+      "firstSeen": "2026-11-15T02:10:17.172Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 13.61
     },
     {
       "id": "jiunqq",
@@ -518,7 +2224,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.03
+      "score": 6.61
     },
     {
       "id": "4u7fwq",
@@ -535,7 +2241,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 17.52
+      "score": 13.1
     },
     {
       "id": "er9a50",
@@ -550,7 +2256,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.02
+      "score": 8.6
     },
     {
       "id": "188jk3z",
@@ -565,1755 +2271,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.01
-    },
-    {
-      "id": "1rasg3e",
-      "title": "SpaceX makes unprecedented 'catch' of Starship",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHNpSUR5dUhMU0xmV29INlhvck0wTi1MdThDRGY3dDRKQ0xxbjRQcFhhZXJvc21nWjJBSkVsTHN3dGdLUUJaNmFKMF9JLWZnRUZFcDJZMkNWekNSTEVQcmdNTVp0ZDdJRTdUbDJWZzFPSUdNODRSRnpxRnVrOFNWLXF4QUx0Mkk?oc=5",
-      "source": "Sky News",
-      "sources": [
-        "Sky News"
-      ],
-      "date": "2026-11-14T22:22:39.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 13
-    },
-    {
-      "id": "1exkkh1",
-      "title": "Tesla \"Sells\" the Cybercab for $29,990, but You Don't Actually Own It and Can't Do Much With It",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeXA4OXFpUWNqNUxIYVNqc29kTGYtbUxRbVVYQjU3SnpCUVp3ZkJrb05MYVdJZzNMMVZnNngwS2NOUUR4ekgzdmxUSjR6OUxTcDA0ZTlBMk5ldFBNS1dhbUxRa1NDVUx3X0pBdjdzRGRBR0hYX1RQejloQ1Azek1QU1Zqelhhdk9qZHFOdE0yYWVRaE44WWIyV2Q4N3NfTVJkYlAzNGZUdzAzS3pvb0FPUjFJRFZyWDVnRnlFNkt0bkVJY2NwQ3pxV2xMMW9Da3J1a3gw?oc=5",
-      "source": "autoevolution",
-      "sources": [
-        "autoevolution"
-      ],
-      "date": "2026-11-14T22:20:01.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 10.99
-    },
-    {
-      "id": "2gw016",
-      "title": "Giant robot arms catch massive Starship rocket in dramatic first",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOODV3blViWkY5VUhUVW5ydTRuMHpHbnFwaWpQYzYtaTFSa0FpdWd6N01LVDY2RlMwVXEzSmtGZVBaU2hfam9FbU82dndDb2x1b1VnNnVQQ1lNY2pvYkpuYk8xd0U3anFHblFYcEhUbndEdUpRcVY5Zml4cG5KdWxMOGVxcDZkRnpPQVQzaEVmSEt0NW9qSklZd29na1pmOHZTWG9xSmMta0ZEYkMybTFyRXpvcWJjNUpNSG9IQ3Bmdw?oc=5",
-      "source": "AFR",
-      "sources": [
-        "AFR"
-      ],
-      "date": "2026-11-14T22:20:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 12.99
-    },
-    {
-      "id": "cdndlx",
-      "title": "SpaceX successfully catches part of its Starship rocket after 15th test flight",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOVd4SW5RSE9hSUpKVDN4Yk93RFdWRkF6WGZZX0xWSTFJcmFhbjZOd3lhUFFzZC1QU0JEZElfZmVpcXpBTU9SVVIzZ0F2Q19PU1pvVS12YkdyYkE3Z08waDA2ZWRUV3ZYWHBuU19qNTJTeEp4cmp1ajlSbDRJb0h3OU9ZMkk0ZHNEaUx3YWFzN01TbkFONGdYWG9NU1hMalpkTHVqdmdSYVhMRXZ1YnJkamVLWEdjSmZIOVJKVTd3UmwxOW8?oc=5",
-      "source": "NBC News",
-      "sources": [
-        "NBC News"
-      ],
-      "date": "2026-11-14T22:16:47.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 12.98
-    },
-    {
-      "id": "5hjllk",
-      "title": "SpaceX’s Starship returns to Earth in dramatic catch by launch pad arms, in photos",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcEh0VnVya3BHaU9jSHEyZ081bW5xN1dHTURidUEtZ1VXTHlZcmtxc0JTODlFenFTaTBwbE1yUmNRdW84alpLVmJ0dEtLa1RMS19qRzFaZkRVaUVRRmVvS05faHBXMmpSV3pQRFVKb0JmNXhGcUxWSEN5X2N3UWVuMHRqQkdQOEVza013eWtxLWstNUhHa3RSUWpSb1lpQlBZU2dyWjN4TElQOGY5YUtBWHNYYUJlSGVYcXBuc0hXUHMzU3pMdElMUFkwYzgxZw?oc=5",
-      "source": "AP News",
-      "sources": [
-        "Yakima Herald-Republic",
-        "WTOP News",
-        "Springfield News-Sun",
-        "AP News",
-        "CT Insider",
-        "The Northern Virginia Daily",
-        "chronicleonline.com",
-        "Beloit Daily News"
-      ],
-      "date": "2026-11-14T22:10:24.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 25.95
-    },
-    {
-      "id": "16cnfys",
-      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ySWUyb0ppTGFuOTB3bFAxaFZWdHljVmw3a1U2Zzk5QUtHQmdNbzNERHRVSk9OazhmZDZTQmU5SWJTWXp4bHZSMEY3dFJEY3BWTkdfSWhycnEweEE?oc=5",
-      "source": "BBC",
-      "sources": [
-        "BBC"
-      ],
-      "date": "2026-11-14T22:09:40.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 15.95
-    },
-    {
-      "id": "18jns9l",
-      "title": "SpaceX's Rivals Are Already Filling The Void Left By Falcon 9",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb2VmOGxvVTk5b2NBdi1EQlNtS0I2NnRQc2d6cGJVRjA4MTZBOWNVUUhLTUFpU0pueE1MNEx2a0lDSzJhbHZGUlRZV0FCR3dVajRYUWVsV3lpRzRSbzhzUHNscmlNTWlfYjN0VXA4WlMyLU1QakllLW5qbm9MWVBLYnd0RQ?oc=5",
-      "source": "Jalopnik",
-      "sources": [
-        "Jalopnik"
-      ],
-      "date": "2026-11-14T22:05:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 10.93
-    },
-    {
-      "id": "o1gf2r",
-      "title": "SpaceX Starship Upper Stage Returns From Orbit and Is Caught by Launch Tower for First Time",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4YkZyU2U4c1lZMUxFVzZKalN2T293dW4wR2hITGVRNnRoeXdQQjY2bjI5dUo0cEhuM1NLdnRUS3ZBY2I5ZFQ5dFllaS1HVDRoTDV4Q1hzcy0xOHRZMDBtdTJ4YjRJQmhzdTFSeHlMRThidkdicUE?oc=5",
-      "source": "BigGo Finance",
-      "sources": [
-        "BigGo Finance",
-        "Fox Business"
-      ],
-      "date": "2026-11-14T22:05:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 14.93
-    },
-    {
-      "id": "pe55gv",
-      "title": "Starship sticks landing: SpaceX returns ship to launch site on first attempt",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWV9mallxN3d0dnBTZ2V4QkZMWVpudkp3ZmtuV3pxbDBJT2hJVXN6U3FsTm1iSUpZcTY3enRyWTFoTVFzVVVXdGY5bXZ3ZHFHc2Q4RU9wYVZPcFEzTHg4SGV0b1h6SWlleUNNZ0FuaDF3TC1pZzFhUHRFTG9rN1VMeDd4Tjk2b0lqSUhnelNYS1ZiVUJMZWVxSVpRSWM2NnZCTlVxV2pNUEJlNGxnZmYyTGstY0FVYVU?oc=5",
-      "source": "MyRGV.com",
-      "sources": [
-        "MyRGV.com"
-      ],
-      "date": "2026-11-14T22:05:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 12.93
-    },
-    {
-      "id": "1hi3cy3",
-      "title": "SpaceX Catches Starship in Novel Landing at Texas Site",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOTdNZU40cFBlcGlnc0ZwckIzbVRuOGw1bjJya0dERkotVVRBVjN2ZmMtanZFeVJyek5SQ2VUdGQ5ZENXU2d2dW02eE8wOFFYQmZYdnR4UnRYYndTbEtzUm16cGdtejdyQjZWeTVSQ1dJYnZNSVFiNjlFemowWE9qVmc5QlUyMkQxMm01RXRtRTVpTENkSFh4Ukl6R1ZPc2lzTVhOaEJTZ1NOek45Vm1aWQ?oc=5",
-      "source": "Bloomberg.com",
-      "sources": [
-        "Bloomberg.com"
-      ],
-      "date": "2026-11-14T21:56:42.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 12.89
-    },
-    {
-      "id": "4gi2xf",
-      "title": "City of Brownsville, TX - Municipal Government. . HISTORY MADE IN SOUTH TEXAS A historic moment for the aerospace industry and the South Texas community. SpaceX’s Starship successfully returned to Earth and completed a launch tower catch at Starba",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZDZjUlIydGhaNmIxOU13clZ5SkhXcnF0dTVLd3VPRld0bTFmSGE0QlVsaUE4a201eGRyNzEtSVMtNTZSQWRYUzNSNDJIdGR1NkxYY3FmQ3ExUG9TN2NqVDJLRTRlaGt1RGtNVkNBaXVSTlFScEt4LVFsNWdSUzdma1JKdlhIbVFuSlRnb0huQi02SGo3WWdUWS0wN0NMcGtMbF9KYU9Ocw?oc=5",
-      "source": "Facebook",
-      "sources": [
-        "Facebook"
-      ],
-      "date": "2026-11-14T21:48:55.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 12.86
-    },
-    {
-      "id": "10uri7g",
-      "title": "SpaceX’s Starship returns from orbit and is caught by giant mechanical arms at the pad",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOODJ4U0lVRTFaWElZWHUzUkI4TUNIRVRfVVNRSWN0QTZjOWNuSVhLeXFmY0ZNLUl5QmVqbG0tQ3NEMDEzN0w4UDh4SENhdjJJVm9kLUFDVXlwUmlsMzRHWUt1cERQV0s0QTc4U25ORkw3SVJMZmxpZFVocktWdjA1RVNTaWZkV3cyc2JVZUt3?oc=5",
-      "source": "Yahoo",
-      "sources": [
-        "Yahoo",
-        "The Irish News"
-      ],
-      "date": "2026-11-14T21:48:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 14.86
-    },
-    {
-      "id": "13ijkih",
-      "title": "SpaceX Starship returns to Earth",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zNXpLRjQzS3djeGFhZ1p6QTZQSjhwR0tMVXF3MVZnYmVyVHJzOTFUZDBZNHJLZDN4ZnE5a2xORFFsVDhoNkVlUjktWkZzRWNMQUxRaTJMMVFsdE55YW1PTNIBZkFVX3lxTE1XaWxtZnFuT0NZMEdzLWdSMHJwQVlJanM0UkVnX0dVdFJnOTNBOXZYWmY5cklqWHVhcXRzVTVmNzNnWm9QUTJwSFJjeElDUGtxaU9nLXpMN0EwVFpuRjVmbXBtM3ZlQQ?oc=5",
-      "source": "FOX 4 News Dallas-Fort Worth",
-      "sources": [
-        "FOX 4 News Dallas-Fort Worth"
-      ],
-      "date": "2026-11-14T21:45:22.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 10.85
-    },
-    {
-      "id": "6f6y51",
-      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pYlVsTDU0cUsxTkJla2VGX2pyZ042eWhaVzg4alNXYlRKZ1dRSUZ2UkxCWVFURUQtcC1ybWpLWU84MFFvM0tuOEFWQk9CQlpoYkgtNEtzVmJORHRWTGxOMzVDcEItX3R5VWRQb2txRDZDQWZLblQ2cE5Oc0M?oc=5",
-      "source": "The Verge",
-      "sources": [
-        "The Verge"
-      ],
-      "date": "2026-11-14T21:44:44.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 15.84
-    },
-    {
-      "id": "o9z8mt",
-      "title": "SpaceX successfully catches Starship and makes history",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTkcyZTZfYTNaUW1HemJBRUtfYldKd1cteXZMcHdpdGtySk1nRUh6SFhHMlRlTUh4eTRaTDFaYkhibDJnZTRmYlNWLUUtUmo3NlNWcTh0dEpEMXhGdXNxaHE3aU5kWEZMSjFrQ0FYYnJPMkZRR2ljak9vNGxXVmRQMHYxay1YdHREcGJxa0dmdWJaM2hQYkVjRDBZWXdsUQ?oc=5",
-      "source": "NPR",
-      "sources": [
-        "NPR",
-        "NBC News"
-      ],
-      "date": "2026-11-14T21:42:41.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 14.83
-    },
-    {
-      "id": "nf0i5o",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "source": "TechCrunch",
-      "sources": [
-        "TechCrunch",
-        "Mezha.net"
-      ],
-      "date": "2026-11-14T21:41:22.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-      "category": "business",
-      "score": 16.83
-    },
-    {
-      "id": "hffs37",
-      "title": "SpaceX makes history, catching Starship from orbit for the first time",
-      "url": "https://www.teslarati.com/spacex-catches-starship-first/",
-      "source": "Teslarati",
-      "sources": [
-        "Teslarati"
-      ],
-      "date": "2026-11-14T21:40:07.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "SpaceX caught a Starship upper stage with its launch tower for the first time on Saturday, bringing Ship 42 back to Starbase after roughly 22 and a half hours in orbit on Flight 15. No…",
-      "category": "space",
-      "score": 14.32
-    },
-    {
-      "id": "vg8pfj",
-      "title": "SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3BNak83bkJ3N2NOejJudW5NdDlHQl9tTmZ1OUFSak9iRTZmMlo1OFAyWVJnU25GdjRLbVNOSllnekdvdm1tcFlxbnJRY2RnRks4WG4ybjZlX3dnNE1HQ3E5S0dpVGxwNDZqLTVwM3JlLWJmMDYtNjhZVXgycFJjbzFPME50Z0ViRHNWTDhYSmdfeW80UDl4NlduZGdLR0R5ZmpIa05B?oc=5",
-      "source": "Reuters",
-      "sources": [
-        "Reuters",
-        "The Lufkin Daily News",
-        "TradingView",
-        "The Straits Times"
-      ],
-      "date": "2026-11-14T21:40:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 21.82
-    },
-    {
-      "id": "haevg7",
-      "title": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTWNvcDREbHZiSXNEQkpxS1dFb3NzcldSd1BDdDY1aTdBSWtDaXZOSWc0WU01XzJwQU5EWU5iVGVfeGVXUW8zYm0zaVJSeHgxN0FUXzBJOWFLR2pmTElZdnJFbVdqZDktSk5ySmZzQzEtclhobmYwenUxanhjSU5vampR?oc=5",
-      "source": "The Guardian",
-      "sources": [
-        "The Guardian",
-        "PBS",
-        "Durango Herald",
-        "Nine.com.au",
-        "The Independent"
-      ],
-      "date": "2026-11-14T21:32:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 20.79
-    },
-    {
-      "id": "12nsxm7",
-      "title": "SpaceX Successfully Catches Starship After Launch For The First Time",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2x2U255WVhZdHVMR0d4VElLSGw4R05zSjFOOUFiald1RkV6UUw5dnpmb3JrOTBZbk9meEhGNjZnTG1Hdm1kcFBHcFVnNDRRZmw0LWJkeWJNUWliU0hmdHdsYTR2Z2lYTjMweDNmUldIRWQyWG9CWjF1QkluZ3gzYnJ1eGk3bHF1ZEpKMnhhWElYTnJ1MVFqSVZDcTRnT0pwdGt2T1c3M0VGTE0?oc=5",
-      "source": "Engadget",
-      "sources": [
-        "Florida Today",
-        "The Jerusalem Post",
-        "Interesting Engineering",
-        "Engadget"
-      ],
-      "date": "2026-11-14T21:31:40.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 20.29
-    },
-    {
-      "id": "5xw2cg",
-      "title": "Elon Musk's SpaceX achieves historic 'catch' as The Starship returns to Earth",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSUtXQWpDN1BIbllDS2h0NDBPUHFuT1Q3aGwxVkFQdlNyRkJhZl93NVhVcWQxQ19GUXluNm5xRVdOMWZvMGZLR1B3bjRsUVVObWIxclpPSWZPLVJiaENXeDdWUHNpc29jOGdHczYxaU5xRjZOc0JPRlNTbnJEWW45RDhWLWhsNU1VN3dWcUlfbDh3MkNDTHd2eExIeFZScmRydmNGLUlKME1GZ09CR1o2UG83ZWVTLTlsVlprSHp3?oc=5",
-      "source": "LBC",
-      "sources": [
-        "LBC"
-      ],
-      "date": "2026-11-14T21:25:55.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 13.77
-    },
-    {
-      "id": "4tfv6i",
-      "title": "SpaceX catches upper stage of Starship rocket in historic first",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGFvOUM3TDc1a3hvVXppS0tjbklLX3MyS094bGRNVFh2dGxVbGRLRFRJZmxpS0VHa2hQRHNBMHJqZ2Fxd2wzMzBOazZPQzJ2dEJtRThqYW9yV0VzTUVrVWFDbmtVYUVjTElyUnB4U3pOaG5qaTdGOUxSWTJscUpOMzBmeWUybXFWc25WdU9tT2JUOF9qZGpid0I0S0hrR1pyWVlZcUpB0gGrAUFVX3lxTE16S1ZpTnRzaHp5LS04QlVFOXNLNmJhNHk3SXZsendHTHJacURRcjFFWVUxT3d2UDhpa0tVeTRXMXdUcGNIV0VacUZDbHdYR0U5MmVtSzlKZnVyNFpRQ3I5Q2RuOFBzLWNJQ1VXVHVYNlNfQVZYVTdJVVdqaFotNEF1MG1rN3ZPaW1DVEZ2dWlIQ0QtOFBrYllrU3NTekpDNVh2Nm5UUE9xTXd6QQ?oc=5",
-      "source": "CNBC",
-      "sources": [
-        "CNBC",
-        "Barron's",
-        "SpaceNews",
-        "Houston Chronicle",
-        "CNBC Technology"
-      ],
-      "date": "2026-11-14T21:14:46.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "Starship Test Flight 15 marked the first time Elon Musk's company tried to catch both the booster and upper stage of the rocket.",
-      "category": "space",
-      "score": 23.72
-    },
-    {
-      "id": "1kgfv5c",
-      "title": "SpaceX's Starship set for groundbreaking capture attempt",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yRHJ6ZEIzR0FYQlEycGhsdmF2WmhTM1V6SmRKc09sWkp4QUNRRlZ3aDJaRXpSVWZnUEQxb2w2ZGgyNGRYU3FnTDRyNGhBV1JsSHBpUUltbDdIcWJJckdxZ3dqNzVtRnRMUFh1SEZ2VXkxejBDVXhNRWFITVRERW8?oc=5",
-      "source": "AFP.com",
-      "sources": [
-        "AFP.com"
-      ],
-      "date": "2026-11-14T21:03:32.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 10.68
-    },
-    {
-      "id": "usah69",
-      "title": "Zelenskyy accuses SpaceX of lying about Starshield – and says US floated Donbas-for-Nato deal | Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMXlzLUQtSFlMUmxtemZJTk13emUzT2stSmpjb1M1UC1oUS0wRFhtOVVSOUJ2TE5NNTVzVmQtc2VIN25GZ3k5dTJNTmJidDRoUnFaVHZtdFljXzB5aFY4R2pvbk1kN05Kb2hrYjdNM2w0bG1lOFdPUjUtbzU2MHdEemI1aFFYTWtNd3k3RzFscThLREFGenJvR3BBdngySWczdlZuc19KR1JSaGk3RG15ZEJB?oc=5",
-      "source": "The Guardian",
-      "sources": [
-        "The Guardian"
-      ],
-      "date": "2026-11-14T21:02:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 10.67
-    },
-    {
-      "id": "jc7i4h",
-      "title": "Tesla Cybercabs Filmed by the Dozen in Dallas Before Planned Launch",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDlzMHQ5VDU2SEVJcFJFQW1OSUJRZjFJU2pfZGZBcENST0ZHb2xocXBSUWlwemRZVUZmMTBVWWdySVUtUHgwUjB2TWY5YzBsTTA1Zk1UYjhMb0h5dG9NUHhqOHA2R3hSMXdBU1lDSkZHSW91Q0U0UkpRdGJTN3VBeVNYMzYwVFU4OGlzT05nbE5SdXc5Wko3RzRCWjZLeTBJamtwblFn?oc=5",
-      "source": "Electric Vehicles",
-      "sources": [
-        "Electric Vehicles"
-      ],
-      "date": "2026-11-14T20:45:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 12.6
-    },
-    {
-      "id": "6ott57",
-      "title": "Cybercab Costs $29,990 Plus $299 a Month to Own",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUThhcXFoeGduTTJ3NFZwd1NGckE3Z2VidWdSdmFhUmMyTVRsNFhTdnlZNFhfdjNldFN5cVU2bEpndGYyTEdNODktNU05UGNpSGdpLUYtWC1Ja0N4YjlERnBCZWhvc0VDVmhxaUNqQkZ3S0ZWSXZuQ055c2h0RFlObnZ4Tk9TWGdXUENJdURxTHRyZGVY?oc=5",
-      "source": "shattered.io",
-      "sources": [
-        "shattered.io"
-      ],
-      "date": "2026-11-14T20:32:50.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 10.55
-    },
-    {
-      "id": "14u3maw",
-      "title": "Elon Musk (Jeremy Culhane) joins \"Weekend Update\" anchor Colin Jost for the Saturday, Nov. 7 broadcast.",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPN0Y2TEt1YTZZdEZLbW9ZZ2RtMlFDYjB0STJsTm54c05rRG90Q1VRU0U1TlJjZ3pkdUstRWEtVkp0MXF5alFEUlFJZi02elpUMjNfLWxuMDJRWTZmR1FkTS1FSVRIejBMM21lM1RaZk9nVlBhYkhiU19PcW1SYkh3cDBRV3dBaHZjRDZGVEdPbWpmR1JVemJIdUw5c1J2Y3A1WHJYdmRzQTE4VWViZi00elJEVkhuZnpDeFpMb042WVhrNjdxdnpreW9uZ29uV0VnYVFjbUpxM21FQjlXZ1NEUDhnY0hJOERuMFFOWHFlRWZPTnYzNWJWV2NPd0llZ2gxSV91ZGZqMm5FQUJpODYwZldB?oc=5",
-      "source": "The Lufkin Daily News",
-      "sources": [
-        "The Lufkin Daily News",
-        "The Daily News | Texas' Oldest Newspaper"
-      ],
-      "date": "2026-11-14T20:00:40.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 13.43
-    },
-    {
-      "id": "1p1t0ch",
-      "title": "Elon Musk Praises Jensen Huang’s Reliability On Compute Deliveries, “Without Jensen, At Least Some Of Those Critical Deals Will Be Lost”",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa09WbHIyMUY5RFpuN2lnLVJZRVJ5dXJhVUV1MTdRd3M5aWVuWXJhbHplcHA4SVpPdFlaV1lQYjBMV19JN3ZFVjJ3NDg5alhFTlFRd3dJMzVsUlRzZkN0amlQc2h2eFkxaG83ODNpY1JZNFM4SHFxTnZuakVmOFh1WGhZdXlSNXVNMGNMRDhvelpTUVh4Q0Ew0gGcAUFVX3lxTE85eFZqVzdVR0ZFYU1ic3NBNnZud2FxajlpZlVPVDF1eHBVdExmRVpGNEk0RS1LSDRiRXh4RmdldU94Q00tME5kamhha0J2LWI5b3h0Y2tvWjQ3ak9sRTBQeXhRd0p4bTR0QTA5dUlOZnhqVm1Pc2pGSXl4Qm9JMmJRUXRQeWlXODBUV0QxUEM2dGJ2c0ZMWlpLTG9EWg?oc=5",
-      "source": "Wccftech",
-      "sources": [
-        "Wccftech"
-      ],
-      "date": "2026-11-14T19:58:50.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 13.42
-    },
-    {
-      "id": "ndaag8",
-      "title": "Jensen Huang Resigns as NVIDIA CEO; Musk Warns Supply Chain \"Handshake Deals\" May Be Lost",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SNU5TQnhDZHVJVklWejQ2YmhCNkJBSGp2RmdYQUwyTkN4c1d0YnI0NjRYZGV4Qk1lRlo1a3R1bC0ydVVOblVLNVlrbFZTTEVJUHJ6SHVkMFVoYVVkdDJDR0VteUpvMzZ6WUc3LURDUVRzQzN6ZlE?oc=5",
-      "source": "BigGo Finance",
-      "sources": [
-        "BigGo Finance"
-      ],
-      "date": "2026-11-14T19:55:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 11.41
-    },
-    {
-      "id": "uz3gji",
-      "title": "Will Elon Musk face political backlash after the US midterm elections?",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvblltbWFNdk5hSDRMeDJLX2xhbzliOUxCMXQ1VWZpN1JtbWZRaDRCWUhBMU5tZFl3V0FRWVZFVzZEVTVqbnVvTWloOThlRnd5NDJ4TGV2OG5WRV9ISkFld9IBXEFVX3lxTE00Z3k1QXZsUDRtX2JZdGtzWVdyLS1Nazh3S0IyWGQ1ZEtib1drMXZYLTZhU3FtNVZEakQ5b1FlNUpwYVJTN1U5QkMxdVZHX2dYVDAwdkpQeWhnZHVl?oc=5",
-      "source": "Modern Ghana",
-      "sources": [
-        "Modern Ghana"
-      ],
-      "date": "2026-11-14T19:00:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 11.19
-    },
-    {
-      "id": "a59w36",
-      "title": "You can buy a Cybercab now, and Tesla still holds the keys",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUkMyUzhFb29PeERaTVY4QW13S3pDb3BZMldTRVNUcnVPazdOV29jaTdUZWJpamE3QTFRNHVtZ1RVSDduUVFCYU5FVTA1cU9fdzR4eXplQXVSUjE3N1o5cFF5dlEzOERLeTFNMHlIVGVib3hFMTMtMi1DYWVkZmpRVjlER2xFSDllVTlTRW9BdzFaT3dyMEpYR0RCYw?oc=5",
-      "source": "The Gadgeteer",
-      "sources": [
-        "The Gadgeteer"
-      ],
-      "date": "2026-11-14T18:47:19.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 10.15
-    },
-    {
-      "id": "eaeslg",
-      "title": "Elon Musk’s Tweets Don’t Matter Anymore, Says Dogecoin Labs Founder and That’s ‘Healthy’ for DOGE",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS3BKNFZsc1pVQnZraXU3TE5vdGtpUnV5N0tyOHFJN0ZuUEQ3c0NXdFhNUnFES3VHYmkySVVfbU9JZG5adVZWRUU4aktxZ2EzX1B4MzM1Z25aU3RjbV9yV0dwbEdjem44YXJ2dmozdkMtd2FzZHZvamplSWVlYkxrWXpQeE4tOE5aQnJYalBYcFo?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "date": "2026-11-14T18:43:23.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 12.63
-    },
-    {
-      "id": "16xd400",
-      "title": "SpaceX's Starship nears end of 15th test flight and return-landing attempt",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ25xZHF6NVM2ekhIVmRFejZfdVZ4MVRwMTQ1QjBFeFFQQkN2LTh6eHRVeDF2QzhxMmlzdFg2M1drVm9Sc0lCeWJBZDhwUjV1Vm91TzF4ZzgxczY4RlppNGc0WVJxU0t4dFV3OHIyNWJoREpaWGNweGVoY25XNzBzQWUxUk13RDJkSDZzZXVtVVRKU09admlYMmt0RGFyV3ljbHl3elp5TV9NMmo0ZEVMUENvQTFSTkh0ZHF6U2c2LVpWdE05YlJ4Xw?oc=5",
-      "source": "Reuters",
-      "sources": [
-        "Reuters"
-      ],
-      "date": "2026-11-14T18:03:17.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 14.98
-    },
-    {
-      "id": "1uunyhp",
-      "title": "Tesla Cybercab Finally Reveals Key Specs—Including 418 Miles Of Range",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QYnkxWUZVenFBS3pjTTRNdEZocy1OOXRlRXJLaW1OMEJMYjRsMlZaR3BSLXBrOG5jT051MWhSWkFvMFVfTmh0X3NyY3dZSTBtNDFzU1FNNjZSTlk2OTkwU0V0cldyWkFOTTV0eHREV2J5YVctMmc?oc=5",
-      "source": "Motor1.com",
-      "sources": [
-        "Motor1.com"
-      ],
-      "date": "2026-11-14T17:57:51.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.96
-    },
-    {
-      "id": "18cqc8i",
-      "title": "Tesla Just Started Taking Orders for a Car With No Steering Wheel",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUzZTLThfUTBLbjBidmFtRFpIajRTR09DbkduYS0yQmoxbjl4a3l5cEZxVWFYVWEzb3JfNkZKT1AtYWRTcFp1QjE5XzZFbjQ1TVlWOENHU29udGlqcjhjWHVkUzlyN2dRaE1NblpnYkhSN0d4NEloaGdNNmJIY3Rzc3FPYlktREdGMTQwdEpERUx4anlOc2lYZ1R0Rk90aDRrdnJpalUzMUxPcGxvWnc?oc=5",
-      "source": "24/7 Wall St.",
-      "sources": [
-        "24/7 Wall St.",
-        "AOL.com"
-      ],
-      "date": "2026-11-14T17:48:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 11.93
-    },
-    {
-      "id": "in5h6o",
-      "title": "Grok Bot Gets Up to 15% More Usage After Subscriber Complaints",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUSlFkNEpmWlFpR1EtM3VQSXI0aXcwb1ZlV2VCVVRQU0dCVVBLeVVEYzljYUZKOEtjRkEwNzhKZ2loOW5kUmxEU3pFLWF2Y2l1SEtJU0duRy15MXJGT0lfNEFmNk1XdTFyRVo5VlFQWF9YRTA?oc=5",
-      "source": "TeslaNorth.com",
-      "sources": [
-        "TeslaNorth.com"
-      ],
-      "date": "2026-11-14T17:42:34.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "ai",
-      "score": 9.91
-    },
-    {
-      "id": "1x9z03i",
-      "title": "Musk wants disgraced ex-Nvidia boss Jensen Huang reinstated after Chinese ‘spy’ sex scandal",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVzg0WE5mYjIxZXBteWxHWUd3UW93Z0x1NTBOY0V4VUQ4bWN4UzFJeE5JVVZyZ2UyR2FoNFFjZkllM3QtYTFtRW90Y21aalNaOXZvNUUyRG9vYkdPdmVoMXlTU2JmRkd6a0NzcVBObU1LZjFFb3FEaVZmZ3JoTk9rdTVvTlVJb0JkR01rRlpsd3FrZEw4SEJ1SjZtUzBhcWNGdEladUZaWENpdE1COEFWanZldUNQTFE0RlJweWxmX3Yxdw?oc=5",
-      "source": "New York Post",
-      "sources": [
-        "New York Post"
-      ],
-      "date": "2026-11-14T17:27:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 10.85
-    },
-    {
-      "id": "11crshg",
-      "title": "Elon Musk joins 100,000+ signers on a petition to reinstate Jensen Huang — including 5,000+ who say they work at Nvidia",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcUFtUUhkeXFFYjNLV2w2bV9PcEJUbzRueVdpYkNTMUdaWWFqOVlSam1Qal9ValJPVUxrd0lpb3BrY0o1aUtzMTJnamRhWFUydHVKN3A0WERvRnJfV0VQb1JyTTFiNkRaY2VoUXZScnNpeHk2RDVxNk5OUXphdUtSS0cweW4wSzQ1NmstUUV6ZTYxUQ?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "date": "2026-11-14T17:25:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 12.34
-    },
-    {
-      "id": "1kxr40s",
-      "title": "SpaceX Attempts Upper Stage Starship Catch After Booster Explodes",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRmJwUG9maVo0RlJSNy1SNTZJM0NWbXZPWVhjbnpKSFIzTUUyQ24zRWlvVmxiWWFySDU3eXR4bnY5UGs5LTdTWTQ0R3FYQXNwRGc0NlU3U1dlaHZEMHB5ZXM5OGdQZGZYeUNSWXhZTmRtQmpHbWl2UWRERGtzZVQ5emVKT2ZWd0dVelJ5akt2SVdzUkJj?oc=5",
-      "source": "Gizmodo",
-      "sources": [
-        "Gizmodo"
-      ],
-      "date": "2026-11-14T17:22:32.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 11.83
-    },
-    {
-      "id": "a8pk7n",
-      "title": "SpaceX To Attempt First Full Recovery Of New Starship Rocket",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRG9RaFZGZU9Ia1Jlc0NZSTdDV19IN3BPbHVqVXAySkZ3MExGUFFFNkJLb3NuX3dIVVpLemhmak5VSXpEMEU4N3RSeVNYSC0yQ2NXQ2RQdTlJWVpPaG5fQzdRLU9DWUgzOW5tRGVmSzZIcmZMQzJnazE5YkRCS1JiUmhBVTBFRGdUenJldVl2SnVRNlFndlpuZ1pJc3ZNa1dHMUo5OGlBMGdHeE3SAbMBQVVfeXFMUERwdGtfRHlxZUFRRmgxTExwam0ySXJleWZnb1FFRlVsYzRZeGdsZWhhNmpRaHFRWGtBNGU0dng2dFhWQXVubWx5d2hhcG9VVnNyMDBHWFU0OGFnUFRodFpZYnc4dlpJRVpEZXdkZ01Bck9MNDczdklFa2YzcHFSQ3NpdFBndG5tcHpWZDJOTkJOaU01UGN3cEFSbU5zZS1BcHdxMHFRTFZGcV9fbGdtWVFGdkk?oc=5",
-      "source": "NDTV Profit",
-      "sources": [
-        "NDTV Profit"
-      ],
-      "date": "2026-11-14T17:11:20.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 11.79
-    },
-    {
-      "id": "r7jiw6",
-      "title": "Tesla's FSD Billboard Hits Times Square: What to Know",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHdod19GM1A1aWJjeTZWWVlwNTdURkNyc0pFVWhqQWpKcUlEbmotQWtDR0RRQ0gzUXE5elpQSVZ0SnZ2SHJkRUw1bGV6WGFnNjBJV09TbGt0RDhOd3BsRHFPVk53ejhWS3ZyN2dySmVGQ0trZFQ0OGpHejZpZ3Jsa0ZtQm9Ed2l3Q1NrZE16SQ?oc=5",
-      "source": "BASENOR - Tesla Accessories",
-      "sources": [
-        "BASENOR - Tesla Accessories"
-      ],
-      "date": "2026-11-14T17:07:36.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.78
-    },
-    {
-      "id": "4faito",
-      "title": "Musk Signals 100,000-Satellite Starlink Vision as V3 Batch Goes Healthy",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbGliVlNURDNVem5KSDRUU3U1SVYwTHBFSm1henN0Y1hTMkdPQlU5RGxjVHhOYkNycmladFo0ZDkzYlZlai0tVDhFYzd6eVdrQmpRdlhEY0tHc0NPWm03Q3lTSWlZSzd4ZDM4b0FqREZVRWlWdm1WRjQybE0yMHB5bjE1TFF4NzBJZmV6ZEQ5QVJfMlVvMDVrTzc2ek5IUmpjSkJMZnpFc1p1QQ?oc=5",
-      "source": "BASENOR - Tesla Accessories",
-      "sources": [
-        "BASENOR - Tesla Accessories"
-      ],
-      "date": "2026-11-14T17:05:06.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 10.77
-    },
-    {
-      "id": "19regdr",
-      "title": "Ross Gerber: Tesla proposes cybercab with $30,000 price and $300 monthly fee",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQTRhU3JUcjJFdDY4bnJ4VVFPSVRib1U1aFpsVzJTNm9rZ2kxaUQzN043TE1ZMGlRZEowVGdka2xqcnpFRW0wY3hPQ0ZYQkJiQ1BSZXFHU3BlTW53b2NtRnJqZ1FJR1FlcWZyeENjTXZsUXVLWlJiRG1rRmlmQ0NRT3RVRWdKX0J0?oc=5",
-      "source": "Traders Union",
-      "sources": [
-        "Traders Union"
-      ],
-      "date": "2026-11-14T17:00:33.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.75
-    },
-    {
-      "id": "1oyibxt",
-      "title": "Stop the political warfare against Elon Musk — our very survival may depend on him",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZXFJZ2lWaWk3ZzFDaTE4Nm02SnZoVnVaWG9JYkZ0eWNhMXNOdlhHUUFrbU5vQmlsLVY2c0tmcDBlM2tqdlEwc3lXODQwTkVKZm5BZmVmVFZ3eUZrRTV3TzdBaGNuQ2ZIaG9PcjVxTzBhMWFCZmFxd18wV3E3TFdkYzZLb1TSAYoBQVVfeXFMTlhUeEZicjZHR2FBU1BSelBETm9zUm4zVU1MOGJjRGhybHh2c2pIZ1VtSDViRm81YjRSZUt4X3F5eGlXeWlUTHBuUDd1ckVycS0wQ005MEM3Unh4S0dtMVNZQzlZR1pWTHh4OXdyZFo5UDkzLU1UWFowTjR2a205emFRNDFadzdJeUd3?oc=5",
-      "source": "The Hill",
-      "sources": [
-        "The Hill"
-      ],
-      "date": "2026-11-14T17:00:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 10.75
-    },
-    {
-      "id": "zjn837",
-      "title": "Tesla’s Cybertruck heads for exit after years of hype, division",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLeFpMQncwYTVIQWJ2SEk4VTcxOXAyME5vc0FCVVBfZHZnRUtTRXlzY1pfeTBhMW9VSkRsR29WOTJDQ3JVaVJxTDJiQ2JaWUJZX0FhZU1mSWtHUGtHbFJxQlFLbHI0Z2Q4MmFiTg?oc=5",
-      "source": "The North State Journal",
-      "sources": [
-        "The North State Journal"
-      ],
-      "date": "2026-11-14T16:55:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.73
-    },
-    {
-      "id": "18da58q",
-      "title": "Tesla Cybercab Owners Must Pay $299 a Month or the Car Will Not Move",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUGhFQ2d6bmxicWVrY2Jxc1RmNF9XNDE1SEtGblZRTkRHNFJkaXNYUlM5WmE5UWZXTlNhem1JUWNjWjZiajFZLVh3N0E3RDFwalUzUk9IRndxZ21FRVVlLUxYRENReVFnUEtVclhybmtCVzV0R3pmN2dwSm9DQTlqLU9kNnUyS1A3QUI0bzNfYTZsX0dKQ25LVzVYM28?oc=5",
-      "source": "news.lavx.hu",
-      "sources": [
-        "news.lavx.hu"
-      ],
-      "date": "2026-11-14T16:42:04.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.69
-    },
-    {
-      "id": "1s25iz0",
-      "title": "Tesla Sets Cybercab Purchase Terms",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdS1BLWVJRk10RWlVd3RGR3R2YkxzOGRmZy1qc0lCekxfZHFINVdFT21ENy1SeExrZmUyU09ROEhZUWFndmlqN1VtRGZvRFFncm5jZ0xPQzJOTThpWTVyMEJlbUJzRGdmRUxNZG80UTRwZnRUYTJyY0NmQVNsOXZLaGRWZw?oc=5",
-      "source": "Root-Nation.com",
-      "sources": [
-        "Root-Nation.com"
-      ],
-      "date": "2026-11-14T16:39:48.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.68
-    },
-    {
-      "id": "14ck7lv",
-      "title": "The Tesla Cybercab Is On Sale For Just $29,990 – With Plenty Of Asterisks",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYy1nM2RIN2lKWDhlV3dIZXZWcEwxVmliTl9aaTVoS2Ryc0ZjRUVjTTJDek5ndjdQZ2NXUkphdHREblpLdzRuOXphaV8tS3RkYndmVUhwNzhOWEJwald5TXNYNHNIUVhlSEtIS2piZWxETmJJbThOMnZiTEVoTEVteg?oc=5",
-      "source": "American Cars And Racing",
-      "sources": [
-        "American Cars And Racing"
-      ],
-      "date": "2026-11-14T16:24:15.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.62
-    },
-    {
-      "id": "1iarp62",
-      "title": "Tesla Personal Cybercabs Require Paid Monthly Autonomy to Operate",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcDFOUXFjdGkya1pDWk9ERDlYR1dvaHUyeU5fZlRZRVp1WVhFZnVRcVM2TmZjay1tSjdjM3JWM2V6aHZOcHpiYXJVWWlsaThVYl85TnkwNERTMm9OSjc2WXdGT09aVmY1RHhaa0xDa0NVdzlObzAwZFZLcW9tWHltYlhlWkhxU19WUzRiN1RJdjN4NjNpbl9j?oc=5",
-      "source": "Securities.io",
-      "sources": [
-        "Securities.io"
-      ],
-      "date": "2026-11-14T16:21:01.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.61
-    },
-    {
-      "id": "jts19z",
-      "title": "Tesla Optimus Aims for 1M Robots a Year at $20K Each",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc2g0ZDgxS29SYmR0QmpqNUNZNnBmdzgyYzlYbWJucXFmekRvOThpTmU3a0M1a0lwRm9UMGRnNEhoYURRTUhZeldUdFpWc2JkX3RCS1oxd2VKVWlUMDI2dXBCUzN4aURuOWtXWHRTZUh6cDZqRVIzeUpPS1F6dUN3cEl1WVJuZ1ROYnc?oc=5",
-      "source": "shattered.io",
-      "sources": [
-        "shattered.io"
-      ],
-      "date": "2026-11-14T16:02:52.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "robotics",
-      "score": 9.55
-    },
-    {
-      "id": "vegjgp",
-      "title": "Starshield limits in occupied Ukrainian territories appear politically motivated – Zelenskyy",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkNqMmpOOG8xTVhSaWUxZWpzUlJQZndGM2pHV3luWFFFT2M4UVU0M2NwOWpwV01KWlppYV9lbEtkOXF5bXdUeDFmNWV6RFYxUFRRVVhIblhSS2toUl9OZEZDalk3R0FLOGJyM2FCNk4zWHN3clRKc1AwcG1ZRXNiRDMzT1pZR1VhWE8zU3lrWlNNUlQ2M185eXgwclIycWxt0gGcAUFVX3lxTE8tdTJkTkhQYktnVkdTMnBHU2wyWGRTRE5MREc4bXFUT2hyd19UWndvMHlHdW82dlBKWVlWOGtxZnJLa3U0cFhrMjlabzVJWXpnNTFvS0RxR3Rpc1pvaUpTN1RzckxXRVA1M3dQWTJtU1d3UFJyc3Z4TWxYTVdpTWxiczhGR3FGVkFLdmZsU3g1M29SckFWLTZBZ0xsZQ?oc=5",
-      "source": "The New Voice of Ukraine",
-      "sources": [
-        "The New Voice of Ukraine"
-      ],
-      "date": "2026-11-14T16:00:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 9.54
-    },
-    {
-      "id": "s4hqzz",
-      "title": "Zelenskiy Challenges SpaceX Over Starlink Speed Caps",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMnh1OWVPYU5wa3E5Z1loeUQ2QmsxYWhHSkY1R1BrMjU2LXg2cU9icGRwS1VncE40VVN5bnZuY1NVVTBVNEdkekJNTWk1VUh3MUlSRWlhZDA0NjhUMG1UMGt1OTVzMnEwLUNjenB2SnZkZ2E5aTVxdUt4YkhVTllmNVN4N0RfZ2RxdjY2M0c5WXREdVVfVXc?oc=5",
-      "source": "Modern Diplomacy",
-      "sources": [
-        "Modern Diplomacy"
-      ],
-      "date": "2026-11-14T15:52:54.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 9.51
-    },
-    {
-      "id": "qn5d0d",
-      "title": "SpaceX Starship landing livestream: Watch the catch attempt live",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaGE3V2ptSmVUazFjeWxDMG5FSzRub3RyVnBrNTk0b0thNlRTN1NFYVhqQmZrSFdJR2JuRVhyUkhldFdydFVvd1FPVDJuLUFnTXdfeEMxUnpIbDA5ZDVUMm0yVmVPbUF5OXd2amZFSU9YczJjeW5mVkxnX194cHZNRURYQQ?oc=5",
-      "source": "Mashable",
-      "sources": [
-        "Mashable"
-      ],
-      "date": "2026-11-14T15:44:13.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 11.48
-    },
-    {
-      "id": "1x8b9xz",
-      "title": "Tesla is finally letting customers buy the Cybercab, but there’s a long list of restrictions",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdW1lSTlaN2pkWi1waFBxZUJvb1lEZk1XUzVLNGY5bWFmQ1E4d0ZRNnBIdE55OVRtbW04dWptR3pud253SWcxY1p4Mk0zOHFxSHhyN0JGM1V5ekNPTlh5LXdwcU9EbW5hS0NZek1vczZEM2JmLW12dTNuZDBXclBJamhyMjVTVmg4bkVyRVNPcmZXRTdXX2Q2bTFVY1dINlpWTXhneTQwLTNCWUI5X1paT2IyRU96TEU1NU84cFpuaVhqZGFy?oc=5",
-      "source": "Digital Trends",
-      "sources": [
-        "Digital Trends"
-      ],
-      "date": "2026-11-14T15:34:34.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.45
-    },
-    {
-      "id": "5iuii4",
-      "title": "Tesla is selling the self-driving Cybercab for $29,990",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOU16b2ZSdmhoRFdOaWdfYTlLTE0zLThTYmtkX3RuSzBEaTNlLXY3M2lNcHBxbzQtMlhTM3d0bHlKQ3FjU2VKaVhaQ1ROUlFkNVpBRTV1c2M1N0JXM09pSVpLOEYtYWJOYUpPOFlYOV84WU52WHI2X2E3M3NvWjhLRXVEaVR4N0doamJIc1prdjN6UU9Jel83cDktUFFHWG9hMU1pcGVtSHEyeTUyVEpWaE8xM2pRZGtJ?oc=5",
-      "source": "la Repubblica",
-      "sources": [
-        "la Repubblica"
-      ],
-      "date": "2026-11-14T15:24:58.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.42
-    },
-    {
-      "id": "16kd7si",
-      "title": "Tesla Cybercab Open for Orders—But Good Luck Putting It to Work",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV0k0T1JlQUFvNk5QQWZ6eXJwSXV3cUJyaktjajF0ZEVidnpWbzVjOXNBclNwSjdRc0p3T3hpWnJJc3I3S3ZEMEtUQjJoOHR1NGhaXzJ3aS0zakY2dVVnR0g1SzVqUTZ6S2JXMDdKeVJnWVZaY1p1TUMxSEdaaWlWM1h0bHlkMDFJM1Nxa3ZsR2duMk5Y?oc=5",
-      "source": "PCMag",
-      "sources": [
-        "PCMag"
-      ],
-      "date": "2026-11-14T15:24:09.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.41
-    },
-    {
-      "id": "1b5on2e",
-      "title": "Elon Musk Says Tesla’s Roadster Can Refill Its Own Air Tanks. One Engineer Is Betting Against It",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlhLWkozTVo0ek03SXhUaUY1cHdGdGd6dUg0QlJabHJaX05WUUFUbXlkM2xacnBNWi0zRnFFWXVEMk1kdjNGRXpVZGFkWnFuTjVSQ0pWaUhuV0g1bHcyNjZzN2syc3B1QTVOUzJScm4tcFc2QlM5bzIyOUN6QTdKR08xZGVSWlRJUXBVMjljLTVUcGxQMW5PQ3MyWTk?oc=5",
-      "source": "Yahoo Autos",
-      "sources": [
-        "Yahoo Autos"
-      ],
-      "date": "2026-11-14T15:21:46.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 10.41
-    },
-    {
-      "id": "1wc4woi",
-      "title": "Musk says Nvidia will lose 'critical' deals without Jensen Huang",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5",
-      "source": "Reuters",
-      "sources": [
-        "Reuters",
-        "The Hill",
-        "CTech",
-        "The Times",
-        "The Jerusalem Post",
-        "The Korea Times",
-        "Global Banking & Finance Review",
-        "Forbes Middle East",
-        "GV Wire",
-        "NDTV",
-        "Moneycontrol.com"
-      ],
-      "date": "2026-11-14T15:06:17.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 23.35
-    },
-    {
-      "id": "nwao0h",
-      "title": "Grok now says Elon Musk replied to a Nazi account on X",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVl9YR1FwWUZRS2tOWGxPeHpSdEFLNEt6Snc1bU15a3djbVRJb0xyOG5sZTZTaUpqVG9mVTBMbFp3LWJwalVBTXU4MGRzMDJVLVNQSmZKOThlOVpkSEFEZVJPblJCQ0FRdFJIZW5VMnAxLUpKY3FQQTNNQVoxdkFuY1drd2JDR2tkbTlaYy1kTUk?oc=5",
-      "source": "Softonic",
-      "sources": [
-        "Softonic"
-      ],
-      "date": "2026-11-14T15:05:35.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "ai",
-      "score": 10.35
-    },
-    {
-      "id": "1evi7af",
-      "title": "SpaceX rocket orbits Earth and returns to launch pad in world first",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTnNNQl9wRE9lMDlQTFI3aldtaHlsV2lXN1lDaUR2SUFjcGF1ZjMta2RkUHFOV0NLLXNHM2g0SlJ5bmQtN2tpeWFvcXhBYXZ2ckdwWVJKbENTYTlZZi13dHNObmwyUlE1bWtRRFRtVldseUdBb3Z6anNNdW1wcWlxUXhPbFd1UVBZWWEwdVdVc2lEbXhRZnJJUVNyR2JKZHVqWS1QYUhqWHFIdw?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "sources": [
-        "ABC News & Headlines – Australian Broadcasting Corporation",
-        "JournalArta",
-        "Seeking Alpha"
-      ],
-      "date": "2026-11-14T15:04:31.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 15.35
-    },
-    {
-      "id": "nfqbe",
-      "title": "SpaceX says Starship Flight 15 booster aborted 'chopsticks' catch due to guidance issue (video)",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNUmJBWWVWaXJISUlFUVducUpSWnRCYWsyejhzeFpnaXRvU2I2SGU3TlNzYUZZX0NnNzdSbm11amNQQ2hoV1VtY1NqVHo4SGNhbXVRMlZlNUo1V0tfSXNqcGY1TDNMV2ZvU3REUEIwUGVvMTFUSll2R2RvSUR2RVdZMm1LcW1HNVZtY0x1ekx4dkw5elIwckdrTlJWU1JYUEpBOFJvblNtSnpVNEZLSU1palRwczNpT0pKZHoyNTdwOGlUSWtqc3FxaDhQd1NwTzcwbWxyM2Q5U3gxRk9WV1hoZmtOMzRiYzNlbnN6eW83RC1uQnFTSUNTbVhBclZTVlZSWEE?oc=5",
-      "source": "Space",
-      "sources": [
-        "Space"
-      ],
-      "date": "2026-11-14T14:53:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 11.31
-    },
-    {
-      "id": "1jmcew1",
-      "title": "Why did Starship Flight 15 booster abort 'chopsticks' landing catch? SpaceX still investigating (video)",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
-      "source": "Space.com",
-      "sources": [
-        "Space.com"
-      ],
-      "date": "2026-11-14T14:53:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/zL7m9oeA7WKcG6pLoC3NTB-1920-80.jpg",
-      "snippet": "Update for 3:40 p.m. ET on Nov. 14: SpaceX's Kate Tice provided more information about the booster abort at about 3:30 p.m. EST (1830 GMT) on Nov. 14, during the company's Flight 15…",
-      "category": "space",
-      "score": 14.31
-    },
-    {
-      "id": "ebyj0t",
-      "title": "ULA delays Vulcan launch again awaiting chance to help Amazon play catchup to SpaceX",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZjJsaXhiaFE1NGJpanVBNEpQa3Y4bWQ5R0VpM1lTUl9xdV9fVDJfdGpHdUJlRlZFYVIxdW5HUkhqZHpvbWxuUVFwXzVaTG94YVpLWm1pWTdnLS1wNnFaSElBMDRBSjRNT3pCa29DQ3NySEVveldlbEtUaFc1aG03SVpnU3lQZTY0Z0NUN3ZHa184cXNYcThJanVLa2ZSV2ZkMlJaTzJFeENIQnlPZ2F5TUdFNEs0OTlGNnBr?oc=5",
-      "source": "Orlando Sentinel",
-      "sources": [
-        "Orlando Sentinel"
-      ],
-      "date": "2026-11-14T14:37:42.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 11.26
-    },
-    {
-      "id": "1bys96t",
-      "title": "Who profits while Elon shuts down Starlink?",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtOU90d1J2UUF1VURTa3lyMGNFSWlNbWxObmJQOG5Mb1FCd2VSVGI3S2RoM3hyRjhKczZEdlNadWwzNWUxdkh6OXBIQ19FT2o0UmxzMnFSOE5MZGcyZTJ1dFJmT3lVZV9KaDVocHpLUlNtLW9jYThBYw?oc=5",
-      "source": "The Counteroffensive with Tim Mak",
-      "sources": [
-        "The Counteroffensive with Tim Mak"
-      ],
-      "date": "2026-11-14T14:21:58.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 9.2
-    },
-    {
-      "id": "1fetgqt",
-      "title": "Starlink row, Donbas withdrawal floated: Ukraine-Russia latest",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSV9IOEFMbHdaaGxScUtXaWhoZHk4Nk5xa0EyMUEydzdiOHZhVk1vcXo0Vml6cWFWejJBWDhfN2RaSFk2ZVhYLUt3RS1MOTZZdk5YeWpXU3VHZk1VQ04tbUI3MzVXdndnMTJYdDNWRXM2LU1tdjJhQXRBRmplb05xcEdia2d3TlkzZFR2dXJkVG9KSEZuME9mSjkzNjByWjAtbTVleklua0ZDMU5BOTFEVWY1ZHAtckh5NHRv?oc=5",
-      "source": "CGTN",
-      "sources": [
-        "CGTN"
-      ],
-      "date": "2026-11-14T14:21:19.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 9.2
-    },
-    {
-      "id": "1dlyyy9",
-      "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcHNvWnNROEliNGFNNUNHR1ptc3hPLXVRWUYwRjl3dmM5aC1pYVBmOURoZk1Hanh6cEp0eG1LWUh5bDUwRXpnVFlWMFNpQzBVVWdrX2FUcXdydzJHTnd5dV9RbDZOYlk4U2V5UTRSazRVZ3BvR1dZVlUxSkFBUFhhblNydnhJcm1FbDcwY1JFYUNVRTZtbWVvaWRGa01WNkY5QVJudEE1VkZydw?oc=5",
-      "source": "The Verge",
-      "sources": [
-        "The Verge"
-      ],
-      "date": "2026-11-14T14:18:36.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 12.19
-    },
-    {
-      "id": "19dv7mu",
-      "title": "Ben Hodges Calls for European Starlink Alternative to Reduce US Dependence",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNG1kV2ktdGRiOEJBek1PUFFRa0g5Q3dJWFVwOXN2cHRSMWVPS25kc0FQTXB5TUYxejh6SkRrTGVzUXc5bkRHTG03SEx1VDF1TDhzcFFvUEp3TlU5NW1lUWVNNjdEU0FDOENNRmNFcGcyLVRnN0o4NjNyc05DZk9hUUpVZktDNnAyQ3V0VjI5c2VlcmEtcnNwOFNWMzA5WjFzWm4xTWJBYnZnUEJ4cGdidWdWV1lmQQ?oc=5",
-      "source": "Военное дело",
-      "sources": [
-        "Военное дело"
-      ],
-      "date": "2026-11-14T14:01:14.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 9.14
-    },
-    {
-      "id": "rqvysj",
-      "title": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWxWWXV2SzNsbkhDOUtQWVVfWVp3RjdkRVB0djV0TUpnU0ExUVFnWk1Ba1BiS0F4RkpSVVBibDFhWXowWTVnYklLX1BnMTUzbndYeVJfSU1zNnJtbC1XMnFoYXRQZC01NXViRnRrLWpGUmQycG1MSHktQ1Vublo5QVhUS2ZFZk5MZEpfNXcyc0t1Rk9hakppUExNcEZZMGc3RlpBR2o0RHVQdE9pM3ViaHFLNkg?oc=5",
-      "source": "Bloomberg.com",
-      "sources": [
-        "Bloomberg.com"
-      ],
-      "date": "2026-11-14T14:00:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 12.13
-    },
-    {
-      "id": "14vjbdx",
-      "title": "Tesla invites select customers to buy Cybercab for personal use By Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTkloemtfdkttYU1abWEwZWxZRFpDSklOYVd4VXB0bFk0bW1xbDZCNTR5M1p4R2RUQXJsUmZpSXBfUkkwWlJZVzFsN2xab2djZFVScWdQUWRfZTJRLXB6S2VaZnNuS0lFQjFRdldnNDZBRlhUSVQySDZCZk5pM1BlR1FfSFgwTERscWlIRGhLYW5feExmc1dvY3k5NkdFN3dBMGU4aWNVOUk4TlNvU2VzT3c5Y0VCUHJ6anRTdw?oc=5",
-      "source": "Investing.com",
-      "sources": [
-        "Investing.com"
-      ],
-      "date": "2026-11-14T13:55:51.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.12
-    },
-    {
-      "id": "7ff0t9",
-      "title": "Inside Tesla’s 2027 plan to put its humanoid robot Optimus to work",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR19ua1I3V1NjTXhTSW5MY2pVS0RnQk9VaGdxc2hSZVN4VTQ3UzB5TldWd21ZaUwtaVF4Mm92c29aUFQtWUd5dC1oUXctTWxOcmVNSUItX0JPSkhRZEFDTHhWRl9YVzdUVnRpaVhsVENzeUpKY2JqaWhJWUp1S21BZnQ2TkR6Mkprc2FJMVJqYzRCb0tEMy1jYWFSVGQtMWV6YzliQnRadHUzaTg?oc=5",
-      "source": "Interesting Engineering",
-      "sources": [
-        "Interesting Engineering"
-      ],
-      "date": "2026-11-14T13:39:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "robotics",
-      "score": 9.06
-    },
-    {
-      "id": "8niues",
-      "title": "Tesla Cybercab’s autonomy agreement is insane: $299/mo or it doesn’t move",
-      "url": "https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/",
-      "source": "Electrek",
-      "sources": [
-        "Electrek"
-      ],
-      "date": "2026-11-14T13:33:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&strip=all&w=1600",
-      "snippet": "Tesla has posted the agreement that comes with its $29,990 Cybercab, and it’s even worse than the order page suggested. The two-seater can’t move without a $299 monthly “Autonomy…",
-      "category": "mobility",
-      "score": 10.54
-    },
-    {
-      "id": "lygauc",
-      "title": "Tesla Cybercab ownership will come with plenty of strings attached",
-      "url": "https://www.teslarati.com/tesla-cybercab-arrives-steep-ownership-fine-print/",
-      "source": "Teslarati",
-      "sources": [
-        "Teslarati"
-      ],
-      "date": "2026-11-14T13:32:34.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f9f5.png",
-      "snippet": "Tesla’s long-promised Cybercab is finally available for personal purchase, at least for a select few in the Austin area. But it’s far from a straightforward ownership experience. The…",
-      "category": "mobility",
-      "score": 10.54
-    },
-    {
-      "id": "jc1tcb",
-      "title": "Tesla and Amazon are building the workforce a 1921 play imagined: One that never asks for a wage",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSVZSNlRiWThVSVE3eGxDOF9CbkdGZ3NCUTA4Tld5bDNYR3NtTmRRSXctLXpqRlcwMGFpaWdobXpoVE01UVJsNlRpMzlWNzdvcFJrU0tQYkxJRGRwbEdsamZZUmF6Y1JtUng3WWxMMGFDd2VoX3VMeWFEVE5iYjhtZXJocURXNzhiZUhaRHBubw?oc=5",
-      "source": "Fortune",
-      "sources": [
-        "Fortune"
-      ],
-      "date": "2026-11-14T13:26:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 10.52
-    },
-    {
-      "id": "15fo8rx",
-      "title": "SpaceX Hollows Out Its AI Video Division. Elon Musk Now Has Different Priorities",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUm5XMUludHFEYVljVHFOY1dIa2R3YnJnd1dZSWpiLWZoNkNEcHQ5VE9nckM2Vjh6MzgyWkNRS2V1eTN4SWF2aDR0RFl2OGQzNVFyeUw3QjlxT0ZhdWY5b084Y19UVzY1TWRwMWtrbzVUdmZnYVhsek5sNkZ2ajJ1WXlFbWNEcnd1NE1tQjNEOVFVc3JtWFlfaUVQSXVaRTkxTG1BUDRHUVZGRFdkUmhkWVZyTy1YWnhld1gzanE4eTE?oc=5",
-      "source": "24/7 Wall St.",
-      "sources": [
-        "24/7 Wall St."
-      ],
-      "date": "2026-11-14T13:16:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "ai",
-      "score": 9.99
-    },
-    {
-      "id": "do6kw",
-      "title": "Elon Musk Says Cybercab’s $299 Monthly ‘Autonomy Fee’ is Too High",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DcWw0TG9KSkpia2psaUg3VGFOX0FLVGp1amZIWWh4MkJuSEpFbTdiNU5nUVFiZ05oUlROZzBfbEtVOVZCRWJjel9ndjV2RlBYQW1iNlM1MlA1WHgtd1owQjVKNjlobFhKUS1zcDZzTVdkS1E?oc=5",
-      "source": "Drive Tesla Canada",
-      "sources": [
-        "Drive Tesla Canada",
-        "Gizmodo",
-        "Electric Vehicles"
-      ],
-      "date": "2026-11-14T13:13:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 13.98
-    },
-    {
-      "id": "3v4z1d",
-      "title": "'Now everything changes': SpaceX catches Starship upper stage for 1st time ever (video)",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
-      "source": "Space.com",
-      "sources": [
-        "Space",
-        "Space.com"
-      ],
-      "date": "2026-11-14T13:00:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Bn6L7LBhuT5CaGFgDgYCRM-1920-80.jpg",
-      "snippet": "SpaceX caught the upper stage of its Starship megarocket for the first time ever today (Nov. 14), a landmark achievement that could unlock the giant vehicle's immense potential. Starship…",
-      "category": "space",
-      "score": 15.94
-    },
-    {
-      "id": "3z9a2z",
-      "title": "SpaceXAI cuts about 60 Grok Imagine staff to push coding tools and agents",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZjA3LWd0RjhIRWo5R29iVW1oMmRkeHRQRmlMVkF2UlNMY0oyaUxyV2ZQYXk5eHY2NF96cWN6c1lvTEtnc2IwSkZ1M1VnM0ZfbnJ0bl96bzhlTlM3RmFqUjNnMTl6TVFuS0pfLUhDS2x1ck1UQ1Bkb2xhSUxjY0dmZG4yYU5GSXJxUnpUQVVuTXk3VkxoVU9tMWtWR3BYb1FVbVBr?oc=5",
-      "source": "Startup Fortune",
-      "sources": [
-        "Startup Fortune"
-      ],
-      "date": "2026-11-14T12:47:27.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "ai",
-      "score": 8.9
-    },
-    {
-      "id": "p947ws",
-      "title": "Starship In-Flight Update: Starlink Deployed, Booster Abort Explained & Amazing Views!",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZUJTOGowem5ELUxlT0UyeV9PUUp4VExQTXZlOWVsT0l3S0NKZ2pyOVB2cHFGOE5UUjFXRG5DcDRTUHJtLUN4WG9iUnp1S0lyNkJUalZnVWh1ZWtlQXlQY0tBYU5qM1hkZGhTLTZHeEFyak5MdWswZk9abnBRdUFneEpNUnF2WDd0Y21qRmFGcXBXd1Jy?oc=5",
-      "source": "Yahoo",
-      "sources": [
-        "Yahoo"
-      ],
-      "date": "2026-11-14T12:45:49.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 8.89
-    },
-    {
-      "id": "3d0ac9",
-      "title": "Tesla’s $29,990 Cybercab Comes With A $299 Monthly Catch",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb3NJajFQRzl2YjBRcTRISnhVX2QyVkxZMjROa0pxQWlUNGpIcVItQmU2aktvaWR0c25mUG1yeHZCcDBNelc0cjZSREVGb3lSak5fcEtUcFQwWFNpOTdkSnl0UmZmQ2Y5MDd0OE1KSVVfRG8zcTVuZ0dURzJfZHdwMnR6ZEo1NXIwWVE?oc=5",
-      "source": "Autoblog",
-      "sources": [
-        "Autoblog"
-      ],
-      "date": "2026-11-14T12:45:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 10.89
-    },
-    {
-      "id": "1k4vclf",
-      "title": "SpaceX deploys Starlink satellites in Starship test, but booster crashes into Gulf",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNnpZMHNXRkc0U0xrV1lHbDF1YVZTRzV4NXFJRUlZQWJTQVlDWHozMmlvUmlRd3BONEJiUGxqcHhHSWZpUkI2R1JBVkRaSW0tUXF4R2NlaDNUTmc5ZEVnNFA3NnJKaDNZMWFscWpUOGl6S0tuRzBNYW1Camc1Ymp6ZXNDdEZFS3RKLTVUN1YzMWpKOVYwQlY3VU5GY3BBS3lkWU5YZWJqOTRsY2ZfYzlueXlEWXF4NnZCS1RablMtd3JhWlIy?oc=5",
-      "source": "NPR",
-      "sources": [
-        "NPR"
-      ],
-      "date": "2026-11-14T12:40:21.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 10.87
-    },
-    {
-      "id": "14slem3",
-      "title": "Tesla Out-Earns Ford and GM Even as Rivals Sell Twice the Vehicles",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVV3U5emtCR2ZzVk53Y0NVRUgycFE0LUdzVEtYOTJxbWt0YlNScGVUYTl1X0JsYjl2bTRDVjlxVkdNSThNaTlvdERhZEx0X0p1dXQ2WVIwMF9KeGpZaHIwa2JvVmxZNTR3WmJWOUlkM3ltMlFrQmc?oc=5",
-      "source": "BigGo Finance",
-      "sources": [
-        "BigGo Finance"
-      ],
-      "date": "2026-11-14T12:25:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 8.82
-    },
-    {
-      "id": "zsoa7g",
-      "title": "Jeremy Clarkson Tried The Tesla Cybercab And It Worries Him",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNek9BVlg5cTVGX2J5ejVPT1BkSTNzRmZjV1IzdEhLRlM0Ym9GeTM3Tm4teXhFTldaZDlZUGU2S0tRUUVqRnViMjBiYnhINzhOWjlYN19mZkk1Z3ZkSno3NTFwNkZCQ1o1MnUySV9lbm9JaldBN2g2QllmN0ZYSkk3amlmTTJYYjUw?oc=5",
-      "source": "AUTOJOSH",
-      "sources": [
-        "AUTOJOSH"
-      ],
-      "date": "2026-11-14T12:07:26.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 8.77
-    },
-    {
-      "id": "s9ld9s",
-      "title": "The US Democratic Party is demanding that billionaire Elon Musk reserve the rights to Starlink in Ukraine.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVUtjX0RxWUZOaG1fNG5fSzFKUWpiRUpOOEVfVFM2VnNETVpCaUdlYTVMR3hJcFhhQ2tUOHMwd1lKX25DaFo0VVY2YmdoRThOSGlyaWxveGo5cVV2cXl6cWxhNEdlSi1wXzZvdFNiRDBfX0ZpM2NfSXNFdXhFTndQQU82cDVZUGJoUTRUejRPV0RYSTdpeEVFNkxCR0dFYWlC?oc=5",
-      "source": "Vietnam.vn",
-      "sources": [
-        "Vietnam.vn"
-      ],
-      "date": "2026-11-14T12:07:14.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 9.77
-    },
-    {
-      "id": "1rx79r8",
-      "title": "EV driver finds 'driverless' Tesla Cybercab blocking charger — then a man returns for it",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM0RQVldmajhSazJXNWF2LTROUmhvNTBTU05Pc0VOTHVXN1lpR1ZLNThzMVk3MFJpd2pIemlOVzViS3VSZlJULWlHNHN2Uk9JOS1rMFFOX1AyQkIwcEVpakE3QmhwWDRKajhHM2lMeGJYYmZiQjIxcHJ6U2lXRzdyOWpmQ0NCNmdxcjNCWGphYk5ZdW5ROHQtWWdWTGlJcF92?oc=5",
-      "source": "Yahoo Autos",
-      "sources": [
-        "Yahoo Autos"
-      ],
-      "date": "2026-11-14T11:39:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 8.68
-    },
-    {
-      "id": "12zwji9",
-      "title": "Forget Elon Musk’s Tesla Roadster ‘Rocket’ — a Chinese rival has 7,000+ orders for its nearly $300K flying car, due 2027",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0NYd05UcklYSVFIZ0JwTUVtZVZHaUJEc3lJcUY4QXVaS3I2MTJnMzVGbXJZZEZRQnFVQ1p5bXhnNFRWUnZWa1R6LTljYTdIVW91T1M0TjRtZDZmcEZtU3NFYk41R1o3VVNWa0Fmd284dktzWVluNVVJT25qQmNsUW02TktyN1lMeDI4Y1ZpSUFjczliRndR?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance",
-        "MoneyWise.com"
-      ],
-      "date": "2026-11-14T11:35:08.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 13.17
-    },
-    {
-      "id": "mhplir",
-      "title": "Senate Dems Seek Starlink Records from Musk",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTUVUZnNVbUlLdV9aYmpKZS1oZ2ZMVWUwekFDUDFYQnQ3aXUtM0Z3amg3V21ydU85c3RIQVJicEtwMkdQMUt6OFVvQjZQNXAxTzRHenhmNXAwQUY3anZLbTZBdnpvWWUwa3Y3R041VkNSUU55Ums4WGs4RF9UbFRWTzlfTjB3QklDT2NqMENMeUVyZw?oc=5",
-      "source": "Briefs Finance",
-      "sources": [
-        "Briefs Finance"
-      ],
-      "date": "2026-11-14T11:25:17.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 11.64
-    },
-    {
-      "id": "cdodgk",
-      "title": "[2026-11-13] Ranking Member Shaheen, Senator Coons Demand Elon Musk...",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQeURuSFd3SHZsbmQwOWk2QlZKY2JmdlBBRk1lYU55TzdRUjVwRlM4NlVjZUI0WWdoRVE1Z00zSktydVJ0dWtmcmZQVXBUZ3ZGeXk0RGpIQ0tYQktHNHRhaUl4bzJDN0tyeWttdEdrY1lwQ2ViUFU3MjBQa1lucEp4QXBkTDhBd3hmOXFYVzRfeWRvY1hjeFgtTnotQmVsMlQ2NTZPVmVwSlBndWVsQjhHQlZLdUNVRmU2NC02UTFaR05lYUpOUEh2dG4wM3ZxaXRYSWRwZmgweXVLMTFvYmd3SmczbnZ0Qzhic2xDekNKaktEUUxRcFpyQTZndHhYTl9zNWwxTQ?oc=5",
-      "source": "United States Senate Committee on Foreign Relations (.gov)",
-      "sources": [
-        "United States Senate Committee on Foreign Relations (.gov)"
-      ],
-      "date": "2026-11-14T11:07:07.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 9.58
-    },
-    {
-      "id": "1e0pbd9",
-      "title": "Senate Democrats prepare to flex new oversight powers against Musk",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JNldfUThvbEp4cmN0eUdJbEZLczBvd21RZFViOWhtMU1GbXRzM0Uya3phVmFXV3ZqeFZDMnc2c3BWQUFId0JNelhmV1UxbHNDTVpqNjE3RXdvLXBwSXByV0c1VE1iZXhySGFSTkljM2doUXJmWjM0?oc=5",
-      "source": "The Hill",
-      "sources": [
-        "The Hill"
-      ],
-      "date": "2026-11-14T11:00:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 9.56
-    },
-    {
-      "id": "9o55pv",
-      "title": "Democrats order Musk to preserve records on Ukraine's Starlink restrictions | Restrictions had disrupted Ukraine's drone ops | Inshorts",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmpGRlJ4QldZTkJ3SzZjcm55NURmbWdUUkJYdEpHcWp3NE0tLTdaTDBEM3BRbGliaTRCZnNKY05xNDFIWmhYYU5OblBXV0hjVkEzNjhEdmo1VHJIRzNYcXVfaUVpdlpiRU9CbTBSUkRLZll3X1BBSzlsRzRvRTZ0OTB6ZElRVHRCdGlHMU8zb3R3dk5lLXpCd2hrc1ZsWGQ2anBqSm1CUl9lYk5aTGxfcHhNSUoyV1Zya1HSAb8BQVVfeXFMUFZKZHN1R1NxemFKSmVjd3kzYkgxVzhGd3JkSUNCUGFQdno5c2FON2oxQ1JvdTIxYndqYTcyeEdUY3dyQ2lGbnY5V1dtNGRGaUlIeGpxQ1dOZHJjU3ZVZ1lJX2lZcGN5NWZqWjliRUZoUkg3MkRTcko2QWE5U0dDUmtKY1RLekJqTGpQcFVTUHVyTGJuYzI4V1JrUkJQek5HTG9wN1ZQTGN3dl9faURqRHhJRnJRMFJicXFfc1pYb3c?oc=5",
-      "source": "Inshorts",
-      "sources": [
-        "Inshorts"
-      ],
-      "date": "2026-11-14T10:33:14.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 11.48
-    },
-    {
-      "id": "155lq5f",
-      "title": "Tesla puts steering-less Cybercab on sale for $29,990 before the end of 2026, as Musk promised",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa2d3LUZ0TlVibVdWcEMtNUhaamdFUFg4alNYYm42TUtRQ21uQ2thQmFjTHBjR2RJeXN3eEs4N1Awa1ZFZGR1NUtDQXE3Y2Ixb3hoNWEyS3ZTaUF3Zzg0NUFEUjJEcUZYcWJoNVZXbHRYOGZvZEdHeHV3V2NLeHlLS05ib3MxemdXaDlTRmF6VjhEajdHN2FFUUllU0RFWVBIMHlzZFJXOGVMZ3A2cjE1TWxkNjlaU05rNXRMaDJqOUlwOE1Qa0pVaHUzOA?oc=5",
-      "source": "Tesla Oracle",
-      "sources": [
-        "Tesla Oracle"
-      ],
-      "date": "2026-11-14T10:29:06.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.47
-    },
-    {
-      "id": "9zdb15",
-      "title": "Tesla Opens Cybercab Purchases to Select Private Buyers",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV3JrNnF2Rl83ei1YRlZxbzV3VGlxaENVUHZKYVU1b2FCRFRYRGUyWllsbDM2N0dVRjd1LUFxcFpaWm9XcmFnS2lzdWhlX2ZZbDIyVkZIbHJqclVJSXNPT1NsYmZFaXlMdnRUek9jaUNTX3ZabGc4Zk5GZkpVeXdyaWFmM3ZvcGwwVmtfdlFmeTVtZVZOQ3IwUHdydGFwUQ?oc=5",
-      "source": "The Defiant",
-      "sources": [
-        "The Defiant",
-        "The Supercar Blog"
-      ],
-      "date": "2026-11-14T10:25:13.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 10.46
-    },
-    {
-      "id": "1sem5hf",
-      "title": "SpaceX's Starship encounters problems during 15th test flight",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUhNVDJPYm5teDBIMGdOc3gyUE8xcnJoQVdJbmhlOU5ORlZXdWV2cmJYRkpRQjRjeF9aQ3NsanhDc0VwbVNNN0RCSnIzY3dmTG5lczA2a0ZwUmdodS1WM19VOU5Nd1VlSHRLT29YREVjcVk1MHZEb0c4SC1kNUlCdzBhM2dIT2t1c0JvTWtGZkVYc0U?oc=5",
-      "source": "France 24",
-      "sources": [
-        "France 24"
-      ],
-      "date": "2026-11-14T10:12:47.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 8.42
-    },
-    {
-      "id": "1pvoftv",
-      "title": "Is Grok Losing the AI Race? Elon Musk Says Claude is Better “For Now”",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VazE3YUNfWmdBaTBIdDM0dDE3TEppb20zMXJxOTZ2NlhPYnV5LVl6Y3poMFluNUVVcUszX3Jpcy1mRkNqaEhFNmhrUGdVNTBHUkNUaU1OUGhYX1E2aXJlU1JwUG5fQ0paZE8zRnBn?oc=5",
-      "source": "BeInCrypto",
-      "sources": [
-        "BeInCrypto"
-      ],
-      "date": "2026-11-14T10:00:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "ai",
-      "score": 9.38
-    },
-    {
-      "id": "mj9mb6",
-      "title": "Tesla opens Cybercab orders at $29,990 with a required $299-a-month subscription and December deliveries",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZFFKdmt3Z2NrM1FhOXdKUWFoQXYxSGRITTdPQUMtWXZpNnVMX3NUUEVkNmIwQmh5OUROWks4SXptaURnY1ZLM29wNUhwZ3dOXzV2WjZVVElZMGk2LTdBc0JiaUwzNTFaeDZ2enczT1BxV25lcWs0U3gtdHg1V25VSkhsQkdDUEJsSkR5OUdJLXo3LVJEV0xaa0Y3Y0NJQkJ2aEJtaUpITlNpTmFZaFdyU2NZZlc5SUp2Wm1hRUZlSQ?oc=5",
-      "source": "MLQ.ai",
-      "sources": [
-        "MLQ.ai"
-      ],
-      "date": "2026-11-14T09:49:30.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 10.35
-    },
-    {
-      "id": "4e2g54",
-      "title": "Tesla invites select customers to order their own driverless Cybercab",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQnYzT0pySXBydEJoQlc3Rl9IY1lXck8weHdDMnpMSF9tdzlxNFM4em5ENGI5RVNxUDVQek9KN1N4Wi1teEdRQlppUnlJTThibjdkOC1jU3F4T0Q2ZTV2aUdRWEpOY0kzMW81RTJuNXBXd0pHazB5YkxDMHd0N3dtUVJrVVdfMm01eG1RUlAxcmtlLTlHbnFTWlFJc3ZzbFY2NnNyRUZ6OEhEc1d1OTlhNW92THJ2a3dWQk9JWGE1aWVCMVdlZmQtajFIUQ?oc=5",
-      "source": "The National",
-      "sources": [
-        "The National"
-      ],
-      "date": "2026-11-14T09:42:47.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 8.33
-    },
-    {
-      "id": "1vp4yzr",
-      "title": "Grok Bot 1.0 just made AI teammates a LOT more useful. They can actually keep up with the whole office. Bring them into Slack, Microsoft Teams, or your meetings, and they can follow conversations and remember decisions. The more your team works with the",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OZ3FpQkJlUjJsYmg3V21lZ29FbUp6by1MVm5MQXRPWXcycDFBcVFVSlVxOGpCUlZURTE3YlBtVm1LRDRCWl9KVXhhYjFtUlZHS1B3S0R5cjMxTXZ3ZERjUVg1U0VFRGc4emViaA?oc=5",
-      "source": "X",
-      "sources": [
-        "X"
-      ],
-      "date": "2026-11-14T09:30:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "ai",
-      "score": 8.29
-    },
-    {
-      "id": "suut8z",
-      "title": "SpaceX Super Heavy booster explodes over Gulf of Mexico after Starlink launch - News Today | First with the news",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTDU0TnJocWNmbUN0cF9wam9rRGZsckxORXdZQW1UR09aU2d3RmxGRmRqdmdHOWpzNF82cTRJMWxxYzBzS2Nnc01FOFBqdzdFR1JEM1RtOXNRTFZNb2p5RkI1RFdYRHpnbTVtOEo4b21Xc05RNl94NDdWUXQ1V19NRldpM3NFVjBCSk51bmpmUEFBWjBsbXRhYjFNWGpkNlhDWXowTVBHeWhDNmFzcnZ6SWk1VVM?oc=5",
-      "source": "News Today",
-      "sources": [
-        "News Today"
-      ],
-      "date": "2026-11-14T09:28:30.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 10.29
-    },
-    {
-      "id": "1f9vkf",
-      "title": "Elon Musk Signs Petition to Reinstate Jensen Huang as Nvidia CEO: how 10 outlets framed it",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMTNPR0NPWGRXak5pQmxadS1QWlVkUUt6UDRMc3RzVEgzZjRnWVRXMmZtQVpXa25OVU15Zlp5SHRNVE5MY3B2OGlXQVFNNFM4Y196WV80M0FSYlV1b0F6Qm0yX2dzVGRWeDR0ZktDT0RqWjZPSkg0dkVOOEFySVBieVNMNm9JN0Q3azJJX1dFVDB5eUxXT1Nxal9KREExRF9JNkUxZ04tbW9kTkVIWDV3NEVfZjhaWDkxV3ZsbnFPX0tuR040UWNyRzV5QUZGMDBXUnczTQ?oc=5",
-      "source": "NewsCord",
-      "sources": [
-        "NewsCord",
-        "The Federal",
-        "The Indian Express"
-      ],
-      "date": "2026-11-14T09:16:46.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 13.25
-    },
-    {
-      "id": "1jtqixp",
-      "title": "FILE PHOTO: Tesla Cybercab driverless taxi travels through downtown Austin Texas",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTUdLdXFOY1g1c1cwM0NKOVJjV0lLcmxrN1hjdFlJR0ZhWGM1cnl2SC1ETjNFcW55QkpJYk54UHJfQnpPU3FUdEkyVlhaeWsyMngxQThpdnQ3TFMzU240WWJrNVJnVWZ6QnNmNlBBdnBfM1NmaWpTaWNCODJRRjhEQ1BfV3NtQ21GYjhnUTlfR3BfSUxRUlByY0RWLVgzM1A1a2NwczNUNTg5UVcydUZob3hjaUp6dGRyYVJkeEVxMjl6eTRkQkZneGM1bTA5eUZsUmQ4NUlHVmZ0MkxtYlM0T0ZWcS0wRDdsdno0c09GeU5nZkxEbVBKZ3lwOGZUQWx1Vlg0VA?oc=5",
-      "source": "The Daily News | Texas' Oldest Newspaper",
-      "sources": [
-        "The Daily News | Texas' Oldest Newspaper"
-      ],
-      "date": "2026-11-14T08:55:12.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 8.19
-    },
-    {
-      "id": "7jjwlh",
-      "title": "Tesla Opens Sales of Autonomous Cybercab for ‘Select’ Customers",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMThvUmpYTW5TY3k5M3dGODhWa0RtOS1XY1ZHMVBBMEl0eU5UTVBLbWNZLVRTeFhBWnQzMjRMSF8zNV9oMWRUbzRhN0tieHJkblRyc0lZdnJQYmJ1aThMUGptc3VqbU1Fc0VqUldRUUptODA5VU5uZHhoS0FRS240MlB3MVpLRTE4d3cwODBMdndrS19GYkJEbExXSHZ6SVdOcjhuMkR5ek0?oc=5",
-      "source": "WSJ",
-      "sources": [
-        "WSJ",
-        "Tech Xplore",
-        "Daily Sabah",
-        "Traders Union",
-        "Tekedia"
-      ],
-      "date": "2026-11-14T08:09:21.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 16.06
-    },
-    {
-      "id": "1iknfku",
-      "title": "Key facts: Tesla merger talks; Cybercab preorders; FSD up, income down",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcUZkZzNWSzVYUWN2VjRXVHlORk1hRDB6UHNYZFAtdndJcUFCX3l4NG0yeklqX3dUNjJmWEZicGNvUVprZWNsQk4wcDF4RnB6Qm9xeU9CRFkzR2pVUGpUS3pQcnhaYTRhWnk3M2RsTzJmLW4tclo2R3d5ZnJGOWtzWnU4QXVkZi1kcThYck8xLWdLc2dnalhuc25rMDZmLXUwdzRGaHE5OVRMZUFHa3Nhb1hJOUdEZzJoV0h6R0ZSa0ZwSFdDT1hV?oc=5",
-      "source": "TradingView",
-      "sources": [
-        "TradingView"
-      ],
-      "date": "2026-11-14T08:00:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 10.04
-    },
-    {
-      "id": "c5jxeq",
-      "title": "US senators demand that Musk preserve documents regarding Starlink restrictions for Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbXMyNlI5Vmo3SkFCS2V0Qi1KcXpxNGJpMl9GaUpYY1FwMm4xdTA1T19pVDdrOUJQWUM0aUxWX2dxM3RYeVVqSE1LYlljVmZLS0RvM3ZGWGV4S1JSMUtBa2ZoVTd3SVZYTVdmTzd4eWhOVE5QQW9ESUhkSkU0QTdDM19xN3QzTzhtcUNYMFJHNEl0YmlES0lBMHBNMjJwMnhmeHJMb0d5SlBseTZ0OTFRZklTTlZHQngxaVBCY0dIN2s1ZGPSAcgBQVVfeXFMTVYyQkNxM21Cb2NVX1F6cGM1eFBnNDVQWXZSNkx6OWFEWFBlRE5jci1tZllkOW1kMGx4MjNFYW5Hbm43ZzFWWlpPM0JNVFZfZTZPZkE4LUlvWUZQNHpTZnlUVUltNzgzZmY5Z1FTWjNVaGRXM2xLRlkxdFdoTXQ2Q3N2TnlGSjlneFAyb2FCOS10YXg5by1EeXdyTE00NWJaNGlrUUJTYkdrc3NUMUF2eGhkNEs5MTVhWk9MVjJ6cjVRLTVoX3Q5MGU?oc=5",
-      "source": "LIGA.net",
-      "sources": [
-        "LIGA.net",
-        "Цензор.НЕТ",
-        "Informat.ro"
-      ],
-      "date": "2026-11-14T07:39:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 12.98
-    },
-    {
-      "id": "1mdeuxt",
-      "title": "Can you make money with your own Tesla Cybercab? Not under Tesla's terms for now",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdlN1NmdxaGpUR1M5Y0tCNmd3N1RRY1NsNV93cmlzdXhRZ0RYVnlCQUJiNkEtOGpLUTVJbkdYcGV5cWNqdG5JV2RRMFJMQm1aM2VNT1A5VVJMOVJCVi1vY0ItRGlWdmszRjQzZjljQnFiS192cDlWZHZybDlHV21zSFp5cnpLUDNHcUw4Y1BzSk5idDY5VVdiZWl1TW5MR3V6ZTdHN2hRT1M?oc=5",
-      "source": "Nacionale",
-      "sources": [
-        "Nacionale"
-      ],
-      "date": "2026-11-14T07:29:19.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 7.95
-    },
-    {
-      "id": "1qrs4bm",
-      "title": "Tesla Opens Cybercab Sales to Individuals for First Time: Priced at 215,900 Yuan, With Mandatory 2,152 Yuan Monthly Subscription",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43cE5UeC1rR2tQNDAyVVY4UDhZdUcyNGNrd2RheUFqLXhpeVZ1dGRuOE0yaGQyMkdoS1FXZzJSc3pTM05iaUNQOFJhTndqbThrbzg4bmFDN1BlZmVQU3doRlplMWl6Z09nb2d1S0dyRDRpYnNNZEE?oc=5",
-      "source": "BigGo Finance",
-      "sources": [
-        "BigGo Finance"
-      ],
-      "date": "2026-11-14T07:25:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.94
-    },
-    {
-      "id": "gb13il",
-      "title": "Tethered to Starlink: There are reasons why it's not so easy for Ukraine to quit using Elon Musk's services",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WdEl2dmF4Z1hVQkxibzV6aHFRc2Y3TjdfRkluTjVldm9BQUtjNEFJS0tUdlN2aE5Kc3hZWjgzb2ltcHFzVk4yZ05NYXB2VGFO?oc=5",
-      "source": "https://theins.press/en",
-      "sources": [
-        "https://theins.press/en"
-      ],
-      "date": "2026-11-14T07:18:33.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 8.92
-    },
-    {
-      "id": "8apdx5",
-      "title": "U.S. Senators Want Answers About Starlink in Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc1YzOU5jUk80VGt4a2VNSWc3a2F6cWJ3MFlHZTBONTZLWnkyVGVHR2Z1VXFkQURNMVFpczBkREtHT2ZSLWlQZGRja09DdUVObzMzdlQybUd4T0ZKeTJodDJVTERaRW1nOTF2OFBtci11ZG56SWpYWmRHa2xzNFdBVGxyemQ3aTV1QW1HdnhvWEpWZUlGT2VrdUV3?oc=5",
-      "source": "blue News",
-      "sources": [
-        "blue News"
-      ],
-      "date": "2026-11-14T07:16:45.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 7.92
-    },
-    {
-      "id": "m3qn8s",
-      "title": "Tesla Cybercab Orders Open: $299/Month Autonomy Plan and Delivery City Pick",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYkNLcDRoT3k5UHB5NTE4Y1k1cTFlYXE2aFIzZ05XMzYzaUpPVG1Od1U2SmRoWGVOanpIeUN4eXUwZlI2MzFkdWpMM05vRUtvRUluTXBXc3MzY1JseThWSVQwY0F2UVV1WVAyMkR2dmJnWndSb3JzY19iVUlQSVZwczJ3VmRITDRpYU9vckNvWXRkOF81Vk9RaHdxaVVRa0w2d1JIYjlNOUFGLU5C?oc=5",
-      "source": "BASENOR - Tesla Accessories",
-      "sources": [
-        "BASENOR - Tesla Accessories"
-      ],
-      "date": "2026-11-14T07:02:09.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 9.88
-    },
-    {
-      "id": "1u46bu7",
-      "title": "U.S. senators seek records from SpaceX over Ukraine Starlink disruptions",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd1Fnb3A4WkgxUDBiNzZOVTJ0T0lyOGF5NlJrZ2JOa2FXTVVjUVpxR1ZpQlpuZTRIMnFCdzZWWjQ5NGhFdjVvYWFkUUx3TE1EbWd2VWxNVUlFUkwzSkdyOEFwVEZHUHYtV0VQNmUtQWt4bWhDYWlrTU9yd3REVnM5by02enpVQzN2UnZpcF92eVl6Z2lRV1Q3RE9n?oc=5",
-      "source": "Traders Union",
-      "sources": [
-        "Traders Union"
-      ],
-      "date": "2026-11-14T06:17:24.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 9.76
-    },
-    {
-      "id": "mbnrcq",
-      "title": "Tesla Cybercab Now Available For Purchase For Select Customers — But There’s A Catch",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2l5b2Rza0ZHLVYzUWp2NGlvR3ZuLTBXaEtKZmJvODg1VHBwWDJtX0pPaVIxWFExZXFyc3FCMHlBbjNhX1ppQ0ZwRkVNZHV2cVpqRzU1SWNqR3c3bnNqMmxFQWNlXzVEX2NheTJ4ZXpBR0pWdndEZi04LTZQMXNJTVVYSDZQSVJZQnhSY2hqbWxHY1p6OUpnWnl2bW1DU0U2WGVVMA?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance",
-        "TradingView"
-      ],
-      "date": "2026-11-14T06:09:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 13.23
-    },
-    {
-      "id": "fcpect",
-      "title": "The unsung heroes who stood up to Elon Musk and Doge",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcmYxR2FXWGY3VVBmVEMyUGg2bGNnN1VSRmFRVGNNWE82WmdIWkI3bWFFSUJZTDU3WjZRdEhCYUJLYW1pUXB2YlcyQWRCVHpFMUJFc2xVM3Q5R3ppanEzWEN3ZklYTUwzTG1BYjB4b0w4Q3ZyNi1MT2JsdlNJUk4zaDlWV0xJNFVBYWVKWHRQS3hIek5RMlJyalducEVGRmttRXRvY19NN0lQTWVDbEViYW5UdTJ0cUsxTVFPRmU3Rm9CSzlqcC1STTF1SFRYRkNtNndZb3MyRGM?oc=5",
-      "source": "The Irish Times",
-      "sources": [
-        "The Irish Times"
-      ],
-      "date": "2026-11-14T06:01:57.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 8.72
-    },
-    {
-      "id": "1a08yi2",
-      "title": "Cybercab is making ME TIME look a whole lot more appealing. A quick lunch outing in Austin now comes with a golden, driverless Tesla pulling up to take you there. No steering wheel, no pedals. Just a seat, a screen, and a car that handles the entire trip. That",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xaFRxQW9xdXFiU05QeUpMandEQTVHcGJrQ01EQTAwSHhZUW1ySU5UUDlqa00yYkI0UlJKb0NvWGVPM2VJX2J0b0o2ckM0bkRmcGdPeG1zNVpkU3hnRm5IYVpKaFV3aDhjbXBEVA?oc=5",
-      "source": "X",
-      "sources": [
-        "X"
-      ],
-      "date": "2026-11-14T06:00:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 7.71
-    },
-    {
-      "id": "1pr1fa4",
-      "title": "Tesla Starts Selling Cybercab — $30,000*",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54Wm5reW55N0lKbUFuajYzaUJNZjAtSmxoY1o1THljWmhqWURIamZMMkdZNzZTMVV0bUFBMWw3MW41U3RtTlhlYVhxOHBVazBpZUNqMmJITGg2eDhNSjc4cjVqc2pQY0NFbjhyekpwTnllUEpiMWNXcGNvMjQydw?oc=5",
-      "source": "CleanTechnica",
-      "sources": [
-        "CleanTechnica"
-      ],
-      "date": "2026-11-14T04:57:57.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 7.55
-    },
-    {
-      "id": "13eeqz1",
-      "title": "Full Transcript: Ron Baron Interviews Elon Musk at Baron Investment Conference 2026",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOHBObVk5T2gxVl9ZS0Z6ZVp5dFQweGgyaGVBVXRtR0RjckhSakRSd2Q1SDZPZnk3dGM1WVdsNEdqNXRiWEtIZ3V2SzRGbVFwOUk3OVBTdnIwUGw0dkc5dUJsSWx4cW9BTGdNX3dLd0haVE1hWWd5c19GUEVYcWlHdnE5MmxNbC0zX0phNFhtQlFUaGVKc1RHOTBhbUhWS3ZrNEdDTzMwWkladw?oc=5",
-      "source": "The Singju Post",
-      "sources": [
-        "The Singju Post"
-      ],
-      "date": "2026-11-14T04:56:03.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 8.54
+      "score": 8.59
     }
   ]
 }

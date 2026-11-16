@@ -1,36 +1,36 @@
 {
-  "updated": "2026-11-15T02:10:17.172Z",
+  "updated": "2026-11-16T02:24:37.451Z",
   "hashtags": [
     {
       "tag": "#SpaceX",
-      "score": 105
+      "score": 69
     },
     {
-      "tag": "#Starship",
-      "score": 94
-    },
-    {
-      "tag": "#TowerCatch",
-      "score": 55
-    },
-    {
-      "tag": "#SpaceExploration",
-      "score": 43
+      "tag": "#Starlink",
+      "score": 51
     },
     {
       "tag": "#Tesla",
-      "score": 22
+      "score": 36
+    },
+    {
+      "tag": "#Starship",
+      "score": 30
     },
     {
       "tag": "#ElonMusk",
       "score": 17
     },
     {
-      "tag": "#Starlink",
-      "score": 13
+      "tag": "#TowerCatch",
+      "score": 17
     },
     {
       "tag": "#Cybercab",
+      "score": 15
+    },
+    {
+      "tag": "#SpaceExploration",
       "score": 11
     },
     {
@@ -38,7 +38,7 @@
       "score": 10
     },
     {
-      "tag": "#ReusableRockets",
+      "tag": "#Robotics",
       "score": 10
     },
     {
@@ -46,11 +46,19 @@
       "score": 9
     },
     {
-      "tag": "#Falcon9",
-      "score": 7
+      "tag": "#SatelliteInternet",
+      "score": 9
     },
     {
-      "tag": "#Robotics",
+      "tag": "#Optimus",
+      "score": 8
+    },
+    {
+      "tag": "#SPCX",
+      "score": 6
+    },
+    {
+      "tag": "#Nasdaq",
       "score": 6
     },
     {
@@ -58,19 +66,11 @@
       "score": 5
     },
     {
-      "tag": "#SatelliteInternet",
-      "score": 5
-    },
-    {
-      "tag": "#Optimus",
+      "tag": "#Robotaxi",
       "score": 4
     },
     {
-      "tag": "#SPCX",
-      "score": 4
-    },
-    {
-      "tag": "#Nasdaq",
+      "tag": "#HumanoidRobot",
       "score": 4
     },
     {
@@ -78,7 +78,7 @@
       "score": 3
     },
     {
-      "tag": "#Starbase",
+      "tag": "#SuperHeavy",
       "score": 3
     },
     {
@@ -98,15 +98,11 @@
       "score": 3
     },
     {
-      "tag": "#Robotaxi",
-      "score": 2
-    },
-    {
       "tag": "#PayPal",
       "score": 2
     },
     {
-      "tag": "#HumanoidRobot",
+      "tag": "#ReusableRockets",
       "score": 2
     },
     {
@@ -122,11 +118,15 @@
       "score": 1
     },
     {
+      "tag": "#Falcon9",
+      "score": 1
+    },
+    {
       "tag": "#FalconHeavy",
       "score": 1
     },
     {
-      "tag": "#SuperHeavy",
+      "tag": "#Starbase",
       "score": 1
     },
     {
@@ -164,29 +164,29 @@
   ],
   "keywords": [
     "SpaceX",
-    "Starship",
-    "Tower Catch",
-    "Space Exploration",
-    "Tesla",
-    "Elon Musk",
     "Starlink",
+    "Tesla",
+    "Starship",
+    "Elon Musk",
+    "Tower Catch",
     "Cybercab",
+    "Space Exploration",
     "xAI",
-    "Reusable Rockets",
-    "Neuralink",
-    "Falcon 9",
     "Robotics",
-    "Grok",
+    "Neuralink",
     "Satellite Internet",
     "Optimus",
     "SPCX",
     "Nasdaq",
+    "Grok",
+    "Robotaxi",
+    "Humanoid Robot",
     "Dragon",
-    "Starbase",
+    "Super Heavy",
     "IPO",
     "Musk Systems",
     "Future Technology",
     "Systems Thinking",
-    "Robotaxi"
+    "PayPal"
   ]
 }

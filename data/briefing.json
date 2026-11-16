@@ -1,118 +1,52 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "windowLabel": "LAST 24H",
-  "total": 150,
+  "total": 114,
   "counts": {
-    "mobility": 43,
-    "space": 61,
-    "connectivity": 20,
+    "mobility": 29,
+    "space": 44,
+    "connectivity": 29,
     "ai": 7,
-    "business": 17,
-    "robotics": 2
+    "robotics": 5
   },
   "topStory": {
-    "id": "5hjllk",
-    "title": "SpaceX’s Starship returns to Earth in dramatic catch by launch pad arms, in photos",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcEh0VnVya3BHaU9jSHEyZ081bW5xN1dHTURidUEtZ1VXTHlZcmtxc0JTODlFenFTaTBwbE1yUmNRdW84alpLVmJ0dEtLa1RMS19qRzFaZkRVaUVRRmVvS05faHBXMmpSV3pQRFVKb0JmNXhGcUxWSEN5X2N3UWVuMHRqQkdQOEVza013eWtxLWstNUhHa3RSUWpSb1lpQlBZU2dyWjN4TElQOGY5YUtBWHNYYUJlSGVYcXBuc0hXUHMzU3pMdElMUFkwYzgxZw?oc=5",
-    "source": "AP News",
+    "id": "n7wx5v",
+    "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBWUw2MG5NVUhnUkZqMkZmNzJGQi1xSmtXUHdfenVpLWd3QmJUMHNiNzJMRmp1R2g5bXdvSjI5MVlRblBnWFJ5T2t5cks4US0tNUwzSndiZVluM3YtbXc?oc=5",
+    "source": "BBC",
     "sources": [
-      "Yakima Herald-Republic",
-      "WTOP News",
-      "Springfield News-Sun",
-      "AP News",
-      "CT Insider",
-      "The Northern Virginia Daily",
-      "chronicleonline.com",
-      "Beloit Daily News"
+      "BBC",
+      "KOHA JONË",
+      "The Journal",
+      "cedarnews.net",
+      "Gazeta Express"
     ],
-    "date": "2026-11-14T22:10:24.000Z",
-    "firstSeen": "2026-11-15T02:10:17.172Z",
+    "date": "2026-11-15T17:57:09.000Z",
+    "firstSeen": "2026-11-16T02:24:37.451Z",
     "image": "",
     "snippet": "",
-    "category": "space",
-    "score": 25.95
+    "category": "connectivity",
+    "score": 21.91
   },
   "topList": [
     {
-      "id": "4tfv6i",
-      "title": "SpaceX catches upper stage of Starship rocket in historic first",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGFvOUM3TDc1a3hvVXppS0tjbklLX3MyS094bGRNVFh2dGxVbGRLRFRJZmxpS0VHa2hQRHNBMHJqZ2Fxd2wzMzBOazZPQzJ2dEJtRThqYW9yV0VzTUVrVWFDbmtVYUVjTElyUnB4U3pOaG5qaTdGOUxSWTJscUpOMzBmeWUybXFWc25WdU9tT2JUOF9qZGpid0I0S0hrR1pyWVlZcUpB0gGrAUFVX3lxTE16S1ZpTnRzaHp5LS04QlVFOXNLNmJhNHk3SXZsendHTHJacURRcjFFWVUxT3d2UDhpa0tVeTRXMXdUcGNIV0VacUZDbHdYR0U5MmVtSzlKZnVyNFpRQ3I5Q2RuOFBzLWNJQ1VXVHVYNlNfQVZYVTdJVVdqaFotNEF1MG1rN3ZPaW1DVEZ2dWlIQ0QtOFBrYllrU3NTekpDNVh2Nm5UUE9xTXd6QQ?oc=5",
-      "source": "CNBC",
+      "id": "vpcnuw",
+      "title": "SpaceX pulls off first-ever spaceship ‘catch’",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0JUdUQ3ZjhDc241ZWZ5RURLb2M0Nk1ieVZaZWxILUJlXzRZZGVoOUZvTlQtdTZvanZ5MUZrQno2RzdKalJqRjMzWVM4UlVaTnYxQ01DcUZUQ255N2RmQUM2b3hnQ0l3SEtzdDdRTXV5bkpDWXhFWVFCTWtyS1ByM3BNUEVpSmVnTEdKTW9aS19ZN2hMMk9uVTFacw?oc=5",
+      "source": "The Japan Times",
       "sources": [
-        "CNBC",
-        "Barron's",
-        "SpaceNews",
-        "Houston Chronicle",
-        "CNBC Technology"
-      ],
-      "date": "2026-11-14T21:14:46.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "Starship Test Flight 15 marked the first time Elon Musk's company tried to catch both the booster and upper stage of the rocket.",
-      "category": "space",
-      "score": 23.72
-    },
-    {
-      "id": "1wc4woi",
-      "title": "Musk says Nvidia will lose 'critical' deals without Jensen Huang",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5",
-      "source": "Reuters",
-      "sources": [
-        "Reuters",
-        "The Hill",
-        "CTech",
-        "The Times",
-        "The Jerusalem Post",
-        "The Korea Times",
-        "Global Banking & Finance Review",
-        "Forbes Middle East",
-        "GV Wire",
+        "The Japan Times",
+        "Le Monde.fr",
+        "AFP.com",
         "NDTV",
-        "Moneycontrol.com"
+        "Taipei Times"
       ],
-      "date": "2026-11-14T15:06:17.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 23.35
-    },
-    {
-      "id": "vg8pfj",
-      "title": "SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3BNak83bkJ3N2NOejJudW5NdDlHQl9tTmZ1OUFSak9iRTZmMlo1OFAyWVJnU25GdjRLbVNOSllnekdvdm1tcFlxbnJRY2RnRks4WG4ybjZlX3dnNE1HQ3E5S0dpVGxwNDZqLTVwM3JlLWJmMDYtNjhZVXgycFJjbzFPME50Z0ViRHNWTDhYSmdfeW80UDl4NlduZGdLR0R5ZmpIa05B?oc=5",
-      "source": "Reuters",
-      "sources": [
-        "Reuters",
-        "The Lufkin Daily News",
-        "TradingView",
-        "The Straits Times"
-      ],
-      "date": "2026-11-14T21:40:00.000Z",
+      "date": "2026-11-14T23:04:20.000Z",
       "firstSeen": "2026-11-15T02:10:17.172Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 21.82
-    },
-    {
-      "id": "haevg7",
-      "title": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTWNvcDREbHZiSXNEQkpxS1dFb3NzcldSd1BDdDY1aTdBSWtDaXZOSWc0WU01XzJwQU5EWU5iVGVfeGVXUW8zYm0zaVJSeHgxN0FUXzBJOWFLR2pmTElZdnJFbVdqZDktSk5ySmZzQzEtclhobmYwenUxanhjSU5vampR?oc=5",
-      "source": "The Guardian",
-      "sources": [
-        "The Guardian",
-        "PBS",
-        "Durango Herald",
-        "Nine.com.au",
-        "The Independent"
-      ],
-      "date": "2026-11-14T21:32:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 20.79
+      "score": 16.68
     },
     {
       "id": "19wwj3z",
@@ -130,40 +64,79 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 20.68
+      "score": 16.18
     },
     {
-      "id": "12nsxm7",
-      "title": "SpaceX Successfully Catches Starship After Launch For The First Time",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2x2U255WVhZdHVMR0d4VElLSGw4R05zSjFOOUFiald1RkV6UUw5dnpmb3JrOTBZbk9meEhGNjZnTG1Hdm1kcFBHcFVnNDRRZmw0LWJkeWJNUWliU0hmdHdsYTR2Z2lYTjMweDNmUldIRWQyWG9CWjF1QkluZ3gzYnJ1eGk3bHF1ZEpKMnhhWElYTnJ1MVFqSVZDcTRnT0pwdGt2T1c3M0VGTE0?oc=5",
-      "source": "Engadget",
+      "id": "10v80nw",
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUxOYm5OblhQZDVfeDdldl90VHBYZ2VkUlFRT2J6a0Etc2NuM3B1RkgyUUpjSUFHNmNaMl9TN1dudUg1VDVjdUhGTzN2UFU1d2x0UGJWUGlhb1IwZWdOUzJtaDVhMG4ySmZEV2dtblhuaTVoRUNGNnNqZV9raDdaS0pYZjlpVElSRzlYWDNkQmppSFA5VDBCNXRtREQyUHEycjRIZEd0SkUxLUppN3ZpR2wxMA?oc=5",
+      "source": "Ars Technica",
       "sources": [
-        "Florida Today",
-        "The Jerusalem Post",
-        "Interesting Engineering",
-        "Engadget"
+        "Ars Technica"
       ],
-      "date": "2026-11-14T21:31:40.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
+      "date": "2026-11-15T23:11:54.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 20.29
+      "score": 16.15
+    },
+    {
+      "id": "13iavng",
+      "title": "What's next for SpaceX's Starship after epic Flight 15 chopsticks catch?",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-epic-flight-15-chopsticks-catch",
+      "source": "Space.com",
+      "sources": [
+        "Space",
+        "Space.com"
+      ],
+      "date": "2026-11-15T11:00:00.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/T38fmGMPT8J5XSbVo6Ud9L-1920-80.jpg",
+      "snippet": "Starship may have just made history, but it still has some work to do to get fully up and running. The megarocket launched on its 15th test flight on Friday (Nov. 13), aiming to pull off a…",
+      "category": "space",
+      "score": 15.52
+    },
+    {
+      "id": "1s1h4iy",
+      "title": "Pentagon Rocket Provider Hit by Failure While SpaceX Soars",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYjFiUTduZWFLVmlUemd4SmlPYUpnSG9QLWpycTFfbmxpMEwtd1MxbnJpVU1vYnNoMlYtSG8xOEJjOThHQnI3NWQ0NVlybzAtbG5XbnJfR1o0d3M5ZjJaMTA4RVNrdVlmR2duc0ljd2VYTl80ajAyME1HMjU5VWRrb2hkSGdPdzNHc0JHRnktMG5tc29aTjAwN09OSUpSLU1KNTM3ZlllUFZJOHNrRkE?oc=5",
+      "source": "Bloomberg",
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-11-15T23:15:39.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 14.16
+    },
+    {
+      "id": "yk51f8",
+      "title": "Is SpaceX now the only option for US military launches? For now, mostly yes after Vulcan's failure",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVUxjZ3hzWlFPYWtWeW1WWHpwLWlTVlpmT2NacHB0Vkp5YUdUekJzWV9uS3FBZ3NfV3VyTzdFRExiMUUwenBSNUk4c1JwR3lObm42VGgzVlJnQkYwSHltb2Q2NjUtczhaS1RuM3JCS0RIZ2ZWVWtpVWNMRkZWaDdVbDhtNm5Bbl9NZXROeUE0ZjR0Z2RXZFVPTmdBUElsQjhBcTctR2t2Z0E2VnZmc2xMazNVVms?oc=5",
+      "source": "Nacionale",
+      "sources": [
+        "Nacionale"
+      ],
+      "date": "2026-11-16T01:42:12.000Z",
+      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 13.81
     }
   ],
   "trending": [
     "SpaceX",
     "Starship",
+    "Starlink",
     "Tesla",
     "Cybercab",
-    "TowerCatch",
-    "SpaceExploration"
+    "TowerCatch"
   ],
   "spark": [
-    {
-      "date": "2026-11-02",
-      "total": 135
-    },
     {
       "date": "2026-11-03",
       "total": 132
@@ -214,9 +187,13 @@
     },
     {
       "date": "2026-11-15",
-      "total": 15
+      "total": 116
+    },
+    {
+      "date": "2026-11-16",
+      "total": 12
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: Space. Top story: SpaceX’s Starship returns to Earth in dramatic catch by launch pad arms, in photos.",
+  "summary": "114 stories (last 24h). Most active frontier: Space. Top story: Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'.",
   "editor": null
 }

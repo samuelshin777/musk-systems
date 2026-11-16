@@ -232,10 +232,18 @@
       "robotics": 2
     },
     "2026-11-15": {
-      "total": 15,
-      "mobility": 2,
-      "space": 10,
-      "connectivity": 3
+      "total": 116,
+      "connectivity": 29,
+      "space": 46,
+      "mobility": 29,
+      "ai": 7,
+      "robotics": 5
+    },
+    "2026-11-16": {
+      "total": 12,
+      "mobility": 1,
+      "space": 7,
+      "connectivity": 4
     }
   }
 }
