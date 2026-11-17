@@ -1,15 +1,15 @@
 {
   "engine": "v2",
-  "lastRun": "2026-11-16T02:24:37.451Z",
+  "lastRun": "2026-11-17T04:48:18.601Z",
   "mode": "live",
   "ok": true,
   "editionKept": false,
   "sourcesOk": 17,
   "sourcesTotal": 17,
   "failed": [],
-  "newItems": 120,
+  "newItems": 150,
   "totalItems": 150,
-  "nextRun": "2026-11-16T22:47:00.000Z",
+  "nextRun": "2026-11-17T22:47:00.000Z",
   "scheduleLabel": "DAILY 07:47 KST",
   "staleAfterHours": 26
 }

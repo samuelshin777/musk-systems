@@ -1,105 +1,105 @@
 {
-  "updated": "2026-11-16T02:24:37.451Z",
+  "updated": "2026-11-17T04:48:18.601Z",
   "answers": [
     {
       "q": "What is the latest Elon Musk news today?",
-      "a": "As of 16 Nov 2026: 114 stories (last 24h). Most active frontier: Space. Top story: Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'.",
+      "a": "As of 17 Nov 2026: 150 stories (last 24h). Most active frontier: Tesla. Top story: Tesla plans $3.3 billion Cybercab boost for Germany's troubled auto sector.",
       "links": [
         {
-          "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBWUw2MG5NVUhnUkZqMkZmNzJGQi1xSmtXUHdfenVpLWd3QmJUMHNiNzJMRmp1R2g5bXdvSjI5MVlRblBnWFJ5T2t5cks4US0tNUwzSndiZVluM3YtbXc?oc=5",
-          "source": "BBC",
-          "date": "2026-11-15T17:57:09.000Z"
+          "title": "Tesla plans $3.3 billion Cybercab boost for Germany's troubled auto sector",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHd0RC1iZmQwWUtkTl9CYjJVMUhGYmtxNEZyQU92Rm5mZS1OZ0Z2bHl6TmJuLUFJYWpQUW5GQ1h2anVqSHR5TDF3aThnaWhDd3lDYl9oY3VqbTVLaUMwMGtSME5IckZnZE5PQVhURTNPQ1BaS2tBejl6OU15X1B1N3VOM0o3dktRbnpLSjc1eWI5WWs4bjZqNnFOOA?oc=5",
+          "source": "Reuters",
+          "date": "2026-11-16T17:35:46.000Z"
         },
         {
-          "title": "SpaceX pulls off first-ever spaceship ‘catch’",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0JUdUQ3ZjhDc241ZWZ5RURLb2M0Nk1ieVZaZWxILUJlXzRZZGVoOUZvTlQtdTZvanZ5MUZrQno2RzdKalJqRjMzWVM4UlVaTnYxQ01DcUZUQ255N2RmQUM2b3hnQ0l3SEtzdDdRTXV5bkpDWXhFWVFCTWtyS1ByM3BNUEVpSmVnTEdKTW9aS19ZN2hMMk9uVTFacw?oc=5",
-          "source": "The Japan Times",
-          "date": "2026-11-14T23:04:20.000Z"
+          "title": "Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch",
+          "source": "Space.com",
+          "date": "2026-11-16T21:26:29.000Z"
         },
         {
-          "title": "SpaceX Starship historic landing",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRm04T2xLXy12ZUpFb2RFT0E4ZmF2LVBCdVl2azZ5LXItdVd3Z2tyOVczdmJ3QkUwa3RQWEJTUUN5djJkd2tPRnN0akhlYktsQnVpbURrQnd2T2RWWm1GcXJBMUlpZUZldHRLQjhKZlpHdC1uY2EzckViWW54RjViZXNxN21xNWEydC1YWmp4YXN5bHFSQjFrbUZIejRvdVJiY1dkeTJB?oc=5",
-          "source": "CNN",
-          "date": "2026-11-14T23:05:00.000Z"
+          "title": "SpaceX Just Brought a Starship Back From Orbit and Caught It. Here's the Part of the Business That Gains the Most.",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcTJadUY2RmJOWkpyZ3NHSmNnVzlVLTZ1OWNKUF9nUFpiUm9XUzhoVTd2Y0hBRlNxNDVNWk1PVzQzeXdaWG9qenJYSXB1S2luVWE5MkYtNzFDdWxYVzFMWEYxUUlpRDZRd0dFdTNWQy1YMGVMSXlDV1l5eUhWU3h0NkJGMA?oc=5",
+          "source": "AOL.com",
+          "date": "2026-11-17T00:53:00.000Z"
         }
       ]
     },
     {
       "q": "What is SpaceX working on right now?",
-      "a": "Starship: Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate. Starlink: 10,000+ satellites; V3 satellites now flying on Starship. Latest: Is SpaceX now the only option for US military launches? For now, mostly yes after Vulcan's failure (Nacionale, 16 Nov 2026); SpaceX Starship Tower Catch Succeeds After 14 Orbits, but Booster Is Lost to Fuel Shortfall (Tech Times, 16 Nov 2026).",
+      "a": "Starship: Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate. Starlink: 10,000+ satellites; V3 satellites now flying on Starship. Latest: Starship Heat Shield Survives 22.5-Hour Flight Nearly Intact (shattered.io, 17 Nov 2026); How Starlink Works for Business (India Shipping News, 17 Nov 2026).",
       "links": [
         {
-          "title": "Is SpaceX now the only option for US military launches? For now, mostly yes after Vulcan's failure",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVUxjZ3hzWlFPYWtWeW1WWHpwLWlTVlpmT2NacHB0Vkp5YUdUekJzWV9uS3FBZ3NfV3VyTzdFRExiMUUwenBSNUk4c1JwR3lObm42VGgzVlJnQkYwSHltb2Q2NjUtczhaS1RuM3JCS0RIZ2ZWVWtpVWNMRkZWaDdVbDhtNm5Bbl9NZXROeUE0ZjR0Z2RXZFVPTmdBUElsQjhBcTctR2t2Z0E2VnZmc2xMazNVVms?oc=5",
-          "source": "Nacionale",
-          "date": "2026-11-16T01:42:12.000Z"
+          "title": "Starship Heat Shield Survives 22.5-Hour Flight Nearly Intact",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQamF5SFZuWkgyQ1lKWVFSdVJJUTZ2alZwU1lxckZZSGxJSVhCYzkyRUo2R3RrWjJ0YmtjLVJlX21DT0p2VEZjWkZqamwwNXRNZ3JsU1lxUjVaMEdMeXh0QkhNblVMMW4zREpCLUZvYmZiNTZjOTlLUUNYYW5vVzBFNUFMaGdmRElX?oc=5",
+          "source": "shattered.io",
+          "date": "2026-11-17T04:33:04.000Z"
         },
         {
-          "title": "SpaceX Starship Tower Catch Succeeds After 14 Orbits, but Booster Is Lost to Fuel Shortfall",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbm50VTJTZzNXRnBrNEdnai0xb3BWLTZKTUpNelQ4LXg1S3piOHg4Yms2UnFjc193dVB2bk5EemNFR09yQlZzLUV0ZHFWUW5lcDlLZzVpazVHajFuWVA2VDh4cjFLWmVIVmJVRG9Wd20tbm9GbjJkZjRlcGk3SFJOVGNMM0Rlc0ZGYVhsWDZ4eThPdXRnUU9HNkpWR0dWLXBrWHpJRnk1bE1HRzdwVGs1S1BZNzhrWnpmeHdERkg3dW4zREhHUHB1UGd5QUttSU5B?oc=5",
-          "source": "Tech Times",
-          "date": "2026-11-16T01:36:18.000Z"
+          "title": "How Starlink Works for Business",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vWGs3VG9GR0t1WkxrS3U2NEhMTGd1TURZWVB4dTdjMExjOFNELWhvLWZIVmVFNFJUYWtWb2F6aGYxU0xpRWFsc0kyYVp6aWh0U0pfMHJzblFFcHFqRzZnVjc0R1NYaU1VYVdpZkJkOVpJWXFnWk9lMXlpNA?oc=5",
+          "source": "India Shipping News",
+          "date": "2026-11-17T03:39:06.000Z"
         },
         {
-          "title": "Samsung Eyes $1.9 Billion Texas Expansion for Starlink Chips",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xOUVOZy00MS1UcjdRN3JScFgzZVh2QjJ6WngtbF94Q00yUlRCOXo5bWU5by0tcXNIbjhyX2s1ZTFmZ1VQTnlLRVpCcFd1OUc0SVQwUzZDaGJlM0h4V2FmR3BLaS1sVVBvVzRkQXBJSFRRWVBxSnJtMWh4MnRqOHc?oc=5",
-          "source": "TeslaNorth.com",
-          "date": "2026-11-16T01:31:07.000Z"
+          "title": "Starship's Ablative Layer Is Out: 5 Details That Matter",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnJlWVpTT0VvTm9DME9tdUVwdHZRTWpmRlBrT1A5WGZtb0twVThnaGMtQVJ5NGpiSHlCeEctSVVOb0J1WTFMVnkwZTFiaFAxWDhUVF9uVGs4TFBDblNWNl9RdTktdnYyMHlra1VQT3JmVmxfN3dNQ2lBRkU1ajVSeW5CV0NPbWlMSkliMHFGM3dFZw?oc=5",
+          "source": "BASENOR - Tesla Accessories",
+          "date": "2026-11-17T03:04:33.000Z"
         }
       ]
     },
     {
       "q": "What is Tesla working on right now?",
-      "a": "Cybercab and Robotaxi: First Cybercab rides reported alongside Q3 2026 results. Optimus: Output targeted toward the end of 2026. Latest: South Korean automakers join forces to counter foreign robotaxis (mkbn.mk.co.kr, 16 Nov 2026); ‘Smoking crack’: Tesla savaged over new car (News.com.au, 15 Nov 2026).",
+      "a": "Cybercab and Robotaxi: First Cybercab rides reported alongside Q3 2026 results. Optimus: Output targeted toward the end of 2026. Latest: Tesla Announces The World’s First Fully-Automated Car That Private People Can Buy But You Probably Won’t Want To (The Autopian, 17 Nov 2026); Elon Musk's Tesla inks big office lease in NE Austin, reports say (The Business Journals, 17 Nov 2026).",
       "links": [
         {
-          "title": "South Korean automakers join forces to counter foreign robotaxis",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EMEQ2bFFKQzBXUnpweTAwalFfT2FCeEJMY0JTUUp0QlcyWVlrZ3VCSU9BbTlOTU5zTzQwZGtSWFFIVWxZcC1fblBySzFsSjZJYnY1WVJB?oc=5",
-          "source": "mkbn.mk.co.kr",
-          "date": "2026-11-16T01:58:21.000Z"
+          "title": "Tesla Announces The World’s First Fully-Automated Car That Private People Can Buy But You Probably Won’t Want To",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM28zeklZWFFsYkNyU1JFc3pHcFpSQjUzekwxdXRzWEM2N1FzWlAwUDB6RnhnZHljM3pmeEZXT09ZbXFBWFBNNkVJMjBZV2cySHhudmRXdVhEQ2tvaDJjUExPYVZ3WUVDekViSFh1b3R2eVNGb2ZNWGd2RDV2TWNTRGdEUlBOM3JzZVVJeEZIeGg1MVM2QVNPNmlZMU5zNnktUlFNV0p0b29sQllTRU9fQ0xSQW5VTFBid1Y2LVZ2bmJGcm9kd1JIUnI1SzVnN0phZmwtdm5B?oc=5",
+          "source": "The Autopian",
+          "date": "2026-11-17T04:36:35.000Z"
         },
         {
-          "title": "‘Smoking crack’: Tesla savaged over new car",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWlFWWTMzOF9aU2dsSmh3LW5qV09IWndGUk1haDFmWXM1bjJsMHYtYUNVcGdKZUR3X1FZczROZzVWU2txeUZ1RGhPUmVPNnJPMDBOMVJzbDJtNE5mdGJlVlQwNGtZRjlZYkdjMU03Q0NHclZUNjBhV3o3eEtSWXBvRWo0cEtacTlJcnAxMll2alh3clFqVTlPcDNUZ3NQQm5VWkNFdHdrMGxuZHFqaUd6U19ZdVVpODhOZzBCRy1QUUo3TXc1UVVsY0Q4SE1KNVc4YXF3NDRRRkhFSm_SAeABQVVfeXFMUHhrWjU1SV9LSkZETlRkcXBONEtITDBiV2pmTklVXzJoN0lZRDNIbDVzNVBaV0x6WGUxcTRua2JQeG1ZWERVeUVqWHg2OE1uRnZaZGMxdFIwWXU1dFB3Xzl0V29zdm9rSHUtTzhkaVVfWTlJMlVMY3lwSHhNMVp0M2hYTE5SX3NRNWo5TkRzSDRMczRpTzJDT2gyZDlZTVhaXzBvUGJfNXpkMmFBTUs2REphRlpBeGhHa3lUSVR4bDdLcmtWaThMQWgtSmZULUNGYUJncGJiUEsxLVJ3ZVlNOHE?oc=5",
-          "source": "News.com.au",
-          "date": "2026-11-15T23:46:28.000Z"
+          "title": "Elon Musk's Tesla inks big office lease in NE Austin, reports say",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZS1PbmYxbkYxY0N3SzdaRUk5TkN5VW9lWFNTWnZ0eEs2bkE5eENGWUc3R0o5WTBYeWR4WURKVU5uaEtpVXdOdU9QR01mcDRqcHpEc0dNaVlzNVptSzI1R3RvSFJCZGQ4aHI2TTRoakFxTHFwLVNINXFFMzBOTDNBdUY3alFpdElha09sTmM5V0huQm1HU21CdTQ5X2ZJWjVDWkRr?oc=5",
+          "source": "The Business Journals",
+          "date": "2026-11-17T02:49:00.000Z"
         },
         {
-          "title": "Why did Tesla step forward to sell ‘the $30,000 Cybercab’… is the answer ‘subscriptions’?",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGdGdrM1kzZHg4N0M5YXcweEpiMG5EaGk5NTZndVdUZU5KLWNTa2pyMlpoQVlHal9oSHJzaUVoaHNJTFVTMV9EaHlTdnhCeGdJMXBrUWhRaF8xVTlheHc?oc=5",
-          "source": "경향신문",
-          "date": "2026-11-15T22:17:00.000Z"
+          "title": "Tesla’s Plan to Build 1 Million Cybercabs Faces EU Roadblocks",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQzhUQlZjVWtQdjRvN0wtX3Y3Q0xOT194Q1V3MmJXWDNaMWR1Z1ZwVVZBcXM1Q05CWThsUXZSaXZKQUZldjZfTTZXT0V4ajB1ck9MRUtZU0l0SS1lcmZBSGtoMk5maXA5Z0tqeVU1U2szaWlNd0o1NkkxanhPTmt6ZDhMN0Fuck9CMERvNGZNUWdfOHNmYjNhdnFObTZ0NU9fVFRycFNqSVg?oc=5",
+          "source": "Gizmodo",
+          "date": "2026-11-17T01:20:54.000Z"
         }
       ]
     },
     {
       "q": "What are xAI and Neuralink doing now?",
-      "a": "xAI and Grok: $40B in debt closed for GPUs arriving in 2027; Grok releasing an AI-generated video series. Neuralink: Next-generation implant with more channels unveiled in October. Latest: SNU’s STARLINC AI Filters SpaceX Starlink Trails from Telescope Data (DongA Science, 15 Nov 2026); Grok Sees 35% Odds of XRP Sliding to $0.80, but $1.05 Year-End Remains Base Case (BigGo Finance, 15 Nov 2026).",
+      "a": "xAI and Grok: $40B in debt closed for GPUs arriving in 2027; Grok releasing an AI-generated video series. Neuralink: Next-generation implant with more channels unveiled in October. Latest: Musk Endorses Page's 'Five Nines' Vision of Orbital AI as SpaceX Races to Put Data Centers in Space (BigGo Finance, 17 Nov 2026); ARKQ's Concentrated Portfolio Faces AI And Elon Musk Risk (Seeking Alpha, 16 Nov 2026).",
       "links": [
         {
-          "title": "SNU’s STARLINC AI Filters SpaceX Starlink Trails from Telescope Data",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xR1pIcm1ubElDNzRSTXdlamxrN0JMRTkwYUdFY2FtRzRkdzcyc3dWQ0JFWHN3Qm0xd1dQWjJBcEY3SFFOMWlvd0dnS3M2dGw5VXlJOA?oc=5",
-          "source": "DongA Science",
-          "date": "2026-11-15T22:00:00.000Z"
-        },
-        {
-          "title": "Grok Sees 35% Odds of XRP Sliding to $0.80, but $1.05 Year-End Remains Base Case",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vV20weF9LQTljUWpLWkVGdnJfSFdURlBWaXFRWGlzV3Z4MTdBUHFCX09GY2gzdHdfWnkxdE9RR0xDN0g1XzAyS3dVT2tfVHNDdnppRFAwWnYwQmZCZzhSWVRQWGxmTjFGTTBPeGViN2lYd3dtZkE?oc=5",
+          "title": "Musk Endorses Page's 'Five Nines' Vision of Orbital AI as SpaceX Races to Put Data Centers in Space",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yNkMwX0F4YnNUajh4SERKcWVOUC00Z2lKN3ZVbjc1MGNxYVM1UFFjcGZ6NFc2aGF0ZVRVaHE0UHZoR1VGYU43ampXWnc3SlBMdWkwSV9mOU5TWXVFRWZKXzFGQUlBczFDYWN6bnd3RWQxVW5BTUE?oc=5",
           "source": "BigGo Finance",
-          "date": "2026-11-15T19:35:00.000Z"
+          "date": "2026-11-17T02:55:00.000Z"
         },
         {
-          "title": "SpaceX Starship Catch: What It Means For U.S. AI And Defense - SpaceX (NASDAQ:SPCX)",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVFJrMHBVNEhhVDJzeFhzaFFpamtQZzl3UkFqcnJuREZQUGZSZ3NNS1JUMWloTFc2QmxXMWtrX3ltWEtCYzhJY0RwTmFQbWtFeW1PV0lkMFE5RWhmOEJVcXRqWTgtQW9SenhhWl9jdXpUVDAxZlJUWERlY1VVQzJOeDhaYlFoR3FSN3dJYkxwZFkyMlU5eTZJQUJ3akZjRWNGQnJNbW9MZkdZdnB5blV1Y2Z6NGhJLWpLQkxKeU5FR2lFcDJWa0JGRl96OXR5U202VmQwc2hUdTBDZw?oc=5",
-          "source": "Benzinga",
-          "date": "2026-11-15T16:01:07.000Z"
+          "title": "ARKQ's Concentrated Portfolio Faces AI And Elon Musk Risk",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS3BSLUdDSVIwa0o0MFlUclhpakstLXBsM3JueU9UamVhSXEwQzVZeERHeGNMdXdCUUJUTDd3MGRBRVhUZHNPZ1dlYWphR3B2WXpZTFdhc09rQThyYUt4TXNKUUdZZ1hVMUl5WENhTHI2SWlPN3BjQ0R1S1g1bHVJMEZMRVA0bzBBOC1ScnZfNGlXWEU5aW1QMkR6RmMxdw?oc=5",
+          "source": "Seeking Alpha",
+          "date": "2026-11-16T20:42:44.000Z"
+        },
+        {
+          "title": "Grok Bot Is Now on the Las Vegas Sphere: What to Know",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMDBFdTBRVi0wa0czMHhhVXllTXhhX2hSbGswV1ZtdXZUUjJVZUxFZFdBWjgtTTM0YWs2VEZodEEza1dtZzQ4U1c2NVQ5NUxIZVNnNmlFR1BpSmY1aFdoUTV5WHIwX3cyZDR2SDZWM2E4NUNXZE95aHRpSm5JSXAtRU9tbUc3dHNNT1F2aE9WVUU?oc=5",
+          "source": "BASENOR - Tesla Accessories",
+          "date": "2026-11-16T18:04:22.000Z"
         }
       ]
     },
     {
       "q": "How often is Musk Systems updated?",
-      "a": "A new edition is built automatically every day at 07:47 KST (22:47 UTC). This edition was built on 16 Nov 2026 from 17 sources and holds 150 stories, each linked to its original publisher.",
+      "a": "A new edition is built automatically every day at 07:47 KST (22:47 UTC). This edition was built on 17 Nov 2026 from 17 sources and holds 150 stories, each linked to its original publisher.",
       "links": []
     },
     {

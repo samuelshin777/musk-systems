@@ -240,10 +240,20 @@
       "robotics": 5
     },
     "2026-11-16": {
-      "total": 12,
-      "mobility": 1,
-      "space": 7,
-      "connectivity": 4
+      "total": 120,
+      "business": 23,
+      "connectivity": 13,
+      "space": 32,
+      "mobility": 50,
+      "ai": 2
+    },
+    "2026-11-17": {
+      "total": 30,
+      "business": 5,
+      "mobility": 7,
+      "space": 11,
+      "connectivity": 6,
+      "ai": 1
     }
   }
 }

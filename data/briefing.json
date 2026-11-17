@@ -1,146 +1,138 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "windowLabel": "LAST 24H",
-  "total": 114,
+  "total": 150,
   "counts": {
-    "mobility": 29,
-    "space": 44,
-    "connectivity": 29,
-    "ai": 7,
-    "robotics": 5
+    "business": 28,
+    "mobility": 57,
+    "space": 43,
+    "connectivity": 19,
+    "ai": 3
   },
   "topStory": {
-    "id": "n7wx5v",
-    "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBWUw2MG5NVUhnUkZqMkZmNzJGQi1xSmtXUHdfenVpLWd3QmJUMHNiNzJMRmp1R2g5bXdvSjI5MVlRblBnWFJ5T2t5cks4US0tNUwzSndiZVluM3YtbXc?oc=5",
-    "source": "BBC",
+    "id": "1onih3f",
+    "title": "Tesla plans $3.3 billion Cybercab boost for Germany's troubled auto sector",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHd0RC1iZmQwWUtkTl9CYjJVMUhGYmtxNEZyQU92Rm5mZS1OZ0Z2bHl6TmJuLUFJYWpQUW5GQ1h2anVqSHR5TDF3aThnaWhDd3lDYl9oY3VqbTVLaUMwMGtSME5IckZnZE5PQVhURTNPQ1BaS2tBejl6OU15X1B1N3VOM0o3dktRbnpLSjc1eWI5WWs4bjZqNnFOOA?oc=5",
+    "source": "Reuters",
     "sources": [
-      "BBC",
-      "KOHA JONË",
-      "The Journal",
-      "cedarnews.net",
-      "Gazeta Express"
+      "Reuters",
+      "The Lufkin Daily News",
+      "LinkedIn",
+      "CNA"
     ],
-    "date": "2026-11-15T17:57:09.000Z",
-    "firstSeen": "2026-11-16T02:24:37.451Z",
+    "date": "2026-11-16T17:35:46.000Z",
+    "firstSeen": "2026-11-17T04:48:18.601Z",
     "image": "",
     "snippet": "",
-    "category": "connectivity",
-    "score": 21.91
+    "category": "mobility",
+    "score": 18.32
   },
   "topList": [
     {
-      "id": "vpcnuw",
-      "title": "SpaceX pulls off first-ever spaceship ‘catch’",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0JUdUQ3ZjhDc241ZWZ5RURLb2M0Nk1ieVZaZWxILUJlXzRZZGVoOUZvTlQtdTZvanZ5MUZrQno2RzdKalJqRjMzWVM4UlVaTnYxQ01DcUZUQ255N2RmQUM2b3hnQ0l3SEtzdDdRTXV5bkpDWXhFWVFCTWtyS1ByM3BNUEVpSmVnTEdKTW9aS19ZN2hMMk9uVTFacw?oc=5",
-      "source": "The Japan Times",
-      "sources": [
-        "The Japan Times",
-        "Le Monde.fr",
-        "AFP.com",
-        "NDTV",
-        "Taipei Times"
-      ],
-      "date": "2026-11-14T23:04:20.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 16.68
-    },
-    {
-      "id": "19wwj3z",
-      "title": "SpaceX Starship historic landing",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRm04T2xLXy12ZUpFb2RFT0E4ZmF2LVBCdVl2azZ5LXItdVd3Z2tyOVczdmJ3QkUwa3RQWEJTUUN5djJkd2tPRnN0akhlYktsQnVpbURrQnd2T2RWWm1GcXJBMUlpZUZldHRLQjhKZlpHdC1uY2EzckViWW54RjViZXNxN21xNWEydC1YWmp4YXN5bHFSQjFrbUZIejRvdVJiY1dkeTJB?oc=5",
-      "source": "CNN",
-      "sources": [
-        "Fox Business",
-        "CNN",
-        "Al Jazeera",
-        "Modern Ghana"
-      ],
-      "date": "2026-11-14T23:05:00.000Z",
-      "firstSeen": "2026-11-15T02:10:17.172Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 16.18
-    },
-    {
-      "id": "10v80nw",
-      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUxOYm5OblhQZDVfeDdldl90VHBYZ2VkUlFRT2J6a0Etc2NuM3B1RkgyUUpjSUFHNmNaMl9TN1dudUg1VDVjdUhGTzN2UFU1d2x0UGJWUGlhb1IwZWdOUzJtaDVhMG4ySmZEV2dtblhuaTVoRUNGNnNqZV9raDdaS0pYZjlpVElSRzlYWDNkQmppSFA5VDBCNXRtREQyUHEycjRIZEd0SkUxLUppN3ZpR2wxMA?oc=5",
-      "source": "Ars Technica",
-      "sources": [
-        "Ars Technica"
-      ],
-      "date": "2026-11-15T23:11:54.000Z",
-      "firstSeen": "2026-11-16T02:24:37.451Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 16.15
-    },
-    {
-      "id": "13iavng",
-      "title": "What's next for SpaceX's Starship after epic Flight 15 chopsticks catch?",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-epic-flight-15-chopsticks-catch",
+      "id": "3xuyuf",
+      "title": "Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch",
       "source": "Space.com",
       "sources": [
         "Space",
         "Space.com"
       ],
-      "date": "2026-11-15T11:00:00.000Z",
-      "firstSeen": "2026-11-16T02:24:37.451Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/T38fmGMPT8J5XSbVo6Ud9L-1920-80.jpg",
-      "snippet": "Starship may have just made history, but it still has some work to do to get fully up and running. The megarocket launched on its 15th test flight on Friday (Nov. 13), aiming to pull off a…",
+      "date": "2026-11-16T21:26:29.000Z",
+      "firstSeen": "2026-11-17T04:48:18.601Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/YttcVYXYfcRTqnR6tXAC2B-1920-80.jpg",
+      "snippet": "STARBASE, Texas — SpaceX has officially wrapped up the 15th test flight of its massive Starship rocket, successfully catching the vehicle's upper stage for the first time. Flight 15 lifted…",
       "category": "space",
-      "score": 15.52
+      "score": 17.15
     },
     {
-      "id": "1s1h4iy",
-      "title": "Pentagon Rocket Provider Hit by Failure While SpaceX Soars",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYjFiUTduZWFLVmlUemd4SmlPYUpnSG9QLWpycTFfbmxpMEwtd1MxbnJpVU1vYnNoMlYtSG8xOEJjOThHQnI3NWQ0NVlybzAtbG5XbnJfR1o0d3M5ZjJaMTA4RVNrdVlmR2duc0ljd2VYTl80ajAyME1HMjU5VWRrb2hkSGdPdzNHc0JHRnktMG5tc29aTjAwN09OSUpSLU1KNTM3ZlllUFZJOHNrRkE?oc=5",
-      "source": "Bloomberg",
+      "id": "12r7hh7",
+      "title": "SpaceX Just Brought a Starship Back From Orbit and Caught It. Here's the Part of the Business That Gains the Most.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcTJadUY2RmJOWkpyZ3NHSmNnVzlVLTZ1OWNKUF9nUFpiUm9XUzhoVTd2Y0hBRlNxNDVNWk1PVzQzeXdaWG9qenJYSXB1S2luVWE5MkYtNzFDdWxYVzFMWEYxUUlpRDZRd0dFdTNWQy1YMGVMSXlDV1l5eUhWU3h0NkJGMA?oc=5",
+      "source": "AOL.com",
       "sources": [
-        "Bloomberg"
+        "AOL.com",
+        "The Motley Fool",
+        "The Globe and Mail"
       ],
-      "date": "2026-11-15T23:15:39.000Z",
-      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "date": "2026-11-17T00:53:00.000Z",
+      "firstSeen": "2026-11-17T04:48:18.601Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 14.16
+      "score": 16.97
     },
     {
-      "id": "yk51f8",
-      "title": "Is SpaceX now the only option for US military launches? For now, mostly yes after Vulcan's failure",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVUxjZ3hzWlFPYWtWeW1WWHpwLWlTVlpmT2NacHB0Vkp5YUdUekJzWV9uS3FBZ3NfV3VyTzdFRExiMUUwenBSNUk4c1JwR3lObm42VGgzVlJnQkYwSHltb2Q2NjUtczhaS1RuM3JCS0RIZ2ZWVWtpVWNMRkZWaDdVbDhtNm5Bbl9NZXROeUE0ZjR0Z2RXZFVPTmdBUElsQjhBcTctR2t2Z0E2VnZmc2xMazNVVms?oc=5",
-      "source": "Nacionale",
+      "id": "62lcup",
+      "title": "Elon Musk says SpaceX’s Starship, already the largest rocket on Earth, will get even bigger with next-gen V4 model",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model",
+      "source": "Space.com",
       "sources": [
-        "Nacionale"
+        "Space",
+        "Space.com"
       ],
-      "date": "2026-11-16T01:42:12.000Z",
-      "firstSeen": "2026-11-16T02:24:37.451Z",
+      "date": "2026-11-16T20:04:22.000Z",
+      "firstSeen": "2026-11-17T04:48:18.601Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/3Fkrm7hcfY8Smci3nzStBA-1920-80.jpg",
+      "snippet": "As usual, SpaceX and its founder Elon Musk are thinking big. The company recovered the upper stage of its Starship megarocket for the first time ever on Saturday (Nov. 14), plucking it out…",
+      "category": "space",
+      "score": 15.85
+    },
+    {
+      "id": "ip5e3l",
+      "title": "Disruption from Musk’s Starlink and others behind $31 billion pursuit of Telus, Peladeau says",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNblhaSHBUU1c0d2gxcEtDZVJFeE5IZUxBbExUc05YRmdrMGo2cmVpM0NmMlJYaE1QM3pZU0E3eF9oZGVBUm82a0lrYmZQWDB6eWw2Rm1mNTJCWkRGU01NMHBrTWtWdGY3X211Ylp6MmcwcmplcDg3anJ5LThMcXJrblRLTlJMeTZhUExDOQ?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "Yahoo Finance",
+        "Financial Post"
+      ],
+      "date": "2026-11-17T01:16:00.000Z",
+      "firstSeen": "2026-11-17T04:48:18.601Z",
       "image": "",
       "snippet": "",
+      "category": "connectivity",
+      "score": 15.56
+    },
+    {
+      "id": "17x2dn1",
+      "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
+      "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
+      "source": "NASASpaceflight",
+      "sources": [
+        "NASASpaceflight"
+      ],
+      "date": "2026-11-16T21:57:02.000Z",
+      "firstSeen": "2026-11-17T04:48:18.601Z",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_1966.jpeg",
+      "snippet": "Following a week of busy launch activity, the worldwide launch manifest is set to see six launches this week, with three SpaceX Falcon 9 missions from Vandenberg, two Chinese missions, and…",
       "category": "space",
-      "score": 13.81
+      "score": 15.27
+    },
+    {
+      "id": "w22gy1",
+      "title": "FAA turned down free Starlink offer before nationwide ground stop, Elon Musk says",
+      "url": "https://www.teslarati.com/faa-turned-down-free-starlink-offer-before-nationwide-ground-stop-elon-musk-says/",
+      "source": "Teslarati",
+      "sources": [
+        "Teslarati"
+      ],
+      "date": "2026-11-16T23:53:33.000Z",
+      "firstSeen": "2026-11-17T04:48:18.601Z",
+      "image": "",
+      "snippet": "Elon Musk says the Federal Aviation Administration could have had Starlink backing up its air traffic communications for free, and he is pointing to last week’s nationwide ground stop as…",
+      "category": "connectivity",
+      "score": 15.22
     }
   ],
   "trending": [
-    "SpaceX",
-    "Starship",
-    "Starlink",
     "Tesla",
     "Cybercab",
-    "TowerCatch"
+    "SpaceX",
+    "Starship",
+    "TowerCatch",
+    "Starlink"
   ],
   "spark": [
-    {
-      "date": "2026-11-03",
-      "total": 132
-    },
     {
       "date": "2026-11-04",
       "total": 140
@@ -191,9 +183,13 @@
     },
     {
       "date": "2026-11-16",
-      "total": 12
+      "total": 120
+    },
+    {
+      "date": "2026-11-17",
+      "total": 30
     }
   ],
-  "summary": "114 stories (last 24h). Most active frontier: Space. Top story: Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'.",
+  "summary": "150 stories (last 24h). Most active frontier: Tesla. Top story: Tesla plans $3.3 billion Cybercab boost for Germany's troubled auto sector.",
   "editor": null
 }
