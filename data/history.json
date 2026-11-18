@@ -248,12 +248,22 @@
       "ai": 2
     },
     "2026-11-17": {
-      "total": 30,
-      "business": 5,
-      "mobility": 7,
-      "space": 11,
-      "connectivity": 6,
-      "ai": 1
+      "total": 123,
+      "mobility": 37,
+      "connectivity": 26,
+      "business": 22,
+      "space": 24,
+      "ai": 12,
+      "neuro": 2
+    },
+    "2026-11-18": {
+      "total": 27,
+      "connectivity": 9,
+      "mobility": 8,
+      "space": 3,
+      "ai": 3,
+      "business": 3,
+      "robotics": 1
     }
   }
 }

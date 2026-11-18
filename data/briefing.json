@@ -1,142 +1,134 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "business": 28,
-    "mobility": 57,
-    "space": 43,
-    "connectivity": 19,
-    "ai": 3
+    "connectivity": 35,
+    "mobility": 45,
+    "space": 27,
+    "ai": 15,
+    "business": 25,
+    "robotics": 1,
+    "neuro": 2
   },
   "topStory": {
-    "id": "1onih3f",
-    "title": "Tesla plans $3.3 billion Cybercab boost for Germany's troubled auto sector",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHd0RC1iZmQwWUtkTl9CYjJVMUhGYmtxNEZyQU92Rm5mZS1OZ0Z2bHl6TmJuLUFJYWpQUW5GQ1h2anVqSHR5TDF3aThnaWhDd3lDYl9oY3VqbTVLaUMwMGtSME5IckZnZE5PQVhURTNPQ1BaS2tBejl6OU15X1B1N3VOM0o3dktRbnpLSjc1eWI5WWs4bjZqNnFOOA?oc=5",
-    "source": "Reuters",
+    "id": "re0ql3",
+    "title": "Elon Musk Says Tesla’s $299 Cybercab Fee Is “Too High”",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVmRNU2NpdXk3bEdSa1BWT0poQUJGVkk2dGVpWmh4Z1R4am5qSkItb0pXN1hOYlVpLVhQRWh1RUc5R3B2NmE2VWRSelFGc0FVUDNoMFROVFktYTNGS25TTDdOU1RROVZrcUxXamhFeThCdGFpN2x3U2ctQkp0UTY3Z1RNTVhxZmEyQXhDVXRCUUxNSzQ?oc=5",
+    "source": "Yahoo Finance",
     "sources": [
-      "Reuters",
-      "The Lufkin Daily News",
-      "LinkedIn",
-      "CNA"
+      "Yahoo Finance",
+      "24/7 Wall St.",
+      "The Next Web"
     ],
-    "date": "2026-11-16T17:35:46.000Z",
-    "firstSeen": "2026-11-17T04:48:18.601Z",
+    "date": "2026-11-17T13:07:32.000Z",
+    "firstSeen": "2026-11-18T03:53:51.738Z",
     "image": "",
     "snippet": "",
     "category": "mobility",
-    "score": 18.32
+    "score": 15.13
   },
   "topList": [
     {
-      "id": "3xuyuf",
-      "title": "Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch",
-      "source": "Space.com",
-      "sources": [
-        "Space",
-        "Space.com"
-      ],
-      "date": "2026-11-16T21:26:29.000Z",
-      "firstSeen": "2026-11-17T04:48:18.601Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/YttcVYXYfcRTqnR6tXAC2B-1920-80.jpg",
-      "snippet": "STARBASE, Texas — SpaceX has officially wrapped up the 15th test flight of its massive Starship rocket, successfully catching the vehicle's upper stage for the first time. Flight 15 lifted…",
-      "category": "space",
-      "score": 17.15
-    },
-    {
-      "id": "12r7hh7",
-      "title": "SpaceX Just Brought a Starship Back From Orbit and Caught It. Here's the Part of the Business That Gains the Most.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcTJadUY2RmJOWkpyZ3NHSmNnVzlVLTZ1OWNKUF9nUFpiUm9XUzhoVTd2Y0hBRlNxNDVNWk1PVzQzeXdaWG9qenJYSXB1S2luVWE5MkYtNzFDdWxYVzFMWEYxUUlpRDZRd0dFdTNWQy1YMGVMSXlDV1l5eUhWU3h0NkJGMA?oc=5",
+      "id": "6rti61",
+      "title": "\"Our airspace is very big\": Sean Duffy defends FAA's decision to turn down free Starlink after Elon Musk's criticism",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2c21nY2tvMVVEWVRWbEZRWDBLemJ5WU9pekVlTWdTOUNXZWNHSzU1bFpIUU5nSWJtODRlZ0VhYklUQ0VkOWNZS2hQUWFrRENzWHJ5UlJQRHU3U0tPUkhGQ2FlSl9aYWhNc0lmd2VYanFTbThwT3RNNDJlT3M?oc=5",
       "source": "AOL.com",
       "sources": [
-        "AOL.com",
-        "The Motley Fool",
-        "The Globe and Mail"
+        "AOL.com"
       ],
-      "date": "2026-11-17T00:53:00.000Z",
-      "firstSeen": "2026-11-17T04:48:18.601Z",
+      "date": "2026-11-18T01:56:30.000Z",
+      "firstSeen": "2026-11-18T03:53:51.738Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 14.47
+    },
+    {
+      "id": "17qhy40",
+      "title": "SpaceX Catches Starship While ULA, Blue Origin Stumble. No One Is Catching Musk.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRjMzc3pzdTRKdmFqMTNzOGNyS3lNNFVtaTJZZThXZkRWdXNWYl9xdGFNZm5rV04xZ2Nva21aU09raDlBbTdKcV9rNldZSTZfNGdBcnBvU3YzSVFfNkh6TmlZTHlsYlVBT0NTU1VBeHl1U0Jfd3BzNGNHLWxXc3lZa0p3MXN0bEk?oc=5",
+      "source": "Barron's",
+      "sources": [
+        "Barron's"
+      ],
+      "date": "2026-11-17T18:07:00.000Z",
+      "firstSeen": "2026-11-18T03:53:51.738Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 16.97
+      "score": 14.12
     },
     {
-      "id": "62lcup",
-      "title": "Elon Musk says SpaceX’s Starship, already the largest rocket on Earth, will get even bigger with next-gen V4 model",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model",
-      "source": "Space.com",
+      "id": "1jj56ve",
+      "title": "Elon Musk Admits Tesla Cybercab's $300 Monthly Fee Is Too High — MKBHD Says His Headshave Bet Isn't Over as Deliveries Remain Invite-Only",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQck5wR0ZTRTdWaVJUNmVabkRrZ3hCVlJ1dDVBMWlhbS1COEFka1hGRFdjN0hOcHN6dHlxZ1BQWFk0ZWVsN3N4UFc1OG1KNUlnVFVmckJlbEVXbFYxWFpOQW5DV2pKYWs4RXdUMVBQNjBwQjRHeWtFNXRiUVV5cm56M3dXSFN4VHl2dlhqSE16WTlTTUFrOFhieVpB?oc=5",
+      "source": "Yahoo Tech",
       "sources": [
-        "Space",
-        "Space.com"
+        "Yahoo Tech"
       ],
-      "date": "2026-11-16T20:04:22.000Z",
-      "firstSeen": "2026-11-17T04:48:18.601Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/3Fkrm7hcfY8Smci3nzStBA-1920-80.jpg",
-      "snippet": "As usual, SpaceX and its founder Elon Musk are thinking big. The company recovered the upper stage of its Starship megarocket for the first time ever on Saturday (Nov. 14), plucking it out…",
-      "category": "space",
-      "score": 15.85
+      "date": "2026-11-17T23:00:31.000Z",
+      "firstSeen": "2026-11-18T03:53:51.738Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 13.73
     },
     {
-      "id": "ip5e3l",
-      "title": "Disruption from Musk’s Starlink and others behind $31 billion pursuit of Telus, Peladeau says",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNblhaSHBUU1c0d2gxcEtDZVJFeE5IZUxBbExUc05YRmdrMGo2cmVpM0NmMlJYaE1QM3pZU0E3eF9oZGVBUm82a0lrYmZQWDB6eWw2Rm1mNTJCWkRGU01NMHBrTWtWdGY3X211Ylp6MmcwcmplcDg3anJ5LThMcXJrblRLTlJMeTZhUExDOQ?oc=5",
+      "id": "7117sy",
+      "title": "Elon Musk Says Starship V4 Will Be 40% Longer, Carry 60% More Fuel — Payload Could Top 200 Tons as Launch Costs Fall Below $500K",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSlF4bHNkYmlDaDZBR2x1a3NVQ1hqRkNiT1ktRko2VHFwYWdpQlJESklSZ3dpbUdrSTR2Q2oxMjhSaktsZGltYi11aGVCNHBSTnBTTlNoQlpzSWJVUkNBOXE0em5Oc1paVHUyTUQwcmNPOUJ1SzVib011LVhFZV9kX1RZbWUxdlNDeWdTOXByY3Q?oc=5",
       "source": "Yahoo Finance",
       "sources": [
-        "Yahoo Finance",
-        "Financial Post"
+        "Yahoo Finance"
       ],
-      "date": "2026-11-17T01:16:00.000Z",
-      "firstSeen": "2026-11-17T04:48:18.601Z",
+      "date": "2026-11-17T15:30:05.000Z",
+      "firstSeen": "2026-11-18T03:53:51.738Z",
       "image": "",
       "snippet": "",
-      "category": "connectivity",
-      "score": 15.56
-    },
-    {
-      "id": "17x2dn1",
-      "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-      "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-      "source": "NASASpaceflight",
-      "sources": [
-        "NASASpaceflight"
-      ],
-      "date": "2026-11-16T21:57:02.000Z",
-      "firstSeen": "2026-11-17T04:48:18.601Z",
-      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_1966.jpeg",
-      "snippet": "Following a week of busy launch activity, the worldwide launch manifest is set to see six launches this week, with three SpaceX Falcon 9 missions from Vandenberg, two Chinese missions, and…",
       "category": "space",
-      "score": 15.27
+      "score": 13.59
     },
     {
-      "id": "w22gy1",
-      "title": "FAA turned down free Starlink offer before nationwide ground stop, Elon Musk says",
-      "url": "https://www.teslarati.com/faa-turned-down-free-starlink-offer-before-nationwide-ground-stop-elon-musk-says/",
-      "source": "Teslarati",
+      "id": "a70iei",
+      "title": "Tesla Cybercab crashes: 8 reports, ADS and ADAS",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeVoyNU1WUkJWNUpXeU0teFFvZjhxQWJrdnR2bnRRUzMxVkF0clB5cVJCOC1yOU1UWi00U0tka0xLSDVWUzF4YXVaRGhtVFhmeFJ6TWtnSmk2eFlQNjV5a2FJVl9oSWpoejRieU1jUXZoVTZFNU92VGZkQ0hTWlM3YkI4QQ?oc=5",
+      "source": "NeoTeo",
       "sources": [
-        "Teslarati"
+        "NeoTeo"
       ],
-      "date": "2026-11-16T23:53:33.000Z",
-      "firstSeen": "2026-11-17T04:48:18.601Z",
+      "date": "2026-11-18T01:27:08.000Z",
+      "firstSeen": "2026-11-18T03:53:51.738Z",
       "image": "",
-      "snippet": "Elon Musk says the Federal Aviation Administration could have had Starlink backing up its air traffic communications for free, and he is pointing to last week’s nationwide ground stop as…",
-      "category": "connectivity",
-      "score": 15.22
+      "snippet": "",
+      "category": "mobility",
+      "score": 13.34
+    },
+    {
+      "id": "1tjjgrd",
+      "title": "Elon Musk Is Trolling the FAA About Its Recent Failure. These 6 Blunt Words Say It All",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc0M1clRDN3FHV0ZWb291NUt4ekRwQm1EX2o4MmhBeThST3JVSloxOTJlRUE0WG9rbVNTRC1ablZnMnpyb29fTHFqNThQbE9nTnNabUwtN3JBb3hteFJucHYzR2ZOSnVwWnhCcFFILUxHckhFMTFCd2d4SVJUSTVvYTJmaHFqMk4wUnFqV3FmdTVFWWloZnlOTF94YXRyU1daZVU5SEhZT1E2VVZiN0dCd2lSb0s4Tk5Sb3lqUGI1NGVHQQ?oc=5",
+      "source": "Inc.com",
+      "sources": [
+        "Inc.com"
+      ],
+      "date": "2026-11-17T21:17:46.000Z",
+      "firstSeen": "2026-11-18T03:53:51.738Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 13.32
     }
   ],
   "trending": [
     "Tesla",
-    "Cybercab",
+    "Starlink",
     "SpaceX",
+    "Cybercab",
     "Starship",
-    "TowerCatch",
-    "Starlink"
+    "Robotics"
   ],
   "spark": [
-    {
-      "date": "2026-11-04",
-      "total": 140
-    },
     {
       "date": "2026-11-05",
       "total": 136
@@ -187,9 +179,13 @@
     },
     {
       "date": "2026-11-17",
-      "total": 30
+      "total": 123
+    },
+    {
+      "date": "2026-11-18",
+      "total": 27
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: Tesla. Top story: Tesla plans $3.3 billion Cybercab boost for Germany's troubled auto sector.",
+  "summary": "150 stories (last 24h). Most active frontier: Tesla. Top story: Elon Musk Says Tesla’s $299 Cybercab Fee Is “Too High”.",
   "editor": null
 }
