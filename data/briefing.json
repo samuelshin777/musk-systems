@@ -1,123 +1,135 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "connectivity": 35,
-    "mobility": 45,
-    "space": 27,
-    "ai": 15,
-    "business": 25,
-    "robotics": 1,
-    "neuro": 2
+    "space": 21,
+    "ai": 13,
+    "robotics": 7,
+    "mobility": 37,
+    "connectivity": 28,
+    "business": 44
   },
   "topStory": {
-    "id": "re0ql3",
-    "title": "Elon Musk Says Tesla’s $299 Cybercab Fee Is “Too High”",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVmRNU2NpdXk3bEdSa1BWT0poQUJGVkk2dGVpWmh4Z1R4am5qSkItb0pXN1hOYlVpLVhQRWh1RUc5R3B2NmE2VWRSelFGc0FVUDNoMFROVFktYTNGS25TTDdOU1RROVZrcUxXamhFeThCdGFpN2x3U2ctQkp0UTY3Z1RNTVhxZmEyQXhDVXRCUUxNSzQ?oc=5",
-    "source": "Yahoo Finance",
+    "id": "3rmcyd",
+    "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vQVAxU0RZTE5oeTVvSUgtSjAxVW9hM1VLcmpWM0wzeEFueGRMb3haejMyWnc1UGlYaGdNOWhYR3oxUHZOUlVFRGpOdTg5VEdpMDA5UVZDZ3Q1SFFPZlE?oc=5",
+    "source": "BBC",
     "sources": [
-      "Yahoo Finance",
-      "24/7 Wall St.",
-      "The Next Web"
+      "The Hill",
+      "Business Insider",
+      "Forbes",
+      "BBC",
+      "Washington Times"
     ],
-    "date": "2026-11-17T13:07:32.000Z",
-    "firstSeen": "2026-11-18T03:53:51.738Z",
+    "date": "2026-11-18T23:12:27.000Z",
+    "firstSeen": "2026-11-19T03:52:32.083Z",
     "image": "",
     "snippet": "",
-    "category": "mobility",
-    "score": 15.13
+    "category": "business",
+    "score": 24.78
   },
   "topList": [
     {
-      "id": "6rti61",
-      "title": "\"Our airspace is very big\": Sean Duffy defends FAA's decision to turn down free Starlink after Elon Musk's criticism",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2c21nY2tvMVVEWVRWbEZRWDBLemJ5WU9pekVlTWdTOUNXZWNHSzU1bFpIUU5nSWJtODRlZ0VhYklUQ0VkOWNZS2hQUWFrRENzWHJ5UlJQRHU3U0tPUkhGQ2FlSl9aYWhNc0lmd2VYanFTbThwT3RNNDJlT3M?oc=5",
-      "source": "AOL.com",
+      "id": "dx8weg",
+      "title": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IZzFuTWNYdk9Ic0Z4cGxSR2pBcVB1a0hMUE1icWUyYnNrYzBaOEphTmcwcDlncDJsZG5lY2Rjby1KOGZrU2liaGxNOGhPZlctcm5pOUFOeG1ZbTBYeXRjV0NZbGJUS21RbE5oYkhwYk5vSjQzdVFV0gF8QVVfeXFMTjBQalZjdEotUDUwTXJOOTdvUi0xcExrZUlNUkEtLWprdGhIdHUxb1ctUVRkaXFVczg3UWJJaC1Nalg5cW1KS2x3LVpydHMxejlJUEJYZWZiUWxKSzB4SXJSUEJEVFBJbkVqTno0STl0S2V1VDhDbEFnb1FLZA?oc=5",
+      "source": "CNBC",
       "sources": [
-        "AOL.com"
+        "The Washington Post",
+        "CNBC",
+        "Red Lake Nation News",
+        "CNBC Technology"
       ],
-      "date": "2026-11-18T01:56:30.000Z",
-      "firstSeen": "2026-11-18T03:53:51.738Z",
+      "date": "2026-11-19T02:37:00.000Z",
+      "firstSeen": "2026-11-19T03:52:32.083Z",
       "image": "",
-      "snippet": "",
-      "category": "connectivity",
-      "score": 14.47
+      "snippet": "Elon Musk spoke about Jensen Huang, his U.S. midterms spending and overlaps between SpaceX and Tesla at the Dealbook Summit.",
+      "category": "business",
+      "score": 21.66
     },
     {
-      "id": "17qhy40",
-      "title": "SpaceX Catches Starship While ULA, Blue Origin Stumble. No One Is Catching Musk.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRjMzc3pzdTRKdmFqMTNzOGNyS3lNNFVtaTJZZThXZkRWdXNWYl9xdGFNZm5rV04xZ2Nva21aU09raDlBbTdKcV9rNldZSTZfNGdBcnBvU3YzSVFfNkh6TmlZTHlsYlVBT0NTU1VBeHl1U0Jfd3BzNGNHLWxXc3lZa0p3MXN0bEk?oc=5",
-      "source": "Barron's",
+      "id": "17517cg",
+      "title": "Elon Musk says: ‘I’m not MAGA’",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+      "source": "TechCrunch",
       "sources": [
-        "Barron's"
+        "NBC News",
+        "CNN",
+        "TechCrunch",
+        "CNBC"
       ],
-      "date": "2026-11-17T18:07:00.000Z",
-      "firstSeen": "2026-11-18T03:53:51.738Z",
+      "date": "2026-11-18T23:17:10.000Z",
+      "firstSeen": "2026-11-19T03:52:32.083Z",
       "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 14.12
+      "snippet": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for…",
+      "category": "business",
+      "score": 20.8
     },
     {
-      "id": "1jj56ve",
-      "title": "Elon Musk Admits Tesla Cybercab's $300 Monthly Fee Is Too High — MKBHD Says His Headshave Bet Isn't Over as Deliveries Remain Invite-Only",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQck5wR0ZTRTdWaVJUNmVabkRrZ3hCVlJ1dDVBMWlhbS1COEFka1hGRFdjN0hOcHN6dHlxZ1BQWFk0ZWVsN3N4UFc1OG1KNUlnVFVmckJlbEVXbFYxWFpOQW5DV2pKYWs4RXdUMVBQNjBwQjRHeWtFNXRiUVV5cm56M3dXSFN4VHl2dlhqSE16WTlTTUFrOFhieVpB?oc=5",
-      "source": "Yahoo Tech",
+      "id": "u74jiq",
+      "title": "Elon Musk Invested in Skydance, CEO David Ellison Confirms",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMUlxUXpMd2lrRDBtbVU5b0g3Njg1RnJJSXVuMUUtdjA2ZjNfRHp1aE5fWktpdkVWM2pmQ1d4TWFKRnBBb0hhdFl1TVJMRjhWQWQ2ajhLQzN0ZmYwekRYNjI1RzIwc09tSk53SkpGZjFFYXFmaHoxYV9NekE2MXN6ZEVicTFKTjk1UDM5MEVtS0lOT1Zt?oc=5",
+      "source": "The New York Times",
       "sources": [
-        "Yahoo Tech"
+        "The New York Times",
+        "Variety",
+        "Washington Times"
       ],
-      "date": "2026-11-17T23:00:31.000Z",
-      "firstSeen": "2026-11-18T03:53:51.738Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 13.73
-    },
-    {
-      "id": "7117sy",
-      "title": "Elon Musk Says Starship V4 Will Be 40% Longer, Carry 60% More Fuel — Payload Could Top 200 Tons as Launch Costs Fall Below $500K",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSlF4bHNkYmlDaDZBR2x1a3NVQ1hqRkNiT1ktRko2VHFwYWdpQlJESklSZ3dpbUdrSTR2Q2oxMjhSaktsZGltYi11aGVCNHBSTnBTTlNoQlpzSWJVUkNBOXE0em5Oc1paVHUyTUQwcmNPOUJ1SzVib011LVhFZV9kX1RZbWUxdlNDeWdTOXByY3Q?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "date": "2026-11-17T15:30:05.000Z",
-      "firstSeen": "2026-11-18T03:53:51.738Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 13.59
-    },
-    {
-      "id": "a70iei",
-      "title": "Tesla Cybercab crashes: 8 reports, ADS and ADAS",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeVoyNU1WUkJWNUpXeU0teFFvZjhxQWJrdnR2bnRRUzMxVkF0clB5cVJCOC1yOU1UWi00U0tka0xLSDVWUzF4YXVaRGhtVFhmeFJ6TWtnSmk2eFlQNjV5a2FJVl9oSWpoejRieU1jUXZoVTZFNU92VGZkQ0hTWlM3YkI4QQ?oc=5",
-      "source": "NeoTeo",
-      "sources": [
-        "NeoTeo"
-      ],
-      "date": "2026-11-18T01:27:08.000Z",
-      "firstSeen": "2026-11-18T03:53:51.738Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 13.34
-    },
-    {
-      "id": "1tjjgrd",
-      "title": "Elon Musk Is Trolling the FAA About Its Recent Failure. These 6 Blunt Words Say It All",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc0M1clRDN3FHV0ZWb291NUt4ekRwQm1EX2o4MmhBeThST3JVSloxOTJlRUE0WG9rbVNTRC1ablZnMnpyb29fTHFqNThQbE9nTnNabUwtN3JBb3hteFJucHYzR2ZOSnVwWnhCcFFILUxHckhFMTFCd2d4SVJUSTVvYTJmaHFqMk4wUnFqV3FmdTVFWWloZnlOTF94YXRyU1daZVU5SEhZT1E2VVZiN0dCd2lSb0s4Tk5Sb3lqUGI1NGVHQQ?oc=5",
-      "source": "Inc.com",
-      "sources": [
-        "Inc.com"
-      ],
-      "date": "2026-11-17T21:17:46.000Z",
-      "firstSeen": "2026-11-18T03:53:51.738Z",
+      "date": "2026-11-18T16:49:00.000Z",
+      "firstSeen": "2026-11-19T03:52:32.083Z",
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 13.32
+      "score": 17.36
+    },
+    {
+      "id": "1p9o9cf",
+      "title": "Video: Elon Musk Says He’s ‘Not MAGA’",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUW1qcFVFZXlwVlBhcGpMYlNpTVNoc0xwT19YRThKMW1EWGpiZUlITFJtVXFia3puZmtrMkRvRjdzUks4d2VQNTNCdEtOQUFubUZwVnpEdlFvU2RTVW1vWjZkU0xkdGNzeUxrQ052UHFkTm5sWFIwaGhwZkgySElrVXFYOWhfSXNRUzV2c0hIZXpVRHV4VURnaXFDTG9DczI5SElJ?oc=5",
+      "source": "The New York Times",
+      "sources": [
+        "The New York Times",
+        "Mezha.net"
+      ],
+      "date": "2026-11-19T01:15:53.000Z",
+      "firstSeen": "2026-11-19T03:52:32.083Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 17.3
+    },
+    {
+      "id": "1cwijti",
+      "title": "Elon Musk Feels ‘Foolish’ for Spending Big on GOP After Rout",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUzItNDB2cFdWYm45aUJoMG9RNVQ3cFVpZUpIZ3g0T1hfN3lIbW95SlRZR2xxYnRBV3V0cFNCN0pRV3lEaVJhZjNmSWVtaDJaUmZBUGRPMXlCSE4yYWxMWXJvV2lUeDBqTjZ4RUhxUVZNaTdod3A0dmhkOG13bXVQX3RRWkNxOUVsTVVxUnh0WTF6U29ESzlhV2szc0JfMWxlSE1Pck9ueG93X3ZrWkh1SXREUQ?oc=5",
+      "source": "Bloomberg",
+      "sources": [
+        "Politico",
+        "Bloomberg"
+      ],
+      "date": "2026-11-19T00:54:00.000Z",
+      "firstSeen": "2026-11-19T03:52:32.083Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 17.21
+    },
+    {
+      "id": "5z2z5z",
+      "title": "Elon Musk says he feels ‘foolish’ for donating nearly $500mn to Republicans",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRklYSC12UEhQUHpzZG1uNHNUaHNpSkhJbU9TaVlGUGp2cUlaR3dmOTFjaVRiYXJpbncxamtQQ0ZGSnhBTDdDS1VjSG11Y1FBTHM3MEZaZEQyRXMzOHFvVTJQSGxZbHhWZnpGb3Uwa2ZtQThtYXpLN09qRGotVTEwN0M2OUU?oc=5",
+      "source": "Financial Times",
+      "sources": [
+        "Financial Times",
+        "Yahoo"
+      ],
+      "date": "2026-11-18T23:31:16.000Z",
+      "firstSeen": "2026-11-19T03:52:32.083Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 16.86
     }
   ],
   "trending": [
@@ -125,14 +137,10 @@
     "Starlink",
     "SpaceX",
     "Cybercab",
-    "Starship",
-    "Robotics"
+    "FSD",
+    "Starship"
   ],
   "spark": [
-    {
-      "date": "2026-11-05",
-      "total": 136
-    },
     {
       "date": "2026-11-06",
       "total": 139
@@ -183,9 +191,13 @@
     },
     {
       "date": "2026-11-18",
-      "total": 27
+      "total": 107
+    },
+    {
+      "date": "2026-11-19",
+      "total": 43
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: Tesla. Top story: Elon Musk Says Tesla’s $299 Cybercab Fee Is “Too High”.",
+  "summary": "150 stories (last 24h). Most active frontier: Business. Top story: Elon Musk says record spending on US midterms was 'pretty foolish'.",
   "editor": null
 }

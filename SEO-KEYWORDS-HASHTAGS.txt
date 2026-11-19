@@ -1,80 +1,80 @@
-MUSK SYSTEMS — KEYWORD & HASHTAG REPORT (auto-generated 2026-11-18T03:53:51.738Z)
+MUSK SYSTEMS — KEYWORD & HASHTAG REPORT (auto-generated 2026-11-19T03:52:32.083Z)
 ==========================================================================
 
 TOP KEYWORDS (by frequency across visible site text + headlines)
- 1. Tesla
- 2. Starlink
- 3. Elon Musk
- 4. SpaceX
- 5. Cybercab
- 6. Satellite Internet
- 7. Robotics
- 8. Starship
- 9. Robotaxi
-10. Neuralink
-11. xAI
-12. FAA
-13. Grok
-14. Optimus
-15. Space Exploration
-16. Tower Catch
-17. SPCX
-18. Nasdaq
-19. Earnings
-20. Full Self-Driving
-21. Falcon 9
-22. Dragon
-23. Boring Company
-24. IPO
-25. TSLA
+ 1. Elon Musk
+ 2. Tesla
+ 3. SpaceX
+ 4. Starlink
+ 5. Starship
+ 6. xAI
+ 7. Optimus
+ 8. Neuralink
+ 9. Cybercab
+10. Robotics
+11. Nasdaq
+12. IPO
+13. Satellite Internet
+14. Space Exploration
+15. Tower Catch
+16. Humanoid Robot
+17. Autonomous Driving
+18. Grok
+19. Full Self-Driving
+20. Dragon
+21. Multiplanetary
+22. Future Tech
+23. Musk Systems
+24. Future Technology
+25. Systems Thinking
 
 TRENDING TODAY (LAST 24H)
-#Tesla #Starlink #SpaceX #Cybercab #Starship #Robotics
+#Tesla #Starlink #SpaceX #Cybercab #FSD #Starship
 
 HASHTAGS (score = weighted occurrences)
-#Tesla  (52)
-#Starlink  (45)
-#ElonMusk  (35)
-#SpaceX  (23)
-#Cybercab  (19)
-#SatelliteInternet  (17)
-#Robotics  (16)
+#ElonMusk  (77)
+#Tesla  (48)
+#SpaceX  (25)
+#Starlink  (23)
 #Starship  (12)
-#Robotaxi  (12)
-#Neuralink  (11)
-#xAI  (10)
-#FAA  (10)
-#Grok  (7)
-#Optimus  (6)
+#xAI  (12)
+#Optimus  (10)
+#Neuralink  (9)
+#Cybercab  (9)
+#Robotics  (8)
+#Nasdaq  (6)
+#SpaceXIPO  (5)
+#SatelliteInternet  (5)
 #SpaceExploration  (5)
 #TowerCatch  (5)
-#SPCX  (4)
-#Nasdaq  (4)
-#Earnings  (4)
+#HumanoidRobot  (4)
+#AutonomousDriving  (4)
+#Grok  (3)
 #FSD  (3)
-#Falcon9  (3)
 #SpaceXDragon  (3)
-#BoringCompany  (3)
-#SpaceXIPO  (3)
-#TSLA  (3)
+#Multiplanetary  (3)
 #FutureTech  (3)
 #MuskSystems  (3)
 #FutureTechnology  (3)
 #SystemsThinking  (3)
+#Robotaxi  (2)
 #PayPal  (2)
+#SPCX  (2)
 #Cybertruck  (2)
 #ReusableRockets  (2)
-#HumanoidRobot  (2)
-#AutonomousDriving  (2)
 #BrainComputerInterface  (2)
 #Blindsight  (1)
+#Falcon9  (1)
 #FalconHeavy  (1)
 #SuperHeavy  (1)
 #Starbase  (1)
+#BoringCompany  (1)
 #Zip2  (1)
+#TSLA  (1)
+#Megapack  (1)
 
 READY-TO-POST SETS (3–8 per post)
-Today:      #ElonMusk #Tesla #Starlink #SpaceX #Cybercab #Starship
+Today:      #ElonMusk #Tesla #Starlink #SpaceX #Cybercab #FSD
 Space:      #ElonMusk #SpaceX #Starship #Starlink #SpaceExploration #Mars
 Tesla:      #ElonMusk #Tesla #Robotaxi #Cybercab #Optimus #AutonomousDriving
 AI/Neuro:   #ElonMusk #xAI #Grok #ArtificialIntelligence #Neuralink #BrainComputerInterface
