@@ -1,150 +1,137 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "space": 21,
-    "ai": 13,
-    "robotics": 7,
-    "mobility": 37,
-    "connectivity": 28,
-    "business": 44
+    "space": 38,
+    "connectivity": 24,
+    "mobility": 32,
+    "robotics": 2,
+    "neuro": 2,
+    "business": 41,
+    "ai": 11
   },
   "topStory": {
-    "id": "3rmcyd",
-    "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vQVAxU0RZTE5oeTVvSUgtSjAxVW9hM1VLcmpWM0wzeEFueGRMb3haejMyWnc1UGlYaGdNOWhYR3oxUHZOUlVFRGpOdTg5VEdpMDA5UVZDZ3Q1SFFPZlE?oc=5",
-    "source": "BBC",
+    "id": "1cuvjxb",
+    "title": "Musk's SpaceXSI denies liability in UK lawmaker's lawsuit over Grok images",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdG5SWVVRUERNQ21Rd3NIMG1ROW1weU5qcC1RYnJBVnB1bDFXaHhjWTQySVY4LXV5cXBVZUwzZE9ZMjN5ZXZtZzRPRHBIdFdaZ3VLZE16aFNTTVhmckhmQVNMNERjT3lCWTNjOFVlYjBlVFpPSWJvcjFXZDRfQ3p5c2FiaFdvTm0xUV83VE5fRjA4c0Rwa2lVM3I5dWdrR3I2SVRNNTZOR0RKakJZNG4xQ051c2xsOVRQUUtxOWw5bw?oc=5",
+    "source": "Reuters",
     "sources": [
-      "The Hill",
-      "Business Insider",
-      "Forbes",
-      "BBC",
-      "Washington Times"
+      "Reuters",
+      "The Times of India",
+      "FourWeekMBA"
     ],
-    "date": "2026-11-18T23:12:27.000Z",
-    "firstSeen": "2026-11-19T03:52:32.083Z",
+    "date": "2026-11-19T17:37:00.000Z",
+    "firstSeen": "2026-11-20T03:44:50.917Z",
     "image": "",
     "snippet": "",
-    "category": "business",
-    "score": 24.78
+    "category": "ai",
+    "score": 19.55
   },
   "topList": [
     {
-      "id": "dx8weg",
-      "title": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IZzFuTWNYdk9Ic0Z4cGxSR2pBcVB1a0hMUE1icWUyYnNrYzBaOEphTmcwcDlncDJsZG5lY2Rjby1KOGZrU2liaGxNOGhPZlctcm5pOUFOeG1ZbTBYeXRjV0NZbGJUS21RbE5oYkhwYk5vSjQzdVFV0gF8QVVfeXFMTjBQalZjdEotUDUwTXJOOTdvUi0xcExrZUlNUkEtLWprdGhIdHUxb1ctUVRkaXFVczg3UWJJaC1Nalg5cW1KS2x3LVpydHMxejlJUEJYZWZiUWxKSzB4SXJSUEJEVFBJbkVqTno0STl0S2V1VDhDbEFnb1FLZA?oc=5",
-      "source": "CNBC",
+      "id": "5lhymb",
+      "title": "The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/the-view-from-the-tower-watch-starship-come-in-for-chopsticks-catch-in-epic-slo-mo-video",
+      "source": "Space.com",
       "sources": [
-        "The Washington Post",
-        "CNBC",
-        "Red Lake Nation News",
-        "CNBC Technology"
+        "Space",
+        "Space.com"
       ],
-      "date": "2026-11-19T02:37:00.000Z",
-      "firstSeen": "2026-11-19T03:52:32.083Z",
-      "image": "",
-      "snippet": "Elon Musk spoke about Jensen Huang, his U.S. midterms spending and overlaps between SpaceX and Tesla at the Dealbook Summit.",
-      "category": "business",
-      "score": 21.66
+      "date": "2026-11-19T22:00:00.000Z",
+      "firstSeen": "2026-11-20T03:44:50.917Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Xsx8TcSssSgMcA6nfeaEf-1920-80.jpg",
+      "snippet": "A new set of slo-mo videos gives us a new perspective on SpaceX's first-ever recovery of a Starship upper stage. The company notched the milestone on Saturday (Nov. 14), when the launch…",
+      "category": "space",
+      "score": 17.52
     },
     {
-      "id": "17517cg",
-      "title": "Elon Musk says: ‘I’m not MAGA’",
-      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
-      "source": "TechCrunch",
-      "sources": [
-        "NBC News",
-        "CNN",
-        "TechCrunch",
-        "CNBC"
-      ],
-      "date": "2026-11-18T23:17:10.000Z",
-      "firstSeen": "2026-11-19T03:52:32.083Z",
-      "image": "",
-      "snippet": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for…",
-      "category": "business",
-      "score": 20.8
-    },
-    {
-      "id": "u74jiq",
-      "title": "Elon Musk Invested in Skydance, CEO David Ellison Confirms",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMUlxUXpMd2lrRDBtbVU5b0g3Njg1RnJJSXVuMUUtdjA2ZjNfRHp1aE5fWktpdkVWM2pmQ1d4TWFKRnBBb0hhdFl1TVJMRjhWQWQ2ajhLQzN0ZmYwekRYNjI1RzIwc09tSk53SkpGZjFFYXFmaHoxYV9NekE2MXN6ZEVicTFKTjk1UDM5MEVtS0lOT1Zt?oc=5",
-      "source": "The New York Times",
-      "sources": [
-        "The New York Times",
-        "Variety",
-        "Washington Times"
-      ],
-      "date": "2026-11-18T16:49:00.000Z",
-      "firstSeen": "2026-11-19T03:52:32.083Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 17.36
-    },
-    {
-      "id": "1p9o9cf",
-      "title": "Video: Elon Musk Says He’s ‘Not MAGA’",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUW1qcFVFZXlwVlBhcGpMYlNpTVNoc0xwT19YRThKMW1EWGpiZUlITFJtVXFia3puZmtrMkRvRjdzUks4d2VQNTNCdEtOQUFubUZwVnpEdlFvU2RTVW1vWjZkU0xkdGNzeUxrQ052UHFkTm5sWFIwaGhwZkgySElrVXFYOWhfSXNRUzV2c0hIZXpVRHV4VURnaXFDTG9DczI5SElJ?oc=5",
-      "source": "The New York Times",
-      "sources": [
-        "The New York Times",
-        "Mezha.net"
-      ],
-      "date": "2026-11-19T01:15:53.000Z",
-      "firstSeen": "2026-11-19T03:52:32.083Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 17.3
-    },
-    {
-      "id": "1cwijti",
-      "title": "Elon Musk Feels ‘Foolish’ for Spending Big on GOP After Rout",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUzItNDB2cFdWYm45aUJoMG9RNVQ3cFVpZUpIZ3g0T1hfN3lIbW95SlRZR2xxYnRBV3V0cFNCN0pRV3lEaVJhZjNmSWVtaDJaUmZBUGRPMXlCSE4yYWxMWXJvV2lUeDBqTjZ4RUhxUVZNaTdod3A0dmhkOG13bXVQX3RRWkNxOUVsTVVxUnh0WTF6U29ESzlhV2szc0JfMWxlSE1Pck9ueG93X3ZrWkh1SXREUQ?oc=5",
-      "source": "Bloomberg",
-      "sources": [
-        "Politico",
-        "Bloomberg"
-      ],
-      "date": "2026-11-19T00:54:00.000Z",
-      "firstSeen": "2026-11-19T03:52:32.083Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 17.21
-    },
-    {
-      "id": "5z2z5z",
-      "title": "Elon Musk says he feels ‘foolish’ for donating nearly $500mn to Republicans",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRklYSC12UEhQUHpzZG1uNHNUaHNpSkhJbU9TaVlGUGp2cUlaR3dmOTFjaVRiYXJpbncxamtQQ0ZGSnhBTDdDS1VjSG11Y1FBTHM3MEZaZEQyRXMzOHFvVTJQSGxZbHhWZnpGb3Uwa2ZtQThtYXpLN09qRGotVTEwN0M2OUU?oc=5",
+      "id": "1i2qra1",
+      "title": "Lenders aim to bar SpaceX from launching $40bn of chips into orbit",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOXdESDhWTHF3Y0Z1ZVo2dzgtTEM2QnI1cm5pdk1nQ21zbjhpVDJONzdmcGhBU0NQUEtTSEtkVTFuUVhqRHdBa2tucUZqa1pvLXZvVkxUNUY4R1hxVFZVTEk2TWJJMHZIZ2tlbklJcXVxTzlxMFZKXzR5UTVfX0tYNGFsME0?oc=5",
       "source": "Financial Times",
       "sources": [
-        "Financial Times",
-        "Yahoo"
+        "Financial Times"
       ],
-      "date": "2026-11-18T23:31:16.000Z",
-      "firstSeen": "2026-11-19T03:52:32.083Z",
+      "date": "2026-11-20T00:15:12.000Z",
+      "firstSeen": "2026-11-20T03:44:50.917Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 16.08
+    },
+    {
+      "id": "10q2a5d",
+      "title": "SpaceX scrubs launch of classified payload for the U.S. Space Force, targets Friday",
+      "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
+      "source": "Spaceflight Now",
+      "sources": [
+        "Spaceflight Now"
+      ],
+      "date": "2026-11-19T23:51:47.000Z",
+      "firstSeen": "2026-11-20T03:44:50.917Z",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261119_USSF_317_Vertical.jpg",
+      "snippet": "SpaceX’s Falcon 9 rocket stands at Space Launch Complex 4 East at Vandenberg Space Force Base ahead of the launch of the USSF-317 mission. Image: SpaceX Update Nov. 19, 10:16 p.m. EDT (0316…",
+      "category": "space",
+      "score": 15.98
+    },
+    {
+      "id": "1bejzlp",
+      "title": "Elon Musk Backs Away From MAGA and the Trump Presidency He Shaped",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BSUMwY3g4RFBLTWl4LTBNd2t4YjZ1aVJqR05IT3lOWmZOUHR2d21jSkFWMkxmVV9FVEtHejBWLWQ2WlI1R3E0NzhzUVJCNXFkM1lCeDhhaHVWN043bzRDN1lGMFdYZVFid0VvZS12VjJ0N2hUbGxBcmpMVWU?oc=5",
+      "source": "The New York Times",
+      "sources": [
+        "Axios",
+        "The New York Times"
+      ],
+      "date": "2026-11-19T18:52:22.000Z",
+      "firstSeen": "2026-11-20T03:44:50.917Z",
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 16.86
+      "score": 15.82
+    },
+    {
+      "id": "z9j6au",
+      "title": "Tesla Expands Cybercab To Dallas In First Move Outside Austin",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ19hRzNObEJYaU5BNTN0NGxQcXdrTFBYWFNZckxiUXNvRmFTeWIyVWUxZHBJMmNTaG5feHpHOE5nT2tzck5HdERTYUhHeV9zTDFxOVZmSHNaZW9oWlV0VW5rbVJkTVVSMnVjZGZtSktHOEdiZ1VwWXBoeWhhLTJIRzl6NURqTG1RSnN4Q1FtSV9abXF6NVp5dXNEVi0?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "Yahoo Finance",
+        "디지털투데이"
+      ],
+      "date": "2026-11-19T19:55:17.000Z",
+      "firstSeen": "2026-11-20T03:44:50.917Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 15.55
+    },
+    {
+      "id": "g1ahm5",
+      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+      "source": "TechCrunch",
+      "sources": [
+        "TechCrunch"
+      ],
+      "date": "2026-11-19T23:37:56.000Z",
+      "firstSeen": "2026-11-20T03:44:50.917Z",
+      "image": "",
+      "snippet": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
+      "category": "space",
+      "score": 14.92
     }
   ],
   "trending": [
     "Tesla",
-    "Starlink",
     "SpaceX",
+    "Starlink",
+    "Starship",
     "Cybercab",
-    "FSD",
-    "Starship"
+    "TowerCatch"
   ],
   "spark": [
-    {
-      "date": "2026-11-06",
-      "total": 139
-    },
     {
       "date": "2026-11-07",
       "total": 133
@@ -195,9 +182,13 @@
     },
     {
       "date": "2026-11-19",
-      "total": 43
+      "total": 137
+    },
+    {
+      "date": "2026-11-20",
+      "total": 13
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: Business. Top story: Elon Musk says record spending on US midterms was 'pretty foolish'.",
+  "summary": "150 stories (last 24h). Most active frontier: Business. Top story: Musk's SpaceXSI denies liability in UK lawmaker's lawsuit over Grok images.",
   "editor": null
 }

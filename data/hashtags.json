@@ -1,80 +1,84 @@
 {
-  "updated": "2026-11-19T03:52:32.083Z",
+  "updated": "2026-11-20T03:44:50.917Z",
   "hashtags": [
     {
       "tag": "#ElonMusk",
-      "score": 77
+      "score": 53
     },
     {
       "tag": "#Tesla",
-      "score": 48
+      "score": 40
     },
     {
       "tag": "#SpaceX",
-      "score": 25
-    },
-    {
-      "tag": "#Starlink",
-      "score": 23
+      "score": 39
     },
     {
       "tag": "#Starship",
-      "score": 12
+      "score": 30
     },
     {
-      "tag": "#xAI",
-      "score": 12
-    },
-    {
-      "tag": "#Optimus",
-      "score": 10
-    },
-    {
-      "tag": "#Neuralink",
-      "score": 9
+      "tag": "#Starlink",
+      "score": 19
     },
     {
       "tag": "#Cybercab",
-      "score": 9
+      "score": 15
+    },
+    {
+      "tag": "#TowerCatch",
+      "score": 13
+    },
+    {
+      "tag": "#Neuralink",
+      "score": 11
+    },
+    {
+      "tag": "#SpaceExploration",
+      "score": 11
+    },
+    {
+      "tag": "#xAI",
+      "score": 10
     },
     {
       "tag": "#Robotics",
+      "score": 10
+    },
+    {
+      "tag": "#SatelliteInternet",
+      "score": 9
+    },
+    {
+      "tag": "#Optimus",
       "score": 8
     },
     {
-      "tag": "#Nasdaq",
-      "score": 6
+      "tag": "#Falcon9",
+      "score": 5
+    },
+    {
+      "tag": "#BoringCompany",
+      "score": 5
     },
     {
       "tag": "#SpaceXIPO",
       "score": 5
     },
     {
-      "tag": "#SatelliteInternet",
-      "score": 5
-    },
-    {
-      "tag": "#SpaceExploration",
-      "score": 5
-    },
-    {
-      "tag": "#TowerCatch",
-      "score": 5
-    },
-    {
-      "tag": "#HumanoidRobot",
+      "tag": "#Robotaxi",
       "score": 4
     },
     {
-      "tag": "#AutonomousDriving",
+      "tag": "#Nasdaq",
       "score": 4
     },
     {
-      "tag": "#Grok",
+      "tag": "#Blindsight",
       "score": 3
     },
     {
-      "tag": "#FSD",
+      "tag": "#Grok",
       "score": 3
     },
     {
@@ -82,7 +86,7 @@
       "score": 3
     },
     {
-      "tag": "#Multiplanetary",
+      "tag": "#Innovation",
       "score": 3
     },
     {
@@ -102,7 +106,11 @@
       "score": 3
     },
     {
-      "tag": "#Robotaxi",
+      "tag": "#Mars",
+      "score": 2
+    },
+    {
+      "tag": "#Moon",
       "score": 2
     },
     {
@@ -114,11 +122,11 @@
       "score": 2
     },
     {
-      "tag": "#Cybertruck",
+      "tag": "#ReusableRockets",
       "score": 2
     },
     {
-      "tag": "#ReusableRockets",
+      "tag": "#HumanoidRobot",
       "score": 2
     },
     {
@@ -126,11 +134,7 @@
       "score": 2
     },
     {
-      "tag": "#Blindsight",
-      "score": 1
-    },
-    {
-      "tag": "#Falcon9",
+      "tag": "#FSD",
       "score": 1
     },
     {
@@ -143,10 +147,6 @@
     },
     {
       "tag": "#Starbase",
-      "score": 1
-    },
-    {
-      "tag": "#BoringCompany",
       "score": 1
     },
     {
@@ -166,27 +166,27 @@
     "Elon Musk",
     "Tesla",
     "SpaceX",
-    "Starlink",
     "Starship",
-    "xAI",
-    "Optimus",
-    "Neuralink",
+    "Starlink",
     "Cybercab",
-    "Robotics",
-    "Nasdaq",
-    "IPO",
-    "Satellite Internet",
-    "Space Exploration",
     "Tower Catch",
-    "Humanoid Robot",
-    "Autonomous Driving",
+    "Neuralink",
+    "Space Exploration",
+    "xAI",
+    "Robotics",
+    "Satellite Internet",
+    "Optimus",
+    "Falcon 9",
+    "Boring Company",
+    "IPO",
+    "Robotaxi",
+    "Nasdaq",
+    "Blindsight",
     "Grok",
-    "Full Self-Driving",
     "Dragon",
-    "Multiplanetary",
+    "Innovation",
     "Future Tech",
     "Musk Systems",
-    "Future Technology",
-    "Systems Thinking"
+    "Future Technology"
   ]
 }
