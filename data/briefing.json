@@ -1,141 +1,139 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "space": 38,
-    "connectivity": 24,
-    "mobility": 32,
-    "robotics": 2,
-    "neuro": 2,
-    "business": 41,
-    "ai": 11
+    "ai": 14,
+    "robotics": 1,
+    "mobility": 37,
+    "space": 31,
+    "connectivity": 27,
+    "business": 36,
+    "neuro": 4
   },
   "topStory": {
-    "id": "1cuvjxb",
-    "title": "Musk's SpaceXSI denies liability in UK lawmaker's lawsuit over Grok images",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdG5SWVVRUERNQ21Rd3NIMG1ROW1weU5qcC1RYnJBVnB1bDFXaHhjWTQySVY4LXV5cXBVZUwzZE9ZMjN5ZXZtZzRPRHBIdFdaZ3VLZE16aFNTTVhmckhmQVNMNERjT3lCWTNjOFVlYjBlVFpPSWJvcjFXZDRfQ3p5c2FiaFdvTm0xUV83VE5fRjA4c0Rwa2lVM3I5dWdrR3I2SVRNNTZOR0RKakJZNG4xQ051c2xsOVRQUUtxOWw5bw?oc=5",
-    "source": "Reuters",
+    "id": "1ivvb50",
+    "title": "Neuralink Participant Plays GTA VI With Brain Implant Alone",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYzI5WUpWRENWUjBqczZPMjZNc0dGUHUxRzBWMnc1em9qZVJPRHlwSEFPczRyVkpSVlBuQnc3Mm9WWmI2NmFrRm9DT3NhU292UFdfNjJIMkFFSUJKbkxER1hGQl9HakttbFlnM0swU2h6YU50X2tiV1lnMVYtamdjdnM5SGpocFJCOVhhNjdMcEx6QVJDcS1ORDNn?oc=5",
+    "source": "BASENOR - Tesla Accessories",
     "sources": [
-      "Reuters",
-      "The Times of India",
-      "FourWeekMBA"
+      "BASENOR - Tesla Accessories",
+      "Interesting Engineering",
+      "Inven Global",
+      "TeslaNorth.com"
     ],
-    "date": "2026-11-19T17:37:00.000Z",
-    "firstSeen": "2026-11-20T03:44:50.917Z",
+    "date": "2026-11-20T21:37:33.000Z",
+    "firstSeen": "2026-11-21T03:31:43.258Z",
     "image": "",
     "snippet": "",
-    "category": "ai",
-    "score": 19.55
+    "category": "neuro",
+    "score": 16.49
   },
   "topList": [
     {
-      "id": "5lhymb",
-      "title": "The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/the-view-from-the-tower-watch-starship-come-in-for-chopsticks-catch-in-epic-slo-mo-video",
+      "id": "x5kraj",
+      "title": "Wisconsin judge dismisses election bribery lawsuit against Elon Musk",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRFotMVV4WEQxSS1TZVpLbXNUTG5tdkpkTmdVZElON2YwV1A3ZDFucXV2Z0RfZ1F1YzZiOHlmVHJHajI0eW9kVUM1YzBENUJRVm43aVpvQkVXSGxERlluOVhrX196UWxkQkpEOGFrZ2ZXWGpMOVlOVWJzeHpCZHU3cTZsTzBLSXo4U0sxaUJ1Zw?oc=5",
+      "source": "WPR",
+      "sources": [
+        "WPR",
+        "Wisconsin Examiner",
+        "WBAY"
+      ],
+      "date": "2026-11-20T16:54:00.000Z",
+      "firstSeen": "2026-11-21T03:31:43.258Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 16.44
+    },
+    {
+      "id": "1x5xym4",
+      "title": "Brown County lawsuit against Elon Musk alleging bribery is dismissed",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMHZIWjNlTXlFVDVjcDBHRkpRMmY4TS1KUTA3Tjl0RDVSamxCN0FncmQ3eVJoVGpjbk1mRWRBQ0oxWVVzazVEdFlZRnByVnJSX2lVcjdxbWI3RHFFalpHbFp3SVBjTWlxQzhBTFJPazhvR0FyVDdmckZBMDhPQTNldW9tM1pqRVk4OUVkOHN2XzdVZEZfSk5jNXRZTVhONVd2OGcyaHJROUJTTWJUNGhFM1FrT1RpeEZSNzM2dVVFcjg3RFNXLVRJeWN0TkEzZFRnWkV6OVAxV2szU1lyMllEa0hNOWR1V0s1QVF6ejViRFQ?oc=5",
+      "source": "Green Bay Press-Gazette",
+      "sources": [
+        "Green Bay Press-Gazette",
+        "Stevens Point Journal"
+      ],
+      "date": "2026-11-20T21:50:00.000Z",
+      "firstSeen": "2026-11-21T03:31:43.258Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 15.54
+    },
+    {
+      "id": "1rvpnq9",
+      "title": "Italy gives green light to Tesla self-driving system ahead of EU approval",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYUs2dGZKcXM0TldoNEJPdjNSbzVQMVB0UkpkTzhreFpwc2VuRjUteDZ2TzNtTGhNZDZkSEd4RTdFMzVsWkxpTWRDOTRzWVNpSlVXOVNkVlVYZU93ZzQ1aGVVUklHdUpLbWxuME1rWEU3WEFkUkgxa3E2TXkwdllpLVNPMjVKYVREV0NRVlFaRjJWQU1KMUxrX2hGRlZiZnJhQ3pLMlpTMk5XMDB5RWc?oc=5",
+      "source": "Reuters",
+      "sources": [
+        "Reuters"
+      ],
+      "date": "2026-11-20T18:25:43.000Z",
+      "firstSeen": "2026-11-21T03:31:43.258Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 14.77
+    },
+    {
+      "id": "vmmos2",
+      "title": "In 2000, Elon Musk Crashed His Uninsured $1 Million McLaren Trying to Show Peter Thiel What It Could Do. In 2025, Thiel's Fund Quietly Sold Every Tesla Share It Owned",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPQ3hLSGYxQV9YYjBLa2VsY3ZHZFg5SDBkSkdhVDRGY3FjbkdsYTZlSHAyMlZjYklYUU8tZ0xveDRiYm9MNFVma3dXRmpjU1o1Q2tkT2FBcVMza2RUa1dSWHVfa24xRjh4ZExXTlRtcURJTWhLWjZLWXJYYmpLa0c3QlI1QmdUNlYwMlJFd2FySVJNOEhIdnpCU0wzV2dTUkhVSG83bkZ4eENLNDhLcHItdEJYU3hhWG5taXVyNFo3UnZOTUNUY3lOdDBQTHJ6bjlLYzl3ZlMxbzBEa3c5ZHk1UnRvRUY5aEFGek9kQ1FNWEFaY1F4NTVxSUhLTTRNQnY3UTBBSi1GMnl3YngtVkp2Qzlrel9RWktYYno3T0FHQnNrM1NhdkNiQ1hHNkxWUQ?oc=5",
+      "source": "24/7 Wall St.",
+      "sources": [
+        "24/7 Wall St."
+      ],
+      "date": "2026-11-21T01:52:00.000Z",
+      "firstSeen": "2026-11-21T03:31:43.258Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 14.55
+    },
+    {
+      "id": "p0u2kv",
+      "title": "Should Tesla (TSLA) Investors Watch Its Merger Talks And Cybercab FSD Rollout?",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVktoemhIRjd5UUdsbGRfdE4taUctTy12UUstYVVtTmJnSHY4Z1hYd29QZXpvS2V5dlhubnJZdWxqUDNBWWQ3LTI4ZkVEUElTcVpHbGpVMVBxbW5pb2RqMHl1bk83aTJmeDhIdmxMeHMxZ0N6YWlkenJlVFNCZ3I0MUhCUmJjTzhBanFhMXRIRjhrbXc1UzNteXFBcFRIY2M?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "date": "2026-11-20T21:12:59.000Z",
+      "firstSeen": "2026-11-21T03:31:43.258Z",
+      "image": "",
+      "snippet": "",
+      "category": "mobility",
+      "score": 13.89
+    },
+    {
+      "id": "442jjv",
+      "title": "I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my mind",
+      "url": "https://www.space.com/space-exploration/private-spaceflight/i-got-to-tour-spacexs-starfactory-facility-in-starbase-texas-and-what-i-saw-blew-my-mind",
       "source": "Space.com",
       "sources": [
         "Space",
         "Space.com"
       ],
-      "date": "2026-11-19T22:00:00.000Z",
-      "firstSeen": "2026-11-20T03:44:50.917Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Xsx8TcSssSgMcA6nfeaEf-1920-80.jpg",
-      "snippet": "A new set of slo-mo videos gives us a new perspective on SpaceX's first-ever recovery of a Starship upper stage. The company notched the milestone on Saturday (Nov. 14), when the launch…",
+      "date": "2026-11-20T13:00:00.000Z",
+      "firstSeen": "2026-11-21T03:31:43.258Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/G8BaMEVyvn9LdvXRCrtDD3-1920-80.jpg",
+      "snippet": "STARBASE, Texas — I just finished covering the Starship Flight 15 mission, and SpaceXs incredible launch tower catch of the returned Ship 42 spacecraft isn't the only thing over the weekend…",
       "category": "space",
-      "score": 17.52
-    },
-    {
-      "id": "1i2qra1",
-      "title": "Lenders aim to bar SpaceX from launching $40bn of chips into orbit",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOXdESDhWTHF3Y0Z1ZVo2dzgtTEM2QnI1cm5pdk1nQ21zbjhpVDJONzdmcGhBU0NQUEtTSEtkVTFuUVhqRHdBa2tucUZqa1pvLXZvVkxUNUY4R1hxVFZVTEk2TWJJMHZIZ2tlbklJcXVxTzlxMFZKXzR5UTVfX0tYNGFsME0?oc=5",
-      "source": "Financial Times",
-      "sources": [
-        "Financial Times"
-      ],
-      "date": "2026-11-20T00:15:12.000Z",
-      "firstSeen": "2026-11-20T03:44:50.917Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 16.08
-    },
-    {
-      "id": "10q2a5d",
-      "title": "SpaceX scrubs launch of classified payload for the U.S. Space Force, targets Friday",
-      "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
-      "source": "Spaceflight Now",
-      "sources": [
-        "Spaceflight Now"
-      ],
-      "date": "2026-11-19T23:51:47.000Z",
-      "firstSeen": "2026-11-20T03:44:50.917Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261119_USSF_317_Vertical.jpg",
-      "snippet": "SpaceX’s Falcon 9 rocket stands at Space Launch Complex 4 East at Vandenberg Space Force Base ahead of the launch of the USSF-317 mission. Image: SpaceX Update Nov. 19, 10:16 p.m. EDT (0316…",
-      "category": "space",
-      "score": 15.98
-    },
-    {
-      "id": "1bejzlp",
-      "title": "Elon Musk Backs Away From MAGA and the Trump Presidency He Shaped",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BSUMwY3g4RFBLTWl4LTBNd2t4YjZ1aVJqR05IT3lOWmZOUHR2d21jSkFWMkxmVV9FVEtHejBWLWQ2WlI1R3E0NzhzUVJCNXFkM1lCeDhhaHVWN043bzRDN1lGMFdYZVFid0VvZS12VjJ0N2hUbGxBcmpMVWU?oc=5",
-      "source": "The New York Times",
-      "sources": [
-        "Axios",
-        "The New York Times"
-      ],
-      "date": "2026-11-19T18:52:22.000Z",
-      "firstSeen": "2026-11-20T03:44:50.917Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 15.82
-    },
-    {
-      "id": "z9j6au",
-      "title": "Tesla Expands Cybercab To Dallas In First Move Outside Austin",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ19hRzNObEJYaU5BNTN0NGxQcXdrTFBYWFNZckxiUXNvRmFTeWIyVWUxZHBJMmNTaG5feHpHOE5nT2tzck5HdERTYUhHeV9zTDFxOVZmSHNaZW9oWlV0VW5rbVJkTVVSMnVjZGZtSktHOEdiZ1VwWXBoeWhhLTJIRzl6NURqTG1RSnN4Q1FtSV9abXF6NVp5dXNEVi0?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance",
-        "디지털투데이"
-      ],
-      "date": "2026-11-19T19:55:17.000Z",
-      "firstSeen": "2026-11-20T03:44:50.917Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 15.55
-    },
-    {
-      "id": "g1ahm5",
-      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
-      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
-      "source": "TechCrunch",
-      "sources": [
-        "TechCrunch"
-      ],
-      "date": "2026-11-19T23:37:56.000Z",
-      "firstSeen": "2026-11-20T03:44:50.917Z",
-      "image": "",
-      "snippet": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
-      "category": "space",
-      "score": 14.92
+      "score": 13.68
     }
   ],
   "trending": [
     "Tesla",
     "SpaceX",
     "Starlink",
-    "Starship",
     "Cybercab",
-    "TowerCatch"
+    "Starship",
+    "FSD"
   ],
   "spark": [
-    {
-      "date": "2026-11-07",
-      "total": 133
-    },
     {
       "date": "2026-11-08",
       "total": 129
@@ -186,9 +184,13 @@
     },
     {
       "date": "2026-11-20",
-      "total": 13
+      "total": 139
+    },
+    {
+      "date": "2026-11-21",
+      "total": 11
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: Business. Top story: Musk's SpaceXSI denies liability in UK lawmaker's lawsuit over Grok images.",
+  "summary": "150 stories (last 24h). Most active frontier: Tesla. Top story: Neuralink Participant Plays GTA VI With Brain Implant Alone.",
   "editor": null
 }
