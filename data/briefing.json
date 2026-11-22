@@ -1,143 +1,139 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "ai": 14,
-    "robotics": 1,
-    "mobility": 37,
-    "space": 31,
-    "connectivity": 27,
-    "business": 36,
-    "neuro": 4
+    "connectivity": 17,
+    "business": 23,
+    "neuro": 20,
+    "mobility": 51,
+    "space": 27,
+    "ai": 10,
+    "robotics": 2
   },
   "topStory": {
-    "id": "1ivvb50",
-    "title": "Neuralink Participant Plays GTA VI With Brain Implant Alone",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYzI5WUpWRENWUjBqczZPMjZNc0dGUHUxRzBWMnc1em9qZVJPRHlwSEFPczRyVkpSVlBuQnc3Mm9WWmI2NmFrRm9DT3NhU292UFdfNjJIMkFFSUJKbkxER1hGQl9HakttbFlnM0swU2h6YU50X2tiV1lnMVYtamdjdnM5SGpocFJCOVhhNjdMcEx6QVJDcS1ORDNn?oc=5",
-    "source": "BASENOR - Tesla Accessories",
+    "id": "e0xfy4",
+    "title": "Elon Musk got really awkward at Tesla’s Argentina launch.",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRnZpS3FBakg3Z1JsM01OYnJkZjF6NnFncllpVkdmbjUzR2dLcWZ0d2Nyc1VoenN6TmFjSThvRlhXRGlzQTc2bHNrZk9uZk82a2VXUEZjVlR4UWZ0U2o2SDJKeVJCU09TQml6dlhBdS1BSTE5Y0sxNHUwN3FhNmhZSmpsUktTV2luUHotZkU3LWYzMzRmLU5oRA?oc=5",
+    "source": "The Verge",
     "sources": [
-      "BASENOR - Tesla Accessories",
-      "Interesting Engineering",
-      "Inven Global",
-      "TeslaNorth.com"
+      "Electrek",
+      "The Verge"
     ],
-    "date": "2026-11-20T21:37:33.000Z",
-    "firstSeen": "2026-11-21T03:31:43.258Z",
-    "image": "",
-    "snippet": "",
-    "category": "neuro",
-    "score": 16.49
+    "date": "2026-11-21T15:11:00.000Z",
+    "firstSeen": "2026-11-22T02:40:29.170Z",
+    "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Elon-Musk-awkward-Tesla-Argentina-launch.jpeg?quality=82&strip=all&w=1600",
+    "snippet": "Tesla officially launched in Argentina on Friday with President Javier Milei on stage in Buenos Aires, and Elon Musk joined by video from his plane to welcome the brand’s newest market. It…",
+    "category": "space",
+    "score": 17.27
   },
   "topList": [
     {
-      "id": "x5kraj",
-      "title": "Wisconsin judge dismisses election bribery lawsuit against Elon Musk",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRFotMVV4WEQxSS1TZVpLbXNUTG5tdkpkTmdVZElON2YwV1A3ZDFucXV2Z0RfZ1F1YzZiOHlmVHJHajI0eW9kVUM1YzBENUJRVm43aVpvQkVXSGxERlluOVhrX196UWxkQkpEOGFrZ2ZXWGpMOVlOVWJzeHpCZHU3cTZsTzBLSXo4U0sxaUJ1Zw?oc=5",
-      "source": "WPR",
-      "sources": [
-        "WPR",
-        "Wisconsin Examiner",
-        "WBAY"
-      ],
-      "date": "2026-11-20T16:54:00.000Z",
-      "firstSeen": "2026-11-21T03:31:43.258Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 16.44
-    },
-    {
-      "id": "1x5xym4",
-      "title": "Brown County lawsuit against Elon Musk alleging bribery is dismissed",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMHZIWjNlTXlFVDVjcDBHRkpRMmY4TS1KUTA3Tjl0RDVSamxCN0FncmQ3eVJoVGpjbk1mRWRBQ0oxWVVzazVEdFlZRnByVnJSX2lVcjdxbWI3RHFFalpHbFp3SVBjTWlxQzhBTFJPazhvR0FyVDdmckZBMDhPQTNldW9tM1pqRVk4OUVkOHN2XzdVZEZfSk5jNXRZTVhONVd2OGcyaHJROUJTTWJUNGhFM1FrT1RpeEZSNzM2dVVFcjg3RFNXLVRJeWN0TkEzZFRnWkV6OVAxV2szU1lyMllEa0hNOWR1V0s1QVF6ejViRFQ?oc=5",
-      "source": "Green Bay Press-Gazette",
-      "sources": [
-        "Green Bay Press-Gazette",
-        "Stevens Point Journal"
-      ],
-      "date": "2026-11-20T21:50:00.000Z",
-      "firstSeen": "2026-11-21T03:31:43.258Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 15.54
-    },
-    {
-      "id": "1rvpnq9",
-      "title": "Italy gives green light to Tesla self-driving system ahead of EU approval",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYUs2dGZKcXM0TldoNEJPdjNSbzVQMVB0UkpkTzhreFpwc2VuRjUteDZ2TzNtTGhNZDZkSEd4RTdFMzVsWkxpTWRDOTRzWVNpSlVXOVNkVlVYZU93ZzQ1aGVVUklHdUpLbWxuME1rWEU3WEFkUkgxa3E2TXkwdllpLVNPMjVKYVREV0NRVlFaRjJWQU1KMUxrX2hGRlZiZnJhQ3pLMlpTMk5XMDB5RWc?oc=5",
-      "source": "Reuters",
-      "sources": [
-        "Reuters"
-      ],
-      "date": "2026-11-20T18:25:43.000Z",
-      "firstSeen": "2026-11-21T03:31:43.258Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 14.77
-    },
-    {
-      "id": "vmmos2",
-      "title": "In 2000, Elon Musk Crashed His Uninsured $1 Million McLaren Trying to Show Peter Thiel What It Could Do. In 2025, Thiel's Fund Quietly Sold Every Tesla Share It Owned",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPQ3hLSGYxQV9YYjBLa2VsY3ZHZFg5SDBkSkdhVDRGY3FjbkdsYTZlSHAyMlZjYklYUU8tZ0xveDRiYm9MNFVma3dXRmpjU1o1Q2tkT2FBcVMza2RUa1dSWHVfa24xRjh4ZExXTlRtcURJTWhLWjZLWXJYYmpLa0c3QlI1QmdUNlYwMlJFd2FySVJNOEhIdnpCU0wzV2dTUkhVSG83bkZ4eENLNDhLcHItdEJYU3hhWG5taXVyNFo3UnZOTUNUY3lOdDBQTHJ6bjlLYzl3ZlMxbzBEa3c5ZHk1UnRvRUY5aEFGek9kQ1FNWEFaY1F4NTVxSUhLTTRNQnY3UTBBSi1GMnl3YngtVkp2Qzlrel9RWktYYno3T0FHQnNrM1NhdkNiQ1hHNkxWUQ?oc=5",
-      "source": "24/7 Wall St.",
-      "sources": [
-        "24/7 Wall St."
-      ],
-      "date": "2026-11-21T01:52:00.000Z",
-      "firstSeen": "2026-11-21T03:31:43.258Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 14.55
-    },
-    {
-      "id": "p0u2kv",
-      "title": "Should Tesla (TSLA) Investors Watch Its Merger Talks And Cybercab FSD Rollout?",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVktoemhIRjd5UUdsbGRfdE4taUctTy12UUstYVVtTmJnSHY4Z1hYd29QZXpvS2V5dlhubnJZdWxqUDNBWWQ3LTI4ZkVEUElTcVpHbGpVMVBxbW5pb2RqMHl1bk83aTJmeDhIdmxMeHMxZ0N6YWlkenJlVFNCZ3I0MUhCUmJjTzhBanFhMXRIRjhrbXc1UzNteXFBcFRIY2M?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "date": "2026-11-20T21:12:59.000Z",
-      "firstSeen": "2026-11-21T03:31:43.258Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 13.89
-    },
-    {
-      "id": "442jjv",
-      "title": "I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my mind",
-      "url": "https://www.space.com/space-exploration/private-spaceflight/i-got-to-tour-spacexs-starfactory-facility-in-starbase-texas-and-what-i-saw-blew-my-mind",
+      "id": "3o9hff",
+      "title": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-retire-1st-starship-upper-stage-ever-caught-by-chopsticks-elon-musk-says",
       "source": "Space.com",
       "sources": [
         "Space",
+        "MLQ.ai",
         "Space.com"
       ],
-      "date": "2026-11-20T13:00:00.000Z",
-      "firstSeen": "2026-11-21T03:31:43.258Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/G8BaMEVyvn9LdvXRCrtDD3-1920-80.jpg",
-      "snippet": "STARBASE, Texas — I just finished covering the Starship Flight 15 mission, and SpaceXs incredible launch tower catch of the returned Ship 42 spacecraft isn't the only thing over the weekend…",
+      "date": "2026-11-21T13:00:00.000Z",
+      "firstSeen": "2026-11-22T02:40:29.170Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/FBiquE8ByNwXYMJZeaXVkm-1920-80.jpg",
+      "snippet": "The first Starship upper stage that SpaceX ever successfully recovered won't fly again. That vehicle, known as Ship 42, launched Nov. 13 on Starship 's 15th test flight. A day later, it…",
       "category": "space",
-      "score": 13.68
+      "score": 16.84
+    },
+    {
+      "id": "6jk7hy",
+      "title": "Elon Musk Dreams of a Larger Empire in Move Toward Technological Supremacy",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPazJram9ValE5cjMtTEg4dDczeXc3d3Y1VW9KaldhbHl2ZUhISjBHbzFBZ3FXWExFWGxEVlNwMHpZU0xvcEdkQkpaMURmQldKdE1TUkIyMENXTU4wTWpCTkNtLS01OGY3Qnp0X1BVYlM0NU96RkFxeE12YjRRZ1pKUUpRUFpjOFc1eGswVQ?oc=5",
+      "source": "The New York Times",
+      "sources": [
+        "The New York Times"
+      ],
+      "date": "2026-11-21T22:38:47.000Z",
+      "firstSeen": "2026-11-22T02:40:29.170Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 14.94
+    },
+    {
+      "id": "tqbjwz",
+      "title": "Elon Musk on His Politics, a Potential Merger and Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWElwNnd4QTdUTEZMWjVXVnMzSGhnMTN0cUU0RUJpV2syVlhoR2tIRWJtQUV4ZHdVN1FWa1M0NFRHaURnU2VlTk5zbThXeC1FVmk0dGtlN2xWRWtTR1BjbGZadzl2YW5EdUR3TFFxS19Eb1ItTWdQVW40emg0Xzl4OHNscGJjSkpvamNr?oc=5",
+      "source": "The New York Times",
+      "sources": [
+        "The New York Times"
+      ],
+      "date": "2026-11-21T13:00:06.000Z",
+      "firstSeen": "2026-11-22T02:40:29.170Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 14.84
+    },
+    {
+      "id": "jf8t9n",
+      "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
+      "url": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+      "source": "Spaceflight Now",
+      "sources": [
+        "Spaceflight Now"
+      ],
+      "date": "2026-11-21T16:50:51.000Z",
+      "firstSeen": "2026-11-22T02:40:29.170Z",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
+      "snippet": "A Falcon 9 rocket stands poised to launch from the Space Launch Complex 4E at Vandenberg Space Force Base in California. File Photo: SpaceX SpaceX will launch a batch of…",
+      "category": "space",
+      "score": 14.61
+    },
+    {
+      "id": "zsgb8x",
+      "title": "Tesla Launches FSD v15 With Major Driving Safety Upgrades",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3QnZGNDZxTVBYd2Nyams5ZUFYQTI4R2E5NDZ2U0ltSlg4aGhpVXZMdXhXeXdjRnl5YXVkYlJhV3J5dTU2LXR3VFJ2OXZ3aDFDeFlnMmdzQnpZNWdEVDRfS1F3NkVVLWlC?oc=5",
+      "source": "Demokratis.co.id",
+      "sources": [
+        "Demokratis.co.id",
+        "Drive Tesla Canada"
+      ],
+      "date": "2026-11-21T20:19:32.000Z",
+      "firstSeen": "2026-11-22T02:40:29.170Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 14.38
+    },
+    {
+      "id": "zhtu6o",
+      "title": "Neuralink patient plays GTA 6 using only brain signals, no controller needed",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc0xPQXRmVkh1OGo5N213bFZ2ZGNYc0xiUWd3eTNwZFUtT1lVWXR3QXk3SndzTjdtM3ZnUjZUMlU3cktXTEZpdmpWNEJZTWFqVTNQTDNnYUsxRU5yQWV5OHJ0VFZBZFBCUnRPaEJSX3drME1Tajc4MzFiQWRSYmg3M21nRjhLbmR5eUpieTFUVlE0ODluTjN3UVRJU05HVXI3UkdYaXJRVmtWek5URVRUTWd5ZHNHMDBoSUltRjVXTC1jMm9feHpCZ1QwLVZSYWhoQ19mZUs4RVpXUdIB3wFBVV95cUxOcUE5Q2djZTVRU3pHUzkzS0JUaEZmWjNWS05kLUphMFlnY2FON1UteXhycGp6VUstT3NQYVM4X1JLUnNWMjV6d0pTWGdBdGsza2lHS0p5VVIyaHlZNGxBcVlUY1RDeWUxX19RbTg5U1NhbFRfVVZiR09Qd1JKMWYteUVOY1dXNzFHSGtwVTd0VlpoQUJjc0JobDhjOXFNcW9MZ1hWTmdsTTJVallZUlZ4c1NmY2h2ZjUwRHBNUzBWT1dKSTdFbU02TS0yOEs1R01LQ1ZyMnExczRJdENkS2pJ?oc=5",
+      "source": "India Today",
+      "sources": [
+        "India Today",
+        "Geo News",
+        "Tech4Gamers",
+        "Technetbook"
+      ],
+      "date": "2026-11-21T09:44:31.000Z",
+      "firstSeen": "2026-11-22T02:40:29.170Z",
+      "image": "",
+      "snippet": "",
+      "category": "neuro",
+      "score": 14.25
     }
   ],
   "trending": [
     "Tesla",
+    "FSD",
     "SpaceX",
+    "Neuralink",
     "Starlink",
-    "Cybercab",
-    "Starship",
-    "FSD"
+    "BrainComputerInterface"
   ],
   "spark": [
-    {
-      "date": "2026-11-08",
-      "total": 129
-    },
     {
       "date": "2026-11-09",
       "total": 129
@@ -188,9 +184,13 @@
     },
     {
       "date": "2026-11-21",
-      "total": 11
+      "total": 137
+    },
+    {
+      "date": "2026-11-22",
+      "total": 13
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: Tesla. Top story: Neuralink Participant Plays GTA VI With Brain Implant Alone.",
+  "summary": "150 stories (last 24h). Most active frontier: Tesla. Top story: Elon Musk got really awkward at Tesla’s Argentina launch..",
   "editor": null
 }

@@ -1,6 +1,6 @@
 {
   "engine": "v2",
-  "lastRun": "2026-11-21T03:31:43.258Z",
+  "lastRun": "2026-11-22T02:40:29.170Z",
   "mode": "live",
   "ok": true,
   "editionKept": false,
@@ -11,7 +11,7 @@
   ],
   "newItems": 150,
   "totalItems": 150,
-  "nextRun": "2026-11-21T22:47:00.000Z",
+  "nextRun": "2026-11-22T22:47:00.000Z",
   "scheduleLabel": "DAILY 07:47 KST",
   "staleAfterHours": 26
 }
