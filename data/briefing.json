@@ -1,33 +1,48 @@
 {
-  "date": "2026-11-22",
-  "windowLabel": "LAST 24H",
+  "date": "2026-11-23",
+  "windowLabel": "LAST 7 DAYS",
   "total": 150,
   "counts": {
-    "connectivity": 17,
-    "business": 23,
-    "neuro": 20,
     "mobility": 51,
-    "space": 27,
+    "space": 28,
+    "connectivity": 17,
+    "business": 22,
+    "neuro": 20,
     "ai": 10,
     "robotics": 2
   },
   "topStory": {
-    "id": "e0xfy4",
-    "title": "Elon Musk got really awkward at Tesla’s Argentina launch.",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRnZpS3FBakg3Z1JsM01OYnJkZjF6NnFncllpVkdmbjUzR2dLcWZ0d2Nyc1VoenN6TmFjSThvRlhXRGlzQTc2bHNrZk9uZk82a2VXUEZjVlR4UWZ0U2o2SDJKeVJCU09TQml6dlhBdS1BSTE5Y0sxNHUwN3FhNmhZSmpsUktTV2luUHotZkU3LWYzMzRmLU5oRA?oc=5",
-    "source": "The Verge",
+    "id": "uqzeeh",
+    "title": "SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
+    "source": "Space.com",
     "sources": [
-      "Electrek",
-      "The Verge"
+      "Space.com"
     ],
-    "date": "2026-11-21T15:11:00.000Z",
-    "firstSeen": "2026-11-22T02:40:29.170Z",
-    "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Elon-Musk-awkward-Tesla-Argentina-launch.jpeg?quality=82&strip=all&w=1600",
-    "snippet": "Tesla officially launched in Argentina on Friday with President Javier Milei on stage in Buenos Aires, and Elon Musk joined by video from his plane to welcome the brand’s newest market. It…",
+    "date": "2026-11-22T16:05:33.000Z",
+    "firstSeen": "2026-11-23T03:10:34.560Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/Zo7K3LFdny8ECPyBDZLpiH-1920-80.jpg",
+    "snippet": "SpaceX launched a batch of classified satellites this morning (Nov. 22), on the NROL-136 mission out of California. A Falcon 9 rocket lifted off from Vandenberg Space Force Base's Launch…",
     "category": "space",
-    "score": 17.27
+    "score": 14.35
   },
   "topList": [
+    {
+      "id": "e0xfy4",
+      "title": "Elon Musk got really awkward at Tesla’s Argentina launch.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRnZpS3FBakg3Z1JsM01OYnJkZjF6NnFncllpVkdmbjUzR2dLcWZ0d2Nyc1VoenN6TmFjSThvRlhXRGlzQTc2bHNrZk9uZk82a2VXUEZjVlR4UWZ0U2o2SDJKeVJCU09TQml6dlhBdS1BSTE5Y0sxNHUwN3FhNmhZSmpsUktTV2luUHotZkU3LWYzMzRmLU5oRA?oc=5",
+      "source": "The Verge",
+      "sources": [
+        "Electrek",
+        "The Verge"
+      ],
+      "date": "2026-11-21T15:11:00.000Z",
+      "firstSeen": "2026-11-22T02:40:29.170Z",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Elon-Musk-awkward-Tesla-Argentina-launch.jpeg?quality=82&strip=all&w=1600",
+      "snippet": "Tesla officially launched in Argentina on Friday with President Javier Milei on stage in Buenos Aires, and Elon Musk joined by video from his plane to welcome the brand’s newest market. It…",
+      "category": "space",
+      "score": 13.68
+    },
     {
       "id": "3o9hff",
       "title": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says",
@@ -43,22 +58,22 @@
       "image": "https://cdn.mos.cms.futurecdn.net/FBiquE8ByNwXYMJZeaXVkm-1920-80.jpg",
       "snippet": "The first Starship upper stage that SpaceX ever successfully recovered won't fly again. That vehicle, known as Ship 42, launched Nov. 13 on Starship 's 15th test flight. A day later, it…",
       "category": "space",
-      "score": 16.84
+      "score": 13.46
     },
     {
-      "id": "6jk7hy",
-      "title": "Elon Musk Dreams of a Larger Empire in Move Toward Technological Supremacy",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPazJram9ValE5cjMtTEg4dDczeXc3d3Y1VW9KaldhbHl2ZUhISjBHbzFBZ3FXWExFWGxEVlNwMHpZU0xvcEdkQkpaMURmQldKdE1TUkIyMENXTU4wTWpCTkNtLS01OGY3Qnp0X1BVYlM0NU96RkFxeE12YjRRZ1pKUUpRUFpjOFc1eGswVQ?oc=5",
-      "source": "The New York Times",
+      "id": "zfpaqr",
+      "title": "Tesla Full Self-Driving v15: Reality View review, new features explained",
+      "url": "https://www.teslarati.com/tesla-full-self-driving-v15-first-hand-look-at-reality-view-new-features/",
+      "source": "Teslarati",
       "sources": [
-        "The New York Times"
+        "Teslarati"
       ],
-      "date": "2026-11-21T22:38:47.000Z",
-      "firstSeen": "2026-11-22T02:40:29.170Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 14.94
+      "date": "2026-11-22T19:43:58.000Z",
+      "firstSeen": "2026-11-23T03:10:34.560Z",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png",
+      "snippet": "Tesla has officially started rolling out the Full Self-Driving version 15 update, and we were lucky enough to get it in the first wave on Saturday night. It comes with a lot of new…",
+      "category": "mobility",
+      "score": 11.63
     },
     {
       "id": "tqbjwz",
@@ -73,38 +88,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 14.84
-    },
-    {
-      "id": "jf8t9n",
-      "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
-      "url": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
-      "source": "Spaceflight Now",
-      "sources": [
-        "Spaceflight Now"
-      ],
-      "date": "2026-11-21T16:50:51.000Z",
-      "firstSeen": "2026-11-22T02:40:29.170Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
-      "snippet": "A Falcon 9 rocket stands poised to launch from the Space Launch Complex 4E at Vandenberg Space Force Base in California. File Photo: SpaceX SpaceX will launch a batch of…",
-      "category": "space",
-      "score": 14.61
-    },
-    {
-      "id": "zsgb8x",
-      "title": "Tesla Launches FSD v15 With Major Driving Safety Upgrades",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3QnZGNDZxTVBYd2Nyams5ZUFYQTI4R2E5NDZ2U0ltSlg4aGhpVXZMdXhXeXdjRnl5YXVkYlJhV3J5dTU2LXR3VFJ2OXZ3aDFDeFlnMmdzQnpZNWdEVDRfS1F3NkVVLWlC?oc=5",
-      "source": "Demokratis.co.id",
-      "sources": [
-        "Demokratis.co.id",
-        "Drive Tesla Canada"
-      ],
-      "date": "2026-11-21T20:19:32.000Z",
-      "firstSeen": "2026-11-22T02:40:29.170Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 14.38
+      "score": 11.46
     },
     {
       "id": "zhtu6o",
@@ -122,7 +106,22 @@
       "image": "",
       "snippet": "",
       "category": "neuro",
-      "score": 14.25
+      "score": 11.16
+    },
+    {
+      "id": "jf8t9n",
+      "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
+      "url": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+      "source": "Spaceflight Now",
+      "sources": [
+        "Spaceflight Now"
+      ],
+      "date": "2026-11-21T16:50:51.000Z",
+      "firstSeen": "2026-11-22T02:40:29.170Z",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
+      "snippet": "A Falcon 9 rocket stands poised to launch from the Space Launch Complex 4E at Vandenberg Space Force Base in California. File Photo: SpaceX Update Nov. 22, 8 a.m. EST (1300 UTC): SpaceX…",
+      "category": "space",
+      "score": 10.85
     }
   ],
   "trending": [
@@ -134,10 +133,6 @@
     "BrainComputerInterface"
   ],
   "spark": [
-    {
-      "date": "2026-11-09",
-      "total": 129
-    },
     {
       "date": "2026-11-10",
       "total": 136
@@ -188,9 +183,13 @@
     },
     {
       "date": "2026-11-22",
-      "total": 13
+      "total": 15
+    },
+    {
+      "date": "2026-11-23",
+      "total": 0
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: Tesla. Top story: Elon Musk got really awkward at Tesla’s Argentina launch..",
+  "summary": "150 stories (last 7 days). Most active frontier: Tesla. Top story: SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video).",
   "editor": null
 }

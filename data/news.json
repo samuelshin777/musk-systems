@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-22T02:40:29.170Z",
+  "updated": "2026-11-23T03:10:34.560Z",
   "items": [
+    {
+      "id": "zfpaqr",
+      "title": "Tesla Full Self-Driving v15: Reality View review, new features explained",
+      "url": "https://www.teslarati.com/tesla-full-self-driving-v15-first-hand-look-at-reality-view-new-features/",
+      "source": "Teslarati",
+      "sources": [
+        "Teslarati"
+      ],
+      "date": "2026-11-22T19:43:58.000Z",
+      "firstSeen": "2026-11-23T03:10:34.560Z",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png",
+      "snippet": "Tesla has officially started rolling out the Full Self-Driving version 15 update, and we were lucky enough to get it in the first wave on Saturday night. It comes with a lot of new…",
+      "category": "mobility",
+      "score": 11.63
+    },
+    {
+      "id": "uqzeeh",
+      "title": "SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
+      "source": "Space.com",
+      "sources": [
+        "Space.com"
+      ],
+      "date": "2026-11-22T16:05:33.000Z",
+      "firstSeen": "2026-11-23T03:10:34.560Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Zo7K3LFdny8ECPyBDZLpiH-1920-80.jpg",
+      "snippet": "SpaceX launched a batch of classified satellites this morning (Nov. 22), on the NROL-136 mission out of California. A Falcon 9 rocket lifted off from Vandenberg Space Force Base's Launch…",
+      "category": "space",
+      "score": 14.35
+    },
     {
       "id": "bior2r",
       "title": "US lawmaker threatens to block SpaceX funding over Starshield limits in Ukraine, CNN reports",
@@ -14,7 +44,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 11.96
+      "score": 7.04
     },
     {
       "id": "vvgn6e",
@@ -29,7 +59,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 12.95
+      "score": 8.04
     },
     {
       "id": "8j58kl",
@@ -44,7 +74,7 @@
       "image": "",
       "snippet": "",
       "category": "neuro",
-      "score": 12.87
+      "score": 8
     },
     {
       "id": "1oc7t47",
@@ -59,7 +89,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.85
+      "score": 6.99
     },
     {
       "id": "19huw3j",
@@ -74,7 +104,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.81
+      "score": 6.97
     },
     {
       "id": "huovml",
@@ -89,7 +119,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.73
+      "score": 6.93
     },
     {
       "id": "140hrej",
@@ -104,7 +134,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.64
+      "score": 6.88
     },
     {
       "id": "1d4d4fw",
@@ -119,7 +149,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.59
+      "score": 8.86
     },
     {
       "id": "2bj50d",
@@ -134,7 +164,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.48
+      "score": 6.8
     },
     {
       "id": "dhqit0",
@@ -149,7 +179,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.43
+      "score": 6.77
     },
     {
       "id": "poavq1",
@@ -164,7 +194,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.39
+      "score": 6.76
     },
     {
       "id": "1a2oit0",
@@ -179,7 +209,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.36
+      "score": 6.74
     },
     {
       "id": "tvpff5",
@@ -194,7 +224,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 12.35
+      "score": 7.73
     },
     {
       "id": "1wpzbcy",
@@ -209,7 +239,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 12.26
+      "score": 7.69
     },
     {
       "id": "3afxgh",
@@ -224,7 +254,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 12.24
+      "score": 7.68
     },
     {
       "id": "m4yenp",
@@ -239,7 +269,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.15
+      "score": 6.63
     },
     {
       "id": "ue5kle",
@@ -254,7 +284,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.1
+      "score": 6.61
     },
     {
       "id": "1nv0i0m",
@@ -269,7 +299,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.08
+      "score": 6.6
     },
     {
       "id": "n9jn59",
@@ -284,7 +314,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 12
+      "score": 7.56
     },
     {
       "id": "96m0o8",
@@ -299,7 +329,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 10.95
+      "score": 6.53
     },
     {
       "id": "6jk7hy",
@@ -314,7 +344,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 14.94
+      "score": 10.53
     },
     {
       "id": "1nc7fw5",
@@ -329,7 +359,7 @@
       "image": "",
       "snippet": "",
       "category": "neuro",
-      "score": 10.93
+      "score": 6.52
     },
     {
       "id": "izrnt1",
@@ -344,7 +374,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.88
+      "score": 7.5
     },
     {
       "id": "redrgc",
@@ -359,7 +389,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 11.78
+      "score": 7.44
     },
     {
       "id": "1eofhe5",
@@ -374,7 +404,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 11.74
+      "score": 7.43
     },
     {
       "id": "6gmjh7",
@@ -389,7 +419,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 12.73
+      "score": 8.42
     },
     {
       "id": "odjtma",
@@ -404,7 +434,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 10.71
+      "score": 6.41
     },
     {
       "id": "fwz73k",
@@ -419,7 +449,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 11.69
+      "score": 7.4
     },
     {
       "id": "1ud467y",
@@ -434,7 +464,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 10.68
+      "score": 6.39
     },
     {
       "id": "3a3lku",
@@ -449,7 +479,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 13.66
+      "score": 9.39
     },
     {
       "id": "9wapuu",
@@ -464,7 +494,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 11.66
+      "score": 7.39
     },
     {
       "id": "bun5y0",
@@ -479,7 +509,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 12.59
+      "score": 8.35
     },
     {
       "id": "1yh3r00",
@@ -494,7 +524,7 @@
       "image": "",
       "snippet": "",
       "category": "neuro",
-      "score": 10.56
+      "score": 6.33
     },
     {
       "id": "1mbv9wg",
@@ -509,7 +539,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 10.51
+      "score": 6.31
     },
     {
       "id": "8gc5g4",
@@ -524,7 +554,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 10.46
+      "score": 6.28
     },
     {
       "id": "d8i70j",
@@ -539,7 +569,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 10.45
+      "score": 6.28
     },
     {
       "id": "w63ugl",
@@ -554,7 +584,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 10.44
+      "score": 6.27
     },
     {
       "id": "138s56v",
@@ -569,7 +599,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 10.4
+      "score": 6.26
     },
     {
       "id": "zsgb8x",
@@ -585,7 +615,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 14.38
+      "score": 10.24
     },
     {
       "id": "1ev2ztq",
@@ -600,7 +630,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.37
+      "score": 9.24
     },
     {
       "id": "10d6yes",
@@ -615,7 +645,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 10.37
+      "score": 6.24
     },
     {
       "id": "7p15wh",
@@ -630,7 +660,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 10.35
+      "score": 6.23
     },
     {
       "id": "1kixauw",
@@ -645,7 +675,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 11.33
+      "score": 7.22
     },
     {
       "id": "1n2skdb",
@@ -660,7 +690,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 10.32
+      "score": 6.21
     },
     {
       "id": "1xf29e5",
@@ -675,7 +705,7 @@
       "image": "",
       "snippet": "Tesla has announced that Full Self-Driving version 15 is now rolling out, after CEO Elon Musk said earlier today that the wide rollout would occur in December. Now, Tesla is rolling out to…",
       "category": "mobility",
-      "score": 11.82
+      "score": 7.71
     },
     {
       "id": "1qus2ow",
@@ -690,7 +720,7 @@
       "image": "",
       "snippet": "",
       "category": "robotics",
-      "score": 11.3
+      "score": 7.2
     },
     {
       "id": "10xyzo7",
@@ -705,7 +735,7 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-FSD-v15-update.jpeg?quality=82&strip=all&w=1600",
       "snippet": "Tesla has started rolling out “Full Self-Driving” v15, and its list of improvements reads like a list of FSD’s biggest current weaknesses: sign detection, potholes, and speed handling in…",
       "category": "space",
-      "score": 13.79
+      "score": 9.7
     },
     {
       "id": "rbdrvb",
@@ -720,7 +750,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 11.28
+      "score": 7.19
     },
     {
       "id": "15pkler",
@@ -735,7 +765,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 10.23
+      "score": 6.17
     },
     {
       "id": "i0ysnt",
@@ -750,7 +780,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.21
+      "score": 9.15
     },
     {
       "id": "1uunyhp",
@@ -765,7 +795,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 10.14
+      "score": 6.12
     },
     {
       "id": "15qx42i",
@@ -780,7 +810,7 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Cybertruck-imroves-its-already-impressive-turning-radius.png?w=1600",
       "snippet": "Tesla is rolling out an update that makes the Cybertruck turn even tighter, improving on what was already one of the best turning radiuses you can get in a full-size pickup. But there’s a…",
       "category": "mobility",
-      "score": 11.64
+      "score": 7.62
     },
     {
       "id": "s4r1hq",
@@ -795,7 +825,7 @@
       "image": "",
       "snippet": "",
       "category": "neuro",
-      "score": 10.1
+      "score": 6.1
     },
     {
       "id": "c0fdp4",
@@ -810,7 +840,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 11.1
+      "score": 7.1
     },
     {
       "id": "izqwff",
@@ -825,7 +855,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 12.09
+      "score": 8.09
     },
     {
       "id": "1ro0zcf",
@@ -840,7 +870,7 @@
       "image": "",
       "snippet": "",
       "category": "neuro",
-      "score": 12.07
+      "score": 8.09
     },
     {
       "id": "8n0v94",
@@ -855,7 +885,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 11.07
+      "score": 7.09
     },
     {
       "id": "1apx253",
@@ -870,7 +900,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 11.07
+      "score": 7.09
     },
     {
       "id": "1asjtz3",
@@ -885,7 +915,7 @@
       "image": "",
       "snippet": "",
       "category": "neuro",
-      "score": 10.02
+      "score": 6.06
     },
     {
       "id": "1wwbjs8",
@@ -900,7 +930,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 10.97
+      "score": 7.03
     },
     {
       "id": "qzdk6a",
@@ -915,7 +945,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 9.93
+      "score": 6.01
     },
     {
       "id": "wpai1y",
@@ -930,7 +960,7 @@
       "image": "",
       "snippet": "",
       "category": "neuro",
-      "score": 10.86
+      "score": 6.98
     },
     {
       "id": "6hdh1v",
@@ -945,7 +975,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 10.81
+      "score": 6.95
     },
     {
       "id": "2ce0ju",
@@ -960,7 +990,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 11.8
+      "score": 7.95
     },
     {
       "id": "17zyf31",
@@ -976,7 +1006,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 12.78
+      "score": 8.94
     },
     {
       "id": "1wgy6gh",
@@ -991,7 +1021,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 12.22
+      "score": 8.41
     },
     {
       "id": "1exmhv3",
@@ -1006,7 +1036,7 @@
       "image": "",
       "snippet": "",
       "category": "neuro",
-      "score": 9.69
+      "score": 5.9
     },
     {
       "id": "1bofyw5",
@@ -1021,7 +1051,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 9.68
+      "score": 5.89
     },
     {
       "id": "1rkmmt",
@@ -1036,7 +1066,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 9.67
+      "score": 5.88
     },
     {
       "id": "13ajyq2",
@@ -1051,7 +1081,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 9.66
+      "score": 5.88
     },
     {
       "id": "1d1lbka",
@@ -1066,11 +1096,11 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 9.64
+      "score": 5.87
     },
     {
       "id": "jf8t9n",
-      "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
+      "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
       "url": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
       "source": "Spaceflight Now",
       "sources": [
@@ -1079,9 +1109,9 @@
       "date": "2026-11-21T16:50:51.000Z",
       "firstSeen": "2026-11-22T02:40:29.170Z",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
-      "snippet": "A Falcon 9 rocket stands poised to launch from the Space Launch Complex 4E at Vandenberg Space Force Base in California. File Photo: SpaceX SpaceX will launch a batch of…",
+      "snippet": "A Falcon 9 rocket stands poised to launch from the Space Launch Complex 4E at Vandenberg Space Force Base in California. File Photo: SpaceX Update Nov. 22, 8 a.m. EST (1300 UTC): SpaceX…",
       "category": "space",
-      "score": 14.61
+      "score": 10.85
     },
     {
       "id": "2mje9y",
@@ -1096,7 +1126,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 10.61
+      "score": 6.85
     },
     {
       "id": "182osh1",
@@ -1111,7 +1141,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 12.1
+      "score": 8.35
     },
     {
       "id": "1nt8aru",
@@ -1126,7 +1156,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 9.6
+      "score": 5.85
     },
     {
       "id": "otwtyl",
@@ -1141,7 +1171,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 11.48
+      "score": 7.79
     },
     {
       "id": "196m7qc",
@@ -1156,22 +1186,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 11.46
-    },
-    {
-      "id": "11xzlfb",
-      "title": "Musk: “I’m not MAGA”",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZZlg2bm85MXM2MlAyS3A1bGtPVkVkMnczdjk0djFlS3hMNF83Z2Q5T3N3TlBRSHB5M0pYUlpMNGl4UGUyUXNjdDhETU5wUGVDZlJ1NjltZ0l2R3JiLTNEMUxmZw?oc=5",
-      "source": "Oligarch Watch",
-      "sources": [
-        "Oligarch Watch"
-      ],
-      "date": "2026-11-21T16:02:30.000Z",
-      "firstSeen": "2026-11-22T02:40:29.170Z",
-      "image": "",
-      "snippet": "",
-      "category": "business",
-      "score": 10.44
+      "score": 7.78
     },
     {
       "id": "16gwx1z",
@@ -1186,7 +1201,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 9.4
+      "score": 5.75
     },
     {
       "id": "1cmdpxc",
@@ -1201,7 +1216,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 11.4
+      "score": 7.75
     },
     {
       "id": "1pyqgh2",
@@ -1216,7 +1231,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 9.36
+      "score": 5.73
     },
     {
       "id": "1lt74jn",
@@ -1231,7 +1246,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 10.35
+      "score": 6.72
     },
     {
       "id": "vomqi",
@@ -1246,7 +1261,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 10.32
+      "score": 6.71
     },
     {
       "id": "vwb5qa",
@@ -1261,7 +1276,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 10.32
+      "score": 6.7
     },
     {
       "id": "7qovxc",
@@ -1276,7 +1291,7 @@
       "image": "",
       "snippet": "",
       "category": "neuro",
-      "score": 9.3
+      "score": 5.7
     },
     {
       "id": "e0xfy4",
@@ -1292,7 +1307,7 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Elon-Musk-awkward-Tesla-Argentina-launch.jpeg?quality=82&strip=all&w=1600",
       "snippet": "Tesla officially launched in Argentina on Friday with President Javier Milei on stage in Buenos Aires, and Elon Musk joined by video from his plane to welcome the brand’s newest market. It…",
       "category": "space",
-      "score": 17.27
+      "score": 13.68
     },
     {
       "id": "1grx4i2",
@@ -1307,7 +1322,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 11.75
+      "score": 8.17
     },
     {
       "id": "14gndai",
@@ -1322,7 +1337,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 10.23
+      "score": 6.66
     },
     {
       "id": "1bpi3wl",
@@ -1337,7 +1352,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 9.23
+      "score": 5.66
     },
     {
       "id": "123ljjg",
@@ -1352,7 +1367,7 @@
       "image": "",
       "snippet": "",
       "category": "neuro",
-      "score": 10.23
+      "score": 6.66
     },
     {
       "id": "1d9arrw",
@@ -1367,7 +1382,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 10.23
+      "score": 6.66
     },
     {
       "id": "1k9qmle",
@@ -1382,7 +1397,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 9.2
+      "score": 5.64
     },
     {
       "id": "1rmsplq",
@@ -1399,7 +1414,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 14.15
+      "score": 10.62
     },
     {
       "id": "1fh7y1p",
@@ -1414,7 +1429,7 @@
       "image": "",
       "snippet": "",
       "category": "robotics",
-      "score": 9.13
+      "score": 5.61
     },
     {
       "id": "1qqxpsj",
@@ -1429,7 +1444,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 9.07
+      "score": 5.58
     },
     {
       "id": "1f3bafz",
@@ -1444,7 +1459,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 10.54
+      "score": 7.06
     },
     {
       "id": "iu74dt",
@@ -1460,7 +1475,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.04
+      "score": 9.56
     },
     {
       "id": "1y6nq73",
@@ -1475,7 +1490,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 10.03
+      "score": 6.56
     },
     {
       "id": "fsgl01",
@@ -1490,7 +1505,7 @@
       "image": "",
       "snippet": "Tesla Full Self-Driving v15 has received an official release date from CEO Elon Musk, who says the newest and most capable version of the suite will go wide in December with the 2026…",
       "category": "mobility",
-      "score": 11.49
+      "score": 8.04
     },
     {
       "id": "1549ump",
@@ -1505,7 +1520,7 @@
       "image": "",
       "snippet": "",
       "category": "neuro",
-      "score": 8.95
+      "score": 5.52
     },
     {
       "id": "xirbre",
@@ -1520,7 +1535,7 @@
       "image": "",
       "snippet": "",
       "category": "neuro",
-      "score": 8.94
+      "score": 5.51
     },
     {
       "id": "gfhh9b",
@@ -1535,7 +1550,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 8.91
+      "score": 5.5
     },
     {
       "id": "1hhyhsv",
@@ -1551,7 +1566,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 13.41
+      "score": 10
     },
     {
       "id": "1rqnn1o",
@@ -1566,7 +1581,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 10.89
+      "score": 7.49
     },
     {
       "id": "f51z4o",
@@ -1581,7 +1596,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 8.88
+      "score": 5.48
     },
     {
       "id": "1bmaqv",
@@ -1596,7 +1611,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 9.84
+      "score": 6.46
     },
     {
       "id": "tqbjwz",
@@ -1611,7 +1626,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 14.84
+      "score": 11.46
     },
     {
       "id": "3o9hff",
@@ -1628,7 +1643,7 @@
       "image": "https://cdn.mos.cms.futurecdn.net/FBiquE8ByNwXYMJZeaXVkm-1920-80.jpg",
       "snippet": "The first Starship upper stage that SpaceX ever successfully recovered won't fly again. That vehicle, known as Ship 42, launched Nov. 13 on Starship 's 15th test flight. A day later, it…",
       "category": "space",
-      "score": 16.84
+      "score": 13.46
     },
     {
       "id": "8jstfg",
@@ -1643,7 +1658,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 9.76
+      "score": 6.42
     },
     {
       "id": "1ac36nw",
@@ -1658,7 +1673,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 8.75
+      "score": 5.42
     },
     {
       "id": "9knxxe",
@@ -1673,7 +1688,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 8.67
+      "score": 5.38
     },
     {
       "id": "wwyr1y",
@@ -1688,7 +1703,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 10.67
+      "score": 7.37
     },
     {
       "id": "1dfqqx",
@@ -1703,7 +1718,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 8.64
+      "score": 5.36
     },
     {
       "id": "cjv9f8",
@@ -1718,7 +1733,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 10.62
+      "score": 7.35
     },
     {
       "id": "1wureg",
@@ -1733,7 +1748,7 @@
       "image": "",
       "snippet": "",
       "category": "neuro",
-      "score": 8.62
+      "score": 5.35
     },
     {
       "id": "pa9e5a",
@@ -1749,7 +1764,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 14.06
+      "score": 10.82
     },
     {
       "id": "o5c5qo",
@@ -1764,7 +1779,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 11.06
+      "score": 7.82
     },
     {
       "id": "1t124fg",
@@ -1779,7 +1794,7 @@
       "image": "",
       "snippet": "",
       "category": "neuro",
-      "score": 8.48
+      "score": 5.28
     },
     {
       "id": "zpg1ws",
@@ -1794,7 +1809,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 10.48
+      "score": 7.28
     },
     {
       "id": "1hi0thd",
@@ -1809,7 +1824,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 8.47
+      "score": 5.28
     },
     {
       "id": "7s63gs",
@@ -1824,7 +1839,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 8.47
+      "score": 5.28
     },
     {
       "id": "m3ybwq",
@@ -1839,7 +1854,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 8.46
+      "score": 5.27
     },
     {
       "id": "435eqh",
@@ -1854,7 +1869,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 9.4
+      "score": 6.24
     },
     {
       "id": "1twl02z",
@@ -1869,7 +1884,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 9.36
+      "score": 6.22
     },
     {
       "id": "vbhxo8",
@@ -1884,7 +1899,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 8.35
+      "score": 5.21
     },
     {
       "id": "1b2k10a",
@@ -1899,7 +1914,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 8.31
+      "score": 5.19
     },
     {
       "id": "vumuw",
@@ -1914,7 +1929,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 8.3
+      "score": 5.19
     },
     {
       "id": "161eofx",
@@ -1929,7 +1944,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 9.27
+      "score": 6.18
     },
     {
       "id": "h2ckf7",
@@ -1944,7 +1959,7 @@
       "image": "",
       "snippet": "",
       "category": "neuro",
-      "score": 9.26
+      "score": 6.17
     },
     {
       "id": "zhtu6o",
@@ -1962,7 +1977,7 @@
       "image": "",
       "snippet": "",
       "category": "neuro",
-      "score": 14.25
+      "score": 11.16
     },
     {
       "id": "pxfdb",
@@ -1977,7 +1992,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 8.24
+      "score": 5.16
     },
     {
       "id": "8eblfo",
@@ -1992,7 +2007,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 8.22
+      "score": 5.15
     },
     {
       "id": "1w47fwr",
@@ -2007,7 +2022,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 8.18
+      "score": 5.13
     },
     {
       "id": "3frs9w",
@@ -2022,7 +2037,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 8.14
+      "score": 5.11
     },
     {
       "id": "1b8d3g8",
@@ -2037,7 +2052,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 9.14
+      "score": 6.11
     },
     {
       "id": "14zspa3",
@@ -2052,7 +2067,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 8.13
+      "score": 5.11
     },
     {
       "id": "15cuigb",
@@ -2069,7 +2084,7 @@
       "image": "",
       "snippet": "",
       "category": "neuro",
-      "score": 13.13
+      "score": 10.1
     },
     {
       "id": "kqdu1p",
@@ -2084,7 +2099,7 @@
       "image": "",
       "snippet": "",
       "category": "neuro",
-      "score": 8.13
+      "score": 5.1
     },
     {
       "id": "tuj73x",
@@ -2099,7 +2114,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 9.12
+      "score": 6.1
     },
     {
       "id": "5fopvs",
@@ -2114,7 +2129,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 11.12
+      "score": 8.1
     },
     {
       "id": "18pruku",
@@ -2129,7 +2144,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 8.11
+      "score": 5.09
     },
     {
       "id": "32t5ea",
@@ -2144,7 +2159,7 @@
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 10.07
+      "score": 7.07
     },
     {
       "id": "ms33u9",
@@ -2159,7 +2174,7 @@
       "image": "",
       "snippet": "",
       "category": "mobility",
-      "score": 10
+      "score": 7.04
     },
     {
       "id": "jm0znn",
@@ -2174,7 +2189,7 @@
       "image": "",
       "snippet": "",
       "category": "neuro",
-      "score": 7.98
+      "score": 5.03
     },
     {
       "id": "r1b2yk",
@@ -2189,7 +2204,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 8.95
+      "score": 6.01
     },
     {
       "id": "86rgky",
@@ -2204,7 +2219,7 @@
       "image": "",
       "snippet": "",
       "category": "business",
-      "score": 8.95
+      "score": 6.01
     },
     {
       "id": "1nounw2",
@@ -2219,7 +2234,7 @@
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 7.87
+      "score": 4.97
     },
     {
       "id": "csd9hg",
@@ -2234,7 +2249,7 @@
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 8.85
+      "score": 5.96
     },
     {
       "id": "1st6z4c",
@@ -2249,22 +2264,7 @@
       "image": "",
       "snippet": "",
       "category": "neuro",
-      "score": 7.82
-    },
-    {
-      "id": "7fh52z",
-      "title": "Tesla Creates Dedicated Robotaxi Instagram Account",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSVJBdk1CTzNQcG9hY1huWUkyUDVHVWNVQ0N2MzVfNWNDWUFyZ3dKb1JmS0dtQ1M1cHNnRGloMjJ3WnVjYjRsTVRuUy1xa0FxTzBMQUFDc0FzVlM1REgzbDZPYkFZZEpPOXgzT1N1d2JpMUp5YWdUV24xZUM1b0VHdnB5eExfNFBNSHhwZFhB?oc=5",
-      "source": "BASENOR - Tesla Accessories",
-      "sources": [
-        "BASENOR - Tesla Accessories"
-      ],
-      "date": "2026-11-21T07:08:04.000Z",
-      "firstSeen": "2026-11-22T02:40:29.170Z",
-      "image": "",
-      "snippet": "",
-      "category": "mobility",
-      "score": 7.81
+      "score": 4.95
     }
   ]
 }

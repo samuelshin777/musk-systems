@@ -295,12 +295,12 @@
       "connectivity": 16
     },
     "2026-11-22": {
-      "total": 13,
+      "total": 15,
+      "mobility": 9,
+      "space": 2,
       "connectivity": 1,
       "business": 1,
       "neuro": 1,
-      "mobility": 8,
-      "space": 1,
       "ai": 1
     }
   }

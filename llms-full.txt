@@ -1,30 +1,30 @@
-# Musk Systems — full daily edition, 22 Nov 2026
+# Musk Systems — full daily edition, 23 Nov 2026
 
-> Unofficial fan tracker of Elon Musk's companies and projects. Rebuilt automatically every day (DAILY 07:47 KST) from 17 news sources. Every headline links to its original publisher. Not affiliated with Elon Musk or his companies. Last update: 2026-11-22T02:40:29.170Z.
+> Unofficial fan tracker of Elon Musk's companies and projects. Rebuilt automatically every day (DAILY 07:47 KST) from 17 news sources. Every headline links to its original publisher. Not affiliated with Elon Musk or his companies. Last update: 2026-11-23T03:10:34.560Z.
 
 Site: https://elonmusksystem.com/ · Archive: https://elonmusksystem.com/news/ · RSS: https://elonmusksystem.com/feed.xml
 
 ## Today's answers
 ### What is the latest Elon Musk news today?
-As of 22 Nov 2026: 150 stories (last 24h). Most active frontier: Tesla. Top story: Elon Musk got really awkward at Tesla’s Argentina launch..
+As of 23 Nov 2026: 150 stories (last 7 days). Most active frontier: Tesla. Top story: SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video).
 Sources:
+- [SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)](https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture) — Space.com, 2026-11-22
 - [Elon Musk got really awkward at Tesla’s Argentina launch.](https://news.google.com/rss/articles/CBMimAFBVV95cUxQRnZpS3FBakg3Z1JsM01OYnJkZjF6NnFncllpVkdmbjUzR2dLcWZ0d2Nyc1VoenN6TmFjSThvRlhXRGlzQTc2bHNrZk9uZk82a2VXUEZjVlR4UWZ0U2o2SDJKeVJCU09TQml6dlhBdS1BSTE5Y0sxNHUwN3FhNmhZSmpsUktTV2luUHotZkU3LWYzMzRmLU5oRA?oc=5) — The Verge, 2026-11-21
 - [SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says](https://www.space.com/space-exploration/launches-spacecraft/spacex-will-retire-1st-starship-upper-stage-ever-caught-by-chopsticks-elon-musk-says) — Space.com, 2026-11-21
-- [Elon Musk Dreams of a Larger Empire in Move Toward Technological Supremacy](https://news.google.com/rss/articles/CBMijAFBVV95cUxPazJram9ValE5cjMtTEg4dDczeXc3d3Y1VW9KaldhbHl2ZUhISjBHbzFBZ3FXWExFWGxEVlNwMHpZU0xvcEdkQkpaMURmQldKdE1TUkIyMENXTU4wTWpCTkNtLS01OGY3Qnp0X1BVYlM0NU96RkFxeE12YjRRZ1pKUUpRUFpjOFc1eGswVQ?oc=5) — The New York Times, 2026-11-21
 
 ### What is SpaceX working on right now?
-Starship: Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate. Starlink: 10,000+ satellites; V3 satellites now flying on Starship. Latest: US lawmaker threatens to block SpaceX funding over Starshield limits in Ukraine, CNN reports (The New Voice of Ukraine, 22 Nov 2026); Tesla Launches FSD V15 in U.S., Improving Safety-Critical Scenario Handling (TradingView, 22 Nov 2026).
+Starship: Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate. Starlink: 10,000+ satellites; V3 satellites now flying on Starship. Latest: SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video) (Space.com, 22 Nov 2026); US lawmaker threatens to block SpaceX funding over Starshield limits in Ukraine, CNN reports (The New Voice of Ukraine, 22 Nov 2026).
 Sources:
+- [SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)](https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture) — Space.com, 2026-11-22
 - [US lawmaker threatens to block SpaceX funding over Starshield limits in Ukraine, CNN reports](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazJPbVR1dlBrcVBoUDVmbDB5RWNwMkRYTTl6THdZampWZ0h2N3RWRGFTdklFRlh6ZDc2TkFhcWJtYi1KQTkzdWJLdG1yUHByWUNzNDZaOEdJOVF3U2Z2Rk16OEpSYlZmMVpER3B0U2w1M2tvdi11ZUhVZm5RVFUzMEpfdVB4MDcyeXBRY25VaTRNM3BJcU05MWdERUlzMTZ4QVgwYXlWaVkwYU1Ia2pGR3dPcjB1RGwtRFRyRWxvODZqUUJpVUI1Y9IBxAFBVV95cUxOS2NVbHViTWVkdFJNcU1nZ0FMNi1uemtIRUhWb2FxMGhJd3JJRWdOVXBUUEpQcHMycHA4Vl9heGI4YVgzSnVwUXhVVGJjV1FiMzNFSnpmeTJMSUN2b2xsMnNhQUJtNmtTX2lCNjFZOG1qREF1eDZGZi1qSk9ha3ZnU2hZSjdQak5USktKWVRrQmxiT3BmVl93NVVsLXBmc2ZaeV9QUTBKV1pqUC1FdGNMOWRGdlBZWWN6UHhoUEhDdk83NjFE?oc=5) — The New Voice of Ukraine, 2026-11-22
 - [Tesla Launches FSD V15 in U.S., Improving Safety-Critical Scenario Handling](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNzgzenBPVUFnLTEzaGpnRTE4THBJTEVMUTN2TFRMOFJfOWdpM3hFSTFHQk5SdnVLNzFHbXNJeU8zbndrM2NXYnBkV0tIUEEzbHR5UVNOY3l6c0Y1dm1pTEg4VkNfMDBuV0NwUFJjRS1KOThJYU4xZjA1bW9faG9RNGZMY2hsTzV2VFBrZ0J3eDBqbnNaMW45SkdweDhyVk04ck5Rd3JYQm1CS2hNQjV2M3c1blk1TVZhUndvQ3hCOC0tUjRqWF9NLVRHWWxQTDhubWc?oc=5) — TradingView, 2026-11-22
-- [Elon Musk’s government funding for SpaceX is on the line, top Democrat warns](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ1NtaTBLMDMtMU1DT0h5V0k3QnpZVkRwZkJyUngzTjBIZS04UjJuRWZQYkRtazlrb3BlV3l2dDlqNGl3Q01HQWJ2b2c2a2psRWR1YzVMLUV2WXpOWS1FQWtHV0x3SGJxRDExMFRTXzRpQlBJSzRYYmRzUjVOMTFpQ0UyYVl4ekVTc3Q0U1djS3dhX0JOUUYwQzVjSHM2aHE3NTl3WnRpVXRPM2tsek9NWVNSYjNDQQ?oc=5) — The Independent, 2026-11-21
 
 ### What is Tesla working on right now?
-Cybercab and Robotaxi: First Cybercab rides reported alongside Q3 2026 results. Optimus: Output targeted toward the end of 2026. Latest: Tesla FSD V15 Is Rolling Out With a Claimed 25x Leap and a New Reality View (CarSauce, 22 Nov 2026); Tesla Cybercab Price: $29,990 Plus $299 a Month (shattered.io, 22 Nov 2026).
+Cybercab and Robotaxi: First Cybercab rides reported alongside Q3 2026 results. Optimus: Output targeted toward the end of 2026. Latest: Tesla Full Self-Driving v15: Reality View review, new features explained (Teslarati, 22 Nov 2026); Tesla FSD V15 Is Rolling Out With a Claimed 25x Leap and a New Reality View (CarSauce, 22 Nov 2026).
 Sources:
+- [Tesla Full Self-Driving v15: Reality View review, new features explained](https://www.teslarati.com/tesla-full-self-driving-v15-first-hand-look-at-reality-view-new-features/) — Teslarati, 2026-11-22
 - [Tesla FSD V15 Is Rolling Out With a Claimed 25x Leap and a New Reality View](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbnBfbE9MRkdtLTZGb1I1T1ZHWDhRRDBSaEp6ZGc4ajFqVkdqenZkT0VnT0Z0TElMR2FBN0RhS0kwdTlVMlBvMmdPWHVoM0JZNE5LOEJieTBJb0pCRDdwRmdjazdWNGdxcWxGZ0dzYVhKTEhzRDg1TlRhN3dIUDRWckRWOThKQzlFd2c?oc=5) — CarSauce, 2026-11-22
 - [Tesla Cybercab Price: $29,990 Plus $299 a Month](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNUtXUy1DQWZseUI4THdVbnBBbEN4bVVGMG1kam01R3Y5akhZcHNXanlQYW1PNi1BOTBoR1YyVTRfNnFLeFRNbzJJVEtsUlIxZFNyNldYdmU0bGFLUF9iYTU4LUM5QlpKOGhOSHFPb3NGdVF3cUR5V0QwVjdhWHpKTUd6eXhKZXk0TjlhakRFTQ?oc=5) — shattered.io, 2026-11-22
-- [Is Tesla FSD v15 unsupervised? No, the driver still has to watch the road and be ready to take over](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlpYd2FXYzU2ZXVkY0dIWU0xMmdVSUdPMjdsS3ZGOG56TmllNmZBUjR3LUdBV0NfclJUazNoUFczamgtQUVlLXNUY0l6LVRFT3FNWmNWc3JabDdyUC1SNUFhYXNqcFF4WjRZV3NYNk1ZUEJ6aEQ2VkR2TS1SYjRDUDY5Z1U3cF9DM0FUYWZCODZkbjBiMmhteUFmVVJtZGJYVXFIQ1Z5Z2JNR29yUjhXazBEUQ?oc=5) — Nacionale, 2026-11-22
 
 ### What are xAI and Neuralink doing now?
 xAI and Grok: $40B in debt closed for GPUs arriving in 2027; Grok releasing an AI-generated video series. Neuralink: Next-generation implant with more channels unveiled in October. Latest: Elon Musk Shares Video of Paralysed Man Playing GTA 6 With His Mind Using Neuralink Brain Implant (www.techtimes.co.uk, 22 Nov 2026); AI TRENDS | Elon Musk Says AI Compute Buildout Faces Funding Pressure, Cash Shortages May Be Severe Next Year (Binance, 22 Nov 2026).
@@ -34,13 +34,13 @@ Sources:
 - [GTA 6 Without a Controller: Neuralink Shows Brain Implant in Action](https://news.google.com/rss/articles/CBMiZEFVX3lxTE02Qjk0QlRwampRcEFiQ29RSG9CRHg5WGY5bGZjQXJEMzI1MU9FdzRIa3RCTGJyaktCS2VuS09SVm41YzE0TFZFbFlmWTFqdXByV05DT2Q1ZzZKX2hKUzAyUm5rX3A?oc=5) — Parriva, 2026-11-21
 
 ### How often is Musk Systems updated?
-A new edition is built automatically every day at 07:47 KST (22:47 UTC). This edition was built on 22 Nov 2026 from 17 sources and holds 150 stories, each linked to its original publisher.
+A new edition is built automatically every day at 07:47 KST (22:47 UTC). This edition was built on 23 Nov 2026 from 17 sources and holds 150 stories, each linked to its original publisher.
 
 ### Is Musk Systems an official Elon Musk website?
 No. Musk Systems is an independent, unofficial fan tracker. It is not affiliated with or endorsed by Elon Musk, SpaceX, Tesla, xAI, X, Neuralink or The Boring Company, and nothing on it is investment advice.
 
 ## Editor's briefing
-150 stories (last 24h). Most active frontier: Tesla. Top story: Elon Musk got really awkward at Tesla’s Argentina launch..
+150 stories (last 7 days). Most active frontier: Tesla. Top story: SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video).
 
 ## Projects in motion (reviewed 2026-10-26)
 - **Starship** (SpaceX) — stage 2/4, TESTING: Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate.
@@ -60,6 +60,10 @@ No. Musk Systems is an independent, unofficial fan tracker. It is not affiliated
 - The Boring Company: founded 2016.
 
 ## Headlines (newest first)
+- 2026-11-22 · Tesla · [Tesla Full Self-Driving v15: Reality View review, new features explained](https://www.teslarati.com/tesla-full-self-driving-v15-first-hand-look-at-reality-view-new-features/) — Teslarati
+  Tesla has officially started rolling out the Full Self-Driving version 15 update, and we were lucky enough to get it in the first wave on Saturday night. It comes with a lot of new…
+- 2026-11-22 · Space · [SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)](https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture) — Space.com
+  SpaceX launched a batch of classified satellites this morning (Nov. 22), on the NROL-136 mission out of California. A Falcon 9 rocket lifted off from Vandenberg Space Force Base's Launch…
 - 2026-11-22 · Starlink · [US lawmaker threatens to block SpaceX funding over Starshield limits in Ukraine, CNN reports](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazJPbVR1dlBrcVBoUDVmbDB5RWNwMkRYTTl6THdZampWZ0h2N3RWRGFTdklFRlh6ZDc2TkFhcWJtYi1KQTkzdWJLdG1yUHByWUNzNDZaOEdJOVF3U2Z2Rk16OEpSYlZmMVpER3B0U2w1M2tvdi11ZUhVZm5RVFUzMEpfdVB4MDcyeXBRY25VaTRNM3BJcU05MWdERUlzMTZ4QVgwYXlWaVkwYU1Ia2pGR3dPcjB1RGwtRFRyRWxvODZqUUJpVUI1Y9IBxAFBVV95cUxOS2NVbHViTWVkdFJNcU1nZ0FMNi1uemtIRUhWb2FxMGhJd3JJRWdOVXBUUEpQcHMycHA4Vl9heGI4YVgzSnVwUXhVVGJjV1FiMzNFSnpmeTJMSUN2b2xsMnNhQUJtNmtTX2lCNjFZOG1qREF1eDZGZi1qSk9ha3ZnU2hZSjdQak5USktKWVRrQmxiT3BmVl93NVVsLXBmc2ZaeV9QUTBKV1pqUC1FdGNMOWRGdlBZWWN6UHhoUEhDdk83NjFE?oc=5) — The New Voice of Ukraine
 - 2026-11-22 · Business · [‘Not MAGA’: Musk’s attempt to rebrand is as ludicrous as his other lies](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdmlmYUU3V21fdHgzQVAtZURaRDI1SnVQRF95VDg4SHNOVlVMUmRtZFdHeHUzTzJCaXZFNVB0Y001SXItVVplR3NfME9QMFIwZnY0N2Ita0ZLWU5ldW5hYmNJbndMb1FwZ0lnVTJ3Ul85RlpaSkE5bUs4THMwNWIwb0FUMmNXQ1dJZDB2dGJtN21CQTZ5OS1ibkhxQ0twLVNmb2hRdUx2TDhBdmU1Q1R0V3FxQW1WVTgyTjQxUC14VjRTTFo4S0pzdlVCLWtNYVpR?oc=5) — The Age
 - 2026-11-22 · Neuralink · [Elon Musk Shares Video of Paralysed Man Playing GTA 6 With His Mind Using Neuralink Brain Implant](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQjNsVDVfWjlIMWhIaGlpMGpEM3BmMURxVG95dklrR3VqSnVhRGhCSjJpR3NfUUhqcEdPSGN5a1N2bUJPSVhhVWQtNldEZ0xRSnZqbFcxMnhQV0FUazVUQjNvNmh0V2o2Sk44aURsVlA5WC01bVVDcWFqbWxTbEZYNDRpUUkxQVJmeFRr?oc=5) — www.techtimes.co.uk
@@ -98,8 +102,6 @@ No. Musk Systems is an independent, unofficial fan tracker. It is not affiliated
 - 2026-11-21 · Tesla · [Tesla Reality View takes FSD visualizations to an entirely new level](https://news.google.com/rss/articles/CBMiYkFVX3lxTE8welZUbmx2ckpxM3J3LWdkQXpWWkZua2t1U0NITTBjTTktNlZwSi1QZG5ZNFFnem9DaFlPUEJTS2NVczdDdFZpbFBOYTdzeWYwX3Y1SGZwZ1dtRW9JSHM1bE1B?oc=5) — Drive Tesla Canada
 - 2026-11-21 · Tesla · [Tesla says FSD v15 is rolling out—and bike racks get an invite](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1YYk0tMmppaTE0XzlJZzRYMkRtMUhwYU1zdjJjcU1Wd01MWk5PTEdGMVQ3Y3BhUzRTdTllT2lmLWpLQQ?oc=5) — Digg
 - 2026-11-21 · Tesla · [Tesla Starts FSD V15 Rollout, Adding Reality View and Speed-Camera Slowdown](https://news.google.com/rss/articles/CBMirwFBVV95cUxPZndMWWJ1UjN6dG10aUpNSUZ3RnhlR2IydTk1X3lFTDNDbG96STU3T0RYSUl2MUtZTWNsay1QbnZ3TGlURlpNYTNXT0p6c09Rb3lVSUZ3b2NDS2o4ZG45VTcxOVRoRkRmS0laVXZKYVV3X01HOXpKYVViLUZacUFUNEFOWnJfMUhsTXI4SVhfbGxjc25hN3Y5ejFWcGhQbWZueVVIR3hyMF80bU5GOHlV?oc=5) — Electric Vehicles
-- 2026-11-21 · Space · [Tesla Launches FSD v15 With Major Driving Safety Upgrades](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3QnZGNDZxTVBYd2Nyams5ZUFYQTI4R2E5NDZ2U0ltSlg4aGhpVXZMdXhXeXdjRnl5YXVkYlJhV3J5dTU2LXR3VFJ2OXZ3aDFDeFlnMmdzQnpZNWdEVDRfS1F3NkVVLWlC?oc=5) — Demokratis.co.id (+1 outlets)
-- 2026-11-21 · Space · [Musk: Catching Starship Was “The Last Major Piece of the Puzzle.” SpaceX’s Valuation Rides on Space Compute](https://news.google.com/rss/articles/CBMixwFBVV95cUxNT3dhSUM4Z1VxdUd1SEt2V1I2clJqWkxVS3BqR1VBNzN5R0Jnal9fSlNiRDl6TUwzaGpGX2Y4SzFOVUdKOUo0M0xuaHI2aXVCZURFVUd4SEsxVmRfTC02dW1Ick84eDl5YlIxWVQ1WTBBaGthdWFEeFlCYWE0ckxOdjVvQUprWWcyUVVTUHFzOGNrOTNOV2M0TW9zU0Q0ZXUwdXZpTnRFcnhfa3FWUy1sVXhQQVFaeDRoQlk1eHQxdElOM0lBSXVZ?oc=5) — TIKR.com
 
 ## Trending topics
-#Tesla #FSD #ElonMusk #SpaceX #Neuralink #Robotics #Starlink #Starship #xAI #BrainComputerInterface #Cybercab #Robotaxi #Grok #SatelliteInternet #SpaceExploration #TowerCatch #Optimus #Nasdaq #Cybertruck #HumanoidRobot
+#Tesla #FSD #ElonMusk #SpaceX #Neuralink #Robotics #Starlink #SatelliteInternet #Starship #xAI #BrainComputerInterface #Cybercab #SpaceExploration #Robotaxi #Grok #TowerCatch #Optimus #Nasdaq #Cybertruck #HumanoidRobot

@@ -1,9 +1,9 @@
 # Musk Systems — Elon Musk achievements, projects and daily news
 
-> Unofficial fan tribute that documents Elon Musk's achievements and tracks his current projects (SpaceX, Starship, Starlink, Tesla, Optimus, Cybercab, xAI/Grok, Neuralink, The Boring Company). A new daily edition is generated automatically (DAILY 07:47 KST). Last update: 2026-11-22T02:40:29.170Z.
+> Unofficial fan tribute that documents Elon Musk's achievements and tracks his current projects (SpaceX, Starship, Starlink, Tesla, Optimus, Cybercab, xAI/Grok, Neuralink, The Boring Company). A new daily edition is generated automatically (DAILY 07:47 KST). Last update: 2026-11-23T03:10:34.560Z.
 
 ## Today's briefing
-150 stories (last 24h). Most active frontier: Tesla. Top story: Elon Musk got really awkward at Tesla’s Argentina launch..
+150 stories (last 7 days). Most active frontier: Tesla. Top story: SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video).
 
 
 ## Main pages
@@ -17,6 +17,8 @@
 - Machine-readable data: https://elonmusksystem.com/data/news.json, https://elonmusksystem.com/data/briefing.json, https://elonmusksystem.com/data/projects.json, https://elonmusksystem.com/data/hashtags.json
 
 ## Latest headlines (links go to original publishers)
+- 2026-11-22 [Tesla] Tesla Full Self-Driving v15: Reality View review, new features explained — Teslarati: https://www.teslarati.com/tesla-full-self-driving-v15-first-hand-look-at-reality-view-new-features/
+- 2026-11-22 [Space] SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video) — Space.com: https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture
 - 2026-11-22 [Starlink] US lawmaker threatens to block SpaceX funding over Starshield limits in Ukraine, CNN reports — The New Voice of Ukraine: https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazJPbVR1dlBrcVBoUDVmbDB5RWNwMkRYTTl6THdZampWZ0h2N3RWRGFTdklFRlh6ZDc2TkFhcWJtYi1KQTkzdWJLdG1yUHByWUNzNDZaOEdJOVF3U2Z2Rk16OEpSYlZmMVpER3B0U2w1M2tvdi11ZUhVZm5RVFUzMEpfdVB4MDcyeXBRY25VaTRNM3BJcU05MWdERUlzMTZ4QVgwYXlWaVkwYU1Ia2pGR3dPcjB1RGwtRFRyRWxvODZqUUJpVUI1Y9IBxAFBVV95cUxOS2NVbHViTWVkdFJNcU1nZ0FMNi1uemtIRUhWb2FxMGhJd3JJRWdOVXBUUEpQcHMycHA4Vl9heGI4YVgzSnVwUXhVVGJjV1FiMzNFSnpmeTJMSUN2b2xsMnNhQUJtNmtTX2lCNjFZOG1qREF1eDZGZi1qSk9ha3ZnU2hZSjdQak5USktKWVRrQmxiT3BmVl93NVVsLXBmc2ZaeV9QUTBKV1pqUC1FdGNMOWRGdlBZWWN6UHhoUEhDdk83NjFE?oc=5
 - 2026-11-22 [Business] ‘Not MAGA’: Musk’s attempt to rebrand is as ludicrous as his other lies — The Age: https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdmlmYUU3V21fdHgzQVAtZURaRDI1SnVQRF95VDg4SHNOVlVMUmRtZFdHeHUzTzJCaXZFNVB0Y001SXItVVplR3NfME9QMFIwZnY0N2Ita0ZLWU5ldW5hYmNJbndMb1FwZ0lnVTJ3Ul85RlpaSkE5bUs4THMwNWIwb0FUMmNXQ1dJZDB2dGJtN21CQTZ5OS1ibkhxQ0twLVNmb2hRdUx2TDhBdmU1Q1R0V3FxQW1WVTgyTjQxUC14VjRTTFo4S0pzdlVCLWtNYVpR?oc=5
 - 2026-11-22 [Neuralink] Elon Musk Shares Video of Paralysed Man Playing GTA 6 With His Mind Using Neuralink Brain Implant — www.techtimes.co.uk: https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQjNsVDVfWjlIMWhIaGlpMGpEM3BmMURxVG95dklrR3VqSnVhRGhCSjJpR3NfUUhqcEdPSGN5a1N2bUJPSVhhVWQtNldEZ0xRSnZqbFcxMnhQV0FUazVUQjNvNmh0V2o2Sk44aURsVlA5WC01bVVDcWFqbWxTbEZYNDRpUUkxQVJmeFRr?oc=5
@@ -35,8 +37,6 @@
 - 2026-11-21 [Tesla] Can I upgrade my HW3 Tesla to get FSD v15? Not yet, and Tesla has given no date — Nacionale: https://news.google.com/rss/articles/CBMinwFBVV95cUxNYnQ2cUw0TTJTUXFTY3hHWW9fZnVXNzRnNDk1MHdGZnZ1ZFp4RzhHRmlsUTR5bkhsWGZXZGkwQThBRHM5blJDS21MZ0x3WFpFYzJzcG9EcnoydEtJUFp3cUpQcEhwU1dDSlVxRDgyd3UwTG9rNGZTdWc4V242MXFqMzlDckkxRE1CRTZmRF9DRmZkVGJOaEZvWGpNVHpXaEU?oc=5
 - 2026-11-21 [Tesla] Tesla Bike Rack Mode: How to Use FSD With a Hitch Accessory — BASENOR - Tesla Accessories: https://news.google.com/rss/articles/CBMimAFBVV95cUxQOW1wYllYcUFfMENOVlZqNkExbzBGcHY3RkRGZlFSMTRrTmF6OXdBQXU1OGN0Vl9jQk5odm1zQTdvd1Q4OHpDR0pGTlh2Y2lXWDUzU0RCY0V0bkFRVkd5NnBqUUFzai04RktaX1FUUDdwZG8wUUItWDFKWFBlaGdUSTlUS2VNcjBRRFlGb0VBeENrY09rdXh6Rw?oc=5
 - 2026-11-21 [Tesla] Tesla Reality View Is Here: What It Does and How to Use It — BASENOR - Tesla Accessories: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YWkZjR2t2UVBNclIxV3d1aVhyWEpxLXBFYndLNk1iS1N4LVBtUU5Mblg5WU85TmVkZ0h1N3BqMy1VNjNCbDRRNl9oQl9MQ3JDaDVoOGxZS0dDZW1rZjBoRy1IU3k?oc=5
-- 2026-11-21 [Tesla] ‘It’s Like GTA’: Musk Touts Video Game-Like Update to Tesla FSD — Gizmodo: https://news.google.com/rss/articles/CBMilAFBVV95cUxNTGRmbnJ4T09sVkdkeXlzVDAxeTNMcEV3U25PTmFUNjVKbVBDeFZianB2dXlQSUpQT2JsYlhBa2oxTklvaU1NUXRSVDhXWGpNQnBXczhfekEzOTRfVTE1d2c0Zk5OMmdTXzY0Mm5kMVI1c3Bpb2J5aHAtaXMyWWNFc19lb2JxQ2Y1bWFxUWdyN05UamZx?oc=5
-- 2026-11-21 [Tesla] Tesla Rolls Out FSD v15 With Reality View for AI4 Cars — cwibc.co.id: https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyeDNLVXJBdFJMZ2NIVlBOM0U4RFdiM09yd0RkYk9KQkNFMHlHdmhhdnQyZFB3LVEtZE03U0dTTk5fLVFDOTR2cS1Mc3QtejRWWnNWamtibjFNQ2REVzZCN2RxUU4tU3RR?oc=5
 
 ## Projects in motion
 - Starship (SpaceX) — TESTING: Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate
@@ -47,7 +47,7 @@
 - Grok & orbital compute (SpaceX · xAI) — SHIPPING: $40B in debt closed for GPUs arriving in 2027; Grok releasing an AI-generated video series
 
 ## Topics and hashtags (auto-generated from site text and headlines)
-#Tesla #FSD #ElonMusk #SpaceX #Neuralink #Robotics #Starlink #Starship #xAI #BrainComputerInterface #Cybercab #Robotaxi #Grok #SatelliteInternet #SpaceExploration #TowerCatch #Optimus #Nasdaq #Cybertruck #HumanoidRobot #SpaceXDragon #SpaceXIPO #MuskSystems #FutureTechnology #SystemsThinking
+#Tesla #FSD #ElonMusk #SpaceX #Neuralink #Robotics #Starlink #SatelliteInternet #Starship #xAI #BrainComputerInterface #Cybercab #SpaceExploration #Robotaxi #Grok #TowerCatch #Optimus #Nasdaq #Cybertruck #HumanoidRobot #Falcon9 #SpaceXDragon #SpaceXIPO #MuskSystems #FutureTechnology
 
 ## Editorial note
 Independent, unofficial fan site. Not affiliated with or endorsed by Elon Musk, SpaceX, Tesla, xAI, X, Neuralink or The Boring Company. Not investment advice.

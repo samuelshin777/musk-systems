@@ -1,4 +1,4 @@
-MUSK SYSTEMS — KEYWORD & HASHTAG REPORT (auto-generated 2026-11-22T02:40:29.170Z)
+MUSK SYSTEMS — KEYWORD & HASHTAG REPORT (auto-generated 2026-11-23T03:10:34.560Z)
 ==========================================================================
 
 TOP KEYWORDS (by frequency across visible site text + headlines)
@@ -9,49 +9,50 @@ TOP KEYWORDS (by frequency across visible site text + headlines)
  5. Neuralink
  6. Robotics
  7. Starlink
- 8. Starship
- 9. xAI
-10. Brain Computer Interface
-11. Cybercab
-12. Robotaxi
-13. Grok
-14. Satellite Internet
-15. Space Exploration
+ 8. Satellite Internet
+ 9. Starship
+10. xAI
+11. Brain Computer Interface
+12. Cybercab
+13. Space Exploration
+14. Robotaxi
+15. Grok
 16. Tower Catch
 17. Optimus
 18. Nasdaq
 19. Cybertruck
 20. Humanoid Robot
-21. Dragon
-22. IPO
-23. Musk Systems
-24. Future Technology
-25. Systems Thinking
+21. Falcon 9
+22. Dragon
+23. IPO
+24. Musk Systems
+25. Future Technology
 
-TRENDING TODAY (LAST 24H)
+TRENDING TODAY (LAST 7 DAYS)
 #Tesla #FSD #SpaceX #Neuralink #Starlink #BrainComputerInterface
 
 HASHTAGS (score = weighted occurrences)
-#Tesla  (92)
-#FSD  (55)
-#ElonMusk  (43)
-#SpaceX  (21)
-#Neuralink  (21)
+#Tesla  (94)
+#FSD  (59)
+#ElonMusk  (41)
+#SpaceX  (23)
+#Neuralink  (19)
 #Robotics  (12)
 #Starlink  (11)
+#SatelliteInternet  (11)
 #Starship  (10)
 #xAI  (10)
 #BrainComputerInterface  (10)
 #Cybercab  (9)
+#SpaceExploration  (9)
 #Robotaxi  (8)
 #Grok  (7)
-#SatelliteInternet  (7)
-#SpaceExploration  (7)
 #TowerCatch  (7)
 #Optimus  (6)
 #Nasdaq  (4)
 #Cybertruck  (4)
 #HumanoidRobot  (4)
+#Falcon9  (3)
 #SpaceXDragon  (3)
 #SpaceXIPO  (3)
 #MuskSystems  (3)
@@ -61,7 +62,6 @@ HASHTAGS (score = weighted occurrences)
 #SPCX  (2)
 #ReusableRockets  (2)
 #Blindsight  (1)
-#Falcon9  (1)
 #FalconHeavy  (1)
 #SuperHeavy  (1)
 #Starbase  (1)
