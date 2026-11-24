@@ -1,26 +1,15 @@
 {
   "engine": "v2",
-  "lastRun": "2026-11-23T03:10:34.560Z",
+  "lastRun": "2026-11-24T06:28:09.839Z",
   "mode": "live",
-  "ok": false,
+  "ok": true,
   "editionKept": false,
-  "sourcesOk": 7,
+  "sourcesOk": 17,
   "sourcesTotal": 17,
-  "failed": [
-    "Google News · SpaceX Starship",
-    "Google News · Starlink",
-    "Google News · Elon Musk",
-    "Google News · SpaceX Falcon launch",
-    "Google News · xAI Grok",
-    "Google News · Tesla Optimus",
-    "Google News · Neuralink",
-    "Google News · Tesla Robotaxi OR Cybercab OR FSD",
-    "NASASpaceflight",
-    "Google News · The Boring Company"
-  ],
-  "newItems": 2,
+  "failed": [],
+  "newItems": 150,
   "totalItems": 150,
-  "nextRun": "2026-11-23T22:47:00.000Z",
+  "nextRun": "2026-11-24T22:47:00.000Z",
   "scheduleLabel": "DAILY 07:47 KST",
   "staleAfterHours": 26
 }

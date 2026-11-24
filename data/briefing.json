@@ -1,142 +1,139 @@
 {
-  "date": "2026-11-23",
-  "windowLabel": "LAST 7 DAYS",
+  "date": "2026-11-24",
+  "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "mobility": 51,
     "space": 28,
-    "connectivity": 17,
-    "business": 22,
-    "neuro": 20,
-    "ai": 10,
+    "connectivity": 26,
+    "neuro": 4,
+    "mobility": 31,
+    "ai": 34,
+    "business": 25,
     "robotics": 2
   },
   "topStory": {
-    "id": "uqzeeh",
-    "title": "SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)",
-    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
-    "source": "Space.com",
+    "id": "zz82db",
+    "title": "SpaceX-Tesla: the directors negotiating the biggest merger ever",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeEdHa3JaV1FnaExBWDEtY1FaT0hubE5OcXZHSDNFNlRWYkw4Nk5YbWtmRkxIaTVUMHRLZ042V1llZlV2VWRaZ2pieEpKbXFpNlZtNHNWY0tWWDI2YWNrMjFPd1EySzVXWnh2ZGJqRzNIbDZXUUE1Wnc3ZFI0dFlhWHR4N3k?oc=5",
+    "source": "Financial Times",
     "sources": [
-      "Space.com"
+      "Financial Times"
     ],
-    "date": "2026-11-22T16:05:33.000Z",
-    "firstSeen": "2026-11-23T03:10:34.560Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/Zo7K3LFdny8ECPyBDZLpiH-1920-80.jpg",
-    "snippet": "SpaceX launched a batch of classified satellites this morning (Nov. 22), on the NROL-136 mission out of California. A Falcon 9 rocket lifted off from Vandenberg Space Force Base's Launch…",
+    "date": "2026-11-24T05:01:20.000Z",
+    "firstSeen": "2026-11-24T06:28:09.839Z",
+    "image": "",
+    "snippet": "",
     "category": "space",
-    "score": 14.35
+    "score": 16.61
   },
   "topList": [
     {
-      "id": "e0xfy4",
-      "title": "Elon Musk got really awkward at Tesla’s Argentina launch.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRnZpS3FBakg3Z1JsM01OYnJkZjF6NnFncllpVkdmbjUzR2dLcWZ0d2Nyc1VoenN6TmFjSThvRlhXRGlzQTc2bHNrZk9uZk82a2VXUEZjVlR4UWZ0U2o2SDJKeVJCU09TQml6dlhBdS1BSTE5Y0sxNHUwN3FhNmhZSmpsUktTV2luUHotZkU3LWYzMzRmLU5oRA?oc=5",
-      "source": "The Verge",
+      "id": "1rcmsui",
+      "title": "Elon Musk Warns AI Companies Could Be in Serious Trouble Next Year",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMGl3LURiZXpnMEtURnI0eE9RbWNrYXdpN25oU0c1LXBFekhNMWJNSkxRYjF5SlViMHdTRUlSMFhuM2tpMUJsS3hoNXB3RXU4UXZ4ZkJxZ3hBMzV2RVVkS0REWmtsOHNOSnF4eG93TEVDSUlBZWxxYmhVaU95MnRPVWloay04eXV5enU2LUVNZHNvZEJwSXI0?oc=5",
+      "source": "Yahoo Finance",
       "sources": [
-        "Electrek",
-        "The Verge"
+        "Yahoo Finance",
+        "The Motley Fool",
+        "The Globe and Mail"
       ],
-      "date": "2026-11-21T15:11:00.000Z",
-      "firstSeen": "2026-11-22T02:40:29.170Z",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Elon-Musk-awkward-Tesla-Argentina-launch.jpeg?quality=82&strip=all&w=1600",
-      "snippet": "Tesla officially launched in Argentina on Friday with President Javier Milei on stage in Buenos Aires, and Elon Musk joined by video from his plane to welcome the brand’s newest market. It…",
-      "category": "space",
-      "score": 13.68
-    },
-    {
-      "id": "3o9hff",
-      "title": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-retire-1st-starship-upper-stage-ever-caught-by-chopsticks-elon-musk-says",
-      "source": "Space.com",
-      "sources": [
-        "Space",
-        "MLQ.ai",
-        "Space.com"
-      ],
-      "date": "2026-11-21T13:00:00.000Z",
-      "firstSeen": "2026-11-22T02:40:29.170Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/FBiquE8ByNwXYMJZeaXVkm-1920-80.jpg",
-      "snippet": "The first Starship upper stage that SpaceX ever successfully recovered won't fly again. That vehicle, known as Ship 42, launched Nov. 13 on Starship 's 15th test flight. A day later, it…",
-      "category": "space",
-      "score": 13.46
-    },
-    {
-      "id": "zfpaqr",
-      "title": "Tesla Full Self-Driving v15: Reality View review, new features explained",
-      "url": "https://www.teslarati.com/tesla-full-self-driving-v15-first-hand-look-at-reality-view-new-features/",
-      "source": "Teslarati",
-      "sources": [
-        "Teslarati"
-      ],
-      "date": "2026-11-22T19:43:58.000Z",
-      "firstSeen": "2026-11-23T03:10:34.560Z",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png",
-      "snippet": "Tesla has officially started rolling out the Full Self-Driving version 15 update, and we were lucky enough to get it in the first wave on Saturday night. It comes with a lot of new…",
-      "category": "mobility",
-      "score": 11.63
-    },
-    {
-      "id": "tqbjwz",
-      "title": "Elon Musk on His Politics, a Potential Merger and Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWElwNnd4QTdUTEZMWjVXVnMzSGhnMTN0cUU0RUJpV2syVlhoR2tIRWJtQUV4ZHdVN1FWa1M0NFRHaURnU2VlTk5zbThXeC1FVmk0dGtlN2xWRWtTR1BjbGZadzl2YW5EdUR3TFFxS19Eb1ItTWdQVW40emg0Xzl4OHNscGJjSkpvamNr?oc=5",
-      "source": "The New York Times",
-      "sources": [
-        "The New York Times"
-      ],
-      "date": "2026-11-21T13:00:06.000Z",
-      "firstSeen": "2026-11-22T02:40:29.170Z",
+      "date": "2026-11-23T18:17:02.000Z",
+      "firstSeen": "2026-11-24T06:28:09.839Z",
       "image": "",
       "snippet": "",
-      "category": "business",
-      "score": 11.46
+      "category": "ai",
+      "score": 15.63
     },
     {
-      "id": "zhtu6o",
-      "title": "Neuralink patient plays GTA 6 using only brain signals, no controller needed",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc0xPQXRmVkh1OGo5N213bFZ2ZGNYc0xiUWd3eTNwZFUtT1lVWXR3QXk3SndzTjdtM3ZnUjZUMlU3cktXTEZpdmpWNEJZTWFqVTNQTDNnYUsxRU5yQWV5OHJ0VFZBZFBCUnRPaEJSX3drME1Tajc4MzFiQWRSYmg3M21nRjhLbmR5eUpieTFUVlE0ODluTjN3UVRJU05HVXI3UkdYaXJRVmtWek5URVRUTWd5ZHNHMDBoSUltRjVXTC1jMm9feHpCZ1QwLVZSYWhoQ19mZUs4RVpXUdIB3wFBVV95cUxOcUE5Q2djZTVRU3pHUzkzS0JUaEZmWjNWS05kLUphMFlnY2FON1UteXhycGp6VUstT3NQYVM4X1JLUnNWMjV6d0pTWGdBdGsza2lHS0p5VVIyaHlZNGxBcVlUY1RDeWUxX19RbTg5U1NhbFRfVVZiR09Qd1JKMWYteUVOY1dXNzFHSGtwVTd0VlpoQUJjc0JobDhjOXFNcW9MZ1hWTmdsTTJVallZUlZ4c1NmY2h2ZjUwRHBNUzBWT1dKSTdFbU02TS0yOEs1R01LQ1ZyMnExczRJdENkS2pJ?oc=5",
-      "source": "India Today",
+      "id": "dprs4z",
+      "title": "Tesla's new FSD screen makes an AI video of the road as you drive",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mbzVYRExqVXk1eDZoenBqZlFZT1drVHIzalpwa2pzcDM1WUhVUkprSUNiT1pZOWVPQkxIM1lCdktHVGRFVVJYVjVtdHlDRkk0Ty1iUGNMYlRoMjJyRUcwOUNFaUFBaGN4RnVLRVRCd29ZeEVrQXdMMi0xX01STTQ?oc=5",
+      "source": "Business Insider",
       "sources": [
-        "India Today",
-        "Geo News",
-        "Tech4Gamers",
-        "Technetbook"
+        "Business Insider",
+        "AOL.com",
+        "Business Insider Africa"
       ],
-      "date": "2026-11-21T09:44:31.000Z",
-      "firstSeen": "2026-11-22T02:40:29.170Z",
+      "date": "2026-11-23T20:51:00.000Z",
+      "firstSeen": "2026-11-24T06:28:09.839Z",
       "image": "",
       "snippet": "",
-      "category": "neuro",
-      "score": 11.16
+      "category": "ai",
+      "score": 15.16
     },
     {
-      "id": "jf8t9n",
-      "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
-      "url": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+      "id": "fm00sd",
+      "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+      "url": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
       "source": "Spaceflight Now",
       "sources": [
         "Spaceflight Now"
       ],
-      "date": "2026-11-21T16:50:51.000Z",
-      "firstSeen": "2026-11-22T02:40:29.170Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
-      "snippet": "A Falcon 9 rocket stands poised to launch from the Space Launch Complex 4E at Vandenberg Space Force Base in California. File Photo: SpaceX Update Nov. 22, 8 a.m. EST (1300 UTC): SpaceX…",
+      "date": "2026-11-23T22:21:32.000Z",
+      "firstSeen": "2026-11-24T06:28:09.839Z",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/06/20260618_Falcon-9_NROL-179.jpeg",
+      "snippet": "A SpaceX Falcon 9 rocket stands at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base ahead of the launch of the NROL-179 mission. Image: SpaceX A SpaceX Falcon 9 rocket is…",
       "category": "space",
-      "score": 10.85
+      "score": 14.98
+    },
+    {
+      "id": "1296ts2",
+      "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
+      "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
+      "source": "CNBC Technology",
+      "sources": [
+        "Bloomberg.com",
+        "KDRV",
+        "Moneycontrol.com",
+        "CNBC Technology"
+      ],
+      "date": "2026-11-23T16:20:57.000Z",
+      "firstSeen": "2026-11-24T06:28:09.839Z",
+      "image": "",
+      "snippet": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images.",
+      "category": "ai",
+      "score": 14.76
+    },
+    {
+      "id": "1og11i",
+      "title": "On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space with its suborbital New Shepard rocket",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-23-2026",
+      "source": "Space.com",
+      "sources": [
+        "Space.com"
+      ],
+      "date": "2026-11-23T18:10:48.000Z",
+      "firstSeen": "2026-11-24T06:28:09.839Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/rYz3SSLeu9tzXrHMf852WZ-1920-80.jpg",
+      "snippet": "On Nov. 23, 2015, a Blue Origin rocket made a historic landing. Before this time, all rockets were single-use only — even SpaceX's rockets. Blue Origin changed the concept forever. After…",
+      "category": "space",
+      "score": 14.11
+    },
+    {
+      "id": "pe9uby",
+      "title": "SpaceX, Tesla appoint five directors to guide merger talks, FT reports",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRV9xVnpWUGpvckQwUG9IcVU2TlVFdlRoQ1QyUkJ0Ni0xRzhZb3A4Wm5rLXB3V0VHNWRSel9lWTd4emNPdjJOQS1wZENjNVFGM1lGRURFa3hZeFp1RURCa0c1UnVLc0F0V2NoY25PbHUxVEhxRXhnTlJPQVhBVURzcEJqdkFmNzVVVWVvQmw1MExQdXFhck5Ub1lTR2FIZnlEMzJtb2xaRVFobmtYbzVJLU5yeVlrN2lfQ0JfTTM1OA?oc=5",
+      "source": "The Standard (HK)",
+      "sources": [
+        "The Standard (HK)"
+      ],
+      "date": "2026-11-24T06:15:46.000Z",
+      "firstSeen": "2026-11-24T06:28:09.839Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 13.94
     }
   ],
   "trending": [
     "Tesla",
-    "FSD",
     "SpaceX",
-    "Neuralink",
     "Starlink",
-    "BrainComputerInterface"
+    "Grok",
+    "FSD",
+    "Cybercab"
   ],
   "spark": [
-    {
-      "date": "2026-11-10",
-      "total": 136
-    },
     {
       "date": "2026-11-11",
       "total": 138
@@ -187,9 +184,13 @@
     },
     {
       "date": "2026-11-23",
-      "total": 0
+      "total": 104
+    },
+    {
+      "date": "2026-11-24",
+      "total": 46
     }
   ],
-  "summary": "150 stories (last 7 days). Most active frontier: Tesla. Top story: SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video).",
+  "summary": "150 stories (last 24h). Most active frontier: xAI & Grok. Top story: SpaceX-Tesla: the directors negotiating the biggest merger ever.",
   "editor": null
 }
