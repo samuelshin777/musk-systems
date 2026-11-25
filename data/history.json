@@ -304,14 +304,14 @@
       "ai": 1
     },
     "2026-11-24": {
-      "total": 46,
-      "space": 10,
-      "connectivity": 10,
-      "neuro": 3,
-      "mobility": 9,
-      "ai": 7,
-      "business": 5,
-      "robotics": 2
+      "total": 120,
+      "ai": 13,
+      "space": 35,
+      "mobility": 31,
+      "connectivity": 23,
+      "business": 13,
+      "robotics": 3,
+      "neuro": 2
     },
     "2026-11-23": {
       "total": 104,
@@ -321,6 +321,16 @@
       "space": 18,
       "mobility": 22,
       "neuro": 1
+    },
+    "2026-11-25": {
+      "total": 30,
+      "business": 6,
+      "space": 6,
+      "mobility": 5,
+      "ai": 7,
+      "connectivity": 4,
+      "neuro": 1,
+      "robotics": 1
     }
   }
 }

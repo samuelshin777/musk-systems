@@ -1,143 +1,142 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "space": 28,
-    "connectivity": 26,
-    "neuro": 4,
-    "mobility": 31,
-    "ai": 34,
-    "business": 25,
-    "robotics": 2
+    "business": 19,
+    "space": 41,
+    "mobility": 36,
+    "ai": 20,
+    "connectivity": 27,
+    "neuro": 3,
+    "robotics": 4
   },
   "topStory": {
-    "id": "zz82db",
-    "title": "SpaceX-Tesla: the directors negotiating the biggest merger ever",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeEdHa3JaV1FnaExBWDEtY1FaT0hubE5OcXZHSDNFNlRWYkw4Nk5YbWtmRkxIaTVUMHRLZ042V1llZlV2VWRaZ2pieEpKbXFpNlZtNHNWY0tWWDI2YWNrMjFPd1EySzVXWnh2ZGJqRzNIbDZXUUE1Wnc3ZFI0dFlhWHR4N3k?oc=5",
-    "source": "Financial Times",
+    "id": "ygl6ro",
+    "title": "Elon Musk asks US appeals court to throw out Twitter fraud verdict",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY2RYYWp5emZ0cUZ0dVRlUWpfYlpWV0FoOE92VVM1bkNhalo3ejViOENfTnVOMmpVRG5pX1JJMWNMZzJpUmdMdnhuVDd2VlFXT2JBZkZEaGFieUZISTZ3TUF3TGkwRzY0MHlPLWk3eHBBbGRoZVkzeGJ1NjItekh0M24taDVqd2lyT1dQRWlaeVZ6YzJUVERUODNKanNGc2ZjQ0cyRFZkZjhORG9wRU1kcTR1Z3hqYVlYVlh5VGdzMA?oc=5",
+    "source": "Reuters",
     "sources": [
-      "Financial Times"
+      "Reuters",
+      "The Lufkin Daily News",
+      "The Independent",
+      "Mezha.net",
+      "CNA"
     ],
-    "date": "2026-11-24T05:01:20.000Z",
-    "firstSeen": "2026-11-24T06:28:09.839Z",
+    "date": "2026-11-24T17:27:21.000Z",
+    "firstSeen": "2026-11-25T05:03:41.004Z",
     "image": "",
     "snippet": "",
-    "category": "space",
-    "score": 16.61
+    "category": "business",
+    "score": 21.24
   },
   "topList": [
     {
-      "id": "1rcmsui",
-      "title": "Elon Musk Warns AI Companies Could Be in Serious Trouble Next Year",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMGl3LURiZXpnMEtURnI0eE9RbWNrYXdpN25oU0c1LXBFekhNMWJNSkxRYjF5SlViMHdTRUlSMFhuM2tpMUJsS3hoNXB3RXU4UXZ4ZkJxZ3hBMzV2RVVkS0REWmtsOHNOSnF4eG93TEVDSUlBZWxxYmhVaU95MnRPVWloay04eXV5enU2LUVNZHNvZEJwSXI0?oc=5",
-      "source": "Yahoo Finance",
+      "id": "1kp77ek",
+      "title": "SpaceX launches classified US Space Force mission from California",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ1RmS0NJMUNlM1BwWXZuM2pETGR2ZUNyX2NqUGpLRXZXX3VfbEZ0LVU3bGFuVUFJbzI4dVNzVmxjb0FFSm1Va0luOW1MRW50bGcwZUd6MVVnM01UQUdvYThBb1FWYkJINnQwSG5PdVdIR0xQdTZQY3JnMmlzemswZXk2QW1KX0lqRkxPQnB5bjQ4NnFBSkdiWnMzY2NFWUJXcExXaEZn?oc=5",
+      "source": "Anadolu Ajansı",
       "sources": [
-        "Yahoo Finance",
-        "The Motley Fool",
-        "The Globe and Mail"
+        "Anadolu Ajansı",
+        "A News",
+        "Newsweek",
+        "MLQ.ai",
+        "Latest news from Azerbaijan"
       ],
-      "date": "2026-11-23T18:17:02.000Z",
-      "firstSeen": "2026-11-24T06:28:09.839Z",
+      "date": "2026-11-24T17:04:25.000Z",
+      "firstSeen": "2026-11-25T05:03:41.004Z",
       "image": "",
       "snippet": "",
-      "category": "ai",
-      "score": 15.63
-    },
-    {
-      "id": "dprs4z",
-      "title": "Tesla's new FSD screen makes an AI video of the road as you drive",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mbzVYRExqVXk1eDZoenBqZlFZT1drVHIzalpwa2pzcDM1WUhVUkprSUNiT1pZOWVPQkxIM1lCdktHVGRFVVJYVjVtdHlDRkk0Ty1iUGNMYlRoMjJyRUcwOUNFaUFBaGN4RnVLRVRCd29ZeEVrQXdMMi0xX01STTQ?oc=5",
-      "source": "Business Insider",
-      "sources": [
-        "Business Insider",
-        "AOL.com",
-        "Business Insider Africa"
-      ],
-      "date": "2026-11-23T20:51:00.000Z",
-      "firstSeen": "2026-11-24T06:28:09.839Z",
-      "image": "",
-      "snippet": "",
-      "category": "ai",
-      "score": 15.16
-    },
-    {
-      "id": "fm00sd",
-      "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
-      "url": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
-      "source": "Spaceflight Now",
-      "sources": [
-        "Spaceflight Now"
-      ],
-      "date": "2026-11-23T22:21:32.000Z",
-      "firstSeen": "2026-11-24T06:28:09.839Z",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/06/20260618_Falcon-9_NROL-179.jpeg",
-      "snippet": "A SpaceX Falcon 9 rocket stands at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base ahead of the launch of the NROL-179 mission. Image: SpaceX A SpaceX Falcon 9 rocket is…",
       "category": "space",
-      "score": 14.98
+      "score": 19.17
     },
     {
-      "id": "1296ts2",
-      "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
-      "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
-      "source": "CNBC Technology",
-      "sources": [
-        "Bloomberg.com",
-        "KDRV",
-        "Moneycontrol.com",
-        "CNBC Technology"
-      ],
-      "date": "2026-11-23T16:20:57.000Z",
-      "firstSeen": "2026-11-24T06:28:09.839Z",
-      "image": "",
-      "snippet": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images.",
-      "category": "ai",
-      "score": 14.76
-    },
-    {
-      "id": "1og11i",
-      "title": "On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space with its suborbital New Shepard rocket",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-23-2026",
+      "id": "jy6y86",
+      "title": "SpaceX launches secretive spy satellites from California for US Space Force (video)",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video",
       "source": "Space.com",
       "sources": [
+        "Space",
         "Space.com"
       ],
-      "date": "2026-11-23T18:10:48.000Z",
-      "firstSeen": "2026-11-24T06:28:09.839Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/rYz3SSLeu9tzXrHMf852WZ-1920-80.jpg",
-      "snippet": "On Nov. 23, 2015, a Blue Origin rocket made a historic landing. Before this time, all rockets were single-use only — even SpaceX's rockets. Blue Origin changed the concept forever. After…",
+      "date": "2026-11-24T22:37:19.000Z",
+      "firstSeen": "2026-11-25T05:03:41.004Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/RDYvv4JnkCto7FxZcPVJGQ-1920-80.png",
+      "snippet": "SpaceX launched another classified mission for the U.S. Space Force (USSF) today (Nov. 24), sending an unknown payload toward orbit from California. A Falcon 9 rocket lifted off from…",
       "category": "space",
-      "score": 14.11
+      "score": 17.36
     },
     {
-      "id": "pe9uby",
-      "title": "SpaceX, Tesla appoint five directors to guide merger talks, FT reports",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRV9xVnpWUGpvckQwUG9IcVU2TlVFdlRoQ1QyUkJ0Ni0xRzhZb3A4Wm5rLXB3V0VHNWRSel9lWTd4emNPdjJOQS1wZENjNVFGM1lGRURFa3hZeFp1RURCa0c1UnVLc0F0V2NoY25PbHUxVEhxRXhnTlJPQVhBVURzcEJqdkFmNzVVVWVvQmw1MExQdXFhck5Ub1lTR2FIZnlEMzJtb2xaRVFobmtYbzVJLU5yeVlrN2lfQ0JfTTM1OA?oc=5",
-      "source": "The Standard (HK)",
+      "id": "112a3vl",
+      "title": "Elon Musk’s $3.5tn M&A endgame",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUVHdHo4MnUyNmxtY0RvdUVnTFlJbGFDMWh6R3NwM3BtSWJnM2kyUHJKVVgyNVZkaXZYV3FOWVl5LVRMRUJfWFJ0ZXQzSC11RWJNVFJLbzBaRF9pUDQxOE5mangxVE41cVRUMDFQVm10My1ZbV9iTk92Ym54em9MdVVGY28?oc=5",
+      "source": "Financial Times",
       "sources": [
-        "The Standard (HK)"
+        "Financial Times"
       ],
-      "date": "2026-11-24T06:15:46.000Z",
-      "firstSeen": "2026-11-24T06:28:09.839Z",
+      "date": "2026-11-25T05:00:32.000Z",
+      "firstSeen": "2026-11-25T05:03:41.004Z",
+      "image": "",
+      "snippet": "",
+      "category": "business",
+      "score": 15.99
+    },
+    {
+      "id": "17xq98s",
+      "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
+      "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
+      "source": "NASASpaceflight",
+      "sources": [
+        "NASASpaceflight"
+      ],
+      "date": "2026-11-25T01:06:02.000Z",
+      "firstSeen": "2026-11-25T05:03:41.004Z",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2025/09/Nov.-3-2023-Falcon-9-Starlink-6-26-Streak-Shot.jpg",
+      "snippet": "Ten rockets are set to launch over the next week, with three visiting two different space stations in low-Earth orbit. Progress MS-36 and CRS NG-25 are expected to deliver supplies to the…",
+      "category": "space",
+      "score": 15.96
+    },
+    {
+      "id": "1p3j9ur",
+      "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3dUNnBuS2JEQmNhdkJSQ0cyR3RGbjNtVFUtNzdmQWZTN3R2cVN6cWs5aWkxd0ZVcnBvaWVXdFRuU1NIOXFMUVNOMEwzaGJISVpBRW45eWYzNGphZ1k5bXVRWmJ3R0NtZHowMW9NYi13TUVNdjl0M0FEYkNyOWc5YkVBRTVlNWFFSldXU1cxYXR2MWR4cG9hN1Vxd0NFS3BvRTNfM3p4NGZwdw?oc=5",
+      "source": "Ars Technica",
+      "sources": [
+        "Ars Technica"
+      ],
+      "date": "2026-11-24T18:30:36.000Z",
+      "firstSeen": "2026-11-25T05:03:41.004Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 13.94
+      "score": 14.46
+    },
+    {
+      "id": "kfjje",
+      "title": "Lucid Rises 4% as Driverless Robotaxi Testing With Nuro and Uber Begins; Tesla Falls 2% Amid SpaceX Merger Talks, Rivian Edges Higher",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdDlJcl9qWTBFNGdWMXJPekpiMTZWMUJmY2h6Vmg5RjZfTzJ1aEZZdm1idU5wVXRTT3dDSTZxc2xPcjFzNkk4ZXdCaGRaOEk5Sk1DUU1TUHBrQmFpVG0xemFHZlhSQkEtNHhjQnQ4d1NHM1d2OERaNEtiRmZWZkt0ekgya1pRS3ROX1hJTlBMZl9zaTdPRmc0T2E2STVGZjQ?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "24/7 Wall St.",
+        "Yahoo Finance"
+      ],
+      "date": "2026-11-24T15:56:00.000Z",
+      "firstSeen": "2026-11-25T05:03:41.004Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 14.44
     }
   ],
   "trending": [
     "Tesla",
     "SpaceX",
     "Starlink",
-    "Grok",
-    "FSD",
-    "Cybercab"
+    "Robotics",
+    "Robotaxi",
+    "Grok"
   ],
   "spark": [
-    {
-      "date": "2026-11-11",
-      "total": 138
-    },
     {
       "date": "2026-11-12",
       "total": 142
@@ -188,9 +187,13 @@
     },
     {
       "date": "2026-11-24",
-      "total": 46
+      "total": 120
+    },
+    {
+      "date": "2026-11-25",
+      "total": 30
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: xAI & Grok. Top story: SpaceX-Tesla: the directors negotiating the biggest merger ever.",
+  "summary": "150 stories (last 24h). Most active frontier: Space. Top story: Elon Musk asks US appeals court to throw out Twitter fraud verdict.",
   "editor": null
 }
