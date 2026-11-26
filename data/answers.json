@@ -1,105 +1,105 @@
 {
-  "updated": "2026-11-25T05:03:41.004Z",
+  "updated": "2026-11-26T04:27:42.164Z",
   "answers": [
     {
       "q": "What is the latest Elon Musk news today?",
-      "a": "As of 25 Nov 2026: 150 stories (last 24h). Most active frontier: Space. Top story: Elon Musk asks US appeals court to throw out Twitter fraud verdict.",
+      "a": "As of 26 Nov 2026: 150 stories (last 24h). Most active frontier: Tesla. Top story: Neuralink Says FDA Approved Pivotal Brain-Implant Trial.",
       "links": [
         {
-          "title": "Elon Musk asks US appeals court to throw out Twitter fraud verdict",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY2RYYWp5emZ0cUZ0dVRlUWpfYlpWV0FoOE92VVM1bkNhalo3ejViOENfTnVOMmpVRG5pX1JJMWNMZzJpUmdMdnhuVDd2VlFXT2JBZkZEaGFieUZISTZ3TUF3TGkwRzY0MHlPLWk3eHBBbGRoZVkzeGJ1NjItekh0M24taDVqd2lyT1dQRWlaeVZ6YzJUVERUODNKanNGc2ZjQ0cyRFZkZjhORG9wRU1kcTR1Z3hqYVlYVlh5VGdzMA?oc=5",
+          "title": "Neuralink Says FDA Approved Pivotal Brain-Implant Trial",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSmt2cFpnUWZseE1vcjFTS2Z4VkxZTWdWSElPeVZLYlNfUnNkX0NldEpGX01KcVN6S3Y2UHFQS3dIbnZzRDZhQTZPTS1sV3ZIcHNFeER4WmNjYjVpaTd1eDRBMjVUX0Nsb194N0E5Q0k4QnRLYno0MEZWeGxsQkpKNUthSTQ3V0FiV1ZBODY3OWVldFJPQnNQYklzQkpWdw?oc=5",
+          "source": "The Defiant",
+          "date": "2026-11-25T21:25:17.000Z"
+        },
+        {
+          "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUmh3LVh3RnFNUW5hVjJWcXlzOERNTTloeEdIbnRiRGVSV1B4UzJaWVhudzNvS0Q4YlRvN1pUTThRVjhka1JpYUFBWC1RWW1hYnFxT3RxM0VoMERWRmlJdmd4LXJJR0F5S083cThjNDFWay1zRWVPcmRUeXR5WWVuQ01ObUVGRVZBOGFzTDdobUxMUQ?oc=5",
+          "source": "AP News",
+          "date": "2026-11-25T17:55:50.000Z"
+        },
+        {
+          "title": "US authorizes SpaceX to deploy 1 million satellites for data centers in space",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVk5uRnprd285MEw5V2prcHR6bXljVGN4cUZuOHA4eHJUZkFzOVFnS1QtYnZaal8yYUYxa0t1cW84WjVzQWpub0czSGxUblh3STB6WnZxcThWZUxNRDk2emliZ0tfTmk5U3YxY3FZRXdEYWNyb2VMTmlkZE5RNWZHOS12OWdjSkpNdzhGU0Z4NWo3VmpSZHNXWGNJZUFpZjl2T2xuUkRKRXBpOTFqVFdFLXFvV0xHd1czWDFKbFU3OWFGU21B?oc=5",
           "source": "Reuters",
-          "date": "2026-11-24T17:27:21.000Z"
-        },
-        {
-          "title": "SpaceX launches classified US Space Force mission from California",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ1RmS0NJMUNlM1BwWXZuM2pETGR2ZUNyX2NqUGpLRXZXX3VfbEZ0LVU3bGFuVUFJbzI4dVNzVmxjb0FFSm1Va0luOW1MRW50bGcwZUd6MVVnM01UQUdvYThBb1FWYkJINnQwSG5PdVdIR0xQdTZQY3JnMmlzemswZXk2QW1KX0lqRkxPQnB5bjQ4NnFBSkdiWnMzY2NFWUJXcExXaEZn?oc=5",
-          "source": "Anadolu Ajansı",
-          "date": "2026-11-24T17:04:25.000Z"
-        },
-        {
-          "title": "SpaceX launches secretive spy satellites from California for US Space Force (video)",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video",
-          "source": "Space.com",
-          "date": "2026-11-24T22:37:19.000Z"
+          "date": "2026-11-25T20:44:01.000Z"
         }
       ]
     },
     {
       "q": "What is SpaceX working on right now?",
-      "a": "Starship: Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate. Starlink: 10,000+ satellites; V3 satellites now flying on Starship. Latest: Cramer Says Musk Or Huang's Removal Could 'Set Us Back' - SpaceX (NASDAQ:SPCX) (Benzinga, 25 Nov 2026); Starship 40% Upscale, Heat Shield Damage at 0.005%: SpaceX's Reusability Economics Put to the Test (BigGo Finance, 25 Nov 2026).",
+      "a": "Starship: Flight 15 to attempt the first ship catch, targeted for about late November; FAA reviewing a higher Texas launch rate. Starlink: 10,000+ satellites; V3 satellites now flying on Starship. Latest: Elon Musk, SpaceX Pledge $18 Billion in Shares to Trump Accounts as FCC Approves 1 Million Starmind Orbit (Benzinga, 26 Nov 2026); Musk says every child in the US will get two SpaceX shares (Reuters, 26 Nov 2026).",
       "links": [
         {
-          "title": "Cramer Says Musk Or Huang's Removal Could 'Set Us Back' - SpaceX (NASDAQ:SPCX)",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNel9jeXI5bHdlOVc3RHdta1U2OTdJOXZ3XzMyY1Z1LVlyU0VTNF9Mamp0T21EcHdLR1EzbEx3TjE3TXZPUThUOGc1NGQxZzkzb0ZjdEdZOERlRnNxNElQRTV5V081ZHItcE1TaFRhY2ZiNUs0R25lTWZMVnVSVGgtX3c3dGVtTjV5SXlYT01lNEVvNVg1a3FpeTZ3VXZaMGRyTUc3QmFaS1U3aEtnNWRXeXg4TFptTTZnVnpOQUNobjlhS1FaOExrc3RJOUlMNzk2Zi11dENR?oc=5",
+          "title": "Elon Musk, SpaceX Pledge $18 Billion in Shares to Trump Accounts as FCC Approves 1 Million Starmind Orbit",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSVRfaHNTbmdIampvX2QzOVlkckYzMHRUakVRV29zMWZiWDVQaWFHSzhNM3VCcnpQSzFIY1ktR0NxTkxET1FvMVFjQ2pZUDl2Mmg2RUpaVTF6UDJKOTN6eDFsaF9FVEx1NU5pUjFxaXYxZ0RodWQyZU0zeTlLWUZHOGc3ejhhNmVwd19jdTRJSzRfbmhHVEZTWEQ3eHVHUVpjaE1JbmhYM3BmdFhjZWgzVEFfRHV0M25OX0RDSXV3?oc=5",
           "source": "Benzinga",
-          "date": "2026-11-25T04:30:16.000Z"
+          "date": "2026-11-26T04:19:47.000Z"
         },
         {
-          "title": "Starship 40% Upscale, Heat Shield Damage at 0.005%: SpaceX's Reusability Economics Put to the Test",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81V0VVN0xScEQwLVRYUGhNcG02N3JTQUhndl9aWEQ3VXJYTUxkNjBHejM2Wnoxb0tZTUpoUTRPbjJiYW1faGZUWmNhQUN0aExnbWdQWnFBc1Zuc2czbG9kM09QOUhxZXphZWtwcVpiZnN6YU9VVWc?oc=5",
-          "source": "BigGo Finance",
-          "date": "2026-11-25T03:56:00.000Z"
+          "title": "Musk says every child in the US will get two SpaceX shares",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNklmekFZWmFURnFwVlBHa2FlTGZwYkxaSkNSRUxMV2lsanFDc2hkdGF1RGhHWlJoUTBicHFXY1B3dWxHa0xmdU5mYzFBbGpYN3Z5N2xTS2U1bVBJeVZQVHRucldkRVhsVlVfNldnTWpRclIzSjJQa0tMMnBFVGhDTS1HYzdwVlctaXowdDJtdVJaNkxLcXo2Tk9Odi1XZnI0c1JScHZycXhWRUNUZmQ4?oc=5",
+          "source": "Reuters",
+          "date": "2026-11-26T04:02:46.000Z"
         },
         {
-          "title": "BTC plans nationwide satellite-to-phone coverage with Starlink",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzaVlRb2s4S0VGVXZUUm5HX2czSUFfMHFDeXdRYmZiZ1hPQmVnejV3dENZZTBVOW9CeXVpeHRtTDM1M0lQTi0zM0tCMDFkeW9JYklvSWZYdkxlS0FjS0VDeXBpdVRFdWtaZDFsMXVLOG5Eb2NRamtFQg?oc=5",
-          "source": "TechTrendsKE",
-          "date": "2026-11-25T03:45:13.000Z"
+          "title": "Tom Mueller Interview: How SpaceX Started (Transcript)",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0ZuTHNrUzZMbnktS013V214MWUySGNPX0tOZ1gzTVljczZMUmVabkw4a1d4M0U2VUxWNTdwUjVBaVoxV1BYM2x4eEVPOWhOZUh4bzdRWGhWT095LUhZSm9OWEIwSG5PSEpRQV9pM013NTVXam9ZNktnRmtlcHRDSA?oc=5",
+          "source": "The Singju Post",
+          "date": "2026-11-26T03:59:53.000Z"
         }
       ]
     },
     {
       "q": "What is Tesla working on right now?",
-      "a": "Cybercab and Robotaxi: First Cybercab rides reported alongside Q3 2026 results. Optimus: Output targeted toward the end of 2026. Latest: Tesla Wants You To Watch Its 'Reality View' Instead Of Paying Attention To Reality (Jalopnik, 25 Nov 2026); Tesla Cyberbeast Gets Another Price Increase in the U.S (Drive Tesla Canada, 25 Nov 2026).",
+      "a": "Cybercab and Robotaxi: First Cybercab rides reported alongside Q3 2026 results. Optimus: Output targeted toward the end of 2026. Latest: Boring Company Shows Vegas Loop Tunnel from Westgate to UNLV (TeslaNorth.com, 26 Nov 2026); XPENG's Tesla FSD Rival Goes Global in 2027 as VLA 3.0 Debuts (CarSauce, 26 Nov 2026).",
       "links": [
         {
-          "title": "Tesla Wants You To Watch Its 'Reality View' Instead Of Paying Attention To Reality",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TZEIxakw1cmRLU1BmdmtSc1dTazFXUG00RGFWejBxaHZLZUlvTkpzNlhUYVFHemtmb0hCa2E2OENrSmFaRGVGaGhPel9kQXktVGhnc0haRG9LUXBtTVlsY3NJakp6bS1SWjdN?oc=5",
-          "source": "Jalopnik",
-          "date": "2026-11-25T04:25:00.000Z"
+          "title": "Boring Company Shows Vegas Loop Tunnel from Westgate to UNLV",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNnhmSUZneGtqclNNLVpVZHhjT3NlcGt3T050dmNoMEJyRlVDdHZOZm9Hc0QwdEI2T3V3eVNYSUpXbEhfNVp0UC15UmZOcG5mQTZudmhDbVp6TnNGaFhIYUpzTGMtWmZzSmt5N1JXZHFNc1gyQnh5SnZVTjZheVhsRFE0MHExSjg?oc=5",
+          "source": "TeslaNorth.com",
+          "date": "2026-11-26T02:45:24.000Z"
         },
         {
-          "title": "Tesla Cyberbeast Gets Another Price Increase in the U.S.",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zYU1wWkdnTHpGRVZLU0NYTTRBZkp1bmM2V2R5dVhaUWdfRWF3c0NxRVRYVVktNGtDSEdfZFlyak5renMwcmRsZDZCNkthQjk0NTI0ZHRrd0M5WHltYmZWWFUzb01ZMWY2QmxTU19sYVVmZHUxcFNV?oc=5",
-          "source": "Drive Tesla Canada",
-          "date": "2026-11-25T04:11:07.000Z"
+          "title": "XPENG's Tesla FSD Rival Goes Global in 2027 as VLA 3.0 Debuts",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83blJJWEN2VUMtOHhId2hpdzlPMzdkZ3dZZi14Zmd3amkwdlAydEZHME9taHJxUzhNRnQ3RlR3QU91bW9HaWFPd1hSZ0lqQVdnT0ZSRjhSdDNkdHpQNUxDbjJsaHRlQ1pwamNySXlXM3h6VnBNdG5BQVF1Yw?oc=5",
+          "source": "CarSauce",
+          "date": "2026-11-26T02:23:53.000Z"
         },
         {
-          "title": "Memory Price Surge Forces Automakers to Redesign: Tesla's AI4.5 Chip Capacity Cut 25%, Phones and PCs Follow Suit",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XUXI1dTU0SkdONGd1WFZnNHR4TWR2by0wY21URUZldEQ3WGM3TFNmdzNUQzBxb0JNdDRQN1Myb2dMWDY4dXNyVHN5dWVzb3FRQjRlUVp5MDVHZHkwNlZIT1N2OTBYUE1PdWZtY0ZUTWhWUmZfYUE?oc=5",
-          "source": "BigGo Finance",
-          "date": "2026-11-25T03:25:00.000Z"
+          "title": "Her Tesla Model Y Saw the State Trooper Before She Did, and the Owner Says That One Moment Made Her $99 FSD Subscription Worth It",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUE5HM1lmMlkyblE2dnpuaU1tbmRWSTFQdlpWS2pMcWdBQ3VzRnlWQ1EwUXpUVURmcm91THVUOVRBbm5ZdmxKLVZBSklmSGE1MElEcTg1TklMUGJpOGFOajJUUEZucl9pTWdYVVlUMXpUYkZ5bjljazRpWkdYM0RaQUhTaFZ1WTRNRUhHNHcxdWdRd0hKMjd1QTBXeVFsQ3ZIb1UtUzAxX09qb24tcGVPclAxcEZwRkFqMFE?oc=5",
+          "source": "Torque News",
+          "date": "2026-11-26T02:14:46.000Z"
         }
       ]
     },
     {
       "q": "What are xAI and Neuralink doing now?",
-      "a": "xAI and Grok: $40B in debt closed for GPUs arriving in 2027; Grok releasing an AI-generated video series. Neuralink: Next-generation implant with more channels unveiled in October. Latest: They built xAI with Elon Musk, walked away and now want AI to predict the future (India Today, 25 Nov 2026); Elon Musk’s Grok AI is sued for over $1 million for its ‘spicy mode’ (The Mary Sue, 25 Nov 2026).",
+      "a": "xAI and Grok: $40B in debt closed for GPUs arriving in 2027; Grok releasing an AI-generated video series. Neuralink: Next-generation implant with more channels unveiled in October. Latest: Elon Musk's Neuralink Receives Clinical Approval for Brain Implants in ALS Patients : Global : JKN (재경일보, 26 Nov 2026); Neuralink's Brain-Computer Interface Implantation Approved for Clinical Trials (news.sbs.co.kr, 26 Nov 2026).",
       "links": [
         {
-          "title": "They built xAI with Elon Musk, walked away and now want AI to predict the future",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZkpsWnBHeXlvSm94TXVzLWpiVFJFLXFJUFo0Z3BYMnUtbDJScjlzT2ZOeGJwbktjVFNQbFdpRXQxZE5JYzl3OTdhSE1VSjhPNFQ2RGtXdjZHZHRBZVRoS053V1NzemducEk5S2hRX2Z6RXpjekc5cUZKNjRieFplNE94Y1ZtVkpYWkVKRm1QYkhwNFNYMGw2d1RRUzExOUpOWHZxMHNVWTV0QXl5ZTlzQmVfQS1nbVlxNGxXbFhCdU1YWDhISnhFYjFWZzk3WVliTEs0bThPeXpGaU1Vb3pR0gHkAUFVX3lxTFB6RHRVVDRLWUNlSnpFeTloOUk2c2NUd1FQV3c5N3NfYWZMVVJmWXR1SmxOREJuaVJ5MHA2Ylh3UW5GT1V6WDN1b0hpRDJRLVB0SDItbzFIS290ZE1RVWNzc2pPUEZFSkZIQm1Uam9HamxnUTdGUW9CaEFUclVkcm43NExvWUVsNU16OHZLMHJFQlA4MlljTk1GYnJFUXROVndiY2FybzBlTGh6Ykk5V21IQkRNR1NOUTE2MzdkVWlEM25YcnVzUVdlanZ4Tm16clNXYTJwcnZfN1B5VmtaS3FUNmZnSw?oc=5",
-          "source": "India Today",
-          "date": "2026-11-25T04:20:49.000Z"
+          "title": "Elon Musk's Neuralink Receives Clinical Approval for Brain Implants in ALS Patients : Global : JKN",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSbTJLMnlGaHVsc0NLSzdEaGpqc3YtZldmRDJ2bXl2RUZZNW9Cc1ZsRTB0dlg1eEo1RTQ5dkZ3Wnl6b3o3MnZMQ20wWld1eXFDbGtQc2ZON0t6NmlNZWZfR3JR?oc=5",
+          "source": "재경일보",
+          "date": "2026-11-26T04:00:06.000Z"
         },
         {
-          "title": "Elon Musk’s Grok AI is sued for over $1 million for its ‘spicy mode’",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWFpsVTM1TkNBY0ZsQ2xfaGhhZDd3ZlpHQ0hIX1ZGMjVTbkhQd2xsNmJzMG9LZGNWbDJ6bG9zVnFiaTlSX0xrYXVJREZSdmV4Z05la2NITHl0bVEyRWdxWnJYWkUwSTQzUGtFTWtUM000Y2tKZ1dtVWU0WFVydGtsN1VmblhydnhhZE1pdlc4ZTQzWXZYZTdKX3UyQ2p5dVBuU2xsUU5Wb2Z3TkFEck52cVAySXNlekFVMVpNQzRJSjF2ZzZJWldORkl3U2YyVXdZTXh2QmtycDJnUlo5U0g5TFBadXRhbm5fZFV1Z0piek50NVI3dmdSS21aeXQ?oc=5",
-          "source": "The Mary Sue",
-          "date": "2026-11-25T04:15:00.000Z"
+          "title": "Neuralink's Brain-Computer Interface Implantation Approved for Clinical Trials",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BVTg5Z0x0Ym5aVk4yWjM3b1Z0MFpZQkI0MXotNWpETjVKUldORWJVcktfNUVKMXlVUGp2dGs3YjRVam9URElyTmEyYW12Y2YtTlJZejJCRkFULTVLWmVmRTFBTVkyZw?oc=5",
+          "source": "news.sbs.co.kr",
+          "date": "2026-11-26T02:39:00.000Z"
         },
         {
-          "title": "What Is Grok AI? Free Tier, Grok 4.7 and Prices (2026)",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9JM0ZtUldQRjVRUUI0UzNEdUpSQ1plQ242NE9KaV9JdlBhcjVlX0g0Tl9zWU9uWmo0Qm9FeEstTXdlQlBOaElSNzdZWXQ?oc=5",
-          "source": "Fello AI",
-          "date": "2026-11-25T03:11:12.000Z"
+          "title": "No GPS, no Starlink, no problem! Ukrainian schoolboy builds AI-powered drone autopilot that works without satellite signals, wins presidential award",
+          "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOV2UzdkFvVjZkRVp0MzNDQTZRZzFlV1Q4ZmFvcENoRk1ycFE0NVo1WXJBSUlWZkRhQkpGZ3JpdU9pbDR5aVZQdTZWNHFET19sRVc5QTBMTExTbkZkRldwWHJCcmJKdzBkZTdOZ1lJeVNmVS1pQXdIVWJWOUlab0pRVGZOUFYzRVB1dEpxXzVpV19iMGN4UXZLN2FmdlJGVjRwdFFkd2x5V1pROGRKR0tOam5ySks1c2FOVGFibWowSEFzNzdsT3dBSUVXeFNQTGVFa0pIX1didGtrTDhGZUMzRFJ6WTFJZllfNFA4b2VwSVhvbWRpZHpCcVlFWXdQUnUxNHZTdkFkQlBfX1huT2JFNlk3NUhzOHltMVpGM21yNmZLSDExcmZjcE5TTDJlcVFVeWN6Zw?oc=5",
+          "source": "Education Times",
+          "date": "2026-11-26T02:38:00.000Z"
         }
       ]
     },
     {
       "q": "How often is Musk Systems updated?",
-      "a": "A new edition is built automatically every day at 07:47 KST (22:47 UTC). This edition was built on 25 Nov 2026 from 17 sources and holds 150 stories, each linked to its original publisher.",
+      "a": "A new edition is built automatically every day at 07:47 KST (22:47 UTC). This edition was built on 26 Nov 2026 from 17 sources and holds 150 stories, each linked to its original publisher.",
       "links": []
     },
     {

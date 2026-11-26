@@ -1,146 +1,155 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "business": 19,
-    "space": 41,
-    "mobility": 36,
-    "ai": 20,
-    "connectivity": 27,
-    "neuro": 3,
+    "space": 26,
+    "neuro": 12,
+    "connectivity": 20,
+    "mobility": 38,
+    "ai": 30,
+    "business": 20,
     "robotics": 4
   },
   "topStory": {
-    "id": "ygl6ro",
-    "title": "Elon Musk asks US appeals court to throw out Twitter fraud verdict",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY2RYYWp5emZ0cUZ0dVRlUWpfYlpWV0FoOE92VVM1bkNhalo3ejViOENfTnVOMmpVRG5pX1JJMWNMZzJpUmdMdnhuVDd2VlFXT2JBZkZEaGFieUZISTZ3TUF3TGkwRzY0MHlPLWk3eHBBbGRoZVkzeGJ1NjItekh0M24taDVqd2lyT1dQRWlaeVZ6YzJUVERUODNKanNGc2ZjQ0cyRFZkZjhORG9wRU1kcTR1Z3hqYVlYVlh5VGdzMA?oc=5",
-    "source": "Reuters",
+    "id": "h2k9ii",
+    "title": "Neuralink Says FDA Approved Pivotal Brain-Implant Trial",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSmt2cFpnUWZseE1vcjFTS2Z4VkxZTWdWSElPeVZLYlNfUnNkX0NldEpGX01KcVN6S3Y2UHFQS3dIbnZzRDZhQTZPTS1sV3ZIcHNFeER4WmNjYjVpaTd1eDRBMjVUX0Nsb194N0E5Q0k4QnRLYno0MEZWeGxsQkpKNUthSTQ3V0FiV1ZBODY3OWVldFJPQnNQYklzQkpWdw?oc=5",
+    "source": "The Defiant",
     "sources": [
-      "Reuters",
-      "The Lufkin Daily News",
-      "The Independent",
-      "Mezha.net",
-      "CNA"
+      "The Defiant",
+      "Interesting Engineering",
+      "Securities.io",
+      "Chosunbiz",
+      "MLQ.ai",
+      "TeslaNorth.com",
+      "Mathrubhumi English",
+      "Olorisupergal"
     ],
-    "date": "2026-11-24T17:27:21.000Z",
-    "firstSeen": "2026-11-25T05:03:41.004Z",
+    "date": "2026-11-25T21:25:17.000Z",
+    "firstSeen": "2026-11-26T04:27:42.164Z",
     "image": "",
     "snippet": "",
-    "category": "business",
-    "score": 21.24
+    "category": "neuro",
+    "score": 22.22
   },
   "topList": [
     {
-      "id": "1kp77ek",
-      "title": "SpaceX launches classified US Space Force mission from California",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ1RmS0NJMUNlM1BwWXZuM2pETGR2ZUNyX2NqUGpLRXZXX3VfbEZ0LVU3bGFuVUFJbzI4dVNzVmxjb0FFSm1Va0luOW1MRW50bGcwZUd6MVVnM01UQUdvYThBb1FWYkJINnQwSG5PdVdIR0xQdTZQY3JnMmlzemswZXk2QW1KX0lqRkxPQnB5bjQ4NnFBSkdiWnMzY2NFWUJXcExXaEZn?oc=5",
-      "source": "Anadolu Ajansı",
+      "id": "8ln73g",
+      "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUmh3LVh3RnFNUW5hVjJWcXlzOERNTTloeEdIbnRiRGVSV1B4UzJaWVhudzNvS0Q4YlRvN1pUTThRVjhka1JpYUFBWC1RWW1hYnFxT3RxM0VoMERWRmlJdmd4LXJJR0F5S083cThjNDFWay1zRWVPcmRUeXR5WWVuQ01ObUVGRVZBOGFzTDdobUxMUQ?oc=5",
+      "source": "AP News",
       "sources": [
-        "Anadolu Ajansı",
-        "A News",
-        "Newsweek",
-        "MLQ.ai",
-        "Latest news from Azerbaijan"
+        "Daily Sun",
+        "AP News",
+        "Sky News",
+        "Yahoo News Singapore",
+        "Yahoo News Canada"
       ],
-      "date": "2026-11-24T17:04:25.000Z",
-      "firstSeen": "2026-11-25T05:03:41.004Z",
+      "date": "2026-11-25T17:55:50.000Z",
+      "firstSeen": "2026-11-26T04:27:42.164Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 20.46
+    },
+    {
+      "id": "23tkb3",
+      "title": "US authorizes SpaceX to deploy 1 million satellites for data centers in space",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVk5uRnprd285MEw5V2prcHR6bXljVGN4cUZuOHA4eHJUZkFzOVFnS1QtYnZaal8yYUYxa0t1cW84WjVzQWpub0czSGxUblh3STB6WnZxcThWZUxNRDk2emliZ0tfTmk5U3YxY3FZRXdEYWNyb2VMTmlkZE5RNWZHOS12OWdjSkpNdzhGU0Z4NWo3VmpSZHNXWGNJZUFpZjl2T2xuUkRKRXBpOTFqVFdFLXFvV0xHd1czWDFKbFU3OWFGU21B?oc=5",
+      "source": "Reuters",
+      "sources": [
+        "France 24",
+        "Broadband Breakfast",
+        "voz.us",
+        "Reuters"
+      ],
+      "date": "2026-11-25T20:44:01.000Z",
+      "firstSeen": "2026-11-26T04:27:42.164Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 19.07
+    },
+    {
+      "id": "16sbmv1",
+      "title": "Elon Musk And SpaceX Pledge Matching Trump Account Contributions",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaE13TkM3VTZGcl9mNFZYVkZndlBlS0k5QTQyN0dkQkZMMlI4aVNwLS1BLUlTRjdkS0o1c2N2N29EV0pDdFF2bHJzUkVLMlNwbWVsbzAzeEdWcWR0TEFzQzlwUVUzekRLTDFSYzVXQ1p2alMweThFT3pPRkc0V0E3NThoUDJZSHJIWHI1cHhoZUZuekhsRWRRVWY4c2I1Zm5wMmxLVUdQUjQwNFB0aVRoUWRlN24?oc=5",
+      "source": "Forbes",
+      "sources": [
+        "Forbes",
+        "Business Insider",
+        "Business Insider Africa",
+        "Yahoo! Finance Canada"
+      ],
+      "date": "2026-11-25T20:41:43.000Z",
+      "firstSeen": "2026-11-26T04:27:42.164Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 19.17
+      "score": 18.56
     },
     {
-      "id": "jy6y86",
-      "title": "SpaceX launches secretive spy satellites from California for US Space Force (video)",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video",
-      "source": "Space.com",
+      "id": "1mmbmg7",
+      "title": "Neuralink Receives FDA Approval to Launch LINK Pivotal Study",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWHRPbnJXWmYxWUZSNlBDTElZQlhhLWcxZUVHaVdkU3ZjSGpQVjBxdWNvWUZKV1FRRUh1MkVWLTNYRklyeTRqTjJRLXVnREZiZmlWWTQwMUs4UmUtczJpNV8ycFZ6TFVNOVhuQVNPbE9oRTJLazlxZlBvTTFRRWhRaUZIQ3AyOXVhUFI0MDBuZ3M4c052NFE?oc=5",
+      "source": "Neuralink",
       "sources": [
-        "Space",
-        "Space.com"
+        "Neuralink",
+        "MobiHealthNews",
+        "Drive Tesla Canada",
+        "TradingView"
       ],
-      "date": "2026-11-24T22:37:19.000Z",
-      "firstSeen": "2026-11-25T05:03:41.004Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/RDYvv4JnkCto7FxZcPVJGQ-1920-80.png",
-      "snippet": "SpaceX launched another classified mission for the U.S. Space Force (USSF) today (Nov. 24), sending an unknown payload toward orbit from California. A Falcon 9 rocket lifted off from…",
-      "category": "space",
-      "score": 17.36
-    },
-    {
-      "id": "112a3vl",
-      "title": "Elon Musk’s $3.5tn M&A endgame",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUVHdHo4MnUyNmxtY0RvdUVnTFlJbGFDMWh6R3NwM3BtSWJnM2kyUHJKVVgyNVZkaXZYV3FOWVl5LVRMRUJfWFJ0ZXQzSC11RWJNVFJLbzBaRF9pUDQxOE5mangxVE41cVRUMDFQVm10My1ZbV9iTk92Ym54em9MdVVGY28?oc=5",
-      "source": "Financial Times",
-      "sources": [
-        "Financial Times"
-      ],
-      "date": "2026-11-25T05:00:32.000Z",
-      "firstSeen": "2026-11-25T05:03:41.004Z",
+      "date": "2026-11-25T20:59:00.000Z",
+      "firstSeen": "2026-11-26T04:27:42.164Z",
       "image": "",
       "snippet": "",
-      "category": "business",
-      "score": 15.99
+      "category": "neuro",
+      "score": 18.12
     },
     {
-      "id": "17xq98s",
-      "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
-      "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
-      "source": "NASASpaceflight",
+      "id": "1ankap4",
+      "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JR3BiQWdENkItZjIyRUU3TWVYVFB3N0dYcDlNNmU3NG1lZEVXUFZ3dl9fVUpKcWwyemZkYTYtQ25xbVNnMGZ5SUNiWjJyckxXNzVJSEg5ZWkyUnM2UEZTQVJLTllDSlFCdU9lLWU3RjRmdlZGZ0dv0gF8QVVfeXFMT1p4Yzk2RWM5RVp6b2J2VEZObUpGbktpcXBFLTdHN3BadmxTeFZNdmJWV2Y4YjdVZnVTMnBEU0R3WF9fZXhWY0dNNUpQbjVwTjhYazFwMDhJRXd3VkNxLWRIVHpJZzVvRUtWbUhzQ181cUYtU29xdm9aRVBYOQ?oc=5",
+      "source": "CNBC",
       "sources": [
-        "NASASpaceflight"
+        "Yahoo Finance",
+        "CNBC",
+        "CNBC Technology"
       ],
-      "date": "2026-11-25T01:06:02.000Z",
-      "firstSeen": "2026-11-25T05:03:41.004Z",
-      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2025/09/Nov.-3-2023-Falcon-9-Starlink-6-26-Streak-Shot.jpg",
-      "snippet": "Ten rockets are set to launch over the next week, with three visiting two different space stations in low-Earth orbit. Progress MS-36 and CRS NG-25 are expected to deliver supplies to the…",
+      "date": "2026-11-25T20:07:57.000Z",
+      "firstSeen": "2026-11-26T04:27:42.164Z",
+      "image": "",
+      "snippet": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
       "category": "space",
-      "score": 15.96
+      "score": 17.93
     },
     {
-      "id": "1p3j9ur",
-      "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3dUNnBuS2JEQmNhdkJSQ0cyR3RGbjNtVFUtNzdmQWZTN3R2cVN6cWs5aWkxd0ZVcnBvaWVXdFRuU1NIOXFMUVNOMEwzaGJISVpBRW45eWYzNGphZ1k5bXVRWmJ3R0NtZHowMW9NYi13TUVNdjl0M0FEYkNyOWc5YkVBRTVlNWFFSldXU1cxYXR2MWR4cG9hN1Vxd0NFS3BvRTNfM3p4NGZwdw?oc=5",
-      "source": "Ars Technica",
+      "id": "1chvp5a",
+      "title": "Musk says every child in the US will get two SpaceX shares",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNklmekFZWmFURnFwVlBHa2FlTGZwYkxaSkNSRUxMV2lsanFDc2hkdGF1RGhHWlJoUTBicHFXY1B3dWxHa0xmdU5mYzFBbGpYN3Z5N2xTS2U1bVBJeVZQVHRucldkRVhsVlVfNldnTWpRclIzSjJQa0tMMnBFVGhDTS1HYzdwVlctaXowdDJtdVJaNkxLcXo2Tk9Odi1XZnI0c1JScHZycXhWRUNUZmQ4?oc=5",
+      "source": "Reuters",
       "sources": [
-        "Ars Technica"
+        "Reuters",
+        "bloomingbit"
       ],
-      "date": "2026-11-24T18:30:36.000Z",
-      "firstSeen": "2026-11-25T05:03:41.004Z",
+      "date": "2026-11-26T04:02:46.000Z",
+      "firstSeen": "2026-11-26T04:27:42.164Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 14.46
-    },
-    {
-      "id": "kfjje",
-      "title": "Lucid Rises 4% as Driverless Robotaxi Testing With Nuro and Uber Begins; Tesla Falls 2% Amid SpaceX Merger Talks, Rivian Edges Higher",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdDlJcl9qWTBFNGdWMXJPekpiMTZWMUJmY2h6Vmg5RjZfTzJ1aEZZdm1idU5wVXRTT3dDSTZxc2xPcjFzNkk4ZXdCaGRaOEk5Sk1DUU1TUHBrQmFpVG0xemFHZlhSQkEtNHhjQnQ4d1NHM1d2OERaNEtiRmZWZkt0ekgya1pRS3ROX1hJTlBMZl9zaTdPRmc0T2E2STVGZjQ?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "24/7 Wall St.",
-        "Yahoo Finance"
-      ],
-      "date": "2026-11-24T15:56:00.000Z",
-      "firstSeen": "2026-11-25T05:03:41.004Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 14.44
+      "score": 17.89
     }
   ],
   "trending": [
-    "Tesla",
     "SpaceX",
+    "Tesla",
     "Starlink",
-    "Robotics",
-    "Robotaxi",
-    "Grok"
+    "FSD",
+    "OrbitalDataCenters",
+    "SatelliteInternet"
   ],
   "spark": [
-    {
-      "date": "2026-11-12",
-      "total": 142
-    },
     {
       "date": "2026-11-13",
       "total": 103
@@ -191,9 +200,13 @@
     },
     {
       "date": "2026-11-25",
-      "total": 30
+      "total": 125
+    },
+    {
+      "date": "2026-11-26",
+      "total": 25
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: Space. Top story: Elon Musk asks US appeals court to throw out Twitter fraud verdict.",
+  "summary": "150 stories (last 24h). Most active frontier: Tesla. Top story: Neuralink Says FDA Approved Pivotal Brain-Implant Trial.",
   "editor": null
 }

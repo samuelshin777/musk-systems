@@ -323,14 +323,23 @@
       "neuro": 1
     },
     "2026-11-25": {
-      "total": 30,
-      "business": 6,
-      "space": 6,
-      "mobility": 5,
-      "ai": 7,
-      "connectivity": 4,
-      "neuro": 1,
-      "robotics": 1
+      "total": 125,
+      "business": 18,
+      "mobility": 34,
+      "ai": 26,
+      "space": 17,
+      "robotics": 4,
+      "neuro": 9,
+      "connectivity": 17
+    },
+    "2026-11-26": {
+      "total": 25,
+      "space": 9,
+      "neuro": 3,
+      "connectivity": 3,
+      "mobility": 4,
+      "ai": 4,
+      "business": 2
     }
   }
 }

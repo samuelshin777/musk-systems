@@ -1,77 +1,65 @@
 {
-  "updated": "2026-11-25T05:03:41.004Z",
+  "updated": "2026-11-26T04:27:42.164Z",
   "hashtags": [
     {
+      "tag": "#SpaceX",
+      "score": 61
+    },
+    {
       "tag": "#Tesla",
-      "score": 46
+      "score": 40
     },
     {
       "tag": "#ElonMusk",
-      "score": 43
+      "score": 35
     },
     {
-      "tag": "#SpaceX",
-      "score": 43
+      "tag": "#Neuralink",
+      "score": 29
+    },
+    {
+      "tag": "#SatelliteInternet",
+      "score": 25
+    },
+    {
+      "tag": "#OrbitalDataCenters",
+      "score": 22
     },
     {
       "tag": "#Starlink",
-      "score": 31
+      "score": 19
     },
     {
-      "tag": "#Starship",
+      "tag": "#SpaceExploration",
+      "score": 15
+    },
+    {
+      "tag": "#BrainComputerInterface",
       "score": 14
-    },
-    {
-      "tag": "#xAI",
-      "score": 14
-    },
-    {
-      "tag": "#Grok",
-      "score": 13
     },
     {
       "tag": "#FSD",
       "score": 13
     },
     {
-      "tag": "#SatelliteInternet",
-      "score": 13
-    },
-    {
-      "tag": "#Neuralink",
-      "score": 11
-    },
-    {
-      "tag": "#Robotics",
+      "tag": "#xAI",
       "score": 10
     },
     {
-      "tag": "#SpaceExploration",
-      "score": 9
-    },
-    {
-      "tag": "#Falcon9",
-      "score": 7
-    },
-    {
-      "tag": "#TowerCatch",
-      "score": 7
-    },
-    {
-      "tag": "#Robotaxi",
+      "tag": "#Starship",
       "score": 6
-    },
-    {
-      "tag": "#OrbitalDataCenters",
-      "score": 6
-    },
-    {
-      "tag": "#FutureTech",
-      "score": 5
     },
     {
       "tag": "#Optimus",
-      "score": 4
+      "score": 6
+    },
+    {
+      "tag": "#Robotics",
+      "score": 6
+    },
+    {
+      "tag": "#Cybercab",
+      "score": 5
     },
     {
       "tag": "#SPCX",
@@ -86,7 +74,19 @@
       "score": 4
     },
     {
+      "tag": "#Grok",
+      "score": 3
+    },
+    {
+      "tag": "#Falcon9",
+      "score": 3
+    },
+    {
       "tag": "#SpaceXDragon",
+      "score": 3
+    },
+    {
+      "tag": "#BoringCompany",
       "score": 3
     },
     {
@@ -94,15 +94,7 @@
       "score": 3
     },
     {
-      "tag": "#TSLA",
-      "score": 3
-    },
-    {
-      "tag": "#ArtificialIntelligence",
-      "score": 3
-    },
-    {
-      "tag": "#Innovation",
+      "tag": "#TowerCatch",
       "score": 3
     },
     {
@@ -118,6 +110,10 @@
       "score": 3
     },
     {
+      "tag": "#Robotaxi",
+      "score": 2
+    },
+    {
       "tag": "#PayPal",
       "score": 2
     },
@@ -126,15 +122,7 @@
       "score": 2
     },
     {
-      "tag": "#BrainComputerInterface",
-      "score": 2
-    },
-    {
       "tag": "#Blindsight",
-      "score": 1
-    },
-    {
-      "tag": "#Cybercab",
       "score": 1
     },
     {
@@ -150,43 +138,55 @@
       "score": 1
     },
     {
-      "tag": "#BoringCompany",
+      "tag": "#Zip2",
       "score": 1
     },
     {
-      "tag": "#Zip2",
+      "tag": "#TSLA",
       "score": 1
     },
     {
       "tag": "#Megapack",
       "score": 1
+    },
+    {
+      "tag": "#ArtificialIntelligence",
+      "score": 1
+    },
+    {
+      "tag": "#ElectricVehicles",
+      "score": 1
+    },
+    {
+      "tag": "#Multiplanetary",
+      "score": 1
     }
   ],
   "keywords": [
+    "SpaceX",
     "Tesla",
     "Elon Musk",
-    "SpaceX",
-    "Starlink",
-    "Starship",
-    "xAI",
-    "Grok",
-    "Full Self-Driving",
-    "Satellite Internet",
     "Neuralink",
-    "Robotics",
-    "Space Exploration",
-    "Falcon 9",
-    "Tower Catch",
-    "Robotaxi",
+    "Satellite Internet",
     "Orbital Data Centers",
-    "Future Tech",
+    "Starlink",
+    "Space Exploration",
+    "Brain Computer Interface",
+    "Full Self-Driving",
+    "xAI",
+    "Starship",
     "Optimus",
+    "Robotics",
+    "Cybercab",
     "SPCX",
     "Nasdaq",
     "Humanoid Robot",
+    "Grok",
+    "Falcon 9",
     "Dragon",
+    "Boring Company",
     "IPO",
-    "TSLA",
-    "Artificial Intelligence"
+    "Tower Catch",
+    "Musk Systems"
   ]
 }
