@@ -1,159 +1,140 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "space": 26,
-    "neuro": 12,
-    "connectivity": 20,
-    "mobility": 38,
-    "ai": 30,
-    "business": 20,
-    "robotics": 4
+    "space": 41,
+    "connectivity": 22,
+    "ai": 24,
+    "robotics": 4,
+    "mobility": 26,
+    "business": 14,
+    "neuro": 19
   },
   "topStory": {
-    "id": "h2k9ii",
-    "title": "Neuralink Says FDA Approved Pivotal Brain-Implant Trial",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSmt2cFpnUWZseE1vcjFTS2Z4VkxZTWdWSElPeVZLYlNfUnNkX0NldEpGX01KcVN6S3Y2UHFQS3dIbnZzRDZhQTZPTS1sV3ZIcHNFeER4WmNjYjVpaTd1eDRBMjVUX0Nsb194N0E5Q0k4QnRLYno0MEZWeGxsQkpKNUthSTQ3V0FiV1ZBODY3OWVldFJPQnNQYklzQkpWdw?oc=5",
-    "source": "The Defiant",
+    "id": "14rxyj7",
+    "title": "Mexico seeking talks with US on SpaceX airspace use",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU3MtcGEzRThwZDdGaEZ4RktzRml6Y0hfNllQby1FQi02alpfdmdXM2ROZk1idmpVcHFoYXJaRG53UnEwWjhDXzRtYzVPWjB4UVJ5Tno1OXV6OGFJZEtyTHc2RHNYVE9Uc0hseU5IaEdHNXdOSlI0MkNWYTFUUXNjNVhHdXpQanEzaWhvQ3NaUk11Nlc5Z1lUR3VFak5WX2JPZWdPOUVDaFEtLWRzMVZ5cHJHLTg?oc=5",
+    "source": "Reuters",
     "sources": [
-      "The Defiant",
-      "Interesting Engineering",
-      "Securities.io",
-      "Chosunbiz",
-      "MLQ.ai",
-      "TeslaNorth.com",
-      "Mathrubhumi English",
-      "Olorisupergal"
+      "Reuters",
+      "Mexico Business News",
+      "The Lufkin Daily News",
+      "Українські Національні Новини (УНН)"
     ],
-    "date": "2026-11-25T21:25:17.000Z",
-    "firstSeen": "2026-11-26T04:27:42.164Z",
+    "date": "2026-11-26T16:11:54.000Z",
+    "firstSeen": "2026-11-27T04:35:15.942Z",
     "image": "",
     "snippet": "",
-    "category": "neuro",
-    "score": 22.22
+    "category": "space",
+    "score": 18.09
   },
   "topList": [
     {
-      "id": "8ln73g",
-      "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUmh3LVh3RnFNUW5hVjJWcXlzOERNTTloeEdIbnRiRGVSV1B4UzJaWVhudzNvS0Q4YlRvN1pUTThRVjhka1JpYUFBWC1RWW1hYnFxT3RxM0VoMERWRmlJdmd4LXJJR0F5S083cThjNDFWay1zRWVPcmRUeXR5WWVuQ01ObUVGRVZBOGFzTDdobUxMUQ?oc=5",
-      "source": "AP News",
-      "sources": [
-        "Daily Sun",
-        "AP News",
-        "Sky News",
-        "Yahoo News Singapore",
-        "Yahoo News Canada"
-      ],
-      "date": "2026-11-25T17:55:50.000Z",
-      "firstSeen": "2026-11-26T04:27:42.164Z",
-      "image": "",
-      "snippet": "",
-      "category": "ai",
-      "score": 20.46
-    },
-    {
-      "id": "23tkb3",
-      "title": "US authorizes SpaceX to deploy 1 million satellites for data centers in space",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVk5uRnprd285MEw5V2prcHR6bXljVGN4cUZuOHA4eHJUZkFzOVFnS1QtYnZaal8yYUYxa0t1cW84WjVzQWpub0czSGxUblh3STB6WnZxcThWZUxNRDk2emliZ0tfTmk5U3YxY3FZRXdEYWNyb2VMTmlkZE5RNWZHOS12OWdjSkpNdzhGU0Z4NWo3VmpSZHNXWGNJZUFpZjl2T2xuUkRKRXBpOTFqVFdFLXFvV0xHd1czWDFKbFU3OWFGU21B?oc=5",
-      "source": "Reuters",
-      "sources": [
-        "France 24",
-        "Broadband Breakfast",
-        "voz.us",
-        "Reuters"
-      ],
-      "date": "2026-11-25T20:44:01.000Z",
-      "firstSeen": "2026-11-26T04:27:42.164Z",
-      "image": "",
-      "snippet": "",
-      "category": "ai",
-      "score": 19.07
-    },
-    {
-      "id": "16sbmv1",
-      "title": "Elon Musk And SpaceX Pledge Matching Trump Account Contributions",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaE13TkM3VTZGcl9mNFZYVkZndlBlS0k5QTQyN0dkQkZMMlI4aVNwLS1BLUlTRjdkS0o1c2N2N29EV0pDdFF2bHJzUkVLMlNwbWVsbzAzeEdWcWR0TEFzQzlwUVUzekRLTDFSYzVXQ1p2alMweThFT3pPRkc0V0E3NThoUDJZSHJIWHI1cHhoZUZuekhsRWRRVWY4c2I1Zm5wMmxLVUdQUjQwNFB0aVRoUWRlN24?oc=5",
-      "source": "Forbes",
-      "sources": [
-        "Forbes",
-        "Business Insider",
-        "Business Insider Africa",
-        "Yahoo! Finance Canada"
-      ],
-      "date": "2026-11-25T20:41:43.000Z",
-      "firstSeen": "2026-11-26T04:27:42.164Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 18.56
-    },
-    {
-      "id": "1mmbmg7",
-      "title": "Neuralink Receives FDA Approval to Launch LINK Pivotal Study",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWHRPbnJXWmYxWUZSNlBDTElZQlhhLWcxZUVHaVdkU3ZjSGpQVjBxdWNvWUZKV1FRRUh1MkVWLTNYRklyeTRqTjJRLXVnREZiZmlWWTQwMUs4UmUtczJpNV8ycFZ6TFVNOVhuQVNPbE9oRTJLazlxZlBvTTFRRWhRaUZIQ3AyOXVhUFI0MDBuZ3M4c052NFE?oc=5",
-      "source": "Neuralink",
-      "sources": [
-        "Neuralink",
-        "MobiHealthNews",
-        "Drive Tesla Canada",
-        "TradingView"
-      ],
-      "date": "2026-11-25T20:59:00.000Z",
-      "firstSeen": "2026-11-26T04:27:42.164Z",
-      "image": "",
-      "snippet": "",
-      "category": "neuro",
-      "score": 18.12
-    },
-    {
-      "id": "1ankap4",
-      "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JR3BiQWdENkItZjIyRUU3TWVYVFB3N0dYcDlNNmU3NG1lZEVXUFZ3dl9fVUpKcWwyemZkYTYtQ25xbVNnMGZ5SUNiWjJyckxXNzVJSEg5ZWkyUnM2UEZTQVJLTllDSlFCdU9lLWU3RjRmdlZGZ0dv0gF8QVVfeXFMT1p4Yzk2RWM5RVp6b2J2VEZObUpGbktpcXBFLTdHN3BadmxTeFZNdmJWV2Y4YjdVZnVTMnBEU0R3WF9fZXhWY0dNNUpQbjVwTjhYazFwMDhJRXd3VkNxLWRIVHpJZzVvRUtWbUhzQ181cUYtU29xdm9aRVBYOQ?oc=5",
+      "id": "10eo4s9",
+      "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iX2dPZU9nMG94cXpkbmdGX1U0UERabDlfcGxmd2t1TlZZM0JTNmdpNnhJLTFFYU5UQkJ4Xy1wakExQ1owb3I4VkVkTFRlUHhJZllZaDQxTzMxY0hwN2tzczc1cFdpNjdGQjI0cVRWMlh1c2vSAXhBVV95cUxPdU9oSTZCWkhiWEZEVUowaXJkSDlvalBJQ3Q4dGlydDFCYWhxYmpnejFJTXhkN1g4SzNEYjVoeVloWTQwODdNVnhGZW9yMUJmLWh1cDRCTThYd2NIcmItSTdLV3JrQmR2Z1lfZ2MtaVdSMjVHc0pubEU?oc=5",
       "source": "CNBC",
       "sources": [
-        "Yahoo Finance",
         "CNBC",
-        "CNBC Technology"
+        "MSN"
       ],
-      "date": "2026-11-25T20:07:57.000Z",
-      "firstSeen": "2026-11-26T04:27:42.164Z",
+      "date": "2026-11-27T04:20:00.000Z",
+      "firstSeen": "2026-11-27T04:35:15.942Z",
       "image": "",
-      "snippet": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
+      "snippet": "",
       "category": "space",
       "score": 17.93
     },
     {
-      "id": "1chvp5a",
-      "title": "Musk says every child in the US will get two SpaceX shares",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNklmekFZWmFURnFwVlBHa2FlTGZwYkxaSkNSRUxMV2lsanFDc2hkdGF1RGhHWlJoUTBicHFXY1B3dWxHa0xmdU5mYzFBbGpYN3Z5N2xTS2U1bVBJeVZQVHRucldkRVhsVlVfNldnTWpRclIzSjJQa0tMMnBFVGhDTS1HYzdwVlctaXowdDJtdVJaNkxLcXo2Tk9Odi1XZnI0c1JScHZycXhWRUNUZmQ4?oc=5",
-      "source": "Reuters",
+      "id": "7f8bzx",
+      "title": "Elon Musk says he’ll gift every US kid 1 of his own SpaceX shares, plus 1 from SpaceX — but there’s a catch to claim",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONWFDMHhHdVVUN0NYZ2hRVWMtMGRVNjQzcTh4WmIyaEJpVDAwZTc1bUhuOGpvR25yOGotQ21RNGtUSC00MVdUMjhERDI4bTNfV2xCbW9lX1B4VF9FYW94OERZVHA1N3dkdjRCbTJtOTY4NUFXdVpUZ1QtTkc0ZUw3QnliZ0owdmo5cXFwWFNzTDY?oc=5",
+      "source": "Yahoo Finance",
       "sources": [
-        "Reuters",
-        "bloomingbit"
+        "Yahoo Finance",
+        "MoneyWise.com"
       ],
-      "date": "2026-11-26T04:02:46.000Z",
-      "firstSeen": "2026-11-26T04:27:42.164Z",
+      "date": "2026-11-26T16:24:15.000Z",
+      "firstSeen": "2026-11-27T04:35:15.942Z",
       "image": "",
       "snippet": "",
       "category": "space",
-      "score": 17.89
+      "score": 15.63
+    },
+    {
+      "id": "1tew082",
+      "title": "Amazon tried to kill Musk’s plan for 1 million AI satellites. The FCC chair scolded it and gave SpaceX the green light",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPakI3bFlDXzlCem8tNS1tbFc0el9aalRJRGROWEVfTi1qLUEwYVNIdF9xNzFZLUd4a2xkMGkxS0hudHdnVWtEREZsZURoZjhVTE5oMjBMamhUX0dOdGJMcHE3RS1sMXZLOVlkWHc3V0RlS1Z4TE0yQUtHVzhVd1oxUHllSExUUzFhZGVGU056VDJmRFlLQ0E?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "MoneyWise.com",
+        "Yahoo Finance"
+      ],
+      "date": "2026-11-26T23:05:04.000Z",
+      "firstSeen": "2026-11-27T04:35:15.942Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 15.08
+    },
+    {
+      "id": "ukdfzq",
+      "title": "Starlink Black Friday: 50% Off Residential, C$37.50/mo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdWZrMW1hWjhHMW1lU2VJOWNHSUt5YjZ0bHBESUx6WGJzejRHMUVYbDVkZV9lRG9ndmFFOXpJZzRucVNjdk8xM2huVXYwLVoyMDJ2bFNfeDN6Mjl5bnFCemZQZy1BZ1l6MkY2VXBhejgzU1hMbDJXaWJJQktGVXE1NDVOOW9JY2s1TjBXaVVYZl81VnpCUExXSHRMVDF1UHB1?oc=5",
+      "source": "shattered.io",
+      "sources": [
+        "shattered.io",
+        "Drive Tesla Canada",
+        "iPhone in Canada"
+      ],
+      "date": "2026-11-26T20:58:06.000Z",
+      "firstSeen": "2026-11-27T04:35:15.942Z",
+      "image": "",
+      "snippet": "",
+      "category": "connectivity",
+      "score": 14.09
+    },
+    {
+      "id": "1tdsifz",
+      "title": "\"Can a Computer See Inside My Head, Too?\" ... Elon Musk's 'Brain Implant Chip' Clears U.S. FDA Hurdle",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tSzI3Vjdqb0t2NGVVOUdENXZncHh5SEx2YmVVcHdDYUlETXd6Z0dJY1ZBa0hsQk5FdGJqcHRPb3VQZ3pBcVFPNEFqZ0tIdFZCYjdYUE1tRV9DekJXZzhzSmVWZTM?oc=5",
+      "source": "아시아경제",
+      "sources": [
+        "아시아경제"
+      ],
+      "date": "2026-11-27T00:52:17.000Z",
+      "firstSeen": "2026-11-27T04:35:15.942Z",
+      "image": "",
+      "snippet": "",
+      "category": "neuro",
+      "score": 14.02
+    },
+    {
+      "id": "wmk29e",
+      "title": "Million-Satellite Computing Power Constellation Approved: Elon Musk's Space Data Center Vision Moves One Step Closer to Reality",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yNjJWTXY2VEdKVWlwOUhzSEhkQWdmSTY1Zm8yQTFyWkpSNG11cDg2TlkyVExFdjFLMnZJMGltLVhwT1FacHlqRFhzdl9nVHJ1Q3RZ?oc=5",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "date": "2026-11-27T00:50:54.000Z",
+      "firstSeen": "2026-11-27T04:35:15.942Z",
+      "image": "",
+      "snippet": "",
+      "category": "ai",
+      "score": 14.01
     }
   ],
   "trending": [
     "SpaceX",
     "Tesla",
     "Starlink",
-    "FSD",
-    "OrbitalDataCenters",
+    "Neuralink",
+    "BrainComputerInterface",
     "SatelliteInternet"
   ],
   "spark": [
-    {
-      "date": "2026-11-13",
-      "total": 103
-    },
     {
       "date": "2026-11-14",
       "total": 135
@@ -204,9 +185,13 @@
     },
     {
       "date": "2026-11-26",
-      "total": 25
+      "total": 129
+    },
+    {
+      "date": "2026-11-27",
+      "total": 21
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: Tesla. Top story: Neuralink Says FDA Approved Pivotal Brain-Implant Trial.",
+  "summary": "150 stories (last 24h). Most active frontier: Space. Top story: Mexico seeking talks with US on SpaceX airspace use.",
   "editor": null
 }
