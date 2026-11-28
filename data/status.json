@@ -1,17 +1,15 @@
 {
   "engine": "v2",
-  "lastRun": "2026-11-27T04:35:15.942Z",
+  "lastRun": "2026-11-28T04:17:34.290Z",
   "mode": "live",
   "ok": true,
   "editionKept": false,
-  "sourcesOk": 16,
+  "sourcesOk": 17,
   "sourcesTotal": 17,
-  "failed": [
-    "NASASpaceflight"
-  ],
+  "failed": [],
   "newItems": 150,
   "totalItems": 150,
-  "nextRun": "2026-11-27T22:47:00.000Z",
+  "nextRun": "2026-11-28T22:47:00.000Z",
   "scheduleLabel": "DAILY 07:47 KST",
   "staleAfterHours": 26
 }

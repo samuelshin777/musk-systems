@@ -1,80 +1,84 @@
 {
-  "updated": "2026-11-27T04:35:15.942Z",
+  "updated": "2026-11-28T04:17:34.290Z",
   "hashtags": [
     {
-      "tag": "#ElonMusk",
-      "score": 59
+      "tag": "#Tesla",
+      "score": 56
     },
     {
       "tag": "#SpaceX",
-      "score": 59
+      "score": 33
     },
     {
-      "tag": "#Tesla",
-      "score": 38
+      "tag": "#ElonMusk",
+      "score": 27
     },
     {
       "tag": "#Starlink",
-      "score": 29
+      "score": 25
     },
     {
-      "tag": "#Robotics",
-      "score": 16
+      "tag": "#Grok",
+      "score": 21
     },
     {
-      "tag": "#SatelliteInternet",
+      "tag": "#FSD",
       "score": 15
     },
     {
-      "tag": "#Neuralink",
+      "tag": "#SatelliteInternet",
       "score": 13
+    },
+    {
+      "tag": "#xAI",
+      "score": 12
+    },
+    {
+      "tag": "#Robotics",
+      "score": 12
+    },
+    {
+      "tag": "#Starship",
+      "score": 10
     },
     {
       "tag": "#Optimus",
       "score": 10
     },
     {
-      "tag": "#xAI",
-      "score": 10
+      "tag": "#Neuralink",
+      "score": 9
+    },
+    {
+      "tag": "#SpaceXIPO",
+      "score": 9
     },
     {
       "tag": "#Robotaxi",
-      "score": 10
+      "score": 8
     },
     {
       "tag": "#Cybercab",
-      "score": 9
+      "score": 7
     },
     {
       "tag": "#SpaceExploration",
-      "score": 9
-    },
-    {
-      "tag": "#Starship",
-      "score": 8
-    },
-    {
-      "tag": "#BrainComputerInterface",
-      "score": 8
-    },
-    {
-      "tag": "#OrbitalDataCenters",
-      "score": 8
-    },
-    {
-      "tag": "#Grok",
       "score": 7
     },
     {
-      "tag": "#FSD",
-      "score": 7
+      "tag": "#Falcon9",
+      "score": 5
     },
     {
-      "tag": "#SPCX",
-      "score": 4
+      "tag": "#TowerCatch",
+      "score": 5
     },
     {
       "tag": "#Nasdaq",
+      "score": 4
+    },
+    {
+      "tag": "#OrbitalDataCenters",
       "score": 4
     },
     {
@@ -82,7 +86,11 @@
       "score": 3
     },
     {
-      "tag": "#SpaceXIPO",
+      "tag": "#Starbase",
+      "score": 3
+    },
+    {
+      "tag": "#BoringCompany",
       "score": 3
     },
     {
@@ -90,7 +98,7 @@
       "score": 3
     },
     {
-      "tag": "#TowerCatch",
+      "tag": "#FutureTech",
       "score": 3
     },
     {
@@ -106,7 +114,19 @@
       "score": 3
     },
     {
+      "tag": "#FAA",
+      "score": 2
+    },
+    {
       "tag": "#PayPal",
+      "score": 2
+    },
+    {
+      "tag": "#SPCX",
+      "score": 2
+    },
+    {
+      "tag": "#Cybertruck",
       "score": 2
     },
     {
@@ -118,15 +138,11 @@
       "score": 2
     },
     {
-      "tag": "#AutonomousDriving",
+      "tag": "#BrainComputerInterface",
       "score": 2
     },
     {
       "tag": "#Blindsight",
-      "score": 1
-    },
-    {
-      "tag": "#Falcon9",
       "score": 1
     },
     {
@@ -138,55 +154,39 @@
       "score": 1
     },
     {
-      "tag": "#Starbase",
-      "score": 1
-    },
-    {
-      "tag": "#BoringCompany",
-      "score": 1
-    },
-    {
       "tag": "#Zip2",
       "score": 1
     },
     {
       "tag": "#Megapack",
       "score": 1
-    },
-    {
-      "tag": "#ArtificialIntelligence",
-      "score": 1
-    },
-    {
-      "tag": "#ElectricVehicles",
-      "score": 1
     }
   ],
   "keywords": [
-    "Elon Musk",
-    "SpaceX",
     "Tesla",
+    "SpaceX",
+    "Elon Musk",
     "Starlink",
-    "Robotics",
+    "Grok",
+    "Full Self-Driving",
     "Satellite Internet",
-    "Neuralink",
-    "Optimus",
     "xAI",
+    "Robotics",
+    "Starship",
+    "Optimus",
+    "Neuralink",
+    "IPO",
     "Robotaxi",
     "Cybercab",
     "Space Exploration",
-    "Starship",
-    "Brain Computer Interface",
-    "Orbital Data Centers",
-    "Grok",
-    "Full Self-Driving",
-    "SPCX",
-    "Nasdaq",
-    "Dragon",
-    "IPO",
-    "TSLA",
+    "Falcon 9",
     "Tower Catch",
-    "Musk Systems",
-    "Future Technology"
+    "Nasdaq",
+    "Orbital Data Centers",
+    "Dragon",
+    "Starbase",
+    "Boring Company",
+    "TSLA",
+    "Future Tech"
   ]
 }

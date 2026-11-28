@@ -1,144 +1,135 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "windowLabel": "LAST 24H",
   "total": 150,
   "counts": {
-    "space": 41,
-    "connectivity": 22,
+    "mobility": 35,
+    "space": 38,
+    "connectivity": 24,
     "ai": 24,
-    "robotics": 4,
-    "mobility": 26,
-    "business": 14,
-    "neuro": 19
+    "business": 8,
+    "robotics": 18,
+    "neuro": 3
   },
   "topStory": {
-    "id": "14rxyj7",
-    "title": "Mexico seeking talks with US on SpaceX airspace use",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU3MtcGEzRThwZDdGaEZ4RktzRml6Y0hfNllQby1FQi02alpfdmdXM2ROZk1idmpVcHFoYXJaRG53UnEwWjhDXzRtYzVPWjB4UVJ5Tno1OXV6OGFJZEtyTHc2RHNYVE9Uc0hseU5IaEdHNXdOSlI0MkNWYTFUUXNjNVhHdXpQanEzaWhvQ3NaUk11Nlc5Z1lUR3VFak5WX2JPZWdPOUVDaFEtLWRzMVZ5cHJHLTg?oc=5",
-    "source": "Reuters",
+    "id": "67x3g5",
+    "title": "Elon Musk’s SpaceX orbital data centers approved by FCC",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRmI1dS1ONHZ4bzlEVHpLSHdLYWpXdHRDamVHMGNkOG94NFl1VjZueTJyWXd4d1Z4bjIxRTZHbTRKYW1VN2lDVGJfZWN1U0g3TUtjdm0wcTAyVDJVUzExOXF1c3RybWtqZ0R3QmpWN2Npa2tMX2tKZlhCRjV4MHdWRXBISmt0TGl0X082UzdhMNIBlAFBVV95cUxOMm1vUThjX2N6Y1ExbHM5ZDk5QWpsNEtIU1kwakVUTDN2T0pBUnRfcUhCZlNScTZ5MjE4MWpHdmd3QXZuQlBFQ1JmZ2s4d0JUamRoQ3dQNFNwYWRfWDdtbml2Vmw2R2RESXR5T0UxdDdmX2UyVk5yMXctVVd0a2QwMWNuaFRxZzBsX2w5bjRZdUwxVWhZ?oc=5",
+    "source": "NewsNation",
     "sources": [
-      "Reuters",
-      "Mexico Business News",
-      "The Lufkin Daily News",
-      "Українські Національні Новини (УНН)"
+      "NewsNation",
+      "Emerald Book",
+      "AOL.com"
     ],
-    "date": "2026-11-26T16:11:54.000Z",
-    "firstSeen": "2026-11-27T04:35:15.942Z",
+    "date": "2026-11-27T17:30:36.000Z",
+    "firstSeen": "2026-11-28T04:17:34.290Z",
     "image": "",
     "snippet": "",
-    "category": "space",
-    "score": 18.09
+    "category": "ai",
+    "score": 16.41
   },
   "topList": [
     {
-      "id": "10eo4s9",
-      "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iX2dPZU9nMG94cXpkbmdGX1U0UERabDlfcGxmd2t1TlZZM0JTNmdpNnhJLTFFYU5UQkJ4Xy1wakExQ1owb3I4VkVkTFRlUHhJZllZaDQxTzMxY0hwN2tzczc1cFdpNjdGQjI0cVRWMlh1c2vSAXhBVV95cUxPdU9oSTZCWkhiWEZEVUowaXJkSDlvalBJQ3Q4dGlydDFCYWhxYmpnejFJTXhkN1g4SzNEYjVoeVloWTQwODdNVnhGZW9yMUJmLWh1cDRCTThYd2NIcmItSTdLV3JrQmR2Z1lfZ2MtaVdSMjVHc0pubEU?oc=5",
-      "source": "CNBC",
+      "id": "1m1l7il",
+      "title": "SpaceX Stock Rebounds as Musk Starlink Talk Fuels Hopes of Tesla Merger",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOUxsUlFqNGZUWlRrN0FIX2tPcXRkWWNDckFUcEpWTFg0TjFLZmNCbXR3dktoU0wxTFNONWxoRG4tUi1EYlk5Tnk0aDRSTlJveTEyU0dBamVtX0lfNWlfZzdMV0tWMl90NldKUGlZMGtKU1NqZi1nekVkOVNuNVJxcXFqMFBack5r?oc=5",
+      "source": "Barron's",
       "sources": [
-        "CNBC",
-        "MSN"
+        "Barron's"
       ],
-      "date": "2026-11-27T04:20:00.000Z",
-      "firstSeen": "2026-11-27T04:35:15.942Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 17.93
-    },
-    {
-      "id": "7f8bzx",
-      "title": "Elon Musk says he’ll gift every US kid 1 of his own SpaceX shares, plus 1 from SpaceX — but there’s a catch to claim",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONWFDMHhHdVVUN0NYZ2hRVWMtMGRVNjQzcTh4WmIyaEJpVDAwZTc1bUhuOGpvR25yOGotQ21RNGtUSC00MVdUMjhERDI4bTNfV2xCbW9lX1B4VF9FYW94OERZVHA1N3dkdjRCbTJtOTY4NUFXdVpUZ1QtTkc0ZUw3QnliZ0owdmo5cXFwWFNzTDY?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "Yahoo Finance",
-        "MoneyWise.com"
-      ],
-      "date": "2026-11-26T16:24:15.000Z",
-      "firstSeen": "2026-11-27T04:35:15.942Z",
-      "image": "",
-      "snippet": "",
-      "category": "space",
-      "score": 15.63
-    },
-    {
-      "id": "1tew082",
-      "title": "Amazon tried to kill Musk’s plan for 1 million AI satellites. The FCC chair scolded it and gave SpaceX the green light",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPakI3bFlDXzlCem8tNS1tbFc0el9aalRJRGROWEVfTi1qLUEwYVNIdF9xNzFZLUd4a2xkMGkxS0hudHdnVWtEREZsZURoZjhVTE5oMjBMamhUX0dOdGJMcHE3RS1sMXZLOVlkWHc3V0RlS1Z4TE0yQUtHVzhVd1oxUHllSExUUzFhZGVGU056VDJmRFlLQ0E?oc=5",
-      "source": "Yahoo Finance",
-      "sources": [
-        "MoneyWise.com",
-        "Yahoo Finance"
-      ],
-      "date": "2026-11-26T23:05:04.000Z",
-      "firstSeen": "2026-11-27T04:35:15.942Z",
-      "image": "",
-      "snippet": "",
-      "category": "ai",
-      "score": 15.08
-    },
-    {
-      "id": "ukdfzq",
-      "title": "Starlink Black Friday: 50% Off Residential, C$37.50/mo",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdWZrMW1hWjhHMW1lU2VJOWNHSUt5YjZ0bHBESUx6WGJzejRHMUVYbDVkZV9lRG9ndmFFOXpJZzRucVNjdk8xM2huVXYwLVoyMDJ2bFNfeDN6Mjl5bnFCemZQZy1BZ1l6MkY2VXBhejgzU1hMbDJXaWJJQktGVXE1NDVOOW9JY2s1TjBXaVVYZl81VnpCUExXSHRMVDF1UHB1?oc=5",
-      "source": "shattered.io",
-      "sources": [
-        "shattered.io",
-        "Drive Tesla Canada",
-        "iPhone in Canada"
-      ],
-      "date": "2026-11-26T20:58:06.000Z",
-      "firstSeen": "2026-11-27T04:35:15.942Z",
+      "date": "2026-11-28T03:13:32.000Z",
+      "firstSeen": "2026-11-28T04:17:34.290Z",
       "image": "",
       "snippet": "",
       "category": "connectivity",
-      "score": 14.09
+      "score": 16.21
     },
     {
-      "id": "1tdsifz",
-      "title": "\"Can a Computer See Inside My Head, Too?\" ... Elon Musk's 'Brain Implant Chip' Clears U.S. FDA Hurdle",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tSzI3Vjdqb0t2NGVVOUdENXZncHh5SEx2YmVVcHdDYUlETXd6Z0dJY1ZBa0hsQk5FdGJqcHRPb3VQZ3pBcVFPNEFqZ0tIdFZCYjdYUE1tRV9DekJXZzhzSmVWZTM?oc=5",
-      "source": "아시아경제",
+      "id": "10h5945",
+      "title": "SpaceX Stock Is Trading Below Its $135 IPO Price. History Says What Other Giant IPOs Did From There.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUUktQ0tmczZDRlVlVVBPWW10ZnJFbWhpdDBiUzJGbl91T3FGakt4U1VHVmd3UFRtZ01yX0tuc0pNQzAzRkJpRW5fUXpDREdLb3ZRU3l3YWVxSWNfcFc0N3lBSWlHcDh6MVJlYk9qd2Z1WVR2MnpNSzA1Y28xSXBoSk95bVUtTDVNTTdmQmZJbVpsblpocFBDYUhCaU1VWGpERkNUdzRpTnI4ZjNzMVVnQm01WFVDakpncHFiUDBoZlRxc1JwdlV1X2Y4eWlfTzdhck9pQWRBajh1T0E?oc=5",
+      "source": "The Motley Fool",
       "sources": [
-        "아시아경제"
+        "The Motley Fool"
       ],
-      "date": "2026-11-27T00:52:17.000Z",
-      "firstSeen": "2026-11-27T04:35:15.942Z",
+      "date": "2026-11-28T04:07:00.000Z",
+      "firstSeen": "2026-11-28T04:17:34.290Z",
       "image": "",
       "snippet": "",
-      "category": "neuro",
-      "score": 14.02
+      "category": "space",
+      "score": 13.95
     },
     {
-      "id": "wmk29e",
-      "title": "Million-Satellite Computing Power Constellation Approved: Elon Musk's Space Data Center Vision Moves One Step Closer to Reality",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yNjJWTXY2VEdKVWlwOUhzSEhkQWdmSTY1Zm8yQTFyWkpSNG11cDg2TlkyVExFdjFLMnZJMGltLVhwT1FacHlqRFhzdl9nVHJ1Q3RZ?oc=5",
-      "source": "36氪",
+      "id": "y8i5ey",
+      "title": "Elon Musk gets the greenlight from the US to launch one million satellites",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZkdVUlgzRGpiRWxEUHdIeTF5QzFuUjhuck5hTURfSEJCYUlTRHA3VVhfdF9zMkhid0oyaEYxcWdzdGgwQkNEWGhJZ0NzenVZNVVZTWs0MWRqQmFFSzkyMDFjUlhEQ1lKbTlfY0h4aGVrVV9lSzhwbWVfMmJjT0kxTGFZSkREdEM1ZWFlT2pudnFLWE9EQ3A3bHdmWDhxYXdVaWNfNVVwU2Zsb0k5a3I2MUhDdVJlV3hqNVZVdlc4ZHRrR3k20gHKAUFVX3lxTE53dkZKWkU4TGo2YTY1VW1PbE1xQkJTZGVaVzU1THQwQ2Y5TEtmMDFPOGFKY2xkTTBzQ2tZbDlQeFhIenFkYXpReGQ0anI1cld5bkZuZ19xVFpkMXd6T1hYSVJ5ckhYMFRNS2xGZExnUTJhSWpTUWljbVVxWHU3ZXd2NHJkSGEwRjFfZ2U0NGNlQmdudGJkazNJdjMwOUtvOVBzRWs4VDZBV2wzcm1zNkdKU3pCdmxmUVNyQXhsTE1EaFl6eDJJYlFvTWc?oc=5",
+      "source": "Al Jazeera",
       "sources": [
-        "36氪"
+        "Al Jazeera"
       ],
-      "date": "2026-11-27T00:50:54.000Z",
-      "firstSeen": "2026-11-27T04:35:15.942Z",
+      "date": "2026-11-27T17:11:54.000Z",
+      "firstSeen": "2026-11-28T04:17:34.290Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 13.85
+    },
+    {
+      "id": "96sbnw",
+      "title": "Elon Musk Doubles Down on Giving Back With Plan to Distribute SpaceX Shares to Children",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDdMbXFTdVJ6cDZVOUEwcTczMklMeEhETkJFV3gwX0Y4MGxRU3ZHR04ta0pIQWRuc1RWdnYtS2VoVDB2NVBoOUdoUjJ4OG1LTmtKUGlLWFhkRjlHdTZrbmVMdTBiemEwVGZ4MjUtVTBRU1Q2M3JoNFBPaHhNbU1EZVh6OWcxUm9TMnAtMVNaSXE4ZDdMUm8tWlhB?oc=5",
+      "source": "Yahoo Finance",
+      "sources": [
+        "Yahoo Finance",
+        "Gadget Review"
+      ],
+      "date": "2026-11-27T16:22:31.000Z",
+      "firstSeen": "2026-11-28T04:17:34.290Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 13.68
+    },
+    {
+      "id": "1axd36x",
+      "title": "Data centers in space? FCC approves Elon Musk’s bold AI satellite plan | NewsNation Live",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPalh6VzVCaFJIcW9YeUJvem9rT2pzcVhZc0dmdmVyTjRTSlhSOU05T3ZiRHVHWWg5X0xsSWktY21USjlKaUppUW1UOUQ3aXdsSktmbnJXWDg2cUxiMC02Zl9kbFJBTVYzMnV6V1VTZ25XWU1fNzhoQXFFQVNLUGhVY0U5VkFkemNCb1FhdlJBNXMzVG9LY3BSRlRqSlFGVEtrR2hiSlhCdWhVRXJjaS1jVzZFTTRPSkdRbk5XblJvWndLRWVwRlFiV0czRW45VTVoV19vRF84b9IB3AFBVV95cUxPTjRKeEF1d0NXdXNvVENPRThfMVRXWW1RazgyQl9UYlNyV0QxOXNPMkk4MzVIV0VlWTBwdU1rXzczZ1BKRGlvM1duUU5FalVWbWFIQXhobjc2cXZMblhaMEJtVWtZQ2NGT2RRaTlFeGJ3akNQb3pKQmkxZ01CczZCWHRsWGV0QkJEdUtFZ0dNTW5NcFk3aUtVeEQ1bzdwX2M5VG9lSFlnMHZ3bjJhdWcyR19zd21XN1lSbjZtZU41UGlJNkdQcXBnUEVVWDl2U3pxVFpyYTZpdGRodHlJ?oc=5",
+      "source": "NewsNation",
+      "sources": [
+        "NewsNation"
+      ],
+      "date": "2026-11-27T22:44:46.000Z",
+      "firstSeen": "2026-11-28T04:17:34.290Z",
       "image": "",
       "snippet": "",
       "category": "ai",
-      "score": 14.01
+      "score": 13.57
+    },
+    {
+      "id": "1f9qgj9",
+      "title": "Mexico Seeks US Talks on SpaceX Airspace Use as FAA Studies 456 Starbase Launches Per Year",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUXdBYjVBSEhOZ3Z4MXFLOUg2ZGs2ODhZUzNXTWNOLWNISEFZM2cwMjZheVJ0c1p1RlpwR2JfeENIMkFxaXlZRzZkamtfTWVMcjF1RXlZa0tDNGxnWWJ2bG9HUUpzcnh6M1VjM2swZlNydHpidG9pQkhMbnJwUk5hZ1dIZVBtTkJDaDlRSEs5RUpXeHVWNXRBS2lneWxEeXFCQmx3a0RsRHJOWVlWNjNuTHZRV3VjV195WWMxb1ZFZHJfWHg4akVfM05yWnhrSVFhTHU1ekxB?oc=5",
+      "source": "Tech Times",
+      "sources": [
+        "Tech Times"
+      ],
+      "date": "2026-11-28T02:30:34.000Z",
+      "firstSeen": "2026-11-28T04:17:34.290Z",
+      "image": "",
+      "snippet": "",
+      "category": "space",
+      "score": 13.52
     }
   ],
   "trending": [
-    "SpaceX",
     "Tesla",
+    "SpaceX",
     "Starlink",
-    "Neuralink",
-    "BrainComputerInterface",
+    "Optimus",
+    "FSD",
     "SatelliteInternet"
   ],
   "spark": [
-    {
-      "date": "2026-11-14",
-      "total": 135
-    },
     {
       "date": "2026-11-15",
       "total": 116
@@ -189,9 +180,13 @@
     },
     {
       "date": "2026-11-27",
-      "total": 21
+      "total": 139
+    },
+    {
+      "date": "2026-11-28",
+      "total": 11
     }
   ],
-  "summary": "150 stories (last 24h). Most active frontier: Space. Top story: Mexico seeking talks with US on SpaceX airspace use.",
+  "summary": "150 stories (last 24h). Most active frontier: Space. Top story: Elon Musk’s SpaceX orbital data centers approved by FCC.",
   "editor": null
 }
